@@ -5,6 +5,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-GPL--3.0-green.svg)](LICENSE)
 
+![CiteChain Banner](./public/banner.png)
+
 CiteChain is a comprehensive web application for automated citation searching, designed to support systematic literature reviews by identifying backward citations (references) and forward citations (citing papers) from seed articles. The application integrates multiple academic databases (OpenAlex and Semantic Scholar) to provide comprehensive citation coverage with advanced deduplication and enrichment capabilities.
 
 ## ✨ Features

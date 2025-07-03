@@ -50,14 +50,21 @@ export const metadata: Metadata = {
     url: "https://citechain.aliazlan.me",
     title,
     description,
-    images: [],
+    images: [
+      {
+        url: `https://citechain.aliazlan.me/banner.png`,
+        width: 1200,
+        height: 630,
+        alt: title,
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title,
     description,
     creator: "@AliAzlanReal",
-    images: [],
+    images: ["https://citechain.aliazlan.me/banner.png"],
   },
 };
 
