@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 const title = "CiteChain - Automated Citation Searching";
 const description =
-  "A supplementary citation search tool for systematic reviews to increase search sensitivity.";
+  "A comprehensive citation searching tool supporting backward and forward citation searching with multiple citation indices (OpenAlex, Semantic Scholar).";
 
 export const metadata: Metadata = {
   title,
