@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     description,
     images: [
       {
-        url: `https://citechain.aliazlan.me/banner.png`,
+        url: `https://citechain.aliazlan.me/og.png`,
         width: 1200,
         height: 630,
         alt: title,
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     title,
     description,
     creator: "@AliAzlanReal",
-    images: ["https://citechain.aliazlan.me/banner.png"],
+    images: ["https://citechain.aliazlan.me/og.png"],
   },
 };
 
