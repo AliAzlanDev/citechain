@@ -92,14 +92,26 @@ export default function RootLayout({
             <div className="relative -bottom-px col-span-full col-start-1 row-start-2 h-px bg-(--pattern-fg)"></div>
             <div className="relative -top-px col-span-full col-start-1 row-start-4 h-px bg-(--pattern-fg)"></div>
             <div className="col-span-1 md:col-start-3 row-start-5 text-sm max-w-4xl p-4">
-              Developed with ❤️ by{" "}
-              <a
-                href="https://aliazlan.me"
-                target="_blank"
-                className="text-primary underline underline-offset-4 hover:decoration-4"
-              >
-                Ali Azlan
-              </a>
+              <div className="text-muted-foreground w-full text-center text-xs leading-loose sm:text-sm">
+                Built by{" "}
+                <a
+                  href="https://aliazlan.me"
+                  target="_blank"
+                  className="font-medium underline underline-offset-4"
+                >
+                  Ali Azlan
+                </a>
+                . The source code is available on{" "}
+                <a
+                  href="https://github.com/AliAzlanDev/citechain"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="font-medium underline underline-offset-4"
+                >
+                  GitHub
+                </a>
+                .
+              </div>
             </div>
           </div>
           <Toaster richColors theme="light" />
