@@ -192,26 +192,37 @@ export async function searchSemanticScholarCitations(
   const forward: Citation[] = [];
   const abstractsMap = new Map<string, string>();
 
-  // Filter inputs that have S2 IDs
-  const s2Inputs = inputs.filter((input) => input.s2_id);
+  // Filter inputs that have any Semantic Scholar-compatible identifier
+  // S2 accepts: S2 IDs, DOIs (with DOI: prefix), and PMIDs (with PMID: prefix)
+  const validInputs = inputs.filter(
+    (input) => input.s2_id || input.doi || input.pmid
+  );
 
-  if (s2Inputs.length === 0) {
+  if (validInputs.length === 0) {
     return { backward, forward, abstractsMap };
   }
 
   try {
     // Process in batches
     const batches = chunkArray(
-      s2Inputs,
+      validInputs,
       CITATION_CONFIG.BATCH_SIZES.SEMANTIC_SCHOLAR
     );
 
     for (const batch of batches) {
-      const s2Ids = batch.map((input) => input.s2_id!);
+      // Build S2-compatible identifiers (S2 ID, DOI:xxx, or PMID:xxx)
+      const s2Identifiers = batch
+        .map((input) => {
+          if (input.s2_id) return input.s2_id;
+          if (input.doi) return `DOI:${input.doi}`;
+          if (input.pmid) return `PMID:${input.pmid}`;
+          return null;
+        })
+        .filter(Boolean) as string[];
 
       const papers: SemanticScholarPaper[] = await fetchFromSemanticScholar<
         SemanticScholarPaper[]
-      >(s2Ids, [...CITATION_CONFIG.SEMANTIC_SCHOLAR_FIELDS]);
+      >(s2Identifiers, [...CITATION_CONFIG.SEMANTIC_SCHOLAR_FIELDS]);
 
       for (const paper of papers) {
         if (direction === "backward" || direction === "both") {
