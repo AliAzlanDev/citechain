@@ -82,55 +82,97 @@ export async function searchCitations(
     };
   }
 
-  try {
-    console.log(
-      `Starting citation search for ${inputs.length} papers with provider: ${options.provider}, direction: ${options.direction}`
+  console.log(
+    `Starting citation search for ${inputs.length} papers with provider: ${options.provider}, direction: ${options.direction}`
+  );
+
+  // Step 1: Initialize processing context
+  const context = initializeCitationContext(inputs, options);
+
+  // Step 2: Process citations from different providers
+  const errors: Array<{ provider: string; error: Error }> = [];
+
+  // Process OpenAlex citations
+  if (options.provider === "openalex" || options.provider === "both") {
+    try {
+      await processOpenAlexCitations(context);
+    } catch (error) {
+      console.error("Error processing OpenAlex citations:", error);
+      const errorMessage =
+        error instanceof Error ? error.message : "Unknown error occurred";
+      errors.push({ provider: "OpenAlex", error: new Error(errorMessage) });
+
+      // If only OpenAlex was requested, throw immediately
+      if (options.provider === "openalex") {
+        throw new APIError({
+          code: "INTERNAL_SERVER_ERROR",
+          message: `OpenAlex: ${errorMessage}`,
+          cause: error,
+        });
+      }
+    }
+  }
+
+  // Process Semantic Scholar citations
+  if (options.provider === "semantic_scholar" || options.provider === "both") {
+    try {
+      await processSemanticScholarCitations(context);
+    } catch (error) {
+      console.error("Error processing Semantic Scholar citations:", error);
+      const errorMessage =
+        error instanceof Error ? error.message : "Unknown error occurred";
+      errors.push({
+        provider: "Semantic Scholar",
+        error: new Error(errorMessage),
+      });
+
+      // If only Semantic Scholar was requested, throw immediately
+      if (options.provider === "semantic_scholar") {
+        throw new APIError({
+          code: "INTERNAL_SERVER_ERROR",
+          message: `Semantic Scholar: ${errorMessage}`,
+          cause: error,
+        });
+      }
+    }
+  }
+
+  // Step 3: Enrich with abstracts if needed (for OpenAlex-only searches)
+  await enrichCitationsWithAbstracts(context);
+
+  // Step 4: Extract and return results
+  const results = extractCitationResults(context);
+
+  console.log(`Citation search completed:`, {
+    backward: results.statistics.totalBackward,
+    forward: results.statistics.totalForward,
+    combined: results.statistics.totalCombined,
+    deduplication: results.deduplication,
+  });
+
+  // If both providers were requested and both failed, throw error
+  if (options.provider === "both" && errors.length === 2) {
+    const errorMessages = errors.map(
+      (e) => `${e.provider}: ${e.error.message}`
     );
-
-    // Step 1: Initialize processing context
-    const context = initializeCitationContext(inputs, options);
-
-    // Step 2: Process citations from different providers
-    const processingPromises = [];
-
-    // Process OpenAlex citations
-    if (options.provider === "openalex" || options.provider === "both") {
-      processingPromises.push(processOpenAlexCitations(context));
-    }
-
-    // Process Semantic Scholar citations
-    if (
-      options.provider === "semantic_scholar" ||
-      options.provider === "both"
-    ) {
-      processingPromises.push(processSemanticScholarCitations(context));
-    }
-
-    // Wait for all processing to complete
-    await Promise.all(processingPromises);
-
-    // Step 3: Enrich with abstracts if needed (for OpenAlex-only searches)
-    await enrichCitationsWithAbstracts(context);
-
-    // Step 4: Extract and return results
-    const results = extractCitationResults(context);
-
-    console.log(`Citation search completed:`, {
-      backward: results.statistics.totalBackward,
-      forward: results.statistics.totalForward,
-      combined: results.statistics.totalCombined,
-      deduplication: results.deduplication,
-    });
-
-    return results;
-  } catch (error) {
-    console.error("Error searching citations:", error);
     throw new APIError({
       code: "INTERNAL_SERVER_ERROR",
-      message: "Error searching citations",
-      cause: error,
+      message: `All providers failed. ${errorMessages.join("; ")}`,
+      cause: errors,
     });
   }
+
+  // Return results with partial errors if any
+  return {
+    ...results,
+    errors:
+      errors.length > 0
+        ? errors.map((e) => ({
+            provider: e.provider,
+            message: e.error.message,
+          }))
+        : undefined,
+  };
 }
 
 /**

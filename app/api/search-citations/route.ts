@@ -67,6 +67,11 @@ export async function POST(request: NextRequest) {
       `Citation search completed: ${results.statistics.totalBackward} backward, ${results.statistics.totalForward} forward, ${results.statistics.totalCombined} combined`
     );
 
+    // Check if there were any partial errors
+    if (results.errors && results.errors.length > 0) {
+      console.warn("Citation search completed with errors:", results.errors);
+    }
+
     return NextResponse.json({
       success: true,
       data: results,

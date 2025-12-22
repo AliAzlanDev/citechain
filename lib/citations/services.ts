@@ -73,50 +73,45 @@ async function searchOpenAlexBackwardCitations(
   inputs: CitationSearchInput[]
 ): Promise<Citation[]> {
   const citations: Citation[] = [];
-  try {
-    // Process in batches to avoid overwhelming the API
-    const batches = chunkArray(inputs, CITATION_CONFIG.BATCH_SIZES.OPENALEX);
+  // Process in batches to avoid overwhelming the API
+  const batches = chunkArray(inputs, CITATION_CONFIG.BATCH_SIZES.OPENALEX);
 
-    for (const batch of batches) {
-      // Batch fetch all papers to get their referenced_works
-      const openAlexIds = batch.map((input) => input.openalex_id!);
-      const paperUrl = buildOpenAlexUrl(
-        OPENALEX_API_URL,
-        { filter: `openalex:${openAlexIds.join("|")}` },
-        ["referenced_works"],
-        100
-      );
+  for (const batch of batches) {
+    // Batch fetch all papers to get their referenced_works
+    const openAlexIds = batch.map((input) => input.openalex_id!);
+    const paperUrl = buildOpenAlexUrl(
+      OPENALEX_API_URL,
+      { filter: `openalex:${openAlexIds.join("|")}` },
+      ["referenced_works"],
+      100
+    );
 
-      const paperResponse: OpenAlexCitationResponse = await rateLimitedFetch(
-        paperUrl
-      );
+    const paperResponse: OpenAlexCitationResponse = await rateLimitedFetch(
+      paperUrl
+    );
 
-      // Collect all referenced works from all papers
-      const allReferencedWorks = new Set<string>();
+    // Collect all referenced works from all papers
+    const allReferencedWorks = new Set<string>();
 
-      for (const paper of paperResponse.results) {
-        if (paper.referenced_works && paper.referenced_works.length > 0) {
-          paper.referenced_works.forEach((workId) => {
-            allReferencedWorks.add(normalizeOpenAlexId(workId));
-          });
-        }
-      }
-
-      if (allReferencedWorks.size > 0) {
-        // Get details of all referenced works
-        const referencedWorksArray = Array.from(allReferencedWorks);
-        const batchCitations = await fetchOpenAlexWorkDetails(
-          referencedWorksArray
-        );
-        citations.push(...batchCitations);
+    for (const paper of paperResponse.results) {
+      if (paper.referenced_works && paper.referenced_works.length > 0) {
+        paper.referenced_works.forEach((workId) => {
+          allReferencedWorks.add(normalizeOpenAlexId(workId));
+        });
       }
     }
 
-    return citations;
-  } catch (error) {
-    console.error("Error fetching backward citations:", error);
-    return citations;
+    if (allReferencedWorks.size > 0) {
+      // Get details of all referenced works
+      const referencedWorksArray = Array.from(allReferencedWorks);
+      const batchCitations = await fetchOpenAlexWorkDetails(
+        referencedWorksArray
+      );
+      citations.push(...batchCitations);
+    }
   }
+
+  return citations;
 }
 
 async function searchOpenAlexForwardCitations(
@@ -124,41 +119,33 @@ async function searchOpenAlexForwardCitations(
 ): Promise<Citation[]> {
   const citations: Citation[] = [];
   const batchPromises = inputs.map(async (input) => {
-    try {
-      const allCitations: Citation[] = [];
-      let page = 1;
-      let hasMore = true;
+    const allCitations: Citation[] = [];
+    let page = 1;
+    let hasMore = true;
 
-      while (hasMore) {
-        const url = buildOpenAlexUrl(
-          OPENALEX_API_URL,
-          { filter: `cites:${input.openalex_id}`, page: page.toString() },
-          [...CITATION_CONFIG.OPENALEX_FIELDS],
-          100
-        );
-
-        const response: OpenAlexCitationResponse = await rateLimitedFetch(url);
-
-        const pageCitations = transformOpenAlexToCitations(response.results);
-        allCitations.push(...pageCitations);
-
-        // Check if there are more pages
-        hasMore =
-          response.results.length === 100 && response.meta.count > page * 100;
-        page++;
-
-        // Limit to reasonable number of pages to avoid infinite loops
-        if (page > 50) break;
-      }
-
-      return allCitations;
-    } catch (error) {
-      console.error(
-        `Error fetching forward citations for ${input.openalex_id}:`,
-        error
+    while (hasMore) {
+      const url = buildOpenAlexUrl(
+        OPENALEX_API_URL,
+        { filter: `cites:${input.openalex_id}`, page: page.toString() },
+        [...CITATION_CONFIG.OPENALEX_FIELDS],
+        100
       );
-      return [];
+
+      const response: OpenAlexCitationResponse = await rateLimitedFetch(url);
+
+      const pageCitations = transformOpenAlexToCitations(response.results);
+      allCitations.push(...pageCitations);
+
+      // Check if there are more pages
+      hasMore =
+        response.results.length === 100 && response.meta.count > page * 100;
+      page++;
+
+      // Limit to reasonable number of pages to avoid infinite loops
+      if (page > 50) break;
     }
+
+    return allCitations;
   });
 
   const batchResults = await Promise.all(batchPromises);
@@ -172,29 +159,24 @@ async function fetchOpenAlexWorkDetails(
 ): Promise<Citation[]> {
   if (openAlexIds.length === 0) return [];
 
-  try {
-    // Process in chunks to avoid URL length limits
-    const chunks = chunkArray(openAlexIds, 100);
-    const allCitations: Citation[] = [];
+  // Process in chunks to avoid URL length limits
+  const chunks = chunkArray(openAlexIds, 100);
+  const allCitations: Citation[] = [];
 
-    for (const chunk of chunks) {
-      const url = buildOpenAlexUrl(
-        OPENALEX_API_URL,
-        { filter: `openalex:${chunk.join("|")}` },
-        [...CITATION_CONFIG.OPENALEX_FIELDS],
-        100
-      );
+  for (const chunk of chunks) {
+    const url = buildOpenAlexUrl(
+      OPENALEX_API_URL,
+      { filter: `openalex:${chunk.join("|")}` },
+      [...CITATION_CONFIG.OPENALEX_FIELDS],
+      100
+    );
 
-      const response: OpenAlexCitationResponse = await rateLimitedFetch(url);
-      const citations = transformOpenAlexToCitations(response.results);
-      allCitations.push(...citations);
-    }
-
-    return allCitations;
-  } catch (error) {
-    console.error("Error fetching OpenAlex work details:", error);
-    return [];
+    const response: OpenAlexCitationResponse = await rateLimitedFetch(url);
+    const citations = transformOpenAlexToCitations(response.results);
+    allCitations.push(...citations);
   }
+
+  return allCitations;
 }
 
 // Semantic Scholar citation search functions

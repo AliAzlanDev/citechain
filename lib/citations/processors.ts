@@ -48,43 +48,38 @@ export async function processOpenAlexCitations(
 ): Promise<void> {
   if (context.options.provider === "semantic_scholar") return;
 
-  try {
-    const { backward, forward } = await searchOpenAlexCitations(
-      context.searchInputs,
-      context.options.direction
-    );
+  const { backward, forward } = await searchOpenAlexCitations(
+    context.searchInputs,
+    context.options.direction
+  );
 
-    // Add to context maps with deduplication and track stats
-    let newBackwardCount = 0;
-    let newForwardCount = 0;
+  // Add to context maps with deduplication and track stats
+  let newBackwardCount = 0;
+  let newForwardCount = 0;
 
-    backward.forEach((citation) => {
-      const key = generateCitationKey(citation);
-      if (!context.backwardCitations.has(key)) {
-        context.backwardCitations.set(key, citation);
-        newBackwardCount++;
-      }
-    });
+  backward.forEach((citation) => {
+    const key = generateCitationKey(citation);
+    if (!context.backwardCitations.has(key)) {
+      context.backwardCitations.set(key, citation);
+      newBackwardCount++;
+    }
+  });
 
-    forward.forEach((citation) => {
-      const key = generateCitationKey(citation);
-      if (!context.forwardCitations.has(key)) {
-        context.forwardCitations.set(key, citation);
-        newForwardCount++;
-      }
-    });
+  forward.forEach((citation) => {
+    const key = generateCitationKey(citation);
+    if (!context.forwardCitations.has(key)) {
+      context.forwardCitations.set(key, citation);
+      newForwardCount++;
+    }
+  });
 
-    // Update statistics
-    context.statistics.sources.openalex.backward += newBackwardCount;
-    context.statistics.sources.openalex.forward += newForwardCount;
+  // Update statistics
+  context.statistics.sources.openalex.backward += newBackwardCount;
+  context.statistics.sources.openalex.forward += newForwardCount;
 
-    console.log(
-      `OpenAlex: Found ${backward.length} citations (${newBackwardCount} new backward, ${newForwardCount} new forward)`
-    );
-  } catch (error) {
-    console.error("Error processing OpenAlex citations:", error);
-    // Continue processing with other providers
-  }
+  console.log(
+    `OpenAlex: Found ${backward.length} citations (${newBackwardCount} new backward, ${newForwardCount} new forward)`
+  );
 }
 
 export async function processSemanticScholarCitations(
@@ -92,71 +87,66 @@ export async function processSemanticScholarCitations(
 ): Promise<void> {
   if (context.options.provider === "openalex") return;
 
-  try {
-    const { backward, forward, abstractsMap } =
-      await searchSemanticScholarCitations(
-        context.searchInputs,
-        context.options.direction
-      );
-
-    // Store abstracts for later enrichment
-    abstractsMap.forEach((abstract, key) => {
-      context.abstractsMap.set(key, abstract);
-    });
-
-    // Add to context maps with deduplication and track stats
-    let newBackwardCount = 0;
-    let newForwardCount = 0;
-    let enrichedBackwardCount = 0;
-    let enrichedForwardCount = 0;
-
-    backward.forEach((citation) => {
-      const key = generateCitationKey(citation);
-      if (!context.backwardCitations.has(key)) {
-        context.backwardCitations.set(key, citation);
-        newBackwardCount++;
-      } else {
-        // Enrich existing citation with S2 data (especially abstract)
-        const existing = context.backwardCitations.get(key)!;
-        const enriched = enrichCitationWithS2Data(existing, citation);
-        context.backwardCitations.set(key, enriched);
-        enrichedBackwardCount++;
-        // This counts as a duplicate between providers for backward citations
-        context.statistics.backwardProviderOverlap++;
-      }
-    });
-
-    forward.forEach((citation) => {
-      const key = generateCitationKey(citation);
-      if (!context.forwardCitations.has(key)) {
-        context.forwardCitations.set(key, citation);
-        newForwardCount++;
-      } else {
-        // Enrich existing citation with S2 data
-        const existing = context.forwardCitations.get(key)!;
-        const enriched = enrichCitationWithS2Data(existing, citation);
-        context.forwardCitations.set(key, enriched);
-        enrichedForwardCount++;
-        // This counts as a duplicate between providers for forward citations
-        context.statistics.forwardProviderOverlap++;
-      }
-    });
-
-    // Update statistics
-    context.statistics.sources.semanticScholar.backward += newBackwardCount;
-    context.statistics.sources.semanticScholar.forward += newForwardCount;
-
-    console.log(
-      `Semantic Scholar: Found ${
-        backward.length
-      } citations (${newBackwardCount} new backward, ${newForwardCount} new forward, ${
-        enrichedBackwardCount + enrichedForwardCount
-      } enriched)`
+  const { backward, forward, abstractsMap } =
+    await searchSemanticScholarCitations(
+      context.searchInputs,
+      context.options.direction
     );
-  } catch (error) {
-    console.error("Error processing Semantic Scholar citations:", error);
-    // Continue processing
-  }
+
+  // Store abstracts for later enrichment
+  abstractsMap.forEach((abstract, key) => {
+    context.abstractsMap.set(key, abstract);
+  });
+
+  // Add to context maps with deduplication and track stats
+  let newBackwardCount = 0;
+  let newForwardCount = 0;
+  let enrichedBackwardCount = 0;
+  let enrichedForwardCount = 0;
+
+  backward.forEach((citation) => {
+    const key = generateCitationKey(citation);
+    if (!context.backwardCitations.has(key)) {
+      context.backwardCitations.set(key, citation);
+      newBackwardCount++;
+    } else {
+      // Enrich existing citation with S2 data (especially abstract)
+      const existing = context.backwardCitations.get(key)!;
+      const enriched = enrichCitationWithS2Data(existing, citation);
+      context.backwardCitations.set(key, enriched);
+      enrichedBackwardCount++;
+      // This counts as a duplicate between providers for backward citations
+      context.statistics.backwardProviderOverlap++;
+    }
+  });
+
+  forward.forEach((citation) => {
+    const key = generateCitationKey(citation);
+    if (!context.forwardCitations.has(key)) {
+      context.forwardCitations.set(key, citation);
+      newForwardCount++;
+    } else {
+      // Enrich existing citation with S2 data
+      const existing = context.forwardCitations.get(key)!;
+      const enriched = enrichCitationWithS2Data(existing, citation);
+      context.forwardCitations.set(key, enriched);
+      enrichedForwardCount++;
+      // This counts as a duplicate between providers for forward citations
+      context.statistics.forwardProviderOverlap++;
+    }
+  });
+
+  // Update statistics
+  context.statistics.sources.semanticScholar.backward += newBackwardCount;
+  context.statistics.sources.semanticScholar.forward += newForwardCount;
+
+  console.log(
+    `Semantic Scholar: Found ${
+      backward.length
+    } citations (${newBackwardCount} new backward, ${newForwardCount} new forward, ${
+      enrichedBackwardCount + enrichedForwardCount
+    } enriched)`
+  );
 }
 
 export async function enrichCitationsWithAbstracts(

@@ -167,6 +167,10 @@ export interface CitationSearchResults {
       };
     };
   };
+  errors?: Array<{
+    provider: string;
+    message: string;
+  }>;
 }
 
 // Processing context

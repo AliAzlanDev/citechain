@@ -66,11 +66,35 @@ export function useCitationSearch() {
         // Update store with results
         setCitationResults(data);
 
+        // Show any provider-specific errors as warnings
+        if (data.errors && data.errors.length > 0) {
+          data.errors.forEach(
+            (error: { provider: string; message: string }) => {
+              toast.error(`${error.provider} failed: ${error.message}`, {
+                duration: 6000,
+              });
+            }
+          );
+        }
+
         // Show success toast
         const { statistics } = data;
-        toast.success(
-          `Citation search completed! Found ${statistics.totalBackward} backward, ${statistics.totalForward} forward, ${statistics.totalCombined} unique citations.`
-        );
+        const hasResults =
+          statistics.totalBackward > 0 ||
+          statistics.totalForward > 0 ||
+          statistics.totalCombined > 0;
+
+        if (hasResults) {
+          toast.success(
+            `Citation search completed! Found ${statistics.totalBackward} backward, ${statistics.totalForward} forward, ${statistics.totalCombined} unique citations.`
+          );
+        } else if (data.errors && data.errors.length > 0) {
+          toast.warning(
+            "Citation search completed with errors but no results were found."
+          );
+        } else {
+          toast.info("Citation search completed but no citations were found.");
+        }
 
         return data;
       } catch (error) {
