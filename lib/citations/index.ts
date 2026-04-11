@@ -4,29 +4,29 @@
  * This module provides functionality to search for backward and forward citations
  * using OpenAlex and/or Semantic Scholar APIs with deduplication and enrichment.
  */
-import { APIError } from "../error";
+import { APIError } from '../error'
 import {
   CitationSearchInput,
   CitationSearchOptions,
   CitationSearchResults,
-} from "./types";
+} from './types'
 import {
   initializeCitationContext,
   processOpenAlexCitations,
   processSemanticScholarCitations,
   enrichCitationsWithAbstracts,
   extractCitationResults,
-} from "./processors";
-import { SeedReferencesResponse } from "../types";
+} from './processors'
+import { SeedReferencesResponse } from '../types'
 
-export { CITATION_CONFIG } from "./types";
+export { CITATION_CONFIG } from './types'
 export type {
   CitationSearchOptions,
   CitationSearchInput,
   CitationSearchResults,
   CitationSearchProvider,
   CitationDirection,
-} from "./types";
+} from './types'
 
 /**
  * Main citation search function
@@ -57,7 +57,7 @@ export type {
  */
 export async function searchCitations(
   inputs: CitationSearchInput[],
-  options: CitationSearchOptions
+  options: CitationSearchOptions,
 ): Promise<CitationSearchResults> {
   // Handle empty input
   if (inputs.length === 0) {
@@ -79,87 +79,104 @@ export async function searchCitations(
           semanticScholar: { backward: 0, forward: 0 },
         },
       },
-    };
+    }
   }
 
   console.log(
-    `Starting citation search for ${inputs.length} papers with provider: ${options.provider}, direction: ${options.direction}`
-  );
+    `Starting citation search for ${inputs.length} papers with provider: ${options.provider}, direction: ${options.direction}`,
+  )
 
   // Step 1: Initialize processing context
-  const context = initializeCitationContext(inputs, options);
+  const context = initializeCitationContext(inputs, options)
 
   // Step 2: Process citations from different providers
-  const errors: Array<{ provider: string; error: Error }> = [];
+  const errors: Array<{ provider: string; error: Error; code?: string }> = []
 
   // Process OpenAlex citations
-  if (options.provider === "openalex" || options.provider === "both") {
+  if (options.provider === 'openalex' || options.provider === 'both') {
     try {
-      await processOpenAlexCitations(context);
+      await processOpenAlexCitations(context)
     } catch (error) {
-      console.error("Error processing OpenAlex citations:", error);
+      console.error('Error processing OpenAlex citations:', error)
       const errorMessage =
-        error instanceof Error ? error.message : "Unknown error occurred";
-      errors.push({ provider: "OpenAlex", error: new Error(errorMessage) });
+        error instanceof Error ? error.message : 'Unknown error occurred'
+      const errorCode = error instanceof APIError ? error.code : undefined
+      errors.push({
+        provider: 'OpenAlex',
+        error: new Error(errorMessage),
+        code: errorCode,
+      })
 
       // If only OpenAlex was requested, throw immediately
-      if (options.provider === "openalex") {
+      if (options.provider === 'openalex') {
+        if (error instanceof APIError) {
+          throw error
+        }
+
         throw new APIError({
-          code: "INTERNAL_SERVER_ERROR",
+          code: 'INTERNAL_SERVER_ERROR',
           message: `OpenAlex: ${errorMessage}`,
           cause: error,
-        });
+        })
       }
     }
   }
 
   // Process Semantic Scholar citations
-  if (options.provider === "semantic_scholar" || options.provider === "both") {
+  if (options.provider === 'semantic_scholar' || options.provider === 'both') {
     try {
-      await processSemanticScholarCitations(context);
+      await processSemanticScholarCitations(context)
     } catch (error) {
-      console.error("Error processing Semantic Scholar citations:", error);
+      console.error('Error processing Semantic Scholar citations:', error)
       const errorMessage =
-        error instanceof Error ? error.message : "Unknown error occurred";
+        error instanceof Error ? error.message : 'Unknown error occurred'
+      const errorCode = error instanceof APIError ? error.code : undefined
       errors.push({
-        provider: "Semantic Scholar",
+        provider: 'Semantic Scholar',
         error: new Error(errorMessage),
-      });
+        code: errorCode,
+      })
 
       // If only Semantic Scholar was requested, throw immediately
-      if (options.provider === "semantic_scholar") {
+      if (options.provider === 'semantic_scholar') {
+        if (error instanceof APIError) {
+          throw error
+        }
+
         throw new APIError({
-          code: "INTERNAL_SERVER_ERROR",
+          code: 'INTERNAL_SERVER_ERROR',
           message: `Semantic Scholar: ${errorMessage}`,
           cause: error,
-        });
+        })
       }
     }
   }
 
   // Step 3: Enrich with abstracts if needed (for OpenAlex-only searches)
-  await enrichCitationsWithAbstracts(context);
+  await enrichCitationsWithAbstracts(context)
 
   // Step 4: Extract and return results
-  const results = extractCitationResults(context);
+  const results = extractCitationResults(context)
 
   console.log(`Citation search completed:`, {
     backward: results.statistics.totalBackward,
     forward: results.statistics.totalForward,
     combined: results.statistics.totalCombined,
     deduplication: results.deduplication,
-  });
+  })
 
   // If both providers were requested and both failed, throw error
-  if (options.provider === "both" && errors.length === 2) {
-    const errorMessages = errors.map(
-      (e) => `${e.provider}: ${e.error.message}`
-    );
+  if (options.provider === 'both' && errors.length === 2) {
+    const errorMessages = errors.map((e) => `${e.provider}: ${e.error.message}`)
+    const allRateLimited = errors.every((e) => e.code === 'TOO_MANY_REQUESTS')
+
     throw new APIError({
-      code: "INTERNAL_SERVER_ERROR",
-      message: `All providers failed. ${errorMessages.join("; ")}`,
+      code: allRateLimited ? 'TOO_MANY_REQUESTS' : 'INTERNAL_SERVER_ERROR',
+      message: allRateLimited
+        ? `Rate limit exceeded for all providers. ${errorMessages.join('; ')}`
+        : `All providers failed. ${errorMessages.join('; ')}`,
       cause: errors,
-    });
+    })
   }
 
   // Return results with partial errors if any
@@ -172,7 +189,7 @@ export async function searchCitations(
             message: e.error.message,
           }))
         : undefined,
-  };
+  }
 }
 
 /**
@@ -182,7 +199,7 @@ export async function searchCitations(
  * @returns Array of citation search inputs
  */
 export function seedReferencesToCitationInputs(
-  seedReferences: SeedReferencesResponse[]
+  seedReferences: SeedReferencesResponse[],
 ): CitationSearchInput[] {
   return seedReferences
     .filter((ref) => ref.found && ref.data)
@@ -192,5 +209,5 @@ export function seedReferencesToCitationInputs(
       s2_id: ref.data!.s2_id,
       doi: ref.data!.doi,
       title: ref.data!.title,
-    }));
+    }))
 }

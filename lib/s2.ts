@@ -1,18 +1,18 @@
-import Bottleneck from "bottleneck";
-import { APIError } from "./error";
+import Bottleneck from 'bottleneck'
+import { APIError } from './error'
 
 // Constants
 const SEMANTIC_SCHOLAR_API_URL =
-  "https://api.semanticscholar.org/graph/v1/paper/batch";
+  'https://api.semanticscholar.org/graph/v1/paper/batch'
 const SEMANTIC_SCHOLAR_SEARCH_URL =
-  "https://api.semanticscholar.org/graph/v1/paper/search";
+  'https://api.semanticscholar.org/graph/v1/paper/search'
 
 // Create a rate limiter with Bottleneck
 // 1 request per second (1000ms)
 const limiter = new Bottleneck({
   minTime: 1000, // Minimum time between requests (1 second)
   maxConcurrent: 1, // Allow only 1 request at a time
-});
+})
 
 /**
  * Performs a fetch request to Semantic Scholar API with rate limiting
@@ -22,33 +22,72 @@ const limiter = new Bottleneck({
  */
 async function rateLimitedFetchS2<T>(
   url: string,
-  options: RequestInit = {}
+  options: RequestInit = {},
 ): Promise<T> {
   // Use the limiter to schedule and execute the fetch operation
   return limiter.schedule(async () => {
     try {
       // Make the API request
-      const response = await fetch(url, options);
+      const response = await fetch(url, options)
 
       if (!response.ok) {
-        const errorText = (await response.json()) as {
-          error: string;
-        };
-        throw new Error(
-          `Semantic Scholar API returned status ${response.status}: ${errorText.error}`
-        );
+        let errorMessage = `Semantic Scholar API returned status ${response.status}`
+
+        try {
+          const errorText = (await response.json()) as {
+            error?: string
+            message?: string
+          }
+          if (errorText.error || errorText.message) {
+            errorMessage = errorText.error ?? errorText.message!
+          }
+        } catch {
+          // Ignore JSON parsing errors and use the fallback message.
+        }
+
+        if (response.status === 429) {
+          throw new APIError({
+            code: 'TOO_MANY_REQUESTS',
+            message:
+              'Semantic Scholar rate limit reached. Please wait a moment and try again.',
+          })
+        }
+
+        if (response.status === 404) {
+          throw new APIError({
+            code: 'NOT_FOUND',
+            message: 'Semantic Scholar resource not found.',
+          })
+        }
+
+        if (response.status >= 500) {
+          throw new APIError({
+            code: 'INTERNAL_SERVER_ERROR',
+            message:
+              'Semantic Scholar service is currently unavailable. Please try again later.',
+          })
+        }
+
+        throw new APIError({
+          code: 'BAD_REQUEST',
+          message: `Semantic Scholar API error: ${errorMessage}`,
+        })
       }
 
-      return (await response.json()) as T;
+      return (await response.json()) as T
     } catch (error) {
-      console.error("Error fetching from Semantic Scholar API:", error);
+      if (error instanceof APIError) {
+        throw error
+      }
+
+      console.error('Error fetching from Semantic Scholar API:', error)
       throw new APIError({
-        code: "INTERNAL_SERVER_ERROR",
-        message: "Error fetching from Semantic Scholar API",
+        code: 'INTERNAL_SERVER_ERROR',
+        message: 'Error fetching from Semantic Scholar API',
         cause: error,
-      });
+      })
     }
-  });
+  })
 }
 
 /**
@@ -59,20 +98,20 @@ async function rateLimitedFetchS2<T>(
  */
 export async function fetchFromSemanticScholar<T>(
   ids: string[],
-  fields: string[]
+  fields: string[],
 ): Promise<T> {
-  const url = new URL(SEMANTIC_SCHOLAR_API_URL);
-  url.searchParams.append("fields", fields.join(","));
+  const url = new URL(SEMANTIC_SCHOLAR_API_URL)
+  url.searchParams.append('fields', fields.join(','))
 
   return rateLimitedFetchS2<T>(url.toString(), {
-    method: "POST",
+    method: 'POST',
     headers: {
-      "Content-Type": "application/json",
+      'Content-Type': 'application/json',
     },
     body: JSON.stringify({
       ids: ids,
     }),
-  });
+  })
 }
 
 /**
@@ -85,17 +124,17 @@ export async function fetchFromSemanticScholar<T>(
 export async function searchSemanticScholar<T>(
   query: string,
   fields: string[],
-  limit: number
+  limit: number,
 ): Promise<T> {
-  const url = new URL(SEMANTIC_SCHOLAR_SEARCH_URL);
-  url.searchParams.append("query", query);
-  url.searchParams.append("fields", fields.join(","));
-  url.searchParams.append("limit", limit.toString());
+  const url = new URL(SEMANTIC_SCHOLAR_SEARCH_URL)
+  url.searchParams.append('query', query)
+  url.searchParams.append('fields', fields.join(','))
+  url.searchParams.append('limit', limit.toString())
 
   return rateLimitedFetchS2<T>(url.toString(), {
-    method: "GET",
+    method: 'GET',
     headers: {
-      "Content-Type": "application/json",
+      'Content-Type': 'application/json',
     },
-  });
+  })
 }

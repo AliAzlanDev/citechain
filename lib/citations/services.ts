@@ -59,6 +59,11 @@ export async function searchOpenAlexCitations(
     return { backward, forward }
   } catch (error) {
     console.error('Error searching OpenAlex citations:', error)
+
+    if (error instanceof APIError) {
+      throw error
+    }
+
     throw new APIError({
       code: 'INTERNAL_SERVER_ERROR',
       message: 'Error searching citations in OpenAlex',
@@ -245,6 +250,11 @@ export async function searchSemanticScholarCitations(
     return { backward, forward, abstractsMap }
   } catch (error) {
     console.error('Error searching Semantic Scholar citations:', error)
+
+    if (error instanceof APIError) {
+      throw error
+    }
+
     throw new APIError({
       code: 'INTERNAL_SERVER_ERROR',
       message: 'Error searching citations in Semantic Scholar',
