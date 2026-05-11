@@ -14,6 +14,7 @@ export const CITATION_CONFIG = {
     'doi',
     'ids',
     'title',
+    'abstract_inverted_index',
     'publication_year',
     'type',
     'authorships',
@@ -78,6 +79,7 @@ export interface OpenAlexCitationResponse {
       mag: string | null
     }
     title: string | null
+    abstract_inverted_index?: Record<string, number[]> | null
     publication_year: number | null
     type?: string
     authorships: {

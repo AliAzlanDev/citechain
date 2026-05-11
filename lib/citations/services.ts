@@ -271,11 +271,26 @@ export async function enrichWithAbstracts(
   // If we already have abstracts from S2, use them
   if (abstractsMap.size > 0) {
     return citations.map((citation) => {
-      if (!citation.abstract && citation.doi) {
+      if (citation.s2_id) {
+        const abstract = abstractsMap.get(citation.s2_id)
+        if (abstract) {
+          return {
+            ...citation,
+            abstract,
+            abstract_source: 'semantic_scholar',
+          }
+        }
+      }
+
+      if (citation.doi) {
         const normalizedDoi = normalizeDoi(citation.doi)
         const abstract = abstractsMap.get(normalizedDoi)
         if (abstract) {
-          return { ...citation, abstract }
+          return {
+            ...citation,
+            abstract,
+            abstract_source: 'semantic_scholar',
+          }
         }
       }
       return citation
@@ -335,13 +350,15 @@ export async function enrichWithAbstracts(
 
     // Enrich citations with abstracts
     return citations.map((citation) => {
-      if (citation.abstract) return citation
-
       // Try to find abstract by S2 ID first
       if (citation.s2_id) {
         const abstract = abstractsFromS2.get(citation.s2_id)
         if (abstract) {
-          return { ...citation, abstract }
+          return {
+            ...citation,
+            abstract,
+            abstract_source: 'semantic_scholar',
+          }
         }
       }
 
@@ -350,7 +367,11 @@ export async function enrichWithAbstracts(
         const normalizedDoi = normalizeDoi(citation.doi)
         const abstract = abstractsFromS2.get(normalizedDoi)
         if (abstract) {
-          return { ...citation, abstract }
+          return {
+            ...citation,
+            abstract,
+            abstract_source: 'semantic_scholar',
+          }
         }
       }
 
@@ -368,32 +389,41 @@ function transformOpenAlexToCitations(
 ): Citation[] {
   return results
     .filter((item) => item && item.title)
-    .map((item) => ({
-      id: nanoid(),
-      doi: item.doi ? normalizeDoi(item.doi) : undefined,
-      pmid: item.ids.pmid ? normalizePmid(item.ids.pmid) : undefined,
-      openalex_id: item.id
-        ? normalizeOpenAlexId(item.id)
-        : item.ids.openalex
-          ? normalizeOpenAlexId(item.ids.openalex)
-          : undefined,
-      title: item.title || '',
-      year: item.publication_year || undefined,
-      journal: item.primary_location?.source?.display_name,
-      pages: `${item.biblio?.first_page || ''}-${
-        item.biblio?.last_page || ''
-      }`.replace(/^-$/, ''),
-      volume: item.biblio?.volume || undefined,
-      number: item.biblio?.issue || undefined,
-      authors: item.authorships
-        .map((auth) => auth.author?.display_name || '')
-        .filter(Boolean),
-      open_access: !!item.primary_location?.is_oa,
-      open_access_url:
-        item.primary_location?.pdf_url ||
-        item.primary_location?.landing_page_url,
-      type: item.type,
-    }))
+    .map((item) => {
+      const openAlexAbstract = convertOpenAlexInvertedIndexToText(
+        item.abstract_inverted_index,
+      )
+
+      return {
+        id: nanoid(),
+        doi: item.doi ? normalizeDoi(item.doi) : undefined,
+        pmid: item.ids.pmid ? normalizePmid(item.ids.pmid) : undefined,
+        openalex_id: item.id
+          ? normalizeOpenAlexId(item.id)
+          : item.ids.openalex
+            ? normalizeOpenAlexId(item.ids.openalex)
+            : undefined,
+        title: item.title || '',
+        abstract: openAlexAbstract,
+        abstract_source: openAlexAbstract ? 'openalex' : undefined,
+        database_provider: 'openalex',
+        year: item.publication_year || undefined,
+        journal: item.primary_location?.source?.display_name,
+        pages: `${item.biblio?.first_page || ''}-${
+          item.biblio?.last_page || ''
+        }`.replace(/^-$/, ''),
+        volume: item.biblio?.volume || undefined,
+        number: item.biblio?.issue || undefined,
+        authors: item.authorships
+          .map((auth) => auth.author?.display_name || '')
+          .filter(Boolean),
+        open_access: !!item.primary_location?.is_oa,
+        open_access_url:
+          item.primary_location?.pdf_url ||
+          item.primary_location?.landing_page_url,
+        type: item.type,
+      }
+    })
 }
 
 function transformS2CitationsToCitations(
@@ -411,8 +441,13 @@ function transformS2CitationsToCitations(
         abstractsMap.set(normalizedDoi, citation.abstract)
       }
 
+      if (citation.abstract && citation.paperId) {
+        abstractsMap.set(citation.paperId, citation.abstract)
+      }
+
       return {
         id: nanoid(),
+        database_provider: 'semantic_scholar',
         s2_id: citation.paperId,
         doi: citation.externalIds?.DOI
           ? normalizeDoi(citation.externalIds.DOI)
@@ -422,6 +457,7 @@ function transformS2CitationsToCitations(
           : undefined,
         title: citation.title,
         abstract: citation.abstract || undefined,
+        abstract_source: citation.abstract ? 'semantic_scholar' : undefined,
         year: citation.year || undefined,
         journal: citation.journal?.name,
         pages: citation.journal?.pages,
@@ -432,4 +468,34 @@ function transformS2CitationsToCitations(
         type: citation.publicationTypes?.join(', ') || undefined,
       }
     })
+}
+
+function convertOpenAlexInvertedIndexToText(
+  invertedIndex?: Record<string, number[]> | null,
+): string | undefined {
+  if (!invertedIndex) {
+    return undefined
+  }
+
+  const positionedTokens: Array<{ position: number; token: string }> = []
+
+  for (const [token, positions] of Object.entries(invertedIndex)) {
+    for (const position of positions) {
+      if (typeof position === 'number' && Number.isFinite(position)) {
+        positionedTokens.push({ position, token })
+      }
+    }
+  }
+
+  if (positionedTokens.length === 0) {
+    return undefined
+  }
+
+  positionedTokens.sort((a, b) => a.position - b.position)
+
+  return positionedTokens
+    .map(({ token }) => token)
+    .join(' ')
+    .replace(/\s+([,.;:!?])/g, '$1')
+    .trim()
 }

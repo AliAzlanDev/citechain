@@ -5,14 +5,14 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-} from "@/components/ui/dialog";
-import { Button } from "../ui/button";
+} from '@/components/ui/dialog'
+import { Button } from '../ui/button'
 
 export function RISFormat() {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <Button variant="outline">RIS Format</Button>
+        <Button variant='outline'>RIS Format</Button>
       </DialogTrigger>
       <DialogContent>
         <DialogHeader>
@@ -23,7 +23,7 @@ export function RISFormat() {
           </DialogDescription>
         </DialogHeader>
 
-        <pre className="bg-gray-100 p-4 rounded-md">
+        <pre className='bg-gray-100 p-4 rounded-md'>
           <code>{`TY - JOUR
 TI - Title of the Article
 AB - Abstract of the Article
@@ -36,10 +36,12 @@ SP - Start Page
 EP - End Page
 DO - Digital Object Identifier (DOI)
 AN - PMID
+DS - Abstract source (openalex or semantic scholar)
+DP - Database provider (openalex or semantic scholar)
 ER - End of Reference
 `}</code>
         </pre>
       </DialogContent>
     </Dialog>
-  );
+  )
 }
