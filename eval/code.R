@@ -1206,3 +1206,483 @@ run_phase6 <- function() {
     invisible(list(kruskal_wallis = kw_df, domain_summary = domain_summary))
 }
  
+# ── NULL-COALESCING OPERATOR (used in Phase 5 and Phase 8) ───────────────────
+`%||%` <- function(a, b) if (!is.null(a)) a else b
+ 
+# ── PHASE 7: FORWARD vs. BACKWARD DIRECTION ANALYSIS ─────────────────────────
+#
+# Answers the core methodological question: are forward and backward citation
+# searching complementary, or largely redundant?
+#
+# Three analyses:
+#   (a) Direction-stratified recall — per tool, per review:
+#         recall from Forward-only searches vs. Backward-only searches.
+#         Wilcoxon signed-rank test (paired, Bonferroni-adjusted α = 0.01
+#         for 5 tool comparisons).
+#
+#   (b) Directional unique contribution — per tool, per review:
+#         proportion of matched target studies found exclusively by Forward,
+#         exclusively by Backward, or by Both directions.
+#         Summarised as median (IQR) across reviews.
+#
+#   (c) Supplementary figures:
+#         — Stacked bar: Forward-only / Both / Backward-only % per tool
+#         — Heatmap: recall by review × (tool + direction) — 10 columns
+#
+# Prerequisite: Phase 2 must have been run (Phase2_Data.RData required).
+# Direction-level matching is reconstructed from the Directions field stored
+# in each tool's retrieved citation tibble during Phase 2.
+ 
+run_phase7 <- function() {
+    cat("\n============================================================================\n")
+    cat("PHASE 7: FORWARD vs. BACKWARD DIRECTION ANALYSIS\n")
+    cat("============================================================================\n\n")
+    cat("Research question: Are forward and backward citation searching\n")
+    cat("complementary (finding distinct studies), or largely redundant?\n\n")
+ 
+    load("output/Phase2_Data.RData")
+ 
+    # ── (a) Direction-stratified recall ──────────────────────────────────────
+    # For each review × tool × direction, compute recall using only
+    # citations retrieved in that direction. A citation is attributed to a
+    # direction if it appeared in that direction's source file.
+ 
+    direction_recall_rows <- list()
+    direction_contribution_rows <- list()
+ 
+    for (review_id in names(all_review_results)) {
+        target_ref_set  <- all_target_sets[[review_id]]
+        n_target        <- nrow(target_ref_set)
+        tool_results    <- all_review_results[[review_id]]$tool_results
+ 
+        for (tool_name in names(tool_results)) {
+            tool_data <- tool_results[[tool_name]]
+ 
+            # ── Direction-stratified recall ───────────────────────────────────
+            for (dir in c("Forward", "Backward")) {
+ 
+                # Retain only citations that appeared in this direction
+                dir_data <- tool_data %>%
+                    filter(str_detect(Direction, dir)) %>%
+                    filter(!is.na(DOI) | (!is.na(Title_Normalized) &
+                                              Title_Normalized != ""))
+ 
+                if (nrow(dir_data) == 0) {
+                    direction_recall_rows[[
+                        paste(review_id, tool_name, dir, sep = "_")
+                    ]] <- tibble(
+                        Review_ID      = review_id,
+                        Tool           = tool_name,
+                        Direction      = dir,
+                        N_Target       = n_target,
+                        True_Positives = 0L,
+                        Recall_Percent = 0,
+                        N_Retrieved    = 0L
+                    )
+                    next
+                }
+ 
+                # Match direction-specific citations against target set
+                unique_dir <- dir_data %>%
+                    group_by(DOI, Title_Normalized) %>%
+                    slice(1) %>%
+                    ungroup()
+ 
+                matched_doi <- unique_dir %>%
+                    filter(!is.na(DOI)) %>%
+                    inner_join(
+                        target_ref_set %>% select(Study_ID, DOI_Standardized),
+                        by = c("DOI" = "DOI_Standardized")
+                    ) %>%
+                    pull(Study_ID) %>%
+                    unique()
+ 
+                matched_title <- unique_dir %>%
+                    filter(!is.na(Title_Normalized), Title_Normalized != "") %>%
+                    inner_join(
+                        target_ref_set %>%
+                            filter(!Study_ID %in% matched_doi) %>%
+                            select(Study_ID, Title_Normalized),
+                        by = "Title_Normalized"
+                    ) %>%
+                    pull(Study_ID) %>%
+                    unique()
+ 
+                matched_ids <- unique(c(matched_doi, matched_title))
+ 
+                direction_recall_rows[[
+                    paste(review_id, tool_name, dir, sep = "_")
+                ]] <- tibble(
+                    Review_ID      = review_id,
+                    Tool           = tool_name,
+                    Direction      = dir,
+                    N_Target       = n_target,
+                    True_Positives = length(matched_ids),
+                    Recall_Percent = 100 * length(matched_ids) / n_target,
+                    N_Retrieved    = nrow(unique_dir)
+                )
+            }  # end direction loop
+ 
+            # ── (b) Directional unique contribution ───────────────────────────
+            # Classify each matched target study as:
+            #   Forward_Only, Backward_Only, Both, or Neither
+            # Uses the Directions field written during Phase 2 matching,
+            # which records which direction(s) each unique citation appeared in.
+ 
+            matched_studies_tool <- all_review_results[[review_id]]$matched_studies
+            if (!tool_name %in% names(matched_studies_tool)) next
+ 
+            all_matched_ids <- matched_studies_tool[[tool_name]]
+            tool_combined   <- tool_results[[tool_name]]
+ 
+            # For each matched study, determine which direction(s) found it
+            fwd_matched <- character(0)
+            bwd_matched <- character(0)
+ 
+            # Re-derive per-direction hits from the direction-stratified recall
+            # computed just above (already stored in direction_recall_rows)
+            fwd_key <- paste(review_id, tool_name, "Forward",  sep = "_")
+            bwd_key <- paste(review_id, tool_name, "Backward", sep = "_")
+ 
+            # To get actual Study_IDs per direction, re-run matching on
+            # direction-specific subsets (reuse the same logic)
+            get_dir_hits <- function(dir_label) {
+                dir_data <- tool_combined %>%
+                    filter(str_detect(Direction, dir_label)) %>%
+                    filter(!is.na(DOI) | (!is.na(Title_Normalized) &
+                                              Title_Normalized != ""))
+                if (nrow(dir_data) == 0) return(character(0))
+                unique_dir <- dir_data %>%
+                    group_by(DOI, Title_Normalized) %>% slice(1) %>% ungroup()
+                doi_hits <- unique_dir %>%
+                    filter(!is.na(DOI)) %>%
+                    inner_join(
+                        target_ref_set %>% select(Study_ID, DOI_Standardized),
+                        by = c("DOI" = "DOI_Standardized")
+                    ) %>% pull(Study_ID) %>% unique()
+                title_hits <- unique_dir %>%
+                    filter(!is.na(Title_Normalized), Title_Normalized != "") %>%
+                    inner_join(
+                        target_ref_set %>%
+                            filter(!Study_ID %in% doi_hits) %>%
+                            select(Study_ID, Title_Normalized),
+                        by = "Title_Normalized"
+                    ) %>% pull(Study_ID) %>% unique()
+                unique(c(doi_hits, title_hits))
+            }
+ 
+            fwd_hits <- get_dir_hits("Forward")
+            bwd_hits <- get_dir_hits("Backward")
+ 
+            fwd_only <- setdiff(fwd_hits, bwd_hits)
+            bwd_only <- setdiff(bwd_hits, fwd_hits)
+            both_dir <- intersect(fwd_hits, bwd_hits)
+            neither  <- setdiff(target_ref_set$Study_ID,
+                                union(fwd_hits, bwd_hits))
+ 
+            direction_contribution_rows[[
+                paste(review_id, tool_name, sep = "_")
+            ]] <- tibble(
+                Review_ID      = review_id,
+                Tool           = tool_name,
+                N_Target       = n_target,
+                N_Fwd_Only     = length(fwd_only),
+                N_Bwd_Only     = length(bwd_only),
+                N_Both         = length(both_dir),
+                N_Neither      = length(neither),
+                Pct_Fwd_Only   = 100 * length(fwd_only)  / n_target,
+                Pct_Bwd_Only   = 100 * length(bwd_only)  / n_target,
+                Pct_Both       = 100 * length(both_dir)  / n_target,
+                Pct_Neither    = 100 * length(neither)   / n_target
+            )
+        }  # end tool loop
+    }  # end review loop
+ 
+    direction_recall_df      <- bind_rows(direction_recall_rows) %>%
+        mutate(Tool = factor(Tool, levels = tool_order))
+    direction_contribution_df <- bind_rows(direction_contribution_rows) %>%
+        mutate(Tool = factor(Tool, levels = tool_order))
+ 
+    # ── Direction-stratified recall summary ───────────────────────────────────
+    direction_recall_summary <- direction_recall_df %>%
+        group_by(Tool, Direction) %>%
+        summarise(
+            N_Reviews      = n(),
+            Median_Recall  = median(Recall_Percent, na.rm = TRUE),
+            Q1_Recall      = quantile(Recall_Percent, 0.25, na.rm = TRUE),
+            Q3_Recall      = quantile(Recall_Percent, 0.75, na.rm = TRUE),
+            IQR_Recall     = IQR(Recall_Percent, na.rm = TRUE),
+            Mean_Recall    = mean(Recall_Percent, na.rm = TRUE),
+            SD_Recall      = sd(Recall_Percent, na.rm = TRUE),
+            Min_Recall     = min(Recall_Percent, na.rm = TRUE),
+            Max_Recall     = max(Recall_Percent, na.rm = TRUE),
+            .groups        = "drop"
+        )
+ 
+    cat("=== Direction-Stratified Recall Summary (Supplementary Table S4) ===\n\n")
+    direction_recall_summary %>%
+        select(Tool, Direction, Median_Recall, Q1_Recall, Q3_Recall,
+               Mean_Recall, SD_Recall) %>%
+        mutate(across(where(is.numeric), ~ round(., 1))) %>%
+        print()
+ 
+    # ── Wilcoxon signed-rank: Forward vs. Backward recall per tool ────────────
+    # Paired test: each review contributes one Forward and one Backward recall
+    # value for the same tool. Bonferroni correction for 5 tool comparisons.
+    # Adjusted α = 0.05 / 5 = 0.01.
+ 
+    wilcox_dir_results <- list()
+ 
+    for (tool_name in tool_order) {
+        tool_wide <- direction_recall_df %>%
+            filter(Tool == tool_name) %>%
+            select(Review_ID, Direction, Recall_Percent) %>%
+            pivot_wider(names_from = Direction, values_from = Recall_Percent)
+ 
+        if (!all(c("Forward", "Backward") %in% names(tool_wide))) next
+        if (nrow(tool_wide) < 3) next  # insufficient pairs
+ 
+        wt <- wilcox.test(
+            tool_wide$Forward,
+            tool_wide$Backward,
+            paired    = TRUE,
+            exact     = FALSE,
+            conf.int  = TRUE
+        )
+ 
+        n       <- nrow(tool_wide)
+        z_stat  <- qnorm(wt$p.value / 2)        # approximate Z from p
+        r_effect <- abs(z_stat) / sqrt(n)       # r = |Z| / √N
+ 
+        wilcox_dir_results[[tool_name]] <- tibble(
+            Tool             = tool_name,
+            N_Reviews        = n,
+            Median_Forward   = median(tool_wide$Forward,  na.rm = TRUE),
+            Median_Backward  = median(tool_wide$Backward, na.rm = TRUE),
+            W_statistic      = wt$statistic,
+            p_value          = wt$p.value,
+            p_adj_bonferroni = min(wt$p.value * 5, 1),  # 5 comparisons
+            Significant_0.01 = (min(wt$p.value * 5, 1) < 0.01),
+            r_effect_size    = round(r_effect, 3),
+            CI_lower         = wt$conf.int[1],
+            CI_upper         = wt$conf.int[2]
+        )
+    }
+ 
+    wilcox_dir_df <- bind_rows(wilcox_dir_results)
+ 
+    cat("\n=== Wilcoxon Signed-Rank: Forward vs. Backward Recall per Tool ===\n")
+    cat("=== Bonferroni-adjusted α = 0.01 (5 comparisons) ===\n\n")
+    wilcox_dir_df %>%
+        select(Tool, N_Reviews, Median_Forward, Median_Backward,
+               W_statistic, p_value, p_adj_bonferroni, Significant_0.01,
+               r_effect_size) %>%
+        mutate(across(where(is.numeric), ~ round(., 3))) %>%
+        print()
+ 
+    # ── Directional contribution summary ─────────────────────────────────────
+    direction_contrib_summary <- direction_contribution_df %>%
+        group_by(Tool) %>%
+        summarise(
+            N_Reviews       = n(),
+            Median_Fwd_Only = median(Pct_Fwd_Only,  na.rm = TRUE),
+            Q1_Fwd_Only     = quantile(Pct_Fwd_Only, 0.25, na.rm = TRUE),
+            Q3_Fwd_Only     = quantile(Pct_Fwd_Only, 0.75, na.rm = TRUE),
+            Median_Bwd_Only = median(Pct_Bwd_Only,  na.rm = TRUE),
+            Q1_Bwd_Only     = quantile(Pct_Bwd_Only, 0.25, na.rm = TRUE),
+            Q3_Bwd_Only     = quantile(Pct_Bwd_Only, 0.75, na.rm = TRUE),
+            Median_Both     = median(Pct_Both,       na.rm = TRUE),
+            Q1_Both         = quantile(Pct_Both, 0.25, na.rm = TRUE),
+            Q3_Both         = quantile(Pct_Both, 0.75, na.rm = TRUE),
+            Median_Neither  = median(Pct_Neither,    na.rm = TRUE),
+            .groups         = "drop"
+        )
+ 
+    cat("\n=== Directional Unique Contribution (% of target studies) ===\n\n")
+    direction_contrib_summary %>%
+        select(Tool,
+               Median_Fwd_Only, Q1_Fwd_Only, Q3_Fwd_Only,
+               Median_Bwd_Only, Q1_Bwd_Only, Q3_Bwd_Only,
+               Median_Both, Median_Neither) %>%
+        mutate(across(where(is.numeric), ~ round(., 1))) %>%
+        print()
+ 
+    # ── Figure: Direction-stratified recall boxplot (main Results) ───────────
+    # Paired boxplots per tool: Forward (dark) vs. Backward (light).
+    fig_dir_recall <- ggplot(
+        direction_recall_df,
+        aes(x = Tool, y = Recall_Percent,
+            fill = Direction, colour = Direction)
+    ) +
+        geom_boxplot(
+            alpha         = 0.55,
+            outlier.shape = 21,
+            outlier.size  = 2,
+            position      = position_dodge(width = 0.75)
+        ) +
+        geom_point(
+            position = position_jitterdodge(
+                jitter.width = 0.1, dodge.width = 0.75
+            ),
+            size = 2, alpha = 0.6
+        ) +
+        scale_x_discrete(labels = tool_labels) +
+        scale_fill_manual(
+            values = c("Forward" = "#4e9af1", "Backward" = "#e07b54"),
+            name   = "Search direction"
+        ) +
+        scale_colour_manual(
+            values = c("Forward" = "#1a5fb4", "Backward" = "#a0522d"),
+            name   = "Search direction"
+        ) +
+        labs(
+            title    = "Forward vs. Backward Recall by Tool",
+            subtitle = sprintf("n = %d reviews; Wilcoxon signed-rank, Bonferroni α = 0.01",
+                               length(unique(direction_recall_df$Review_ID))),
+            x        = NULL,
+            y        = "Recall (%)"
+        ) +
+        theme_white +
+        theme(legend.position = "top")
+ 
+    ggsave("figures/Figure_Direction_Recall.png",
+           fig_dir_recall, width = 11, height = 6, dpi = 300, bg = "white")
+    cat("\n✓ Saved: figures/Figure_Direction_Recall.png\n")
+ 
+    # ── Figure: Stacked bar — directional unique contribution per tool ────────
+    # Each bar = 100% of matched target studies for that tool.
+    # Segments: Forward-only | Both | Backward-only | Neither
+    fig_contrib_data <- direction_contrib_summary %>%
+        select(Tool, Median_Fwd_Only, Median_Both,
+               Median_Bwd_Only, Median_Neither) %>%
+        pivot_longer(
+            cols      = starts_with("Median_"),
+            names_to  = "Category",
+            values_to = "Median_Pct"
+        ) %>%
+        mutate(
+            Category = factor(
+                Category,
+                levels = c("Median_Fwd_Only", "Median_Both",
+                           "Median_Bwd_Only", "Median_Neither"),
+                labels = c("Forward only", "Both directions",
+                           "Backward only", "Neither direction")
+            )
+        )
+ 
+    fig_contribution <- ggplot(
+        fig_contrib_data,
+        aes(x = Tool, y = Median_Pct, fill = Category)
+    ) +
+        geom_col(width = 0.6, alpha = 0.9, colour = "white", linewidth = 0.3) +
+        geom_text(
+            aes(label = if_else(Median_Pct >= 2,
+                                sprintf("%.1f%%", Median_Pct), "")),
+            position  = position_stack(vjust = 0.5),
+            size      = 3.5, colour = "white", fontface = "bold"
+        ) +
+        scale_x_discrete(labels = tool_labels) +
+        scale_fill_manual(
+            values = c(
+                "Forward only"      = "#4e9af1",
+                "Both directions"   = "#7bc67e",
+                "Backward only"     = "#e07b54",
+                "Neither direction" = "#c9c9c9"
+            ),
+            name = NULL
+        ) +
+        labs(
+            title    = "Directional Unique Contribution to Target Study Identification",
+            subtitle = "Values are median % of target studies across 12 reviews",
+            x        = NULL,
+            y        = "Median % of target studies"
+        ) +
+        theme_white +
+        theme(legend.position = "top",
+              axis.text.x = element_text(angle = 45, hjust = 1))
+ 
+    ggsave("figures/Figure_Direction_Contribution.png",
+           fig_contribution, width = 10, height = 6, dpi = 300, bg = "white")
+    cat("✓ Saved: figures/Figure_Direction_Contribution.png\n")
+ 
+    # ── Supplementary: recall heatmap split by tool + direction (10 columns) ──
+    heatmap_dir_data <- direction_recall_df %>%
+        mutate(
+            Tool_Direction = paste0(
+                tool_labels[as.character(Tool)], "\n(", Direction, ")"
+            )
+        )
+ 
+    fig_heatmap_dir <- ggplot(
+        heatmap_dir_data,
+        aes(x = Tool_Direction, y = Review_ID, fill = Recall_Percent)
+    ) +
+        geom_tile(colour = "white", linewidth = 0.4) +
+        geom_text(aes(label = round(Recall_Percent, 0)), size = 2.5) +
+        scale_fill_gradient2(
+            low      = "#d73027",
+            mid      = "#fee090",
+            high     = "#1a9850",
+            midpoint = 40,
+            limits   = c(0, 100),
+            name     = "Recall (%)"
+        ) +
+        labs(
+            title = "Supplementary: Recall by Review × Tool × Direction",
+            x = NULL, y = NULL
+        ) +
+        theme_white +
+        theme(
+            axis.text.x     = element_text(angle = 45, hjust = 1, size = 7),
+            legend.position = "right"
+        )
+ 
+    ggsave("figures/Supplementary_Direction_Heatmap.png",
+           fig_heatmap_dir, width = 14, height = 8, dpi = 300, bg = "white")
+    cat("✓ Saved: figures/Supplementary_Direction_Heatmap.png\n")
+ 
+    # ── Export ────────────────────────────────────────────────────────────────
+    write_xlsx(
+        list(
+            Direction_Recall_Per_Review   = as.data.frame(direction_recall_df),
+            Direction_Recall_Summary      = direction_recall_summary,
+            Wilcoxon_Fwd_vs_Bwd           = wilcox_dir_df,
+            Contribution_Per_Review       = as.data.frame(direction_contribution_df),
+            Contribution_Summary          = direction_contrib_summary
+        ),
+        "output/Phase7_Direction_Analysis.xlsx"
+    )
+    cat("✓ Saved: output/Phase7_Direction_Analysis.xlsx\n")
+ 
+    cat("\n============================================================================\n")
+    cat("PHASE 7 COMPLETE\n")
+    cat("============================================================================\n\n")
+ 
+    invisible(list(
+        recall_by_direction  = direction_recall_df,
+        recall_summary       = direction_recall_summary,
+        wilcoxon_tests       = wilcox_dir_df,
+        contributions        = direction_contribution_df,
+        contribution_summary = direction_contrib_summary
+    ))
+}
+ 
+# ============================================================================
+# USAGE
+# ============================================================================
+cat("\n")
+cat("============================================================================\n")
+cat("USAGE\n")
+cat("============================================================================\n\n")
+cat("Phase 1 runs automatically when you source this file.\n\n")
+cat("Run each subsequent phase in order:\n\n")
+cat("  run_phase2()   # Import and match tool results\n")
+cat("  run_phase3()   # Performance metrics (Recall, Screening Burden, NNR)\n")
+cat("  run_phase4()   # Friedman test + Wilcoxon post-hoc + Bonferroni\n")
+cat("  run_phase5()   # Jaccard similarity + unique API contributions\n")
+cat("  run_phase6()   # Domain subgroup analysis (Supplementary Section S1)\n")
+cat("  run_phase7()   # Forward vs. backward direction analysis\n\n")
+cat("After run_phase2(), manually verify unmatched targets in each\n")
+cat("output/[Review_ID]/Unmatched_Targets.xlsx and save as\n")
+cat("Unmatched_Targets_VERIFIED.xlsx before running run_phase3().\n")
+cat("============================================================================\n\n")
