@@ -1,5 +1,7 @@
 import { useId } from "react";
+import { AlertTriangle } from "lucide-react";
 
+import { Alert, AlertDescription } from "@/components/ui/alert";
 import { Label } from "@/components/ui/label";
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import Image from "next/image";
@@ -11,6 +13,7 @@ import { CitationSearchProvider } from "@/lib/citations";
 export default function Providers() {
   const id = useId();
   const { selectedProvider, setSelectedProvider } = useStore();
+  const isSemanticScholarOnly = selectedProvider === "semantic_scholar";
 
   const handleProviderChange = (value: string) => {
     setSelectedProvider(value as CitationSearchProvider);
@@ -89,6 +92,17 @@ export default function Providers() {
           </div>
         </div>
       </RadioGroup>
+      {isSemanticScholarOnly ? (
+        <Alert className="mt-4 border-amber-500/40 bg-amber-500/10 text-amber-900 dark:text-amber-100">
+          <AlertTriangle className="text-amber-700 dark:text-amber-300" />
+          <AlertDescription>
+            Semantic Scholar alone is not recommended for backward citation
+            searching. In our evaluation, publisher-elided reference lists led
+            to low standalone recall, so it should not be used as the primary
+            backward-search source.
+          </AlertDescription>
+        </Alert>
+      ) : null}
     </div>
   );
 }
