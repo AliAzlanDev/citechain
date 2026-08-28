@@ -1,0 +1,6 @@
+"check","passed","detail"
+"All 645 target reports reconstructed",TRUE,"645"
+"All recorded tertiles reproduce using PERCENTILE.INC/type 7 cut points",TRUE,"0 mismatches"
+"All 12 archived six-seed sets reproduce with seed 20260410",TRUE,"12/12 exact sets"
+"All selected reviews appear in the screening log",TRUE,"12 selected reviews"
+"Supplementary Table S1 counts reconcile",TRUE,"645 total; 72 seeds; 573 non-seeds; 562 DOI; 83 non-DOI"

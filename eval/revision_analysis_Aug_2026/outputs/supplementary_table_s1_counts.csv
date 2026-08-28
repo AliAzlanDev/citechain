@@ -1,0 +1,13 @@
+"review_id","total_eligible_reports","seed_reports","primary_non_seed_reports","reports_with_doi","reports_without_doi","seed_reports_with_doi","seed_reports_without_doi","non_seed_reports_with_doi","non_seed_reports_without_doi"
+"R01",113,6,107,109,4,6,0,103,4
+"R02",41,6,35,35,6,6,0,29,6
+"R03",31,6,25,26,5,6,0,20,5
+"R04",24,6,18,24,0,6,0,18,0
+"R05",82,6,76,61,21,6,0,55,21
+"R06",34,6,28,28,6,6,0,22,6
+"R07",45,6,39,41,4,6,0,35,4
+"R08",79,6,73,60,19,6,0,54,19
+"R09",47,6,41,44,3,6,0,38,3
+"R10",56,6,50,45,11,6,0,39,11
+"R11",51,6,45,47,4,6,0,41,4
+"R12",42,6,36,42,0,6,0,36,0

@@ -1,0 +1,4 @@
+"tool","denominator","semantic_scholar_abstracts","openalex_abstracts","other_source_abstracts","no_abstract","unresolved","records_with_abstract","abstract_coverage_percent"
+"CiteChain_Combined",7508,1916,2795,0,2797,0,4711,62.746
+"CiteChain_OpenAlex",6599,1720,2794,0,2085,0,4514,68.404
+"CiteChain_SemanticScholar",4994,1913,1288,0,1793,0,3201,64.097

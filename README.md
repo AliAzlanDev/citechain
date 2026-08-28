@@ -3,7 +3,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-15.3.4-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-GPL--3.0-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-green.svg)](LICENSE.md)
 
 ![CiteChain Banner](./public/banner.png)
 
@@ -377,7 +377,7 @@ We welcome contributions! Please see our contributing guidelines:
 
 ## 📄 License
 
-This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU Affero General Public License v3.0 - see [LICENSE.md](LICENSE.md) for details.
 
 ## 👥 Authors
 

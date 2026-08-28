@@ -1,0 +1,1678 @@
+TY  - JOUR
+TI  - Nonparametric Estimation from Incomplete Observations
+AU  - Edward L. Kaplan
+AU  - Paul Meier
+JO  - Springer series in statistics
+PY  - 1992
+SP  - 319
+EP  - 337
+DO  - 10.1007/978-1-4612-4380-9_25
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Nonparametric Estimation from Incomplete Observations
+AU  - Edward L. Kaplan
+AU  - Paul Meier
+JO  - Journal of the American Statistical Association
+PY  - 1958
+VL  - 53
+IS  - 282
+SP  - 457
+EP  - 481
+DO  - 10.1080/01621459.1958.10501452
+AB  - Abstract In lifetesting, medical follow-up, and other fields the observation of the time of occurrence of the event of interest (called a death) may be prevented for some of the items of the sample by the previous occurrence of some other event (called a loss). Losses may be either accidental or controlled, the latter resulting from a decision to terminate certain observations. In either case it is usually assumed in this paper that the lifetime (age at death) is independent of the potential loss time; in practice this assumption deserves careful scrutiny. Despite the resulting incompleteness of the data, it is desired to estimate the proportion P(t) of items in the population whose lifetimes would exceed t (in the absence of such losses), without making any assumption about the form of the function P(t). The observation for each item of a suitable initial event, marking the beginning of its lifetime, is presupposed. For random samples of size N the product-limit (PL) estimate can be defined as follows: List and label the N observed lifetimes (whether to death or loss) in order of increasing magnitude, so that one has 0≤t 1ǐ≤t 2ǐ≤ … ≤t N ǐ. Then P(t)= II. [(N – r)/(N – r + 1)], where r assumes those values for which tr ≤t and for which tr ǐ measures the time to death. This estimate is the distribution, unrestricted as to form, which maximizes the likelihood of the observations. Other estimates that are discussed are the actuarial estimates (which are also products, but with the number of factors usually reduced by grouping); and reduced-sample (RS) estimates, which require that losses not be accidental, so that the limits of observation (potential loss times) are known even for those items whose deaths are observed. When no losses occur at ages less than t, the estimate of P(t) in all cases reduces to the usual binomial estimate, namely, the observed proportion of survivors.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Regression Models and Life-Tables
+AU  - D. R. Cox
+JO  - Springer series in statistics
+PY  - 1992
+SP  - 527
+EP  - 541
+DO  - 10.1007/978-1-4612-4380-9_37
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Individual Comparisons by Ranking Methods
+AU  - Frank Wilcoxon
+JO  - Biometrics Bulletin
+PY  - 1945
+VL  - 1
+IS  - 6
+SP  - 80
+EP  - 80
+DO  - 10.2307/3001968
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Bone marrow transplant
+AU  - Adrian Goycoolea
+JO  - Figshare
+PY  - 1997
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Asymptotically Efficient Rank Invariant Test Procedures
+AU  - Richard Peto
+AU  - Julian Peto
+JO  - Journal of the Royal Statistical Society Series A (General)
+PY  - 1972
+VL  - 135
+IS  - 2
+SP  - 185
+EP  - 185
+DO  - 10.2307/2344317
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - International standardization of criteria for the histologic diagnosis of renal allograft rejection: The Banff working classification of kidney transplant pathology
+AU  - Kim Solez
+AU  - Roy A. Axelsen
+AU  - Hallgrímur Benediktsson
+AU  - James F. Burdick
+AU  - Arthur H. Cohen
+AU  - Robert B. Colvin
+AU  - Byron P. Croker
+AU  - Dominique Droz
+AU  - M. S. Dunnill
+AU  - Philip F. Halloran
+AU  - P Häyry
+AU  - J. Charles Jennette
+AU  - Paul Keown
+AU  - Niels Marcussen
+AU  - M. J. Mihatsch
+AU  - Kunio Morozumi
+AU  - Bryan D. Myers
+AU  - Cynthia C. Nast
+AU  - Steen Olsen
+AU  - Lorraine C. Racusen
+AU  - Eleanor L. Ramos
+AU  - Seymour Rosen
+AU  - David H. Sachs
+AU  - Daniel R. Salomon
+AU  - Fred Sanfilippo
+AU  - Regina Verani
+AU  - Eeva von Willebrand
+AU  - Yutaka Yamaguchi
+JO  - Kidney International
+PY  - 1993
+VL  - 44
+IS  - 2
+SP  - 411
+EP  - 422
+DO  - 10.1038/ki.1993.259
+AN  - 8377384
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - MYCOPHENOLATE MOFETIL FOR THE PREVENTION OF ACUTE REJECTION IN PRIMARY CADAVERIC RENAL ALLOGRAFT RECIPIENTS
+AU  - H. W. SOLLINGER
+JO  - Transplantation
+PY  - 1995
+VL  - 60
+IS  - 3
+SP  - 225
+EP  - 232
+DO  - 10.1097/00007890-199508000-00003
+AN  - 7645033
+AB  - Mycophenolate mofetil (MMF), a new immunosuppressant that selectively inhibits proliferation of T and B lymphocytes, may reduce the frequency and severity of acute graft rejection. Acute graft rejection is the leading cause of graft loss in cadaveric renal transplantation. The purpose of this randomized, double-blind, multicenter study was to evaluate the efficacy and safety of MMF for the prevention of acute rejection episodes in adult patients during the first 6 months after renal transplantation. A total of 499 patients who were to receive a primary cadaveric renal allograft as their first transplant were randomized to receive MMF 1.0 g b.i.d. (MMF 2 g treatment group), MMF 1.5 g b.i.d. (MMF 3 g treatment group), or azathioprine 1-2 mg/kg/day. CsA, corticosteroids, and antithymocyte globulin (ATGAM) were administered as part of a quadruple sequential induction protocol. The primary efficacy endpoint was biopsy-proven rejection or treatment failure (defined as graft loss, death, or premature withdrawal from the study for any reason) during the first 6 months after transplant. All enrolled patients were included in the primary analyses of efficacy on the basis of intent to treat. The 495 patients who received study drug were included in the safety and secondary efficacy analyses. Biopsy-proven acute rejection episodes or treatment failure occurred in 47.6% of patients in the azathioprine group compared with 31.1% (P = 0.0015) and 31.3% (P = 0.0021) of patients in the MMF 2 g and 3 g treatment groups, respectively. Time to first biopsy-proven rejection episode or treatment failure was significantly longer for MMF 2 g versus azathioprine (P = 0.0036) and MMF 3 g versus azathioprine (P = 0.0006). First biopsy-proven rejection alone occurred in 38.0% of patients who received azathioprine compared with 19.8% and 17.5% of patients who received MMF 2 g and 3 g, respectively. Patients in the azathioprine group received a greater number of full courses of antirejection treatment as compared with the MMF 2 g and MMF 3 g groups (44.5%, 24.8%, and 21.1%, respectively). The use of antilymphocyte agents to treat rejection was greater in the azathioprine group (20.1%) compared with the MMF 2 g group (10.3%) and the MMF 3 g group (5.4%). At 6 months after transplant, graft and patient survival were similar in all 3 treatment groups.(ABSTRACT TRUNCATED AT 400 WORDS)
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Definitions of Cytomegalovirus Infection and Disease in Transplant Recipients
+AU  - Per Ljungman
+AU  - Paul Griffiths
+AU  - Carlos V. Payá
+JO  - Clinical Infectious Diseases
+PY  - 2002
+VL  - 34
+IS  - 8
+SP  - 1094
+EP  - 1097
+DO  - 10.1086/339329
+AN  - 11914998
+AB  - Cytomegalovirus (CMV) infection and disease are important causes of morbidity and mortality among transplant recipients. For the purpose of developing consistent reporting of CMV in clinical trials, definitions of CMV infection and disease were developed and published. This study seeks to update the definitions of CMV on the basis of recent developments in diagnostic techniques, as well as to add to these definitions the concept of indirect effects caused by CMV.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Interleukin-2–Receptor Blockade with Daclizumab to Prevent Acute Rejection in Renal Transplantation
+AU  - F. Vincenti
+AU  - Robert L. Kirkman
+AU  - Susan Light
+AU  - Ginny L. Bumgardner
+AU  - Mark D. Pescovitz
+AU  - Philip F. Halloran
+AU  - John F. Neylan
+AU  - Alan Wilkinson
+AU  - Henrik Ekberg
+AU  - Robert S. Gaston
+AU  - Lars Bäckman
+AU  - James F. Burdick
+JO  - New England Journal of Medicine
+PY  - 1998
+VL  - 338
+IS  - 3
+SP  - 161
+EP  - 165
+DO  - 10.1056/nejm199801153380304
+AN  - 9428817
+AB  - BACKGROUND: Monoclonal antibodies that block the high-affinity interleukin-2 receptor expressed on alloantigen-reactive T lymphocytes may cause selective immunosuppression. Daclizumab is a genetically engineered human IgG1 monoclonal antibody that binds specifically to the alpha chain of the interleukin-2 receptor and may thus reduce the risk of rejection after renal transplantation. METHODS: We administered daclizumab (1.0 mg per kilogram of body weight) or placebo intravenously before transplantation and once every other week afterward, for a total of five doses, to 260 patients receiving first cadaveric kidney grafts and immunosuppressive therapy with cyclosporine, azathioprine, and prednisone. The patients were followed at regular intervals for 12 months. The primary end point was the incidence of biopsy-confirmed acute rejection within six months after transplantation. RESULTS: Of the 126 patients given daclizumab, 28 (22 percent) had biopsy-confirmed episodes of acute rejection, as compared with 47 of the 134 patients (35 percent) who received placebo (P=0.03). Graft survival at 12 months was 95 percent in the daclizumab-treated patients, as compared with 90 percent in the patients given placebo (P=0.08). The patients given daclizumab did not have any adverse reactions to the drug, and at six months, there were no significant differences between the two groups with respect to infectious complications or cancers. The serum half-life of daclizumab was 20 days, and its administration resulted in prolonged saturation of interleukin-2alpha receptors on circulating lymphocytes. CONCLUSIONS: Daclizumab reduces the frequency of acute rejection in kidney-transplant recipients.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Randomised trial of basiliximab versus placebo for control of acute cellular rejection in renal allograft recipients
+AU  - Björn Nashan
+AU  - Richard H. Moore
+AU  - P L Amlot
+AU  - Albrecht-Georg Schmidt
+AU  - Kamal Abeywickrama
+AU  - Jean‐Paul Soulillou
+JO  - The Lancet
+PY  - 1997
+VL  - 350
+IS  - 9086
+SP  - 1193
+EP  - 1198
+DO  - 10.1016/s0140-6736(97)09278-7
+AN  - 9652559
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Use of Cytomegalovirus Immune Globulin to Prevent Cytomegalovirus Disease in Renal-Transplant Recipients
+AU  - David R. Snydman
+AU  - Barbara G. Werner
+AU  - Beverly Heinze-Lacey
+AU  - Victor P. Berardi
+AU  - N. L. Tilney
+AU  - R L Kirkman
+AU  - Edgar L. Milford
+AU  - Sang I. Cho
+AU  - Harry L. Bush
+AU  - Andrew S. Levey
+AU  - Terry B. Strom
+AU  - Charles B. Carpenter
+AU  - Raphael H. Levey
+AU  - William E. Harmon
+AU  - Clarence E. Zimmerman
+AU  - Michael E. Shapiro
+AU  - Theodore Steinman
+AU  - Frank LoGerfo
+AU  - Beldon Idelson
+AU  - Gerhard P.J. Schröter
+AU  - Myron J. Levin
+AU  - James McIver
+AU  - Jeanne Leszczynski
+AU  - George F. Grady
+JO  - New England Journal of Medicine
+PY  - 1987
+VL  - 317
+IS  - 17
+SP  - 1049
+EP  - 1054
+DO  - 10.1056/nejm198710223171703
+AN  - 2821397
+AB  - We undertook a prospective randomized trial to examine whether an intravenous cytomegalovirus (CMV) immune globulin would prevent primary CMV disease in renal-transplant recipients. Fifty-nine CMV-seronegative patients who received kidneys from donors who had antibodies against CMV were assigned to receive either intravenous CMV immune globulin or no treatment. The immune globulin was administered in multiple doses over the first four months after transplantation. The incidence of virologically confirmed CMV-associated syndromes was reduced from 60 percent in controls to 21 percent in recipients of CMV immune globulin (P less than 0.01). Fungal or parasitic superinfections were not seen in globulin recipients but occurred in 20 percent of controls (P = 0.05). Only 4 percent of globulin recipients had marked leukopenia (reflecting serious CMV disease), as compared with 37 percent of the controls (P less than 0.01). There was a concomitant but not statistically significant reduction in the incidence of CMV pneumonia (17 percent of controls as compared with 4 percent of globulin recipients). A significant reduction in serious CMV-associated disease was observed even when patients were stratified according to therapy for transplant rejection (P = 0.04). We observed no effect of immune globulin on rates of viral isolation or seroconversion, suggesting that treated patients often harbored the virus but that clinically evident disease was much less likely to develop in them. We conclude that CMV immune globulin provides effective prophylaxis in renal-transplant recipients at risk for primary CMV disease.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Emergence of ganciclovir-resistant cytomegalovirus disease among recipients of solid-organ transplants
+AU  - Ajit P. Limaye
+AU  - Lawrence Corey
+AU  - David M. Koelle
+AU  - Connie L. Davis
+AU  - Michael Boeckh
+JO  - The Lancet
+PY  - 2000
+VL  - 356
+IS  - 9230
+SP  - 645
+EP  - 649
+DO  - 10.1016/s0140-6736(00)02607-6
+AN  - 10968438
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Randomised trial of efficacy and safety of oral ganciclovir in the prevention of cytomegalovirus disease in liver-transplant recipients
+AU  - Edward Gane
+AU  - Faouzi Saliba
+AU  - Garcia Valdecasas
+AU  - John O'Grady
+AU  - Mark D. Pescovitz
+AU  - Susan K. Lyman
+AU  - Charles A. Robinson
+JO  - The Lancet
+PY  - 1997
+VL  - 350
+IS  - 9093
+SP  - 1729
+EP  - 1733
+DO  - 10.1016/s0140-6736(97)05535-9
+AN  - 9413463
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Valganciclovir Results in Improved Oral Absorption of Ganciclovir in Liver Transplant Recipients
+AU  - Mark D. Pescovitz
+AU  - John M. Rabkin
+AU  - Robert M. Merion
+AU  - Carlos V. Payá
+AU  - John D. Pirsch
+AU  - Richard B. Freeman
+AU  - John O'Grady
+AU  - Charles A. Robinson
+AU  - Zung To
+AU  - Kristina Wren
+AU  - Ludger Banken
+AU  - William Buhles
+AU  - Frances C. Brown
+JO  - Antimicrobial Agents and Chemotherapy
+PY  - 2000
+VL  - 44
+IS  - 10
+SP  - 2811
+EP  - 2815
+DO  - 10.1128/aac.44.10.2811-2815.2000
+AN  - 10991864
+AB  - The pharmacokinetics of an orally administered valine ester of ganciclovir (GCV), valganciclovir (VGC), were studied. These were compared to the pharmacokinetics of oral and intravenous GCV. Twenty-eight liver transplant recipients received, in an open-label random order with a 3- to 7-day washout, each of the following: 1 g of oral GCV three times a day; 450 mg of VGC per os (p.o.) once a day (q.d.); 900 mg of VGC p.o. q.d.; and 5 mg of intravenous (i.v.) GCV per kg of body weight q.d., given over 1 h. GCV and VGC concentrations were measured in blood over 24 h. One-sided equivalence testing was performed to test for noninferiority of 450 mg of VGC relative to oral GCV (two-sided 90% confidence interval [CI] > 80%) and nonsuperiority of 900 mg of VGC relative to i.v. GCV (two-sided 90% CI < 125%). The exposure of 450 mg of VGC (20.56 microg. h/ml) was found to be noninferior to that of oral GCV (20.15 microg. h/ml; 90% CI for relative bioavailability of 95 to 109%), and the exposure of 900 mg of VGC (42.69 microg. h/ml) was found to be nonsuperior to that of i.v. GCV (47.61 microg. h/ml; 90% CI = 83 to 97%). Oral VGC delivers systemic GCV exposure equivalent to that of standard oral GCV (at 450 mg) or i.v. GCV (at 900 mg of VGC). VGC has promise for effective CMV prophylaxis or treatment with once-daily oral dosing in transplant recipients.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - The Independent Role of Cytomegalovirus as a Risk Factor for Invasive Fungal Disease in Orthotopic Liver Transplant Recipients
+AU  - Marie J. George
+AU  - David R. Snydman
+AU  - Barbara G. Werner
+AU  - John L. Griffith
+AU  - Matthew E. Falagas
+AU  - N N Dougherty
+AU  - Robert H. Rubin
+JO  - The American Journal of Medicine
+PY  - 1997
+VL  - 103
+IS  - 2
+SP  - 106
+EP  - 113
+DO  - 10.1016/s0002-9343(97)80021-6
+AN  - 9274893
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Resistance of Human Cytomegalovirus to Antiviral Drugs
+AU  - Alejo Erice
+JO  - Clinical Microbiology Reviews
+PY  - 1999
+VL  - 12
+IS  - 2
+SP  - 286
+EP  - 297
+DO  - 10.1128/cmr.12.2.286
+AN  - 10194460
+AB  - Resistance of cytomegalovirus (CMV) to antiviral agents is a well-recognized phenomenon that has been observed in the laboratory and in the clinical setting. Infections caused by antiviral-resistant CMV have been found exclusively among immunocompromised individuals, including patients with AIDS, bone marrow and solid-organ transplant recipients, and patients with hematologic malignancies, and in individuals with primary immunodeficiencies. The majority of these infections have been described to occur in patients with AIDS receiving prolonged antiviral therapy for CMV end-organ disease. Antiviral agents currently licensed for the treatment of CMV infections include ganciclovir, foscarnet, and cidofovir. Resistance of CMV to ganciclovir is related to mutations in the UL97 region of the viral genome and/or mutations in the viral DNA polymerase. Resistance to foscarnet and cidofovir is associated with mutations in the viral DNA polymerase. Antiviral susceptibility of CMV strains containing DNA polymerase mutations is dependent on the region of the DNA polymerase where the mutations are located. Some DNA polymerase mutant viruses are cross-resistant to ganciclovir, foscarnet, and cidofovir. The recognition that specific UL97 and UL54 mutations are associated with resistance to antiviral agents has led to the development of molecular methods for detection of mutant viruses. This article reviews the mechanisms of resistance of CMV to antiviral agents, the laboratory methods for detection of resistant CMV, and the clinical aspects of infections caused by antiviral-resistant CMV.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - A Randomized, Placebo-Controlled Trial of Oral Acyclovir for the Prevention of Cytomegalovirus Disease in Recipients of Renal Allografts
+AU  - Henry H. Balfour
+AU  - Beverly A. Chace
+AU  - Jack T. Stapleton
+AU  - Richard L. Simmons
+AU  - David S. Fryd
+JO  - New England Journal of Medicine
+PY  - 1989
+VL  - 320
+IS  - 21
+SP  - 1381
+EP  - 1387
+DO  - 10.1056/nejm198905253202105
+AN  - 2541335
+AB  - Cytomegalovirus is a major viral pathogen in patients who undergo renal transplantation, and cytomegalovirus disease is difficult to treat. We therefore conducted a randomized, placebo-controlled, double-blind trial of acyclovir for the prevention of cytomegalovirus disease in recipients of renal allografts from cadavers. Acyclovir was given orally in doses of 800 to 3200 mg per day, according to the patients' estimated level of renal function. Patients took the first dose of either acyclovir or placebo six hours before transplantation and continued to take the assigned medication for 12 weeks. Of 118 patients enrolled in the study, 104 completed at least 30 days on the study medication and were included in our analysis of the results. During the first year after transplantation, 4 of 53 patients (7.5 percent) in the acyclovir group had symptomatic cytomegalovirus disease, as compared with 15 of 51 (29 percent) in the placebo group (P = 0.002). There was a single case of cytomegalovirus pneumonia in the acyclovir group, as compared with nine in the placebo group. The greatest prophylactic benefit of acyclovir was observed among seronegative patients who had received a kidney from a seropositive donor; only one of six such patients in the acyclovir group had cytomegalovirus disease, as compared with all seven in the placebo group. Acyclovir decreased the incidence of documented cytomegalovirus infection (with or without symptomatic disease) to 36 percent from 61 percent among the patients who received the placebo (P = 0.011). Among the patients who received acyclovir, the rates of recovery of virus from the blood and urine were significantly reduced, but the rate of viral shedding from the pharynx was not significantly different from that in the placebo group. There were no differences between the groups in the frequency of adverse events or in the rate of survival of either grafts or patients. We conclude that the oral administration of acyclovir, beginning before the transplantation of a renal allograft from a cadaver, reduces the rate of cytomegalovirus infection and disease without affecting the survival rate of either grafts or patients.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Impact of Cytomegalovirus Infection on Organ Transplant Recipients
+AU  - Robert H. Rubin
+JO  - Clinical Infectious Diseases
+PY  - 1990
+VL  - 12
+IS  - Supplement_7
+SP  - S754
+EP  - S766
+DO  - 10.1093/clinids/12.supplement_7.s754
+AN  - 2173105
+AB  - Cytomegalovirus (CMV) is the single most important infectious agent affecting recipients of organ transplants, with at least two-thirds of these patients having CMV infection 1-4 months after transplantation. Latently infected allografts are the major exogenous source of CMV infection in transplant recipients, although leukocyte-containing blood products can also transmit the virus. Three patterns of CMV infection are recognized: primary infection, reactivation infection, and superinfection. Primary infection has the greatest clinical impact. The clinical effects of CMV infection include infectious disease syndromes such as pneumonia and chorioretinitis; an immunosuppressed state that predisposes to potentially lethal opportunistic infection; and the initiation of a process that can result in allograft injury. Progress has been made in controlling CMV infection; hyperimmune anti-CMV globulin and certain antiviral drugs appear promising for prophylaxis, and the combination of hyperimmunoglobulin and ganciclovir appears promising for therapy.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Ganciclovir Prophylaxis of Cytomegalovirus Infection and Disease in Allogeneic Bone Marrow Transplant Recipients: Results of a Placebo-Controlled, Double-Blind Trial
+AU  - Drew J. Winston
+AU  - Winston G. Ho
+AU  - Kathy Bartoni
+AU  - Charles Du Mond
+AU  - Darlene F. Ebeling
+AU  - William C. Buhles
+AU  - Richard E. Champlin
+JO  - Annals of Internal Medicine
+PY  - 1993
+VL  - 118
+IS  - 3
+SP  - 179
+EP  - 184
+DO  - 10.7326/0003-4819-118-3-199302010-00004
+AN  - 8380243
+AB  - OBJECTIVE: To evaluate the efficacy and safety of ganciclovir for prevention of cytomegalovirus (CMV) infection and disease. DESIGN: A randomized, placebo-controlled, double-blind trial. SETTING: University-affiliated bone marrow transplant center. PATIENTS: Cytomegalovirus-seropositive allogeneic bone marrow transplant recipients. INTERVENTIONS: Random assignment to receive either a placebo or ganciclovir at a dose of 2.5 mg/kg body weight every 8 hours for 1 week before transplant and then at a dose of 6 mg/kg once per day, Monday through Friday, after transplant when the post-transplant neutrophil count reached 1.0 x 10(9)/L. MEASUREMENTS: Cytomegalovirus infection (positive culture, seroconversion, positive histologic findings), CMV disease (pneumonia, gastroenteritis, the wasting syndrome), and study-drug toxicity. RESULTS: Cytomegalovirus infection developed in 25 of 45 placebo patients (56%) but in only 8 of 40 ganciclovir patients (20%) (P < 0.001). Cytomegalovirus disease may also have occurred less often in the ganciclovir patients (4 of 40 patients [10%] versus 11 of 45 patients [24%]; P = 0.09). The probability of CMV disease occurring within the first 120 days after transplantation was 0.29 among the placebo patients but only 0.12 among ganciclovir patients (P = 0.06). Reversible neutropenia was the only appreciable toxicity related to ganciclovir and required interruption of the study drug after transplant in 25 of 43 ganciclovir patients (58%) and in 13 of 47 placebo patients (28%) (P = 0.005). Overall survival was similar in both the placebo patients (29 of 45 [64%]) and ganciclovir patients (28 of 40 [70%]; P > 0.2). CONCLUSIONS: Prophylactic ganciclovir, started before transplant and continued after recovery of the post-transplant neutrophil count, reduces the incidence and severity of CMV infection in CMV-sero-positive bone marrow transplant recipients but is frequently associated with neutropenia.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Guilt and dynamics of psychological disorder.
+AU  - Dirk Brinkmann
+AU  - John Rickman
+JO  - PubMed
+PY  - 1948
+VL  - 2
+IS  - 6521
+SP  - 302
+EP  - 4
+AN  - 18877585
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Ganciclovir
+AU  - Clyde S. Crumpacker
+JO  - New England Journal of Medicine
+PY  - 1996
+VL  - 335
+IS  - 10
+SP  - 721
+EP  - 729
+DO  - 10.1056/nejm199609053351007
+AN  - 8786764
+AB  - Ganciclovir is a nucleoside analogue of guanosine, a homologue of acyclovir, and the first antiviral drug to be effective in the treatment of cytomegalovirus (CMV) disease in humans.14 It inhibits not only all the herpesviruses but also the transformation of normal cord-blood lymphocytes by Epstein–Barr virus.57 In this review, I outline ganciclovir's mechanisms of action and resistance and discuss the clinical effectiveness of intravenous and oral ganciclovir.Mechanism of ActionThe structures of ganciclovir and of its analogue acyclovir are shown in Figure 1. In vivo, ganciclovir is converted to ganciclovir triphosphate, which inhibits viral DNA polymerases, including those...
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Clinical Approach to Infection in the Compromised Host
+AU  - Robert H. Rubin
+AU  - Lowell S. Young
+PY  - 1995
+DO  - 10.1007/978-1-4615-6642-7
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Infections with Cytomegalovirus and Other Herpesviruses in 121 Liver Transplant Recipients: Transmission by Donated Organ and the Effect of OKT3 Antibodies
+AU  - Namrata Singh
+AU  - J. Stephen Dummer
+AU  - Shimon Kusne
+AU  - M. K. Breinig
+AU  - John A. Armstrong
+AU  - L Makowka
+AU  - T. E. Starzl
+AU  - M. Ho
+JO  - The Journal of Infectious Diseases
+PY  - 1988
+VL  - 158
+IS  - 1
+SP  - 124
+EP  - 131
+DO  - 10.1093/infdis/158.1.124
+AN  - 2839576
+AB  - One hundred twenty-one adult liver transplant recipients were studied for the incidence, risk factors, and morbidity associated with herpesviruses infections after transplantation. The overall incidence of infection was 59% for cytomegalovirus (CMV), 35% for herpes simplex virus (HSV), 25% for Epstein-Barr virus (EBV), and 7% for varicella-zoster virus (VZV). Primary CMV infection occurred in 46% and reactivation CMV infection in 67% of the susceptible recipients. Symptomatic and disseminated CMV diseases were more common when patients developed primary infection (P less than.01, for both comparisons). The donor organ appeared to be the only important source of CMV infection in seronegative recipients. The use of OKT3 antibodies was associated with disseminated CMV disease in patients with primary infection (P =.04) but not with reactivation infection (P greater than.10). Although most HSV infections were oral or genital reactivations, three cases of HSV hepatitis occurred--one was a primary infection. Symptomatic reactivations of HSV were observed in 53% of HSV-seropositive recipients who received OKT3, versus 31% of seropositive recipients who did not receive OKT3 (P =.05).
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Oral Ganciclovir for the Prevention of Cytomegalovirus Disease in Persons with AIDS
+AU  - Stephen A. Spector
+AU  - George McKinley
+AU  - Jacob Lalezari
+AU  - Tobias Samo
+AU  - Robert Andruczk
+AU  - Stephen Follansbee
+AU  - Paula D. Sparti
+AU  - Diane V. Havlir
+AU  - Gail Simpson
+AU  - William Buhles
+AU  - Rodney Wong
+AU  - Mary Jean Stempien
+JO  - New England Journal of Medicine
+PY  - 1996
+VL  - 334
+IS  - 23
+SP  - 1491
+EP  - 1497
+DO  - 10.1056/nejm199606063342302
+AN  - 8618603
+AB  - BACKGROUND: In the advanced stages of the acquired immunodeficiency syndrome (AIDS), cytomegalovirus (CMV) disease, particularly vision-damaging retinitis due to CMV is common. We evaluated prophylactic treatment with orally administered ganciclovir as a way to prevent CMV disease. METHODS: We conducted a prospective, randomized, double-blind, placebo-controlled study of CMV infected persons with AIDS with either CD4+ lymphocyte counts of < or = 50 per cubic millimeter or counts of < or = 100 per cubic millimeter in those with a history of an AIDS defining opportunistic infection. Patients were randomly assigned, in a 2:1 ratio, to receive either oral ganciclovir (1000 mg three times daily) or placebo. RESULTS: The study was stopped after a median 367 days of follow-up. In an intention-to-treat analysis, the twelve month cumulative rates of confirmed CMV disease were 26 percent in the placebo group (n = 239) and 14 percent in the ganciclovir group (n = 486), representing an overall reduction in risk of 49 percent in the ganciclovir group (P < 0.001). The incidence of CMV retinitis after 12 months was 24 percent in the placebo group and 12 percent in the ganciclovir group (P < 0.0001). The prevalence of CMV-positive urine cultures at base line was 42 percent; after two months it was 43 percent in the placebo group and 10 percent in the ganciclovir group (P < 0.0001). The one year mortality rate was 26 percent in the placebo group and 21 percent in the ganciclovir group (P = 0.14). Therapy with granulocyte colony stimulating factor was more frequent in the ganciclovir group (24 percent) than in the placebo group (9 percent). CONCLUSIONS: In persons with advanced AIDS, phophylactic oral ganciclovir significantly reduces the risk of CMV disease.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Asymptotically efficient rank invariant test procedure (with discussion).
+AU  - Richard Peto
+JO  - Medical Entomology and Zoology
+PY  - 1972
+VL  - 135
+SP  - 185
+EP  - 206
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - CYTOMEGALOVIRUS INFECTION AND DONOR/RECIPIENT HLA ANTIGENS: INTERDEPENDENT CO-FACTORS IN PATHOGENESIS OF VANISHING BILEDUCT SYNDROME AFTER LIVER TRANSPLANTATION
+AU  - JohnG. O'Grady
+AU  - Sheena Sutherland
+AU  - Felicity Harvey
+AU  - R Y Calne
+AU  - GraemeJ.M. Alexander
+AU  - PeterT. Donaldson
+AU  - Bernard Portmann
+AU  - Roger Williams
+JO  - The Lancet
+PY  - 1988
+VL  - 332
+IS  - 8606
+SP  - 302
+EP  - 305
+DO  - 10.1016/s0140-6736(88)92356-2
+AN  - 2899720
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Randomised comparison of ganciclovir and high-dose acyclovir for long-term cytomegalovirus prophylaxis in liver-transplant recipients
+AU  - D. J. Winston
+AU  - D. Wirin
+AU  - A. Shaked
+AU  - Ronald W. Busuttil
+JO  - The Lancet
+PY  - 1995
+VL  - 346
+IS  - 8967
+SP  - 69
+EP  - 74
+DO  - 10.1016/s0140-6736(95)92110-9
+AN  - 7603215
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Preemptive Ganciclovir Therapy To Prevent Cytomegalovirus Disease in Cytomegalovirus Antibody-Positive Renal Transplant Recipients
+AU  - Patricia L. Hibberd
+AU  - Nina E. Tolkoff-Rubin
+AU  - David Conti
+AU  - Frank Stuart
+AU  - J. Richard Thistlethwaite
+AU  - John F. Neylan
+AU  - David R. Snydman
+AU  - Richard Freeman
+AU  - Marc I. Lorber
+AU  - Robert H. Rubin
+JO  - Annals of Internal Medicine
+PY  - 1995
+VL  - 123
+IS  - 1
+SP  - 18
+EP  - 26
+DO  - 10.7326/0003-4819-123-1-199507010-00002
+AN  - 7762909
+AB  - OBJECTIVE: To determine whether preemptive ganciclovir therapy administered daily during antilymphocyte antibody therapy can prevent cytomegalovirus disease in renal transplant recipients who are positive for cytomegalovirus antibody. DESIGN: Randomized, controlled, multicenter trial. SETTING: 6 university-affiliated transplantation centers. PATIENTS: 113 renal transplant recipients who were positive for cytomegalovirus antibody. INTERVENTION: Patients were randomly assigned to receive either 1) ganciclovir, 2.5 mg/kg body weight administered intravenously on every day that antilymphocyte antibody therapy was administered or 2) no anticytomegalovirus therapy. MEASUREMENTS: Patients were observed for 6 months after completion of antilymphocyte antibody therapy for development of cytomegalovirus disease and cytomegalovirus viremia. RESULTS: Cytomegalovirus disease occurred in 14% of patients (9 of 64) who received preemptive ganciclovir therapy and in 33% of controls (16 of 49) (P = 0.018). Cytomegalovirus was isolated from buffy-coat specimens from 17% of patients (11 of 64) receiving preemptive ganciclovir and from 35% of controls (17 of 49) (P = 0.03). Controlling for the reason (induction or treatment of rejection) for using antilymphocyte antibodies in a Cox proportional hazards model, we found that preemptive ganciclovir still protected against cytomegalovirus disease (adjusted relative risk, 0.27; 95% CI, 0.12 to 0.64). No adverse events were attributed to preemptive ganciclovir therapy during or within 6 months of its administration. CONCLUSIONS: Preemptive ganciclovir therapy administered daily during courses of treatment with antilymphocyte antibodies reduced the excessive occurrence of cytomegalovirus disease in renal transplant recipients who were positive for cytomegalovirus antibody. This approach, which links the most potent immunosuppression to intensive antimicrobial therapy, allows preventive therapy to be given to those patients at greatest risk for developing infectious complications. These patients are likely to benefit most from the preventive strategy.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - SYMPTOMATIC CYTOMEGALOVIRUS DISEASE IN THE CYTOMEGALOVIRUS ANTIBODY SEROPOSITIVE RENAL TRANSPLANT RECIPIENT TREATED WITH OKT31,2
+AU  - Patricia L. Hibberd
+AU  - Nina Tolkoff-Rubin
+AU  - A. Benedict Cosimi
+AU  - Robert T. Schooley
+AU  - DEBORAH ISAACSON
+AU  - Maureen Doran
+AU  - Angela Delvecchio
+AU  - Francis L. Delmonico
+AU  - Hugh Auchincloss
+AU  - Robert H. Rubin
+JO  - Transplantation
+PY  - 1992
+VL  - 53
+IS  - 1
+SP  - 68
+EP  - 72
+DO  - 10.1097/00007890-199201000-00013
+AN  - 1310173
+AB  - A prospective study to investigate risk factors for CMV disease was conducted in 94 renal transplant recipients. CMV disease was defined as either unexplained fever for greater than 3 days with viremia or unexplained fever for greater than 3 days with isolation of CMV from the urine or throat wash and at least one of the following: leukopenia, elevated serum alanine aminotransferase, or biopsy-proved invasive tissue infection of the lung or gastrointestinal tract. Fifty-three patients received immunosuppressive regimens consisting of prednisone and cyclosporine, with or without azathioprine. The remaining 41 patients were treated with these agents plus OKT3 (21 received OKT3 to treat rejection, 20 received OKT3 prophylactically). Thirty-seven patients were at minimal risk of CMV disease (donor and recipient seronegative for CMV); 12 patients were at risk of primary disease (donor seropositive, recipient seronegative), and 45 were at risk of reactivation disease (recipient seropositive at the time of transplantation). The incidences of CMV disease in the 3 groups were 0%, 58%, and 36%, respectively. Although the incidence of CMV disease in patients at risk of primary disease was not influenced by the immunosuppressive regimen, immunosuppression had a profound effect on the occurrence of CMV disease in CMV-seropositive transplant recipients. The incidence of CMV disease in those receiving OKT3 was 59%; but only 21% in those who did not receive OKT3. OKT3 increased the risk of CMV disease five-fold (odds ratio 5.2 (95% confidence limits 1.4-17.5)). In the CMV-seropositive patient, OKT3 was also the most important predictor of CMV disease by multivariate analysis (P less than 0.002). A pilot study of preemptive therapy with ganciclovir (2.5 mg/kg daily during OKT3 therapy) in 17 patients decreased the incidence of CMV disease without appreciable toxicity.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Infection in the Organ Transplant Recipient
+AU  - Robert H. Rubin
+PY  - 1994
+SP  - 629
+EP  - 705
+DO  - 10.1007/978-1-4615-2490-8_24
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Late-acute renal allograft rejection and symptomless cytomegalovirus infection
+AU  - P REINKE
+JO  - The Lancet
+PY  - 1994
+VL  - 344
+IS  - 8939-8940
+SP  - 1737
+EP  - 1738
+DO  - 10.1016/s0140-6736(94)92887-8
+AN  - 7741857
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Interrelationships among Quantity of Human Cytomegalovirus (HCMV) DNA in Blood, Donor‐Recipient Serostatus, and Administration of Methylprednisolone as Risk Factors for HCMV Disease following Liver Transplantation
+AU  - Alethea Cope
+AU  - Caroline Sabin
+AU  - Andrew K. Burroughs
+AU  - Keith Rolles
+AU  - Paul Griffiths
+AU  - Vincent C. Emery
+JO  - The Journal of Infectious Diseases
+PY  - 1997
+VL  - 176
+IS  - 6
+SP  - 1484
+EP  - 1490
+DO  - 10.1086/514145
+AN  - 9395358
+AB  - Longitudinal analysis of 162 liver transplant recipients identified 51 patients who were viremic. Virus load was determined in 47 of these patients using quantitative-competitive polymerase chain reaction. Peak virus load was significantly higher in 20 symptomatic patients than 27 asymptomatic patients (P <.0001). Elevated virus load, donor seropositivity, and total methylprednisolone dosage were risk factors for human cytomegalovirus (HCMV) disease (odds ratio [OR], 2.22/0.25 log10 increase in virus load, P =.001; OR, 4.11, P =.05; OR, 1.30/1-g increment in methylprednisolone, P =.01). Methylprednisolone and virus load were independent risk factors in a multivariate analysis (OR, 2.70/1-g increase, P =.003; OR, 1.61/0.25 log10 increase, P =.03, respectively). Virus loads of 10(4.75)-10(5.25) genomes/mL of blood were associated with an increased disease probability; the latter was shifted to lower virus loads with increasing quantities of methylprednisolone. These data illustrate the central role of virus load in HCMV pathogenesis.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Infections in Liver Transplant Recipients
+AU  - D. J. Winston
+AU  - C. Emmanouilides
+AU  - Ronald W. Busuttil
+JO  - Clinical Infectious Diseases
+PY  - 1995
+VL  - 21
+IS  - 5
+SP  - 1077
+EP  - 1091
+DO  - 10.1093/clinids/21.5.1077
+AN  - 8589125
+AB  - Journal Article Infections in Liver Transplant Recipients Get access Drew J. Winston, Drew J. Winston From the Division of Hematology-Oncology, Department of Medicine; and the Dumont-UCLA Transplant Center, Department of Surgery, UCLA Center for the Health Sciences, Los Angeles, California Reprints or correspondence: Dr. Drew J. Winston, Room 42-121 CHS, Department of Medicine, UCLA Medical Center, Los Angeles, California 90095. Search for other works by this author on: Oxford Academic PubMed Google Scholar Christos Emmanouilides, Christos Emmanouilides From the Division of Hematology-Oncology, Department of Medicine; and the Dumont-UCLA Transplant Center, Department of Surgery, UCLA Center for the Health Sciences, Los Angeles, California Search for other works by this author on: Oxford Academic PubMed Google Scholar Ronald W. Busuttil Ronald W. Busuttil From the Division of Hematology-Oncology, Department of Medicine; and the Dumont-UCLA Transplant Center, Department of Surgery, UCLA Center for the Health Sciences, Los Angeles, California Search for other works by this author on: Oxford Academic PubMed Google Scholar Clinical Infectious Diseases, Volume 21, Issue 5, November 1995, Pages 1077–1091, https://doi.org/10.1093/clinids/21.5.1077 Published: 01 November 1995 Article history Received: 08 March 1995 Published: 01 November 1995
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Cytomegalovirus Retinitis and Viral Resistance
+AU  - Douglas A. Jabs
+AU  - Cheryl Enger
+AU  - James P. Dunn
+AU  - Michael Forman
+AU  - for the CMV Retinitis
+AU  - Viral Resistance Study Group
+JO  - The Journal of Infectious Diseases
+PY  - 1998
+VL  - 177
+IS  - 3
+SP  - 770
+EP  - 773
+DO  - 10.1086/514249
+AN  - 9498461
+AB  - Cytomegalovirus (CMV) retinitis is among the most common opportunistic infections in patients with AIDS and a substantial cause of visual loss. With long-term therapy, resistant CMV may develop. In a prospective study of 108 patients with CMV retinitis, 80.6% of patients were found to have either a positive blood culture or positive urine culture for CMV at the diagnosis of retinitis. At diagnosis of retinitis, 0.9% and 2.7% of patients had a ganciclovir-resistant blood culture isolate and urine culture isolate, respectively. Of 76 patients initially treated with ganciclovir, 11.4% had a resistant blood or urine culture isolate by 6 months of treatment and 27.5% by 9 months. The development of ganciclovir resistance during follow-up correlated with the occurrence of CMV retinitis in the contralateral eye (odds ratio = 9.06, P =.003).
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Cytomegalovirus Hepatitis in Liver Transplantation: Prospective Analysis of 93 Consecutive Orthotopic Liver Transplantations
+AU  - C. V. Paya
+AU  - Paul E. Hermans
+AU  - Russell H. Wiesner
+AU  - J. Ludwig
+AU  - Thomas F. Smith
+AU  - Jorge Rakela
+AU  - Ruud A. F. Krom
+JO  - The Journal of Infectious Diseases
+PY  - 1989
+VL  - 160
+IS  - 5
+SP  - 752
+EP  - 758
+DO  - 10.1093/infdis/160.5.752
+AN  - 2553824
+AB  - Ninety-three consecutive orthotopic liver transplantations in 78 patients were followed prospectively to study the incidence of cytomegalovirus (CMV) hepatitis. CMV hepatitis occurred in 13 (17%). The diagnosis was established by both histology and culture in 5, only by histology in 6, and only by culture in 2. All 13 patients had CMV viruria and 9 had viremia at diagnosis. CMV hepatitis developed in 64% of CMV-seronegative (pretransplantation) patients who received a liver from a CMV-seropositive donor, compared with 3% or 6% of CMV-seropositive patients who received a liver from a CMV-seronegative or CMV-seropositive donor, respectively (P less than.001). CMV hepatitis was not a cause of fulminant or irreversible liver dysfunction in any of the 13 cases. Ganciclovir was administered to 6 of the 13 patients and was associated with clinical and virologic cure in 5. CMV hepatitis was self-limited in patients not treated with ganciclovir (illness less severe). The presence of inclusions within the liver tissue correlated with active disease.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Preemptive Use of Oral Ganciclovir to Prevent Cytomegalovirus Infection in Liver Transplant Patients: A Randomized, Placebo‐Controlled Trial
+AU  - Carlos V. Payá
+AU  - Jennie Wilson
+AU  - Mark J. Espy
+AU  - Irene G. Sia
+AU  - M DeBernardi
+AU  - Thomas F. Smith
+AU  - Robin Patel
+AU  - G. Douglas Jenkins
+AU  - William S. Harmsen
+AU  - David J. Vanness
+AU  - Russell H. Wiesner
+JO  - The Journal of Infectious Diseases
+PY  - 2002
+VL  - 185
+IS  - 7
+SP  - 854
+EP  - 860
+DO  - 10.1086/339449
+AN  - 11920308
+AB  - The use of postdetection antiviral treatment of cytomegalovirus (CMV) as a strategy to prevent infection and disease in solid-organ transplant patients has not been evaluated by placebo-controlled trials. We carried out such a study in 69 patients who had received liver transplants and had positive results of CMV polymerase chain reaction within 8 weeks after transplantation but did not have concomitant CMV infection or disease. These patients were randomly assigned to receive placebo or oral ganciclovir for 8 weeks. CMV infection developed in 21% and disease developed in 12% of placebo recipients (P =.022), compared with 3% and 0%, respectively, among ganciclovir recipients (P =.003). Similarly, in the placebo arm, 55% and 36% of CMV-negative patients who received organs from CMV-positive donors developed CMV infection or disease, respectively (P =.02), compared with 11% and 0% of such patients in the ganciclovir arm (P <.01). Oral ganciclovir administered on CMV detection by PCR prevents CMV infection or disease after liver transplantation.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Prevention of primary cytomegalovirus disease in organ transplant recipients with oral ganciclovir or oral acyclovir prophylaxis
+AU  - R H Rubin
+AU  - Sandra A. Kemmerly
+AU  - D Conti
+AU  - Maureen Doran
+AU  - Brian M. Murray
+AU  - John F. Neylan
+AU  - Christian Pappas
+AU  - D.E. Pitts
+AU  - Robin K. Avery
+AU  - Martha Pavlakis
+AU  - Ramon Del Busto
+AU  - David DeNofrio
+AU  - Emily A. Blumberg
+AU  - David Schoenfeld
+AU  - Thomas J. Donohue
+AU  - S.A. Fisher
+AU  - Jay A. Fishman
+JO  - Transplant Infectious Disease
+PY  - 2000
+VL  - 2
+IS  - 3
+SP  - 112
+EP  - 117
+DO  - 10.1111/j.1399-3062.2000.020303.x
+AN  - 11429021
+AB  - BACKGROUND: Optimal prophylaxis against cytomegalovirus (CMV) disease for organ transplant patients at risk for primary infection (donor seropositive, recipient seronegative, D+R-) remains to be determined. We hypothesized that prolonged oral ganciclovir therapy following intravenous therapy would provide increased protection. METHODS: A total of 155 evaluable D+R- organ transplant recipients from 13 transplant centers were entered into the study: all received intravenous ganciclovir (5 mg/kg/day) for 5-10 days and then either oral acyclovir (400 mg tid) or oral ganciclovir (1 g tid) for an additional 12 weeks. Patients were assigned to their treatment groups at a central randomization site, with a separate randomization scheme for each of the organs transplanted (kidney, heart, or liver). In the case of kidney transplants, the patients were stratified according to source of the kidney (living related vs. cadaveric donor). The primary endpoint was the incidence of CMV disease in the first six months post-transplant. RESULTS: Treatment with oral ganciclovir was associated with a significant decrease in the incidence of symptomatic disease or viremia when compared with the oral acyclovir group (32% vs. 50%, P<0.05). This difference was most marked in terms of tissue invasive disease: only 3 of 15 symptomatic patients in the ganciclovir group vs. 10 of 21 in the acyclovir group developed tissue-invasive infection (P<0.05). There was a significant difference in the time to CMV disease or viremia in the two groups: mean time 212+/-17 days post-transplant for the acyclovir group vs. 291+/-13 days for the ganciclovir group (P<0.001). The incidence of allograft rejection was 34% in the ganciclovir group and 46% in the acyclovir group (P=NS). Leukopenia was more common in the ganciclovir group (P<0.05), but in no case did it require drug discontinuation. Ganciclovir resistance did not develop in this study. CONCLUSION: Prophylaxis with oral ganciclovir following a brief course of intravenous ganciclovir provides useful protection against primary CMV disease.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Prevention of Cytomegalovirus Disease in Recipients of Solid-Organ Transplants
+AU  - David R. Snydman
+AU  - C. V. Paya
+JO  - Clinical Infectious Diseases
+PY  - 2001
+VL  - 32
+IS  - 4
+SP  - 596
+EP  - 603
+DO  - 10.1086/318724
+AN  - 11181123
+AB  - The introduction and combination of more-potent immunosuppressive regimens, and the increased transplantation of organs into more severely ill patients, have again placed cytomegalovirus (CMV) disease in the spotlight of posttransplantation complications. Both direct and associated complications related to CMV need to be considered in understanding the pathogenesis of CMV infection after solid-organ transplantation. New diagnostic methods with higher sensitivity for the detection of CMV and the ability to quantify CMV indicate that low levels of CMV replication are present in many patients who don't have clinical symptoms ascribed to CMV infection. How these low levels of CMV replication impact the outcome of the transplanted graft remains unknown. In addition, there needs to be further study regarding whether only patients at high risk for developing CMV disease or, also, those with clinically asymptomatic levels of CMV replication should be the target of effective preventive regimens. This review summarizes our current knowledge of the pathogenesis of CMV infection after solid-organ transplantation, and it outlines different effective preventive regimens and approaches.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - CYTOMEGALOVIRUS ANTIGENEMIA DIRECTED PRE-EMPTIVE PROPHYLAXIS WITH ORAL VERSUS I.V. GANCICLOVIR FOR THE PREVENTION OF CYTOMEGALOVIRUS DISEASE IN LIVER TRANSPLANT RECIPIENTS1
+AU  - Nina Singh
+AU  - David L. Paterson
+AU  - Timothy Gayowski
+AU  - Marilyn M. Wagener
+AU  - Ignazio R. Marino
+JO  - Transplantation
+PY  - 2000
+VL  - 70
+IS  - 5
+SP  - 717
+EP  - 722
+DO  - 10.1097/00007890-200009150-00002
+AN  - 11003347
+AB  - BACKGROUND: The efficacy of pre-emptively administered oral ganciclovir in preventing cytomegalovirus (CMV) disease has not been documented in liver transplant recipients. We sought to compare the efficacy of pre-emptive oral ganciclovir with that of i.v. ganciclovir for the prevention of CMV disease after liver transplantation, and to determine whether withholding prophylaxis in the absence of CMV antigenemia, reliably identified patients in whom no prophylaxis was necessary. METHODS: Surveillance cultures for CMV pp65 antigenemia were performed in all patients at weeks 2, 4, 6, 8, 12, and 16. Patients with CMV antigenemia were randomized into two study groups. The experimental group received oral ganciclovir for 6 weeks (2 g t.i.d. for 2 weeks, then 1 g t.i.d. for 4 weeks), and the control group received i.v. ganciclovir (5 mg/kg q 12 hr) for 7 days. RESULTS: Of 72 consecutive liver transplant recipients studied, CMV antigenemia occurred in 31% (22 of 72). Twenty-two patients with asymptomatic antigenemia were randomized to two study groups. CMV disease (viral syndrome) occurred in 9% (1 of 11) of the patients in the i.v. ganciclovir group and in 0% (0 of 11) of the patients in the oral ganciclovir group. None of the study patients developed tissue invasive CMV disease. The median reduction in antigenemia level with oral ganciclovir was 55% at week 1, and 100% at week 2. Overall, 64% of the patients by week 1, 93% by week 2, and 100% by week 4 had antigenemia levels below the baseline after oral ganciclovir. Of 50 patients without CMV antigenemia, none developed CMV disease. CONCLUSIONS: Pre-emptive prophylaxis based on CMV antigenemia can effectively target the patients for CMV prophylaxis; 69% of the patients never received antiviral prophylaxis and did not develop CMV disease. Antiviral therapy instituted upon detection of antigenemia prevented tissue invasive CMV in both ganciclovir groups. Pre-emptively administered oral ganciclovir was effective as prophylaxis for CMV disease after liver transplantation.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Ganciclovir absolute bioavailability and steady-state pharmacokinetics after oral administration of two 3000-mg/d dosing regimens in human immunodeficiency virus— and cytomegalovirus-seropositive patients
+AU  - Roger D. Anderson
+AU  - Kay Griffy
+AU  - Donald Jung
+AU  - Albert Door
+AU  - James D. Hulse
+AU  - Randall B. Smith
+JO  - Clinical Therapeutics
+PY  - 1995
+VL  - 17
+IS  - 3
+SP  - 425
+EP  - 432
+DO  - 10.1016/0149-2918(95)80107-3
+AN  - 7585846
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Oral Ganciclovir as Maintenance Treatment for Cytomegalovirus Retinitis in Patients with AIDS
+AU  - William Drew
+AU  - David Ives
+AU  - Jacob Lalezari
+AU  - Clyde S. Crumpacker
+AU  - Stephen Follansbee
+AU  - Stephen A. Spector
+AU  - Constance A. Benson
+AU  - Dorothy N. Friedberg
+AU  - Larry D. Hubbard
+AU  - Mary Jean Stempien
+AU  - Anna Shadman
+AU  - William Buhles
+JO  - New England Journal of Medicine
+PY  - 1995
+VL  - 333
+IS  - 10
+SP  - 615
+EP  - 620
+DO  - 10.1056/nejm199509073331002
+AN  - 7637721
+AB  - BACKGROUND: Cytomegalovirus retinitis, a sight-threatening infection associated with the acquired immunodeficiency syndrome (AIDS), currently requires lifelong intravenous treatment. An effective oral treatment would be an important advance. METHODS: We compared oral with intravenous ganciclovir in an open-label, randomized study in patients with AIDS and newly diagnosed, stable cytomegalovirus retinitis (the disease was stabilized by three weeks of treatment with intravenous ganciclovir). Sixty subjects were randomly assigned to maintenance therapy with intravenous ganciclovir at a dose of 5 mg per kilogram of body weight daily, and 63 to maintenance therapy with oral ganciclovir at a dose of 3000 mg daily. The subjects were followed for up to 20 weeks, with photography of the fundi conducted every other week. The photographs were evaluated at the completion of the study by an experienced grader who was unaware of the subjects' treatment assignments. RESULTS: Efficacy could be evaluated in 117 subjects; photographs were ungradable for 2 of the 117. On the basis of the masked assessment of photographs from 115 subjects, the mean time to the progression of retinitis was 62 days in those given intravenous ganciclovir and 57 days in those given oral ganciclovir (P = 0.63; relative risk [oral vs. intravenous], 1.08; 95 percent confidence interval for the difference in means, -22 to +12 days). On the basis of funduscopy by ophthalmologists who were aware of the subjects' treatment assignments, the mean time to progression was 96 days in subjects given intravenous ganciclovir and 68 days in subjects given oral ganciclovir (P = 0.03; relative risk [oral vs. intravenous], 1.68; 95 percent confidence interval for the difference in means, -45 to -11 days). Survival, changes in visual acuity, the incidence of viral shedding, and the incidence of adverse gastrointestinal events were similar in the two groups. Neutropenia, anemia, intravenous-catheter-related adverse events, and sepsis were more common in the group given intravenous ganciclovir. CONCLUSIONS: Oral ganciclovir is safe and effective as maintenance therapy for cytomegalovirus retinitis and is more convenient for patients to take than intravenous ganciclovir.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - CYTOMEGALOVIRUS PROPHYLAXIS IN SOLID ORGAN TRANSPLANT RECIPIENTS
+AU  - Robin Patel
+AU  - David R. Snydman
+AU  - Robert H. Rubin
+AU  - Monto Ho
+AU  - Mark D. Pescovitz
+AU  - Maureen Martin
+AU  - Carlos V. Payá
+JO  - Transplantation
+PY  - 1996
+VL  - 61
+IS  - 9
+SP  - 1279
+EP  - 1289
+DO  - 10.1097/00007890-199605150-00001
+AN  - 8629285
+AB  - Symptomatic cytomegalovirus (CMV*) infection occurs in 8%, 29%, 25%, and 39% of kidney, liver, heart, and heartlung transplant recipients, respectively (1). CMV is transmitted to transplant recipients mainly by the donor organ and to a lesser degree by blood products (2). In the solid organ transplant recipient, CMV is related to: (1) infectious diseases syndromes and organ involvement (lung, liver, gastro-intestinal, retinitis, among others); (2) increased immunosuppression (hence its frequent association with other opportunistic infections, e.g., fungal and Pneumocystis) (3); and (3) although controversial, acute and chronic allograft injury (4, 5). The diagnosis of CMV infection is based on the recognition of cytomegalic inclusion bodies in tissue. In addition, tube cell and shell vial culture techniques are used to detect replicating CMV in body fluids and in tissue. Demonstration of CMV in blood (viremia) or in tissue biopsies is highly correlated with the presence of clinically active or impending infection, whereas isolation of the virus from urine or respiratory secretions is frequently a marker of asymptomatic infection. Direct detection of antigenemia in blood leukocytes of transplant recipients is sensitive and more rapid than the shell vial technique, and provides an early marker of active CMV infection (6, 7). Polymerase chain reaction (PCR) techniques can detect CMV DNA in peripheral blood leukocytes (8), serum or plasma (9), and other clinical specimens, as well as CMV RNA in peripheral blood leukocytes. The clinical usefulness of PCR is currently being evaluated. Risk factor analyses have provided important clues to identify those patients at high risk for symptomatic CMV infection, reflecting in part the pathogenesis of CMV following solid organ transplantation. A lack of cellular and humoral immunity, as defined by the absence of anti-CMV antibodies, places the recipient in the high-risk category upon receiving a CMV seropositive donor's organ or other exogenous source of CMV (e.g., blood transfusion). In addition, antilymphocyte immunoglobulins (antithymocyte globulin, antilymphocyte globulin, OKT3 mAb), used either as induction therapy or for allograft rejection treatment, enhance the rate of symptomatic CMV infection, especially in CMV seropositive individuals (10, 11). Although more information is needed about the biology of CMV, viral load may play an important role in identifying patients at higher risk. For example, the high rate of symptomatic CMV infection in lung and gastrointestinal transplant recipients may reflect the transplantation of a higher latent CMV load contained in a larger amount of tissue with increased endothelial and lymphoid compartments. Thus, prophylactic measures found to be effective for renal transplantation may not apply to lung or gastrointestinal transplantation. Likewise, lessons learned from CMV infection in bone marrow transplantation can be only partially extrapolated to the nonhomogenous field of solid organ transplantation due to differences in pathogenesis. The ideal CMV prophylactic regimen should be characterized as: (1) effective in an oral formulation if frequent administration is required or in an intravenous formulation that can be given at infrequent intervals (i.e., weekly); (2) safe, thus requiring minimal laboratory evaluations and having a wide therapeutic range to avoid monitoring of levels; (3) having minimal interactions with conventional “transplantation” medications; (4) pan virustatic-cidal to cover not only CMV but other herpes family viruses (herpes simplex virus, varicella-zoster virus, Epstein-Barr virus, human herpesvirus 6), with a low chance of inducing antiviral resistance; (5) administered only to patients at risk for symptomatic CMV infection; and (6) cost effective. Based on the current state-of-the-art CMV prophylaxis and treatment, significant advances need to be made in order to achieve the above goals. Current prophylactic approaches vary widely among different transplant programs. Reasons for the discrepancies reflect the absence of large, multicentered, randomized trials. In addition, results of small single-center studies are frequently difficult to reproduce, as differences in endpoints, definitions, viral surveillance (frequency, methodology), type of immunosuppressive regimen, patient populations, and frequency of antilymphocyte antibody treatment are common. More importantly, inherent differences among the type of solid organ transplanted need to be considered. This results in a myriad of prophylactic regimens, many of which may be insufficient or even excessive, from both effectiveness and cost perspectives. This Overview summarizes currently available data addressing the prophylaxis of CMV, clarifies key points that should serve for the design of rational prophylaxis regimens utilizing current antiviral agents, and outlines future alternative strategies as new agents and approaches become available. SERONEGATIVE CMV BLOOD PRODUCTS AND PROTECTIVE MATCHING The use of CMV seronegative blood products was first shown to be effective in preventing CMV infection in CMV seronegative bone marrow transplant recipients, and subsequently in studies in solid organ transplant recipients (12). A disadvantage of CMV seronegative blood products is their scarcity in areas with a high prevalence of CMV antibodies. In this situation, filtered or leukocyte-poor blood products, which are associated with a very low risk of CMV transmission, are useful (12). CMV seronegative, filtered blood products or leukocyte-poor blood should be used for all transfusions given to seronegative recipients (12). Knowledge of CMV serostatus of the donor and recipient before transplantation will predict which patients will develop CMV disease. Although the patient at highest risk for CMV infection is the seronegative recipient of a seropositive allograft, protective matching of seronegative donors and seronegative recipients is not practical due to the scarcity of donor organs. VACCINATION In theory, one of the simplest interventions to prevent CMV infection and disease after solid organ transplantation would be immunization of seronegative recipients with a vaccine given once in anticipation of future viral challenge. A candidate live attenuated CMV Towne strain vaccine was first tested in the mid-1970s in normal volunteers, and randomized, placebo-controlled, double-blind trials of the Towne vaccine in renal transplant recipients subsequently demonstrated that the vaccine was both safe and immunogenic. In two separate studies, the vaccine did not decrease the incidence of CMV infection or disease but decreased the severity of symptoms in the “high-risk” (D+/R-) group (13, 14). Renewed efforts are underway to evaluate subunit vaccines containing recombinant glycoproteins (B, H) by several biotechnology companies (15). Although complete protection against CMV may not be achieved by a vaccine, partial protection against the serious manifestations of CMV infection and disease could be possible. Moreover, a suboptimal vaccine could be considered in “combination” with other current regimens, such as antiviral agents and/or immunoglobulin. PASSIVE IMMUNOPROPHYLAXIS Since immunity to CMV prior to transplantation decreases the incidence of CMV disease following transplantation, boosting the immune system after transplantation should have a beneficial effect in decreasing CMV disease. Expanding the number and function of virus-specific cytotoxic T lymphocytes to reduce the incidence of CMV disease following bone marrow transplantation is now a reality (16). In addition, the humoral CMV immune response can theoretically be boosted with specific CMV immunoglobulin (Ig). Passive immunization with intravenous Ig has been used in an attempt to prevent CMV infection and disease in solid organ transplant recipients. Both unscreened (unselected) and hyperimmune globulin preparations have been studied. CMV hyperimmune globulin (CMVIG) is obtained from CMV seropositive donors and standardized for a high titer of CMV antibody content. Thus it is 4- to 8-fold enriched in anti-CMV titer as compared with unselected immune globulin. The currently approved unselected polyclonal Ig preparations are difficult to compare because of differences in the process of manufacturing, donor pool sources, and IgG compositions even among lots of the same preparation. Furthermore, there are no standardized laboratory assays for evaluation of their efficacy. Neutralization assays have been proposed to predict activity of the different preparations, but a direct correlation between CMV antibodies measured by neutralization, ELISA, or other assays and protection in humans has not been demonstrated. Indeed, in the murine CMV model, monoclonal antibodies that are protective against lethal murine CMV challenge are not neutralizing and vice versa (17). The incidence of adverse effects related to Ig administration is less than 5% and manifestations are generally mild and self-limited. Anaphylactic reactions have been described in patients with IgA deficiency given preparations that contain IgA. Recent reports have demonstrated contamination of some Ig preparations from specific manufacturers with hepatitis C virus (18). However, all currently manufactured preparations require both screening of the plasma pools for anti-HCV antibody and removal of such pools from the Ig, as well as a specific additional viral inactivation step. Notably, no adventitious viral agent has ever been transmitted from an immune globulin manufactured in the United States using the traditional Conn fractionation process. Whether there is the potential for transmission of other as yet unidentified pathogens is unknown. Results from randomized controlled trials in renal transplant recipients indicate that Ig prevent CMV disease (both unscreened and hyperimmune globulin) in some (19-21) but not all trials (22)(Table 1). Based on these studies, CMVIG is now licensed by the U.S. Food and Drug Administration for use in renal transplantation. In liver transplantation, unselected Ig does not reduce CMV disease (23), while use of CMV hyperimmune globulin prevents CMV disease in non-D+/R- liver transplant recipients (24). A subsequent analysis of the latter study, however, and an additional study demonstrated a reduction in CMV disease in D+/R- liver transplant recipients given CMV hyperimmune globulin (25, 26). A randomized trial in heart, lung, and kidney transplant recipients showed no differences when acyclovir was used with or without unselected Ig (27). A secondary beneficial effect of CMVIG is that it reduces other opportunistic infection following transplantation (24). The discrepancies between the above studies likely arise because of a lack of uniformity in study design. Nevertheless, a recent meta-analysis of the use of Ig to prevent symptomatic CMV disease in transplant recipients showed a beneficial effect (common odds ratio, 0.59 [95% confidence interval, 0.39-0.86]) of Ig as compared with no treatment (28). While in this analysis no apparent advantage was provided by the use of hyperimmune globulin over unselected Ig, bone marrow and solid organ transplant recipients were pooled together; thus two separate pathogenic processes were combined. When the solid organ transplantation data are analyzed in isolation, there is evidence that hyperimmune globulin is superior to unselected Ig in preventing CMV disease (29). Together, results from randomized trials in solid organ transplants indicate that: (1) Ig confers some degree of efficacy in preventing CMV disease, being more consistent with CMVIG preparations. (2) These benefits are attenuated when antilymphocyte antibody therapy is utilized. (3) Renal transplant recipients are more likely to have a beneficial effect from CMVIG than are extrarenal (e.g., liver) transplant recipients, especially within the high-risk group (D+/R-). (4) Advantages include the relatively infrequent administration (weekly intervals) and the lack of need for continuous intravenous access. (5) Disadvantages include cost (Table 2), although current studies are underway to determine the decreased expense incurred in patient management by successfully prophylaxing CMV. Formal comparisons between effective antiviral agents and CMVIG will need to be performed to address cost and side effects (30). Presently, CMVIG alone appears to be effective in reducing CMV disease in renal recipients; this approach is cost effective, at least in D+/R- renal transplant recipients (31). In liver and perhaps in heart and pancreas transplant recipients, the high-risk (D+/R-) group requires enhanced prophylaxis, which may be achieved by combining CMVIG with antiviral agents. ANTIVIRAL THERAPY Acyclovir Acyclovir, in its phosphorylated form, acts as a competitive inhibitor of viral DNA polymerase. It should be an ideal prophylactic agent for CMV since it can be given orally and is relatively inexpensive and safe. However, it possesses little in vitro activity against CMV at clinically achievable levels. In spite of this, acyclovir was first shown to prevent CMV infection and disease in bone marrow transplant recipients (34). This led to study of the role of acyclovir in CMV prophylaxis following solid organ transplantation (Table 3). One prospective, randomized, placebo-controlled study showed that acyclovir prevented CMV infection and disease following renal transplantation (35), and a randomized but non-place-bo-controlled study showed similar results when intravenous followed by oral acyclovir was used in liver transplantation (36). However, these results have not been confirmed by other studies (37), and further analysis from the same institution that demonstrated the prophylactic efficacy of acyclovir in renal transplant recipients (including some of the patients in the original study) (35) showed, as part of a study of rejection prophylaxis regimens, no difference in the incidence of CMV disease in D+/R- patients (a subgroup of patients who were particularly benefited in the original study) (38). Side effects of acyclovir include phlebitis after intravenous infusion, renal toxicity, confusion, delirium, lethargy, light-headedness, tremors, seizures, nausea, vomiting, and rash. Although acyclovir meets many of the criteria of an ideal prophylactic drug, its efficacy as an anti-CMV compound remains to be clearly established. Based on the current data, oral acyclovir may be indicated as a primary agent for non-high-risk renal transplant recipients. If it is shown that prolonged intravenous administration is effective, such results should then be compared with intravenous ganciclovir. Evaluation of a valine ester of acyclovir (valacyclovir), with higher oral absorption and higher serum levels than oral acyclovir, has been completed in bone marrow and renal transplant patients in a multicenter, blinded fashion. Results from these studies should settle the role of acyclovir as a useful anti-CMV agent in renal transplantation. Ganciclovir Ganciclovir (9-[1,3-dihydroxy-2-propoxymethyl]guaninine) has excellent in vitro activity against all members of the herpes family of viruses. It is phosphorylated to ganciclovir 5′-monophosphate by a protein encoded by the UL97 open reading frame of human CMV, and then to the di- and triphosphate form by host cellular kinases (39). The active drug inhibits DNA polymerase and competes with deoxyguanosine triphosphate to act as a terminator of biosynthesis of the viral strand. As with acyclovir, most studies of ganciclovir prophylaxis are difficult to interpret because they lack control groups or instead compare ganciclovir with acyclovir or different preparations of immune globulins (Table 3). In general, the idea of intravenous antiviral prophylaxis is to administer medication the following transplantation when patients are and intravenous is In heart transplant recipients, intravenous ganciclovir administered for to after transplantation reduces CMV disease in CMV seropositive recipients but not in the high-risk (D+/R-) group in the (D+/R-) renal transplant recipient, intravenous ganciclovir administered from to after transplantation is of little use in reducing CMV disease studies in solid organ transplant and liver recipients While some indicate a lack of effectiveness of ganciclovir alone or when with high oral acyclovir indicate its effectiveness the high-risk patient group (D+/R-) is benefited by intravenous ganciclovir In lung transplantation recipients, the rate of CMV infection and disease is higher than in other solid organ the administration of ganciclovir could theoretically reduce this this ganciclovir administration after lung transplantation and was more effective than a of ganciclovir followed by high oral acyclovir in of reducing CMV infection, although this effect was not as the increased A similar approach of using prolonged intravenous ganciclovir administration has been shown to be beneficial in reducing CMV disease in liver transplantation, in the D+/R- group It is that lung, gastrointestinal transplant recipients, and high-risk recipients of other of may require more prolonged The of ganciclovir is less than marrow and renal when administered with other are most its especially in the to be established. as with antiviral CMV to be considered especially when ganciclovir administration is prolonged for the cost of intravenous ganciclovir to be considered (Table 2), especially with the need for prolonged intravenous which intravenous with the risk of In intravenous ganciclovir should be beneficial when administered for in non-high-risk heart and liver transplant recipients and in the high-risk renal transplant It to be insufficient when administered for to to prevent CMV disease in high-risk transplant recipients such as lung and D+/R- heart and liver transplant recipients. In this either prolonged administration and/or with CMVIG should be considered. Since the U.S. Food and Drug of the oral formulation of ganciclovir for treatment of CMV in patients has been in transplant its use as a compound to reduce CMV infection. no data are available and studies are underway to evaluate its Although ganciclovir levels in serum following oral administration are than those achieved following they may be to viral following transplantation. Whether it will be useful in type of transplant more importantly, within the high-risk remains to be Based on data above for intravenous it that the same should apply to the oral However, the of administration should for prolonged use (i.e., after transplantation. In addition, if oral ganciclovir is its use in with other of prophylaxis, such as CMVIG and may effective. are as agents for CMV prophylaxis in solid organ transplantation. randomized studies of prophylaxis have been performed in solid organ transplantation recipients. This medication be administered and is not an ideal especially in renal transplant recipients, because of its CMV monoclonal antibody is being but is likely to be it to be highly it to be cost effective. A which has the highest anti-CMV activity of the current antiviral agents, is may once or even less frequent by which would it an candidate for CMV A current is its which can be decreased when with is an active oral anti-CMV agent clinical efficacy in of CMV prophylaxis remains unknown. If an oral agent to be effective in CMV prophylaxis, it would be an important because it would the need for intravenous access. THERAPY therapy of CMV infection the administration of antiviral agents to a subgroup of patients prior to the of disease. This is on a laboratory marker or patient that a subgroup of individuals with a high risk of disease at a when would be effective in the impending disease process with a prophylactic approach of antiviral agents to all only patients at risk of symptomatic CMV infection would specific antiviral patients would an antiviral and for a of and there would be in of of viral and medication side laboratory for this therapeutic include PCR to detect CMV DNA or CMV antigenemia and viral among (Table A recent study in liver transplant recipients demonstrated that a of ganciclovir given when CMV was by surveillance blood or urine provided effective prophylaxis against CMV disease However, CMV disease in of patients in this study without prior surveillance surveillance and antigenemia are being in this While CMV DNA by PCR in peripheral blood leukocytes has been shown to have only a as a marker for future CMV disease in liver transplant recipients (8), CMV DNA can be in the of of liver transplant recipients within a of prior to the of CMV disease. of CMV in has been used successfully to predict the of CMV in lung and transplant patients is marker for therapy and has been in heart transplant recipients, to have an as a marker for the future of symptomatic CMV infection, but its by only The usefulness of of these will be only when in the of an effective antiviral as is from available. The ideal would of a relatively inexpensive surveillance of CMV disease at the of highest risk following transplantation (i.e., and those patients with with a highly effective anti-CMV oral patient that transplant recipients at risk for CMV infection is of This requires the active of risk for CMV infection following solid organ transplantation. risk include the use of antilymphocyte antibodies after transplantation The is that the of antiviral strategies to be to the of the in antilymphocyte antibody therapy was demonstrated to be a risk factor for CMV disease in renal transplant recipients and intravenous when administered with antilymphocyte antibodies, decreased the incidence of CMV disease In liver transplant recipients, Ig with acyclovir administered with antilymphocyte therapy did not reduce the rate of CMV disease In in renal transplant recipients, Ig alone did reduce the severity of CMV disease associated with antilymphocyte globulin or OKT3 use 5). the significant have been made in the diagnosis and treatment of CMV infection in solid organ transplant recipients. These advances have in a decrease in the degree of and associated with this remains to be is the This is currently due to the suboptimal anti-CMV efficacy of available and the lack of studies addressing separate of solid organ While new and more anti-CMV agents that can be administered by oral or infrequent are being need to the use of currently available The between prophylaxis and therapy currently available and remains and while studies are be to type of solid organ transplantation and Moreover, these two prophylaxis approaches need not be and may need to be in such as in the high-risk In addition, of two different prophylactic agents, such as ganciclovir and may be of for the high-risk A of the different prophylactic regimens in institution is in These regimens, with the from this should for transplantation to develop effective anti-CMV prophylactic the different a of prophylactic regimens are based on the type of transplant and the donor and recipient the of D+/R- patients are given oral ganciclovir. therapy based on is administered at the and therapy based on antilymphocyte therapy is administered at the of and The idea for this Overview was following a on CMV in transplantation by an from This Overview from of the and current in the United the excellent of and the of
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - CYTOMEGALOVIRUS INFECTION—AN ETIOLOGICAL FACTOR FOR REJECTION? A PROSPECTIVE STUDY IN 242 RENAL TRANSPLANT PATIENTS
+AU  - Claire Pouteil‐Noble
+AU  - René Écochard
+AU  - G. Landrivon
+AU  - ASHRAF DONIA-MAGED
+AU  - J. Tardy
+AU  - S. Bosshard
+AU  - SIMONE COLON
+AU  - Hervé Betuel
+AU  - Michèle Aymard
+AU  - Jean‐Louis Touraine
+JO  - Transplantation
+PY  - 1993
+VL  - 55
+IS  - 4
+SP  - 851
+EP  - 856
+DO  - 10.1097/00007890-199304000-00032
+AN  - 8386406
+AB  - The study aimed at analyzing the role of CMV infection as a risk factor for rejection occurring after CMV infection because of the clinical consequences of the prevention of CMV infection that might lead to the decrease in rejection episodes. Two hundred forty-two consecutive renal transplant patients were prospectively checked for the occurrence of CMV infection. CMV infection was defined virologically by a positive viremia or/and a positive viruria or/and a seroconversion or/and a significant rise of the anti-CMV antibody titers. Viremia, viruria, and serology were performed weekly for the first month and then at day 90, day 180, and every 6 months, and moreover if clinical symptoms related to a viral infection occurred. Rejection episode was defined by a creatininemia rise of 25%, after cyclosporine nephrotoxicity and urological complications had been discarded, and by the response to the antirejection therapy, steroids, or OKT3 in case of steroid-resistant rejection. The outcome factor was rejection episode occurring from day 4 after the diagnosis of CMV infection. A patient undergoing "a rejection episode after CMV infection" could also be exposed to other potential confounding factors that can be considered as risk factors of rejection among our patients. Rejection occurring before CMV infection was the main factor because it was linked both to CMV infection itself and to "rejection after." Thus infected and noninfected patients were randomly paired off. To the noninfected patient of the pair was attributed the date of a fictitious CMV infection that was the date of the CMV infection of the infected member of the pair. Therefore, "rejection after" and "rejection before" were defined in infected and noninfected patients of the pair according to the time of onset of CMV infection of the infected member of the pair. The incidence of CMV infection was 65%, 157 of the 242 patients were infected, and 85 not infected. Thus 85 pairs of infected-noninfected patients were studied. The incidence of "rejection after" the diagnosis of CMV infection was significantly higher in the group of patients with CMV infection: 45% among infected (38/85) versus 10.60% among noninfected (9/85) (P < 0.0001). Among the 85 pairs, 48 pairs were concordant in which patient of the pair evinced the same outcome factor: 43 showed no rejection after, and 5 showed one.(ABSTRACT TRUNCATED AT 400 WORDS)
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - PROPHYLACTIC ORAL GANCICLOVIR COMPARED WITH DEFERRED THERAPY FOR CONTROL OF CYTOMEGALOVIRUS IN RENAL TRANSPLANT RECIPIENTS1,2,???
+AU  - Daniel C. Brennan
+AU  - Kathy A. Garlock
+AU  - Gary G. Singer
+AU  - Mark A. Schnitzler
+AU  - Bruce J. Lippmann
+AU  - Richard S. Buller
+AU  - Monique Gaudreault‐Keener
+AU  - Jeffrey A. Lowell
+AU  - Surendra Shenoy
+AU  - Todd K. Howard
+AU  - Gregory A. Storch
+JO  - Transplantation
+PY  - 1997
+VL  - 64
+IS  - 12
+SP  - 1843
+EP  - 1846
+DO  - 10.1097/00007890-199712270-00036
+AN  - 9422429
+AB  - BACKGROUND: Treatment with prophylactic oral acyclovir, intravenous ganciclovir, or immunoglobulins to prevent cytomegalovirus (CMV) infection and disease in renal transplantation is associated with variable efficacy and significant expense. We studied control of CMV in renal transplant recipients using either prophylactic oral ganciclovir or deferred therapy with intensive monitoring with polymerase chain reaction (PCR) analysis. METHODS: Forty-two recipients were followed for 6 months after transplantation. Ganciclovir (1000 mg p.o. t.i.d.; n=19) or acyclovir (200 mg p.o. b.i.d.; n=23) was begun at transplantation and continued for 12 weeks. PCR for CMV was performed on buffy-coat specimens every week for 15 weeks and at months 5 and 6. RESULTS: No patients in the ganciclovir group, compared with 14 of 23 patients (61%) in the deferred-therapy group (P<0.0001), developed CMV disease during the first 12 weeks. In the ganciclovir group, 4 of 19 patients (21%) subsequently experienced 5 episodes, whereas 14 patients in the deferred-therapy group experienced 18 episodes (P=0.013 for subjects and P=0.026 for episodes). The time to disease was also delayed in the ganciclovir group compared with the deferred-therapy group (133+/-17 days vs. 51+/-7 days; P<0.0001). Oral ganciclovir also prevented CMV viremia during prophylaxis (2/19 patients [11%] vs. 23/23 patients [100%]). Time to CMV viremia was delayed in the ganciclovir group; however, 13/19 patients (68%) ultimately showed PCR evidence for CMV viremia (P=0.005). CONCLUSIONS: An initial 12-week course of oral ganciclovir prevents CMV disease and infection in renal transplant recipients during prophylaxis, and the benefits persist after discontinuation.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - A RANDOMIZED PROSPECTIVE CONTROLLED TRIAL OF ORAL ACYCLOVIR VERSUS ORAL GANCICLOVIR FOR CYTOMEGALOVIRUS PROPHYLAXIS IN HIGH-RISK KIDNEY TRANSPLANT RECIPIENTS1
+AU  - Stuart M. Flechner
+AU  - Robin K. Avery
+AU  - Rosemaree Fisher
+AU  - B Mastroianni
+AU  - Doreen A. Papajcik
+AU  - Kiaran O’Malley
+AU  - Marlene Goormastic
+AU  - David A. Goldfarb
+AU  - Charles S. Modlin
+AU  - Andrew C. Novick
+JO  - Transplantation
+PY  - 1998
+VL  - 66
+IS  - 12
+SP  - 1682
+EP  - 1688
+DO  - 10.1097/00007890-199812270-00019
+AN  - 9884259
+AB  - BACKGROUND: Posttransplantation cytomegalovirus (CMV) infection remains a significant cause of morbidity in kidney transplant recipients. We performed a randomized prospective controlled trial of oral acyclovir versus oral ganciclovir for CMV prophylaxis in a group of renal allograft recipients considered at high risk for CMV disease due to the use of OKT3 induction therapy. METHODS: A total of 101 recipients of cadaveric (83) and zero haplotype-matched live donor (18) kidney transplants were entered into the trial. A total of 22 D-R- patients received no prophylaxis. Twenty-seven D+R-, 29 D+R+, and 23 D-R+ patients were randomized to receive 3 months of either oral acyclovir (800 mg q.i.d.) or oral ganciclovir (1000 mg t.i.d.). Doses were adjusted according to the level of renal function. The D+R- patients were also given CMV immune globulin biweekly for 16 weeks. Surveillance blood cultures were obtained at transplantation, at months 1, 2, 3, and 6, and when clinically indicated. The primary study end points were time to CMV infection and disease the first 6 months after transplantation. RESULTS: The mean follow up was 14.4 months. Both agents were well tolerated, and no drug interruptions for toxicity occurred. CMV was isolated in 14 of 39 (35.9%) acyclovir-treated and 1 of 40 (2.5%) ganciclovir-treated recipients by 6 months (P=0.0001). Symptomatic CMV disease occurred in 9 of 14 (64%) of the acyclovir patients, two with tissue-invasive disease. Infection rates for acyclovir vs. ganciclovir, respectively, stratified by CMV serology were: D+R-, 54 vs. 0%, P=0.0008; D+R+, 43 vs. 6.6%, P=0.01; D-R+, 8.3 vs. 0%, P=NS. No patient developed CMV infection while taking oral ganciclovir, however three delayed infections occurred 2-7 months after finishing therapy. Each patient had been previously treated for acute rejection. CONCLUSIONS: Oral acyclovir provides effective CMV prophylaxis only for recipients of seronegative donor kidneys. Oral ganciclovir is a superior agent providing effective CMV prophylaxis for recipients of seropositive donor kidneys. Recipients who are treated for acute rejection are at risk for delayed CMV infection during the first posttransplantation year.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Clinical Patterns of Cytomegalovirus Disease After Liver Transplantation
+AU  - Robert J. Stratta
+JO  - Archives of Surgery
+PY  - 1989
+VL  - 124
+IS  - 12
+SP  - 1443
+EP  - 1443
+DO  - 10.1001/archsurg.1989.01410120093018
+AN  - 2556090
+AB  - During a 43-month period, we performed 248 liver transplantations in 211 patients (127 adults and 84 children). Cytomegalovirus (CMV) disease was documented in 73 recipients (34.6%). Risk factors for CMV disease included donor CMV seropositivity, antilymphocyte therapy, and retransplantation. The mean time of occurrence of CMV disease was 38.3 days after transplantation, and the most frequent site of disease was the hepatic allograft. A total of 69 patients were treated with intravenous ganciclovir, with a prompt and lasting response documented in 51 (73.9%). The remaining 18 (26.1%) developed recurrent CMV disease, which was more common after primary CMV exposure. Cytomegalovirus disease was ultimately controlled by ganciclovir in 94.2% of cases. This disease occurs early after transplantation and can be related to well-defined risk factors. Although ganciclovir therapy is effective, preliminary experience with prophylaxis shows promise in reducing the incidence of CMV disease.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - The Novel Immunosuppressive Agent Mycophenolate Mofetil Markedly Potentiates the Antiherpesvirus Activities of Acyclovir, Ganciclovir, and Penciclovir In Vitro and In Vivo
+AU  - Johan Neyts
+AU  - Graciela Andreï
+AU  - Erik De Clercq
+JO  - Antimicrobial Agents and Chemotherapy
+PY  - 1998
+VL  - 42
+IS  - 2
+SP  - 216
+EP  - 222
+DO  - 10.1128/aac.42.2.216
+AN  - 9527762
+AB  - The immunosuppressive agent mycophenolate mofetil (MMF) has been approved for use in kidney transplant recipients and may thus be used concomitantly for the treatment of intercurrent herpesvirus infections with drugs such as acyclovir (ACV), ganciclovir (GCV), and penciclovir (PCV). We found that MMF and its parent compound mycophenolic acid (at concentrations that are attainable in plasma) strongly potentiate the antiherpesvirus (herpes simplex virus [HSV] type 1 [HSV-1], HSV-2, thymidine kinase-deficient [TK-] HSV-1, both wild-type and TK- varicella-zoster virus, and human cytomegalovirus) activities of ACV, PCV, and GCV (up to 350-fold increases in their activities). The mechanism of potentiation was found to reside in the depletion of endogenous dGTP pools, which favored the inhibitory effect of the triphosphate of ACV, GCV, or PCV on the viral DNA polymerase. The combination of topically applied 5% MMF with 0.1% ACV strongly protected against HSV-1-induced cutaneous lesions in hairless mice, whereas therapy with either compound used singly had no protective effect. Interestingly, the combination of topically applied 5% MMF with 5% ACV was also highly effective in protecting against TK- HSV-2-induced cutaneous lesions (that were refractory to ACV treatment) in athymic nude mice. Topical therapy with MMF was very well tolerated, and no signs of irritation were observed. When given perorally at 200 mg/kg of body weight/day, MMF potentiated to some extent the growth retardation induced by GCV in young NMRI mice. These observations may have clinical implications (i) for those transplant recipients who receive both MMF and either ACV, GCV, or PCV and (ii) for the treatment of ACV-resistant mucocutaneous HSV infections.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - One Thousand Liver Transplants The Lessons Learned
+AU  - Ronald W. Busuttil
+AU  - Abraham Shaked
+AU  - J. Michael Millis
+AU  - Oded Jurim
+AU  - Steven D. Colquhoun
+AU  - Christopher R. Shackleton
+AU  - Barbara J. Nuesse
+AU  - Marie Csete
+AU  - Leonard I. Goldstein
+AU  - Sue V. McDiarmid
+JO  - Annals of Surgery
+PY  - 1994
+VL  - 219
+IS  - 5
+SP  - 490
+EP  - 499
+DO  - 10.1097/00000658-199405000-00007
+AN  - 8185400
+AB  - OBJECTIVE: To evaluate the first 1000 liver transplants performed at UCLA Medical Center to determine factors responsible for improved results. SUMMARY BACKGROUND DATA: Liver transplant has evolved impressively since the first case was performed in 1963. The 1980s have highlighted this progress with the development of better organ preservation, standardization of operative procedure, improved immunosuppressive agents, and better understanding of patient selection. METHODS: The first 100 consecutive liver transplants (group 1) performed from February 1984 through October 1986 were compared with the last 200 (group 2) performed between September 1991 and June 1992. An analysis was made of donor use; changes in patient candidacy; patient care variables; morbidity and mortality; survival data; and hospital resource use. RESULTS: In group 1, 31% of donors were refused because of medical unsuitability compared with 4% in group 2 (p < 0.0001). In group 1, alcoholic patients comprised 1% of liver transplant candidates compared with 20% group 2 (p < 0.0001). High-risk patients (United Network for Organ Sharing criteria 4) only comprised 11% of patients in group 1 compared with 37% in group 2 (p < 0.0001). Operative time (7.6 hours compared with 5.4 hours), packed cell replacement (17 units compared with 9.5 units), intensive care unit stay (10 days compared with 5 days), and hospital stay (50 days compared with 31 days) were all significantly improved (p < 0.05). In group 1, the 1-year survival rate was 73% and improved to 88% in group 2 (p < 0.0001). CONCLUSIONS: Despite unfavorable donor characteristics (obesity, cause of death, age, hypotension), most organs function well and should not be refused based on history alone. The older and high-risk patient (renal failure, ventilator dependence, portal vein pathology, and so on) is routinely transplanted with good success. Despite liberalization of both donor and recipient criteria, patient survival after liver transplant is improved, use of hospital resources is maximized, and cost reduction is achieved.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - European survey of herpesvirus resistance to antiviral drugs in bone marrow transplant recipients. Infectious Diseases Working Party of the European Group for Blood and Marrow Transplantation (EBMT).
+AU  - P Reusser
+AU  - C. Cordonnier
+AU  - Hermann Einsele
+AU  - Dan Engelhard
+AU  - Denise G. Link
+AU  - Anna Locasciulli
+AU  - Petter Ljungman
+JO  - PubMed
+PY  - 1996
+VL  - 17
+IS  - 5
+SP  - 813
+EP  - 7
+AN  - 8733703
+AB  - A survey of herpesvirus resistance to antiviral drugs was conducted by mailing a questionnaire to the centers of the European Group for Blood and Marrow Transplantation (EBMT). Results from 68 centers were reported. The number of centers with proven or suspected resistance of herpes simplex virus (HSV) was 17 (25%), of varicella-zoster virus (VZV) was three (4%), and of cytomegalovirus (CMV) was 19 (28%). Acyclovir-resistant HSV strains were recovered from 10 patients with HSV disease. Replacement of acyclovir by foscarnet in seven of these patients resulted in improved or healed HSV disease in five (17%). Acyclovir-resistant VZV was isolated from one patient with zoster which improved after a change to vidarabine therapy. CMV resistance to ganciclovir was proven in only two patients but was suspected in 23. Ganciclovir was replaced by foscarnet in 15 of these 25 patients which resulted in better virological and/or clinical outcome in 13 (87%). These results suggest that herpesvirus resistance is an emerging problem in marrow transplant recipients, and that foscarnet treatment may prove to be a valuable alternative when the presence of acyclovir- or ganciclovir-resistant herpesvirus disease is documented in these patients.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Sirolimus: A new agent for clinical renal transplantation
+AU  - B D Kahan
+JO  - Transplantation Proceedings
+PY  - 1997
+VL  - 29
+IS  - 1-2
+SP  - 48
+EP  - 50
+DO  - 10.1016/s0041-1345(96)00008-5
+AN  - 9123092
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Management and Prevention of Cytomegalovirus Infection After Renal Transplantation
+AU  - Emanuel Farrugia
+AU  - Thomas R. Schwab
+JO  - Mayo Clinic Proceedings
+PY  - 1992
+VL  - 67
+IS  - 9
+SP  - 879
+EP  - 890
+DO  - 10.1016/s0025-6196(12)60828-3
+AN  - 1331630
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Failure of high-dose oral acyclovir with or without immune globulin to prevent primary cytomegalovirus disease in recipients of solid organ transplants
+AU  - Thomas C. Bailey
+AU  - Neil Ettinger
+AU  - Gregory A. Storch
+AU  - Elbert P. Trulock
+AU  - Douglas W. Hanto
+AU  - W.Claiborne Dunagan
+AU  - Martin D. Jendrisak
+AU  - Christopher S. McCullough
+AU  - Joseph L. Kenzora
+AU  - William G. Powderly
+JO  - The American Journal of Medicine
+PY  - 1993
+VL  - 95
+IS  - 3
+SP  - 273
+EP  - 278
+DO  - 10.1016/0002-9343(93)90279-x
+AN  - 8396320
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Ganciclovir Treatment of Life- or Sight-Threatening Cytomegalovirus Infection: Experience in 314 Immunocompromised Patients
+AU  - William Buhles
+AU  - B J Mastre
+AU  - A. Tinker
+AU  - V. Strand
+AU  - Stuart H. Koretz
+AU  - S. H. Koretz
+JO  - Clinical Infectious Diseases
+PY  - 1988
+VL  - 10
+IS  - Supplement_3
+SP  - S495
+EP  - S506
+DO  - 10.1093/clinids/10.supplement_3.s495
+AN  - 2847286
+AB  - A total of 314 immunocompromised patients with serious cytomegalovirus (CMV) infection treated with ganciclovir administered intravenously were studied. Rates of favorable clinical response among evaluatable patients were 91 (84%) of 108 for CMV retinitis, 35 (83%) of 42 for gastrointestinal CMV infection, and 26 (72%) of 36 for CMV pneumonia. Of 167 treated patients who had AIDS, improvement or stabilization of CMV disease occurred in 83% as compared with 13% of 39 untreated, historical control patients with AIDS and similar CMV disease (P less than or equal to.004). Virologic response was noted in 111 (92%) of 121 patients who had sequential cultures of blood, urine, or throat washings for CMV. In an attempt to prevent relapse of CMV disease after discontinuation of ganciclovir, maintenance treatment was evaluated in a group of 61 patients with AIDS and CMV retinitis who had received an initial dosage of greater than or equal to 7.5 mg/(kg.d) for greater than or equal to 10 days. Median time to relapse of retinitis was 47 days in patients not receiving maintenance treatment as compared with 105 days in patients treated with 25-35 mg/(kg.w) (P =.0002). Adverse effects of treatment included neutropenia (42%), thrombocytopenia (19%), central nervous system effects (18%), nausea (6%), fever (6%), rash (6%), vomiting, diarrhea, infusion site reactions, and anemia (4% each). It was concluded that ganciclovir has clinical efficacy against CMV disease, as well as an in vivo antiviral effect, and that this agent reduces morbidity of serious CMV infections in immunocompromised patients.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Control of cytomegalovirus-associated morbidity in renal transplant patients using intensive monitoring and either preemptive or deferred therapy.
+AU  - Daniel C. Brennan
+AU  - K Garlock
+AU  - B. Lippmann
+AU  - Richard S. Buller
+AU  - Monique Gaudreault‐Keener
+AU  - Jeffrey A. Lowell
+AU  - Steven B. Miller
+AU  - Saraswati Shenoy
+AU  - Todd K. Howard
+AU  - Gregory A. Storch
+JO  - Journal of the American Society of Nephrology
+PY  - 1997
+VL  - 8
+IS  - 1
+SP  - 118
+EP  - 125
+DO  - 10.1681/asn.v81118
+AN  - 9013456
+AB  - The objective of this randomized, prospective study was to compare preemptive to deferred treatment of cytomegalovirus (CMV) infection in high-risk renal transplant recipients. Conducted at a university-affiliated transplant center, the study included 36 renal allograft recipients with donor or recipient CMV-seropositivity who received anti-thymocyte induction therapy. Ganciclovir was administered intravenously for 21 days upon detection of CMV viremia (preemptive, N = 15) or detection of CMV viremia associated with a CMV syndrome (deferred, N = 21). Shell vial culture, conventional culture, and polymerase chain reaction (PCR) were performed upon buffy-coat specimens weekly for 12 to 16 wk. CMV and non-CMV-associated charges were calculated. The comparative sensitivities of PCR, shell vial culture, and conventional culture were 91%, 44%, and 47%, respectively. A delay in specimen processing of > 24 h severely compromised the sensitivity of culture techniques but not that of PCR. Preemptive therapy tended to decrease symptomatic CMV episodes (0.4 versus 0.6 episodes per patient randomized; P = 0.22). One patient in each group had organ involvement, and no patient died. Allograft function and survival were similar. Ganciclovir use was increased in the preemptive group (1.2 versus 0.6 courses per patient randomized; P = 0.02). CMV-associated charges were $10,368 (preemptive) versus $5,752 (deferred); P = 0.13. PCR is superior to conventional monitoring to detect CMV viremia. Culture cannot be considered the "gold standard" for detection of CMV viremia, especially when transport of specimens over distances results in processing delays. Preemptive therapy may reduce symptomatic CMV infections in renal transplant recipients. It was associated with higher CMV-related charges but equivalent overall charges versus deferred treatment with intensive monitoring. Either strategy can achieve control of CMV infection after renal transplantation.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - PROPHYLAXIS OF CYTOMEGALOVIRUS INFECTION IN LIVER TRANSPLANTATION
+AU  - Andrew D. Badley
+AU  - Eric C. Seaberg
+AU  - Michael K. Porayko
+AU  - Russell H. Wiesner
+AU  - Michael R. Keating
+AU  - Mark Wilhelm
+AU  - Randall C. Walker
+AU  - Robin Patel
+AU  - W.F. Marshall
+AU  - M DeBernardi
+AU  - Rowen K. Zetterman
+AU  - Jeffrey L. Steers
+AU  - Carlos V. Payá
+JO  - Transplantation
+PY  - 1997
+VL  - 64
+IS  - 1
+SP  - 66
+EP  - 73
+DO  - 10.1097/00007890-199707150-00013
+AN  - 9233703
+AB  - BACKGROUND: The optimal prophylactic regimen to prevent cytomegalovirus (CMV) infection and disease in orthotopic liver-transplant patients remains to be established. We tested whether a combination of intravenous ganciclovir (GCV) followed by high dosages of oral acyclovir (ACV) for 4 months provided a higher degree of protection from CMV than oral ACV alone. METHODS: One hundred sixty-seven liver-transplant recipients were randomized to receive 120 days of antiviral treatment starting at the time of transplantation consisting of either ACV 800 mg orally four times daily (n=84) or 14 days of GCV 5 mg/kg intravenously every 12 hr followed by oral ACV 800 mg four times daily (n=83). Prospective laboratory and clinical surveillance was performed to determine primary endpoints (onset of CMV infection and CMV disease) and secondary endpoints (rates of fungal and bacterial infection, allograft rejection, and survival after transplantation). One-year event rates are presented as cumulative percentages. RESULTS: During the first year after transplantation, CMV infection developed in 57% of patients treated with ACV and in 37% of patients treated with GCV + ACV (P=0.001). CMV disease developed in 23% of patients treated with ACV and in 11% of patients treated with GCV + ACV (P=0.03). In seronegative recipients of allografts from CMV-seropositive donors (D+/R-), CMV disease developed in 58% of patients treated with ACV and in 25% of patients treated with GCV + ACV (P=0.04). In the D+/R- group, 54% of patients treated with ACV and 17% of patients treated with GCV + ACV developed infection with Candida albicans (P=0.05). CONCLUSIONS: Prophylaxis of CMV infection in liver-transplant patients with 14 days of intravenous GCV followed by high-dosage oral ACV is more effective than high-dosage oral ACV alone at reducing CMV infection and disease, even for patients in the D+/R- CMV serological group.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Impact of high-dose oral acyclovir prophylaxis on cytomegalovirus (CMV) disease in CMV high-risk renal transplant recipients.
+AU  - Josef Kletzmayr
+AU  - H. Kotzmann
+AU  - Theresia Popow‐Kraupp
+AU  - J Kovarík
+AU  - Renate Klauser
+JO  - Journal of the American Society of Nephrology
+PY  - 1996
+VL  - 7
+IS  - 2
+SP  - 325
+EP  - 330
+DO  - 10.1681/asn.v72325
+AN  - 8785404
+AB  - Recent studies showed contradictory results concerning the efficacy of oral acyclovir in the prevention or amelioration of cytomegalovirus (CMV) disease after renal transplantation (TX). This study evaluated the incidence and severity of CMV disease within the first year after TX in high-risk renal transplant recipients (CMV-seropositive donor, seronegative recipient) treated prophylactically with oral acyclovir (800 to 3200 mg/day) over a period of 12 wk (ACY, N = 22), compared with high-risk patients randomly assigned as controls (CO, N = 10). Follow-up for CMV infection included serological determination of CMV-specific immunoglobulin G and immunoglobulin M antibodies, antigen detection in peripheral blood leukocytes (PP 65), shell vial culture (blood), and virus isolation/early antigen detection (urine). Severity of CMV disease was quantified by a scoring system for CMV-related symptoms. Nine patients (40.1%) in the acyclovir group and four patients (40%) in the control group developed CMV disease. Neither severity (ACY, 11.4 versus CO; 12.5 points score), nor duration of disease (ACY, 21 days; CO, 22 days), nor transplant function at the end of the observation period differed significantly. The onst of CMV disease was not delayed significantly in acyclovir-treated patients compared with controls (ACY, 47 +/- 34 days versus CO, 27 +/- 14 days after TX, not significant). Our results show no beneficial effect of oral acyclovir prophylaxis in CMV high-risk renal transplant recipients.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - SUCCESSFUL PROPHYLAXIS OF CYTOMEGALOVIRUS DISEASE AFTER PRIMARY CMV EXPOSURE IN LIVER TRANSPLANT RECIPIENTS
+AU  - Robert J. Stratta
+AU  - Mark S. Shaefer
+AU  - Kathleen Cushing
+AU  - Rodney S. Markin
+AU  - Robert Wood
+AU  - Alan N. Langnas
+AU  - Elizabeth Reed
+AU  - Gail L. Woods
+AU  - Jeremiah P. Donovan
+AU  - T Pillen
+AU  - Shujun Li
+AU  - R. M. Duckworth
+AU  - Byers W. Shaw
+JO  - Transplantation
+PY  - 1991
+VL  - 51
+IS  - 1
+SP  - 90
+EP  - 97
+DO  - 10.1097/00007890-199101000-00014
+AN  - 1846254
+AB  - UNLABELLED: During a 38-month period, we studied 320 liver transplants in 283 recipients (202 adults, 81 children). CMV disease was documented in 85 patients (30.0%) The major risk factor for CMV disease was primary CMV exposure (transplanting a seropositive allograft into a seronegative recipient). A total of 42 patients (14.8%) had primary CMV exposure. Twenty-one patients were historical controls, while the next 21 received prophylaxis for CMV infection in a nonrandomized trial of consecutive study groups. The regimen of prophylaxis consisted of intravenous immune globulin (IgG; 0.5 g/kg) at weekly intervals for 6 weeks and acyclovir for 3 months. CMV prophylaxis resulted in a dramatic reduction in the incidence of CMV disease (71.4% vs. 23.8%, (P less than 0.01). All cases of CMV were treated with intravenous ganciclovir (5 mg/kg b.i.d. for 14 days), with 5 patients in the control group developing recurrent CMV disease (33.3% relapse). In the 16 patients receiving prophylaxis who did not develop CMV disease, all developed positive CMV-IgG titers with the passive administration of IgG. However, none developed any evidence of CMV infection or viral shedding as assessed by IgM titers and surveillance viral cultures. Four deaths occurred (all control patients), but none were related to CMV disease. Overall patient and graft survivals after primary CMV exposure were 90.5% and 82.2%, respectively, after a mean follow-up of 14 months. CONCLUSION: Primary CMV exposure is a major risk factor for CMV disease in liver transplant recipients. Intravenous IgG plus acyclovir is safe and effective in preventing CMV infection and disease in this setting. Because of the scarcity of donor organs, we do not advocate protective matching to avoid primary CMV exposure but rather recommend prophylaxis to prevent CMV disease in this high-risk group.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Detection of cytomegalovirus infections in specimens other than urine by the shell vial assay and conventional tube cell cultures
+AU  - C. V. Paya
+AU  - Arlo D. Wold
+AU  - Thomas F. Smith
+JO  - Journal of Clinical Microbiology
+PY  - 1987
+VL  - 25
+IS  - 5
+SP  - 755
+EP  - 757
+DO  - 10.1128/jcm.25.5.755-757.1987
+AN  - 3034962
+AB  - Blood, bronchoscopy-lavage, biopsy (lung, liver, kidney), sputum, and other (cecum, bone) specimens were inoculated into shell vials and conventional cell tube cultures seeded with MRC-5 cells over a 23-month period. Of 1,472 specimens, 182 (12.4%) yielded cytomegalovirus (CMV)-positive results from 81 patients. Significantly more CMV-positive specimens were detected in shell vials (n = 154; 84.6%) than in conventional tube cell cultures (n = 126; 69.2%) (P less than 0.01). We found that 98 (53.8%) of the total 182 and 41 (42.7%) of the 96 blood specimens positive for CMV were detected by both the shell vial assay and conventional tube cell cultures. However, 56 (30.7%) of the total 182 and 31 (32.3%) of the 96 blood specimens positive for CMV were obtained exclusively in shell vials after detection with monoclonal antibody. Alternatively, 28 (15.4%) of the total 182 and 24 (25%) of the 96 blood specimens positive for the virus were isolated only in conventional tube cell cultures. Thus, although the shell vial assay was more sensitive and rapid than the conventional tube cell culture method, both systems must be used, especially for blood specimens, for the laboratory diagnosis of CMV infections.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - A PROSPECTIVE RANDOMIZED TRIAL COMPARING SEQUENTIAL GANCICLOVIR-HIGH DOSE ACYCLOVIR TO HIGH DOSE ACYCLOVIR FOR PREVENTION OF CYTOMEGALOVIRUS DISEASE IN ADULT LIVER TRANSPLANT RECIPIENTS
+AU  - Maureen P. Martin
+AU  - Rafael Máñez
+AU  - Peter van der Linden
+AU  - David Estores
+AU  - Julián Torre‐Cisneros
+AU  - Shimon Kusne
+AU  - Linnea Ondick
+AU  - Richard J. Ptachcinski
+AU  - William Irish
+AU  - David F. Kisor
+AU  - Ilene Felser
+AU  - Charles R. Rinaldo
+AU  - Andrei C. Stieber
+AU  - John J. Fung
+AU  - Monto Ho
+AU  - Richard L. Simmons
+AU  - Thomas E. Starzl
+JO  - Transplantation
+PY  - 1994
+VL  - 58
+IS  - 7
+SP  - 779
+EP  - 785
+DO  - 10.1097/00007890-199410150-00005
+AN  - 7940710
+AB  - Cytomegalovirus disease is an important cause of morbidity following liver transplantation. To date there has not been an effective prophylaxis for CMV disease after liver transplantation. One hundred forty-three patients were randomized to receive either high dose oral acyclovir (800 mg 4 times a day) alone for 3 months after transplantation (acyclovir group) or intravenous ganciclovir (5 mg/kg twice a day) for 14 days followed by high dose oral acyclovir to complete a 3-month regimen (ganciclovir group). Of 139 patients available for evaluation, 43 of 71 (61%) patients from the acyclovir group developed CMV infection compared with 16 of 68 (24%) from the ganciclovir group (relative risk, 3.69; 95% confidence interval, 2.07-6.56; P < 0.00001). Of those randomized, CMV disease was seen in 20 (28%) of the acyclovir group compared with 6 (9%) of the ganciclovir group (relative risk, 5.11; 95% confidence interval, 2.05-12.75; P = 0.0001). The median time to onset of CMV infection was 45 days in the acyclovir group compared with 78 days in the ganciclovir group (P = 0.004). The median time to onset of CMV disease was 40 days in the acyclovir group compared with 78 days in the ganciclovir patients (P = 0.02). With respect to primary CMV infection, there was no difference in the rates in the 2 groups, but tissue invasive disease and recurrent CMV disease were less frequent in the ganciclovir group. It is concluded that a course of 2 weeks of ganciclovir immediately after transplantation followed by high dose oral acyclovir for 10 weeks is superior to a 12-week course of high dose oral acyclovir alone for prevention of both CMV infection and CMV disease after liver transplantation. However, the lack of significant effect in seronegative recipients who received grafts from seropositive donors suggests that other strategies are needed to prevent CMV infection in this high risk population.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Pharmacokinetic, Safety, and Antiviral Profiles of Oral Ganciclovir in Persons Infected with Human Immunodeficiency Virus: A Phase I/II Study
+AU  - Stephen A. Spector
+AU  - David F. Busch
+AU  - Stephen Follansbee
+AU  - Kathleen Squires
+AU  - Jacob Lalezari
+AU  - Mark Z. Jacobson
+AU  - James D. Connor
+AU  - Donald Jung
+AU  - Anna Shadman
+AU  - B. Mastre
+AU  - William Buhles
+AU  - W. Lawrence Drew
+AU  - Cytomegalovirus Cooperative Study Group
+JO  - The Journal of Infectious Diseases
+PY  - 1995
+VL  - 171
+IS  - 6
+SP  - 1431
+EP  - 1437
+DO  - 10.1093/infdis/171.6.1431
+AN  - 7769276
+AB  - A phase I/II study evaluated the pharmacokinetics, tolerability, and antiviral activity of oral ganciclovir in persons infected with human immunodeficiency virus (HIV). Oral bioavailability ranged from 2.6% to 7.3%. The mean maximum serum concentration achieved at 1000 mg every 8 h was 1.11 micrograms/mL, and mean trough level was 0.54 microgram/mL. The time to maximum serum drug concentration was 1.0-2.9 h, with a serum half-life of 3.0-7.3 h, suggesting prolonged oral absorption. Serious adverse events were uncommon. Decreased cytomegalovirus (CMV) shedding was observed from all sites. The median days (by dosage) to retinitis progression assessed by retinal examination after initiation of oral ganciclovir were 62 (1000 mg every 8 h), 148 (500 mg every 3 h), 75 (750 mg every 3 h), 148 (1000 mg every 3 h), and 139 (2000 mg every 8 h). Thus, oral ganciclovir has pharmacokinetic, toxicity, and antiviral profiles that may prove beneficial for both maintenance therapy of CMV retinitis and prevention of CMV disease in HIV-infected persons.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - THE COST IMPACT OF CYTOMEGALOVIRUS DISEASE IN RENAL TRANSPLANT RECIPIENTS
+AU  - J M McCarthy
+AU  - MOHAMUD A. KARIM
+AU  - Hans Krueger
+AU  - Paul Keown
+JO  - Transplantation
+PY  - 1993
+VL  - 55
+IS  - 6
+SP  - 1277
+EP  - 1282
+DO  - 10.1097/00007890-199306000-00013
+AN  - 8390731
+AB  - A retrospective case controlled study was performed to determine the cost impact of cytomegalovirus disease in the first year following renal transplantation as a basis for the analysis of cost effectiveness of prophylactic and therapeutic regimens directed at CMV infection. Eleven sequential cases of organ-specific CMV disease were matched with 22 controls for age, diabetic status, and donor/recipient CMV serologic status from 119 consecutive first cadaveric renal transplant recipients performed at a single university-affiliated, solid organ transplant unit between January 1, 1988 and March 31, 1990. The groups were comparable for sex, HLA match and mismatch, incidence of initial graft dysfunction, and immunosuppression. Hospitalization data, resource utilization, and costs for all 33 subjects were obtained for a one-year period after transplantation. The mean initial hospitalization time was comparable for both CMV cases and controls (14.5 vs. 15.0 days, P = NS), but patients developing CMV disease averaged 59 hospital days during the first year posttransplant versus 22 days in the control group (P = 0.001). A mean of 31 days hospitalization was directly related to CMV disease. Mean total institutional costs, calculated in 1988 Canadian dollars, were 2.5 times higher for patients with CMV disease than for controls ($42,611 vs. $17,309, P = 0.001), reflecting predominantly a difference in general ward ($19,988 vs. $7484, P = 0.001), hotel ($2508 vs. $927, P = 0.001), clinical laboratory ($5420 vs. $2558, P = 0.0001), radiology ($1581 vs. $640, P = 0.05), and pharmacy ($4916 vs. $1782, P = 0.01) costs and utilization. Operating room, special ward, ancillary, and mean per diem costs ($719 vs. $790, P = NS) were not significantly different between the two groups. Functional graft survival at 1 year was 72% in patients with CMV disease compared with 86% in controls, reducing the mean calculated cost-effectiveness of transplantation by 2.9-fold. These data show that CMV disease has significant economic impact on renal transplantation as a result of extended hospitalization. In order to develop a cost effective management approach to CMV infection, this impact must be considered when assessing therapeutic and prophylactic regimens and protocols of organ allocation.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - DEVELOPMENT OF GANCICLOVIR RESISTANCE DURING TREATMENT OF PRIMARY CYTOMEGALOVIRUS INFECTION AFTER LIVER TRANSPLANTATION1
+AU  - Hugo R. Rosen
+AU  - Kent G. Benner
+AU  - Kenneth D. Flora
+AU  - John M. Rabkin
+AU  - Susan L. Orloff
+AU  - Ali J. Olyaei
+AU  - Sunwen Chou
+JO  - Transplantation
+PY  - 1997
+VL  - 63
+IS  - 3
+SP  - 476
+EP  - 478
+DO  - 10.1097/00007890-199702150-00026
+AN  - 9039944
+AB  - Despite recent advances in diagnosis and treatment, cytomegalovirus (CMV*) continues to be a common cause of infection and disease in solid organ transplant recipients. Risk factor analyses have provided important clues to identify those patients at high risk for symptomatic CMV infection (1). Preemptive therapy of CMV infection before the onset of overt disease is now a common practice, driven by the considerable morbidity and costs resulting from CMV disease (2). A recent study suggested that CMV could be almost completely eliminated as a significant pathogen in liver transplant patients by the posttransplant administration of ganciclovir, with only 1 of 124 patients (0.8%) developing symptomatic CMV disease (3). One concern about the frequent and early use of anti-CMV therapy in the posttransplant period is the possibility of selecting for drug-resistant viral strains. Ganciclovir-resistant CMV has been isolated from immunocompromised patients, usually with acquired immune deficiency syndrome or hematologic malignancies and after prolonged therapy (4, 5), but so far in vitro ganciclovir resistance has not been reported after ganciclovir therapy in solid organ recipients, even those in whom this therapy was unsuccessful in suppressing viremia (6). It has therefore been suggested that CMV drug resistance is unlikely to be a problem in the setting of organ transplantation. This report describes the clinical course of a liver transplant recipient who developed ganciclovir-resistant CMV after exposure to the drug in the posttransplant period. The emergence of antiviral resistance was rapidly detected by screening for viral resistance mutations, and this guided the selection of alternative therapy for the infection. A 17-year-old, CMV-seronegative male underwent orthotopic liver transplantation for end-stage liver disease secondary to Alagille's syndrome. The initial immunosuppression consisted of cyclosporine, azathioprine, prednisone, and antithymocyte globulin (15 mg/kg). Because the donor was CMV seropositive (D+/R-), the patient was treated with intravenous CMV immunoglobulin (Cytogam) at a dose of 150 mg/kg during the first 72 hr after liver transplantation and subsequently with 100 mg/kg every 2 weeks for six doses. In addition, the patient received intravenous ganciclovir 5 mg/kg every 12 hr for 10 days, followed by oral acyclovir 800 mg four times daily. On day 27, the patient developed biopsy-confirmed acute cellular rejection which did not respond to high-dose methylprednisolone (1 g every other day for 3 days). Intravenous ganciclovir (5 mg/kg) was administered during a 14-day course of OKT3 monoclonal antibody therapy (5 mg daily; Orthoclone OKT3, Ortho Pharmaceutical Corp.). Despite attempted preemptive therapy with CMV immunoglobulin, ganciclovir, and acyclovir, the patient developed primary CMV infection and disease manifested by leukopenia, fatigue, fever, and positive buffy coat CMV culture (Fig. 1). The CMV isolate was screened for UL97 ganciclovir resistance mutations (7) and none were found. Intravenous ganciclovir treatment was reinstituted and CMV immunoglobulin was given for 2 weeks (150 mg/kg every other day for six doses), with clearing of CMV viremia. The patient then developed another episode of allograft rejection which was treated with high-dose methylprednisolone and subsequently with tacrolimus (FK506 [Prograf]). Two weeks later, he presented with headache, fever, fatigue, and epigastric abdominal pain. CMV buffy coat cultures were again positive. A liver biopsy was positive for CMV by culture. Treatment with intravenous ganciclovir and CMV immunoglobulin was resumed, but 2 weeks later endoscopy revealed ulcerated erythematous gastric lesions which on biopsy stained positive for CMV antigen. By this time, results of UL97 mutation screening of the most recent CMV isolates were positive for ganciclovir resistance mutations V594 and S595 (7). Both mutations were present in each isolate, although plaque purification of the virus enabled the recovery of CMV strains carrying only one or the other of the mutations. This showed that each resistance mutation occurred in a separate viral genome. Cell culture (plaque reduction) susceptibility testing of one of the isolates later confirmed the expected ganciclovir resistance, with a drug concentration of 22 μM required to inhibit plaque formation by 50%, as compared with 6 μM for the control laboratory strain AD169 when tested simultaneously. Based on the genetic data from the CMV isolates, antiviral therapy was switched to foscarnet. Although a urine culture 1 month later was still positive for CMV, the symptomatic CMV disease resolved, and the patient eventually became culture negative for CMV in buffy coat and urine specimens as well (Fig. 1). This case illustrates the relatively rapid development of ganciclovir resistance mutations in CMV, after less than 120 days of cumulative exposure to the drug in the posttransplant setting. It is possible that oral acyclovir therapy also contributed to the selection of CMV mutants, although this has not been documented by any clinical observations to date (8). Usually, ganciclovir resistance is encountered in patients with sustained immunodeficiency, such as acquired immune deficiency syndrome, who receive prolonged maintenance therapy for CMV disease (5). It has been suggested that a limited duration of acyclovir or ganciclovir usage in the posttransplant period does not select for ganciclovir-resistant isolates of CMV in solid organ recipients (6), but some individuals could be at a higher risk for this development. Possible contributing factors in this patient are primary CMV infection and high levels of immunosuppressive therapy for rejection, both of which probably favor the emergence of resistance by increasing the amount of replicating virus. In addition, the recurrence of viremia and symptomatic disease after an initial period of therapy prompted the genetic screening of the CMV isolates. The role of drug resistance as a cause of treatment failure in CMV disease and the use of viral genetic analysis as a rapid diagnostic screening test require additional study. Preliminary evidence suggests that even the continued shedding of infectious CMV in the face of prolonged therapy does not necessarily imply drug resistance (5), and that some form of susceptibility testing is needed to guide therapeutic decisions. Unfortunately, classical cell culture-based susceptibility testing in CMV is too slow to be useful for this purpose. Recently, it has been shown that over 90% of ganciclovir-resistant clinical CMV isolates contain one or more mutations in the UL97 phosphotransferase gene, which plays a role in converting ganciclovir into its active antiviral metabolite (ganciclovir triphosphate) (7). These mutations are strongly clustered at codons 460, 520, and 591-595 of the UL97 gene, with just three codons (460, 594, and 595) accounting for the vast majority of observed resistance mutations (7, 9). Screening for mutations at these three codons (by polymerase chain reaction amplification of viral DNA, followed by restriction enzyme analysis; Fig. 2) has been proposed for diagnostic use (7), and in this case revealed the presence of the two most common ganciclovir resistance mutations (V594 and S595) in CMV isolates from this patient. Also of interest is the rapid disappearance of the mutations after discontinuation of ganciclovir (Fig. 1). We conclude from our experience with this case that ganciclovir resistance can occasionally be a clinically significant problem in solid organ transplantation, and that screening for drug resistance mutations may be a useful way of monitoring for this development in a manner that guides the selection of alternative therapy.Figure 1: Clinical and virological data. UL97 genotype: wt, wild type (no UL97 mutation detected); V594/S595, UL97 mutation detected (see text).Figure 2: Effect of UL97 mutations on restriction sites. The UL97 point mutations detected in this patient's CMV isolates were at codons 594 and 595. Mutations resulted in an amino acid change from Ala to Val (V594) and Leu to Ser (S595), respectively. They also caused a gain or loss of a restriction enzyme recognition site that could be used diagnostically. The V594 mutation altered an existing Hha I site (boxed), and the S595 mutation resulted in the gain of a Taq I restriction site (boxed) that was created by the mutation in combination with a mutant polymerase chain reaction primer (CPT1830M).
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Minimal effect of delayed sample processing on results of quantitative PCR for cytomegalovirus DNA in leukocytes compared to results of an antigenemia assay
+AU  - Peter Schäfer
+AU  - W. Tenschert
+AU  - K. Gutensohn
+AU  - Rainer Laufs
+JO  - Journal of Clinical Microbiology
+PY  - 1997
+VL  - 35
+IS  - 3
+SP  - 741
+EP  - 744
+DO  - 10.1128/jcm.35.3.741-744.1997
+AN  - 9041425
+AB  - Quantitative cytomegalovirus antigenemia and DNAemia were determined in peripheral leukocytes of 25 patients stored for up to 72 h at room temperature (RT) and 4 degrees C before processing. Numbers of antigen-positive cells significantly decreased with time. The decline was greater at RT than at 4 degrees C. In contrast, no significant alterations in DNAemia occurred.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Infection and rejection of primary hepatic transplant in 93 consecutive patients treated with triple immunosuppressive therapy.
+AU  - Nancy L. Ascher
+AU  - P Stock
+AU  - Ginny L. Bumgardner
+AU  - William D. Payne
+AU  - John S. Najarian
+JO  - PubMed
+PY  - 1988
+VL  - 167
+IS  - 6
+SP  - 474
+EP  - 84
+AN  - 3055368
+AB  - Ninety-three consecutive patients who underwent primary orthotopic hepatic transplantation were treated, after transplantation, with prophylactic immunosuppressive therapy consisting of cyclosporine, prednisone and azathioprine. Weekly percutaneous biopsies were performed to diagnose rejection rapidly. Rejection was treated using a sequential multidrug therapeutic approach based on histologic findings. Mild rejection was initially treated with steroids; moderate to severe rejection was initially treated with steroids; moderate to severe rejection was treated with Minnesota antilymphoblast globulin (mALG) or OKT3 monoclonal antibody (Orthoclone, Ortho Pharmaceutical Corp.), or both. The one year actuarial survival rate for adults was 80 per cent and for children, 70 per cent. The incidence of biopsy-proved rejection was 75 per cent in adults and 80 per cent in children; however, the rejection was relatively easily reversed in both groups using biopsy-guided multimodal therapy. In 21 of 22 patients treated with steroids alone, rejection was reversed. Forty-one patients with moderate to severe rejection required treatment with mALG or OKT3, or both; in 38, rejection was resolved, and in three, chronic rejection required retransplantation. The incidence of bacterial, fungal and viral infections was high after transplantation and was further exacerbated by antirejection therapy requiring mALG Or OKT3, or both. Although the rate of infections was high, most were easily treated with antimicrobial agents. Thus, triple drug immunoprophylaxis followed by biopsy-guided antirejection therapy provided effected treatment of rejection without promoting fatal infections.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Efficacy of oral ganciclovir in prevention of cytomegalovirus infection in post-kidney transplant patients.
+AU  - N Ahsan
+AU  - Michael J. Holman
+AU  - H C Yang
+JO  - PubMed
+PY  - 1997
+VL  - 11
+IS  - 6
+SP  - 633
+EP  - 9
+AN  - 9408699
+AB  - Unlike parenteral gancicovir, the efficacy of oral ganciclovir in the prevention and treatment of cytomegalovirus (CMV) infection in kidney transplantation has not been well documented. This study prospectively evaluated the episodes of CMV infection within the first nine months after transplantation in renal transplant recipients treated prophylactically with oral ganciclovir (750 mg twice a day) over a period of 3 months (oral ganciclovir, N = 22), compared with patients randomly assigned as controls (controls, N = 22) who did not receive any anti-viral prophylaxis. Diagnosis of CMV infection at presentation included serological determination of CMV-specific immunoglobulin M antibodies, CMV immunofluorescence assay [standard culture tube and shell vial] (blood) and virus isolation (urine and tissue). CMV infection occurred in one patient (5%) in the oral ganciclovir group and 6 patients (27%) in the control group (p < 0.05). The episodes of biopsy proven allograft rejections were 5% (1/21) and 18% (4/22) in the oral ganciclovir and control groups, respectively. Except for one, none of these patients developed CMV infection either before or after rejection(s). Controlling for the reason (induction or treatment of rejection) for using cytolytic antibody therapies, we found that prophylactic oral ganciclovir was protective against CMV infection (adjusted risk reduction 0.83; 95% confidence interval, 0.33-0.98; p < 0.05). Neither, the CMV status of donors and recipients nor the treatment for acute rejection had any significant impact on the occurrence of CMV infections. Our results show that oral ganciclovir is an effective and well tolerated therapy in the prevention of CMV infection in renal transplant patients.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - LONG-TERM GANCICLOVIR PROPHYLAXIS FOR SUCCESSFUL PREVENTION OF PRIMARY CYTOMEGALOVIRUS (CMV) DISEASE IN CMV-SERONEGATIVE LIVER TRANSPLANT RECIPIENTS WITH CMV-SEROPOSITIVE DONORS1
+AU  - Philip Seu
+AU  - Drew J. Winston
+AU  - Curtis Holt
+AU  - Fady M. Kaldas
+AU  - Ronald W. Busuttil
+JO  - Transplantation
+PY  - 1997
+VL  - 64
+IS  - 11
+SP  - 1614
+EP  - 1617
+DO  - 10.1097/00007890-199712150-00022
+AN  - 9415569
+AB  - BACKGROUND: We conducted a trial of long-term ganciclovir prophylaxis for prevention of primary cytomegalovirus (CMV) disease in CMV-seronegative liver transplant recipients with CMV-seropositive donors. METHODS: Patients received intravenous ganciclovir at a dose of 6 mg/kg once a day from day 1 to day 30 after transplant, and then at a dose of 6 mg/kg once a day, Monday through Friday, until day 100. Forty-seven consecutive patients were evaluated. Due to the primary physician's decision or administrative error, 10 patients received less than 7 weeks of ganciclovir (mean duration, 3 weeks). RESULTS: Four of the 10 (40%) patients who received less than 7 weeks of ganciclovir developed CMV disease (hepatitis). In contrast, none of the 37 patients given 100 days of prophylactic ganciclovir developed CMV disease while receiving ganciclovir. Two patients (5.4%) subsequently developed CMV disease (hepatitis) 21 and 88 days, respectively, after completing their ganciclovir prophylaxis. Reversible neutropenia in three patients (8.1%) was the only side effect associated with long-term ganciclovir. Complications from central intravenous catheters did not occur. CONCLUSIONS: These results reaffirm the efficacy and safety of long-term ganciclovir prophylaxis for prevention of primary CMV disease in a large number of high-risk CMV-seronegative liver transplant recipients with CMV-seropositive donors.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Cytomegalovirus infection in orthotopic liver transplantation
+AU  - L. H. Sayage
+AU  - Thomas A. Gonwa
+AU  - Robert M. Goldstein
+AU  - Bo S. Husberg
+AU  - Göran B. Klintmalm
+JO  - Transplant International
+PY  - 1989
+VL  - 2
+IS  - 2
+SP  - 96
+EP  - 101
+DO  - 10.1007/bf02459327
+AN  - 2551315
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - CYTOMEGALOVIRUS INFECTION IN PEDIATRIC LIVER RECIPIENTS
+AU  - Élisabeth Dussaix
+AU  - Chantal Wood
+JO  - Transplantation
+PY  - 1989
+VL  - 48
+IS  - 2
+SP  - 272
+EP  - 274
+DO  - 10.1097/00007890-198908000-00018
+AN  - 2547257
+AB  - From November 1985 to August 1987, 22 children underwent orthotopic liver transplantation (OLT). Primary cytomegalovirus (CMV) infection was observed in 3 of 10 seronegative recipients (30%). It was severe in 2 cases, which were treated successfully by a combination of DHPG and CMV hyperimmune globulin. From September 1987 to August 1988, a virologic survey was undertaken. It enabled us to take prophylactic measures and to make an early diagnosis of CMV infection, permitting early antiviral treatment. During this period, 26 children received liver grafts. Nine of 13 seronegative recipients (69, 2%) developed primary CMV infection. Seven had received immunoprophylaxis and 8 were treated by DHPG. None had severe disease and all improved rapidly.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Cytomegalovirus infection in orthotopic liver transplantation
+AU  - L. H. Sayage
+AU  - Thomas A. Gonwa
+AU  - Robert M. Goldstein
+AU  - Bo S. Husberg
+AU  - Göran B. Klintmalm
+JO  - Transplant International
+PY  - 1989
+VL  - 2
+IS  - 1
+SP  - 96
+EP  - 101
+DO  - 10.1111/j.1432-2277.1989.tb01847.x
+AB  - Abstract. We retrospectively studied 175 orthotopic liver transplants in 151 patients. Of the 151 patients, 59 (39. 1%) were diagnosed as having cytomegalovirus (CMV) infection. The rate of infection in patients treated for rejection was 48. 8% as compared to 26. 2% in patients without rejection (P < 0. 01). Antirejection therapy was associated with culture-positive cases in 33 out of 43 patients as compared to 9 out of 16 patients who had CMV antibody titer elevations. Patients were treated with gancyclovir if they had simultaneous positive cultures from multiple sites and were seriously ill. Eighteen of the 19 patients thus treated had side effects, one of which was serious (bone marrow hypoplasia). Cultures became negative in 15 out of 17 (88%) of the surviving patients. Patient survival was similar to our overall survival rate of 87%.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Symptomatic Cytomegalovirus Infection as a Significant Risk Factor for Major Infections After Cardiac Transplantation
+AU  - Margaret J. Gorensek
+AU  - Robert W. Stewart
+AU  - Thomas F. Keys
+AU  - Martin C. McHenry
+AU  - Theresa Babiak
+AU  - Marlene Goormastic
+JO  - The Journal of Infectious Diseases
+PY  - 1988
+VL  - 158
+IS  - 4
+SP  - 884
+EP  - 887
+DO  - 10.1093/infdis/158.4.884
+AN  - 2844922
+AB  - Journal Article Symptomatic Cytomegalovirus Infection as a Significant Risk Factor for Major Infections After Cardiac Transplantation Get access Margaret J. Gorensek, Margaret J. Gorensek Departments of Infectious Disease, Cardiothoracic Surgery, and Biostatistics and Epidemiology of the Cleveland Clinic Foundation, Cleveland, Ohio Please address requests for reprints to Dr. Margaret J. Gorensek at her present address: Cleveland Clinic Florida, 3000 West Cypress Road, Ft. Lauderdale, Florida 33309. Search for other works by this author on: Oxford Academic PubMed Google Scholar Robert W. Stewart, Robert W. Stewart Departments of Infectious Disease, Cardiothoracic Surgery, and Biostatistics and Epidemiology of the Cleveland Clinic Foundation, Cleveland, Ohio Search for other works by this author on: Oxford Academic PubMed Google Scholar Thomas F. Keys, Thomas F. Keys Departments of Infectious Disease, Cardiothoracic Surgery, and Biostatistics and Epidemiology of the Cleveland Clinic Foundation, Cleveland, Ohio Search for other works by this author on: Oxford Academic PubMed Google Scholar Martin C. McHenry, Martin C. McHenry Departments of Infectious Disease, Cardiothoracic Surgery, and Biostatistics and Epidemiology of the Cleveland Clinic Foundation, Cleveland, Ohio Search for other works by this author on: Oxford Academic PubMed Google Scholar Theresa Babiak, Theresa Babiak Departments of Infectious Disease, Cardiothoracic Surgery, and Biostatistics and Epidemiology of the Cleveland Clinic Foundation, Cleveland, Ohio Search for other works by this author on: Oxford Academic PubMed Google Scholar Marlene Goormastic Marlene Goormastic Departments of Infectious Disease, Cardiothoracic Surgery, and Biostatistics and Epidemiology of the Cleveland Clinic Foundation, Cleveland, Ohio Search for other works by this author on: Oxford Academic PubMed Google Scholar The Journal of Infectious Diseases, Volume 158, Issue 4, October 1988, Pages 884–887, https://doi.org/10.1093/infdis/158.4.884 Published: 01 October 1988 Article history Received: 29 February 1988 Revision received: 18 May 1988 Published: 01 October 1988
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Combined antibody and ganciclovir treatment of murine cytomegalovirus-infected normal and immunosuppressed BALB/c mice
+AU  - R H Rubin
+AU  - P. Lynch
+AU  - Mark S. Pasternack
+AU  - David Schoenfeld
+AU  - Donald N. Medearis
+JO  - Antimicrobial Agents and Chemotherapy
+PY  - 1989
+VL  - 33
+IS  - 11
+SP  - 1975
+EP  - 1979
+DO  - 10.1128/aac.33.11.1975
+AN  - 2558616
+AB  - The efficacy of treatment with ganciclovir (DHPG) and antibody activity-containing ascitic fluid (AF) separately and in combination was studied in normal and immunosuppressed BALB/c mice challenged intraperitoneally with a lethal dose (10(6) PFU) of murine cytomegalovirus (CMV). With combination therapy, lower doses of both DHPG and AF were often as effective as a higher dose of either agent given singly. For instance, the survival rate of murine CMV-challenged immunosuppressed mice was doubled when 4 mg of DHPG per kg and a 1:16 dilution of AF were both administered in contrast to when each was used alone. In both groups of animals, combination therapy was shown to be more effective than either therapy individually, even when initiation of therapy was delayed as long as 48 h. Such an approach holds promise for decreasing the expense associated with antibody use and the dose-related toxicity associated with DHPG use while maintaining or possibly increasing the efficacy of prophylaxis and therapy of serious CMV disease in humans.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Acyclovir prophylaxis for cytomegalovirus disease in high-risk renal transplant recipients: is it effective?
+AU  - Simin Göral
+AU  - C Ynares
+AU  - Stephen Dummer
+AU  - J. Harold Helderman
+JO  - PubMed
+PY  - 1996
+VL  - 57
+SP  - S62
+EP  - 5
+AN  - 8941924
+AB  - Cytomegalovirus (CMV) is a significant cause of post-transplantation morbidity and mortality in renal transplant recipients. The risk of CMV infection is between 60 to 88% in CMV seronegative patients who receive kidneys from CMV seropositive donors (D+, R-). In order to evaluate the efficacy of oral acyclovir in prevention of CMV infection after transplantation, we retrospectively reviewed the records of 25 patients (D+, R-) who were transplanted between January 1993 and December 1995. Eighteen of 25 patients received prophylaxis with variable doses of acyclovir (600 to 4000 mg/day, adjusted for their renal function) for 4 to 7 months. CMV disease was defined as fever (> or = 38 degrees C) for at least three days which could not be attributed to other causes with positive cultures or seroconversion for CMV, and presence of either leukopenia, pneumonitis, gastroenteritis or elevated liver enzymes. Twelve of the 18 patients (66.6%) who received acyclovir prophylaxis developed CMV disease. Seven patients were hospitalized and treated with i.v. ganciclovir. One patient died from CMV pneumonia associated with invasive fungal infection five months after transplantation. Of the 7 patients who did not receive prophylactic acyclovir, 5 (71.4%) developed CMV disease (2 patients were hospitalized and treated with ganciclovir). Our results failed to confirm the efficacy of oral acyclovir as a prophylaxis against CMV disease in a small group of high-risk patients. We conclude that other strategies should be tested.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - The First 100 Liver Transplantations at the Mayo Clinic
+AU  - Ruud A. F. Krom
+AU  - Russell H. Wiesner
+AU  - Steven R. Rettke
+AU  - Jurgen Ludwig
+AU  - Peter A. Southorn
+AU  - Paul E. Hermans
+AU  - Howard F. Taswell
+JO  - Mayo Clinic Proceedings
+PY  - 1989
+VL  - 64
+IS  - 1
+SP  - 84
+EP  - 94
+DO  - 10.1016/s0025-6196(12)65307-5
+AN  - 2642999
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of the Digene Hybrid Capture System for detection and quantitation of human cytomegalovirus viremia in human immunodeficiency virus-infected patients
+AU  - Tony Mazzulli
+AU  - Steven G. Wood
+AU  - Robert Lorenz Chua
+AU  - Sharon Walmsley
+JO  - Journal of Clinical Microbiology
+PY  - 1996
+VL  - 34
+IS  - 12
+SP  - 2959
+EP  - 2962
+DO  - 10.1128/jcm.34.12.2959-2962.1996
+AN  - 8940430
+AB  - The Digene Hybrid Capture System (DHCS) is a solution hybridization antibody capture assay for the chemiluminescent detection and quantitation of cytomegalovirus (CMV) DNA in leukocytes. This assay was compared with the CMV antigenemia assay and shell vial and tube cultures for the detection of CMV in 234 blood specimens from 72 patients with human immunodeficiency virus. Intra- and interrun precision of the DHCS assay gave coefficients of variation of 17.8 and 16.3%, respectively. The correlation coefficient for the quantitative results obtained by the DHCS assay and the antigenemia assay was 0.911 (95% confidence interval, 0.885 to 0.930). Agreement between the DHCS assay and the other three assays ranged from 83 to 86%. The DHCS assay detected 71, 87, and 84% of specimens that were positive by antigenemia, shell vial cultures, and tube culture, respectively. A total of 92% of specimens that were positive by the DHCS assay were also positive by at least one of the other assays. Evaluation of the usefulness of quantitation of CMV DNA by using the DHCS assay and its correlation with clinical disease demonstrated that, with some exceptions, patients with clinical CMV disease tended to have high levels of DNA whereas asymptomatic patients tended to have low or undetectable levels. Overall, the DHCS assay provided a rapid, quantitative, and objective measure of CMV activity in leukocytes, but results did not always correlate with clinical disease.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Cytomegalovirus Infection After Liver Transplantation: Clinical Manifestations and Strategies for Prevention
+AU  - J. Stephen Dummer
+JO  - Clinical Infectious Diseases
+PY  - 1990
+VL  - 12
+IS  - Supplement_7
+SP  - S767
+EP  - S775
+DO  - 10.1093/clinids/12.supplement_7.s767
+AN  - 2173106
+AB  - Cytomegalovirus (CMV) has been shown to be an important pathogen in liver transplant recipients. The presence of primary infection and the use of OKT3 monoclonal antibodies appear to be risk factors for symptomatic infection. In my experience, the disease is clinically similar to the CMV disease seen in other transplant groups except that infection of the liver may be clinically more important in liver recipients than in other transplant recipients. Various regimens for prevention of CMV infection in transplant recipients have been investigated, including vaccination, prophylaxis with a variety of polyclonal immunoglobulin preparations, the use of immunomodulators such as interferon-alpha, and antiviral prophylaxis with acyclovir. These studies have been performed in kidney or bone marrow recipients and may not be applicable to liver recipients. Studies in progress on which no data are currently available employ human monoclonal immunoglobulin and ganciclovir. It is not possible at present to make any specific recommendations for prophylaxis. It is likely that ongoing randomized studies and further understanding of host-virus interactions in CMV disease will lead to useful prophylactic regimens in this group of patients.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - REDUCTION BY COMBINATION PROPHYLACTIC THERAPY WITH CMV HYPERIMMUNE GLOBULIN AND ACYCLOVIR OF THE RISK OF PRIMARY CMV DISEASE IN RENAL TRANSPLANT RECIPIENTS
+AU  - David L. Nicol
+AU  - Allan S. MacDonald
+AU  - P Belitsky
+AU  - Spencer Lee
+AU  - Allan D. Cohen
+AU  - H Bitter-Suermann
+AU  - JOSEPH LOWEN
+AU  - ALICE WHALEN
+JO  - Transplantation
+PY  - 1993
+VL  - 55
+IS  - 4
+SP  - 841
+EP  - 846
+DO  - 10.1097/00007890-199304000-00030
+AN  - 8386404
+AB  - CMV-seronegative recipients of kidneys from CMV-seropositive donors (D+/R+) are at highest risk for developing clinical CMV disease. Even with routine prophylactic use of low-dose acyclovir we had a CMV disease incidence of 26% (5/19) in these patients. Published studies using either acyclovir or CMV hyperimmune globulin (HIG) alone as prophylaxis have also shown clinical disease in 20-30% of D+/R+ patients--less than controls but still significantly greater than in comparable CMV+ recipients (R+). The purpose of this study was to determine whether the risk of primary CMV disease in D+/R- patients was reduced by prophylaxis with combined CMV-HIG and low-dose acyclovir as follows: CMV-HIG (Immuno) 1 ml/kg i.v. immediately prior to transplantation and at 3-week intervals for 6 months; acyclovir 600 mg/day p.o. for 3 months. A total of 361 consecutive renal transplants were studied prospectively. All D+/R- pts (n = 73) received CMV-HIG and acyclovir, the others (91 D+/R+, 74 D-/R+, 123 D-/R-) received only low-dose acyclovir. The incidence of clinical CMV disease, CMV-related graft loss, graft and patient survival, and the influence of ALG and OKT-3 were analyzed and compared between groups. Of the 361 patients only 18 (5%) developed CMV disease, with 5 CMV-related graft losses. CMV disease occurred in only 10% of the D+/R- patients, lower than in previously reported studies. Significantly the incidence was as low as in CMV+ recipients of kidneys from both CMV+ (6%) and CMV- (7%) donors. Use of OKT-3 for steroid-resistant rejection increased the risk of developing CMV disease: 11/50 (22%) receiving OKT-3 developed CMV disease vs. only 7/311 (2%) who did not (P < 0.001); 11/18 (61%) with CMV disease had received OKT-3. ALG induction immunosuppression did not increase the risk of CMV in patients who subsequently received OKT-3. No patient developed CMV disease after discontinuing prophylaxis. There were no complications related to either CMV-HIG or acyclovir use. Compared with all other patients, the D+/R- group had superior graft survival at 1 and 3 years (94% vs. 87% and 86% vs. 74%, P < 0.05) but similar patient survival. Combined CMV-HIG and low-dose acyclovir appear to be better than either agent alone in preventing primary CMV disease in CMV- patients who receive CMV+ kidneys. Low-dose oral acyclovir (600 mg/day) may be as effective in preventing CMV disease as higher-dose prophylactic regimens, at least when accompanied by CMV-HIG.(ABSTRACT TRUNCATED AT 400 WORDS)
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Cytomegalovirus Infection of the Liver in Transplant Recipients
+AU  - Dale C. Snover
+AU  - Scot W. Hutton
+AU  - Henry H. Balfour
+AU  - Joseph R. Bloomer
+JO  - Journal of Clinical Gastroenterology
+PY  - 1987
+VL  - 9
+IS  - 6
+SP  - 659
+EP  - 665
+DO  - 10.1097/00004836-198712000-00010
+AB  - Thirty-two transplant recipients with cytomegalovirus (CMV) infection documented by positive culture of blood and/or organs other than the liver were evaluated for hepatic involvement. Thirteen of the 32 (41%) had evidence of hepatic involvement with CMV. Inclusions alone were present in three patients; liver cultures alone were positive for CMV in three; and both were present in seven. Although the presence of CMV inclusions was the only histological feature that clearly separated the groups with and without hepatic involvement, two items helpful in finding inclusions were lobular aggregates of polymorphonuclear cells and portal karyorrhexic debris. The presence of liver involvement had a significant correlation with multiple organ infection, indicating it is a good marker of widely disseminated disease. This study indicates that liver histology and culture are useful and complementary methods for documentation of hepatic involvement (hence, tissue invasion) in immunocompromised patients with CMV infection.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of three regimens for cytomegalovirus prophylaxis in 147 liver transplant recipients.
+AU  - Chris E. Freise
+AU  - Vincent Pons
+AU  - John R. Lake
+AU  - Edward L. Burke
+AU  - Nancy L. Ascher
+AU  - John P. Roberts
+JO  - PubMed
+PY  - 1991
+VL  - 23
+IS  - 1 Pt 2
+SP  - 1498
+EP  - 500
+AN  - 1846470
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Symptomatic Cytomegalovirus Infection in Renal Transplant Recipients Given Either Minnesota Antilymphoblast Globulin (MALG) or OKT3 for Rejection Prophylaxis
+AU  - Thomas C. Bailey
+AU  - William G. Powderly
+AU  - Gregory A. Storch
+AU  - Stephen B. Miller
+AU  - John D. Dunkel
+AU  - Robert S. Woodward
+AU  - Edward L. Spitznagel
+AU  - Douglas W. Hanto
+AU  - W. Claiborne Dunagan
+JO  - American Journal of Kidney Diseases
+PY  - 1993
+VL  - 21
+IS  - 2
+SP  - 196
+EP  - 201
+DO  - 10.1016/s0272-6386(12)81093-6
+AN  - 8381577
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Valaciclovir Reduces the Incidence of Cytomegalovirus Disease and Acute Graft Rejection in CMV-Seronegative Recipients of a Seropositive Cadaveric Renal Allograft
+AU  - Lowance Dc
+AU  - C Legendre
+AU  - H-H Neumayer
+AU  - Douglas J. Norman
+AU  - G Coggon
+AU  - I Lee
+AU  - Adam Crisp
+JO  - Transplantation
+PY  - 1998
+VL  - 65
+IS  - Supplement
+SP  - 94
+EP  - 94
+DO  - 10.1097/00007890-199805131-00061
+AB  - 61 Objective: To evaluate the safety and efficacy of valaciclovir(VALTREX™/ZELITREX™) for prophylaxis of CMV disease/syndrome in high-risk donor-positive recipient-negative (D+R-) patients. Study Design: Placebo (PBO)-controlled, international, double-blind, randomised trial in 208 renal allograft recipients. Methods: Patients received valaciclovir (2g 4x daily; adjusted per creatinine clearance) or PBO for 90 days and were evaluated for 6 months post-transplant. The primary end-point was the development of protocol-defined, laboratory-confirmed, clinical CMV disease. Analysis was by Cox's regression on the intent-to-treat population.Results: Fifty-five confirmed CMV disease episodes, (41 episodes in 39 placebo patients; 14 episodes in 14 valaciclovir patients) were verified by an End-points Committee. Only 3 cases occurred during valaciclovir treatment versus 41 cases while receiving PBO. During the 6-month study period, the incidences were 39% (PBO) and 14% (valaciclovir), with 80% of disease being prevented or delayed in valaciclovir recipients (hazard ratio=0.201; 95% CI=0.106, 0.381; p<0.0001). Organ-invasive CMV disease incidence was also significantly decreased (26% PBO, 4% valaciclovir; p<0.0001). The incidence of biopsy-proven acute rejection was reduced from 49% (PBO) to 25%(valaciclovir) during the 6-month study period (hazard ratio=0.438; 95% CI=0.264, 0.728; p=0.0014). Safety: Serum creatinine concentration at baseline and at months 1, 2 and 3 was similar between the groups. No differences in graft function and survival were noted between the two groups at baseline and study end. The nature and frequency of adverse experiences, including nephrotoxicity, were similar between the two groups, with the exception of hallucination (7% valaciclovir vs 4% PBO) and confusion (6% valaciclovir vs 2% PBO). These events were generally mild, temporary and reversible following discontinuation of medication. Conclusion: Valaciclovir is well-tolerated and effective for the prophylaxis of CMV disease in D+R- patients. The significant effect on reduction of acute rejection may portend improved long-term allograft survival. This study was sponsored by Glaxo Wellcome.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the AASLD annual meeting
+AU  - GINANNI CORRADINI, Stefano
+AU  - ALVARO, Domenico
+AU  - GIACOMELLI, Luciano
+AU  - ANGELICO M.
+JO  - Hepatology
+PY  - 1989
+VL  - 10
+IS  - 4
+SP  - 569
+EP  - 749
+DO  - 10.1002/hep.1840100432
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Improved Cadaver Allograft Survival in Transfused Recipients who Remain Serologically Negative for Cytomegalovirus
+AU  - Stuart M. Flechner
+AU  - Andrew C. Novick
+AU  - Donald Steinmuller
+JO  - The Journal of Urology
+PY  - 1982
+VL  - 127
+IS  - 4
+SP  - 644
+EP  - 647
+DO  - 10.1016/s0022-5347(17)53972-5
+AN  - 6279886
+AB  - Between April 1976 and October 1979, 100 consecutive cadaver renal transplants were done. Before transplantation 48 recipients were seronegative and 52 were seropositive for cytomegalovirus. After transplantation there were 20 primary and 38 secondary cytomegalovirus infections. The development of post-transplant cytomegalovirus infection, with or without overt symptoms, had no effect on graft survival. The 1-year graft survival was significantly better (p less than 0.05) in high transfused (more than 5 units) recipients (70 per cent) compared to nontransfused recipients (36 per cent). The beneficial effect of transfusions was not diminished in patients with positive post-transplant cytomegalovirus serology. Of the transfused recipients those who remained serologically negative for cytomegalovirus pre-transplant had significantly better 1-year graft survival (78 per cent) than those who were cytomegalovirus positive before transplantation (58 per cent) (p less than 0.05). The improved graft survival in patients who remain cytomegalovirus seronegative after multiple blood transfusions may be a manifestation of unresponsiveness to immunologic as well as virogenetic stimulation.
+DS  - openalex
+DP  - openalex
+ER  - 
+

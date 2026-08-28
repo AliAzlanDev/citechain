@@ -1,0 +1,2615 @@
+TY  - JOUR
+TI  - EuroQol - a new facility for the measurement of health-related quality of life
+AU  - A. Kasuya
+JO  - Health Policy
+PY  - 1990
+VL  - 16
+IS  - 3
+SP  - 199
+EP  - 208
+DO  - 10.1016/0168-8510(90)90421-9
+AN  - 10109801
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Interpretation of Changes in Health-related Quality of Life
+AU  - Geoffrey R. Norman
+AU  - Jeff A. Sloan
+AU  - Kathleen W. Wyrwich
+JO  - Medical Care
+PY  - 2003
+VL  - 41
+IS  - 5
+SP  - 582
+EP  - 592
+DO  - 10.1097/01.mlr.0000062554.74615.4c
+AN  - 12719681
+AB  - BACKGROUND: A number of studies have computed the minimally important difference (MID) for health-related quality of life instruments. OBJECTIVE: To determine whether there is consistency in the magnitude of MID estimates from different instruments. METHODS: We conducted a systematic review of the literature to identify studies that computed an MID and contained sufficient information to compute an effect size (ES). Thirty-eight studies fulfilled the criteria, resulting in 62 ESs. RESULTS: For all but 6 studies, the MID estimates were close to one half a SD (mean = 0.495, SD = 0.155). There was no consistent relationship with factors such as disease-specific or generic instrument or the number of response options. Negative changes were not associated with larger ESs. Population-based estimation procedures and brief follow-up were associated with smaller ESs, and acute conditions with larger ESs. An explanation for this consistency is that research in psychology has shown that the limit of people's ability to discriminate over a wide range of tasks is approximately 1 part in 7, which is very close to half a SD. CONCLUSION: In most circumstances, the threshold of discrimination for changes in health-related quality of life for chronic diseases appears to be approximately half a SD.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Methods for the economic evaluation of health care programmes
+AU  - Sandra Wilson
+JO  - Journal of Epidemiology & Community Health
+PY  - 1987
+VL  - 41
+IS  - 4
+SP  - 355.2
+EP  - 356
+DO  - 10.1136/jech.41.4.355-a
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Revision of the CEAP classification for chronic venous disorders: Consensus statement
+AU  - Bo Eklöf
+AU  - Robert B. Rutherford
+AU  - John J. Bergan
+AU  - Patrick Carpentier
+AU  - Péter Gloviczki
+AU  - Robert L. Kistner
+AU  - Mark H. Meissner
+AU  - Gregory L. Moneta
+AU  - Kenneth A. Myers
+AU  - Frank T. Padberg
+AU  - Michel Perrin
+AU  - C V Ruckley
+AU  - Philip Coleridge Smith
+AU  - Thomas W. Wakefield
+JO  - Journal of Vascular Surgery
+PY  - 2004
+VL  - 40
+IS  - 6
+SP  - 1248
+EP  - 1252
+DO  - 10.1016/j.jvs.2004.09.027
+AN  - 15622385
+AB  - The CEAP classification for chronic venous disorders (CVD) was developed in 1994 by an international ad hoc committee of the American Venous Forum, endorsed by the Society for Vascular Surgery, and incorporated into "Reporting Standards in Venous Disease" in 1995. Today most published clinical papers on CVD use all or portions of CEAP. Rather than have it stand as a static classification system, an ad hoc committee of the American Venous Forum, working with an international liaison committee, has recommended a number of practical changes, detailed in this consensus report. These include refinement of several definitions used in describing CVD; refinement of the C classes of CEAP; addition of the descriptor n (no venous abnormality identified); elaboration of the date of classification and level of investigation; and as a simpler alternative to the full (advanced) CEAP classification, introduction of a basic CEAP version. It is important to stress that CEAP is a descriptive classification, whereas venous severity scoring and quality of life scores are instruments for longitudinal research to assess outcomes.
+DS  - semantic scholar
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - The care of patients with varicose veins and associated chronic venous diseases: Clinical practice guidelines of the Society for Vascular Surgery and the American Venous Forum
+AU  - Péter Gloviczki
+AU  - Anthony J. Comerota
+AU  - Michael C. Dalsing
+AU  - Bo Eklöf
+AU  - David L. Gillespie
+AU  - Monika L. Gloviczki
+AU  - Joann M. Lohr
+AU  - Robert B. McLafferty
+AU  - Mark H. Meissner
+AU  - M. Hassan Murad
+AU  - Frank T. Padberg
+AU  - Peter J. Pappas
+AU  - Marc A. Passman
+AU  - J.D. Raffetto
+AU  - Michael Vasquez
+AU  - Thomas W. Wakefield
+JO  - Journal of Vascular Surgery
+PY  - 2011
+VL  - 53
+IS  - 5
+SP  - 2S
+EP  - 48S
+DO  - 10.1016/j.jvs.2011.01.079
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Reporting standards in venous disease: An update
+AU  - John M. Porter
+AU  - Gregory L. Moneta
+JO  - Journal of Vascular Surgery
+PY  - 1995
+VL  - 21
+IS  - 4
+SP  - 635
+EP  - 645
+DO  - 10.1016/s0741-5214(95)70195-8
+AN  - 7707568
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Comparative analysis of two rates
+AU  - Olli S. Miettinen
+AU  - Markku Nurminen
+JO  - Statistics in Medicine
+PY  - 1985
+VL  - 4
+IS  - 2
+SP  - 213
+EP  - 226
+DO  - 10.1002/sim.4780040211
+AN  - 4023479
+AB  - In this paper, we examine comparative analysis of rates with a view to each of the usual comparative parameters-rate difference (RD), rate ratio (RR) and odds ratio (OR)-and with particular reference to first principles. For RD and RR we show the prevailing statistical practices to be rather poor. We stress the need for restricted estimation of variance in the chi-square function underlying interval estimation (and also point estimation and hypothesis testing). For RR analysis we propose a chi-square formulation analogous to that for RD and, thus, one which obviates the present practice of log transformation and its associated use of Taylor series approximation of the variance. As for OR analysis, we emphasize that the chi-square function, introduced by Cornfield for unstratified data, and extended by Gart to the case of stratified analysis, is based on the efficient score and thus embodies its optimality properties. We provide simulation results to evince the better performance of the proposed (parameter-constrained) procedures over the traditional ones.
+DS  - semantic scholar
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Epidemiology of varicose veins
+AU  - M J Callam
+JO  - British journal of surgery
+PY  - 1994
+VL  - 81
+IS  - 2
+SP  - 167
+EP  - 173
+DO  - 10.1002/bjs.1800810204
+AN  - 8156326
+AB  - Assessment and treatment of varicose veins comprises a significant part of the surgical workload. In the UK, National Health Service waiting lists suggest that there is still considerable unmet need. This review analyses all published data on the epidemiology of varicose veins, paying particular regard to the differing epidemiological terminology, populations sampled, assessment methods and varicose vein definitions, which account for much of the variation in literature reports. Half of the adult population have minor stigmata of venous disease (women 50-55 per cent; men 40-50 per cent) but fewer than half of these will have visible varicose veins (women 20-25 per cent; men 10-15 per cent). The data suggest that female sex, increased age, pregnancy, geographical site and race are risk factors for varicose veins; there is no hard evidence that family history or occupation are factors. Obesity does not appear to carry any excess risk. Accurate prevalence data allow provision of appropriate resources or at least aid rational debate if demand is greater than the resources available.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Venous severity scoring: An adjunct to venous outcome assessment
+AU  - Robert B. Rutherford
+AU  - Frank T. Padberg
+AU  - Anthony J. Comerota
+AU  - Robert L. Kistner
+AU  - Mark H. Meissner
+AU  - Gregory L. Moneta
+JO  - Journal of Vascular Surgery
+PY  - 2000
+VL  - 31
+IS  - 6
+SP  - 1307
+EP  - 1312
+DO  - 10.1067/mva.2000.107094
+AN  - 10842165
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Randomized clinical trial comparing endovenous laser ablation, radiofrequency ablation, foam sclerotherapy and surgical stripping for great saphenous varicose veins
+AU  - Lars Hvilsted Rasmussen
+AU  - Martin Lawaetz
+AU  - Lars Bjoern
+AU  - B Vennits
+AU  - Allan Blemings
+AU  - B Eklöf
+JO  - British journal of surgery
+PY  - 2011
+VL  - 98
+IS  - 8
+SP  - 1079
+EP  - 1087
+DO  - 10.1002/bjs.7555
+AN  - 21725957
+AB  - BACKGROUND: This randomized trial compared four treatments for varicose great saphenous veins (GSVs). METHODS: Five hundred consecutive patients (580 legs) with GSV reflux were randomized to endovenous laser ablation (980 and 1470 nm, bare fibre), radiofrequency ablation, ultrasound-guided foam sclerotherapy or surgical stripping using tumescent local anaesthesia with light sedation. Miniphlebectomies were also performed. The patients were examined with duplex imaging before surgery, and after 3 days, 1 month and 1 year. RESULTS: At 1 year, seven (5.8 per cent), six (4.8 per cent), 20 (16.3 per cent) and four (4.8 per cent) of the GSVs were patent and refluxing in the laser, radiofrequency, foam and stripping groups respectively (P < 0.001). One patient developed a pulmonary embolus after foam sclerotherapy and one a deep vein thrombosis after surgical stripping. No other major complications were recorded. The mean(s.d.) postintervention pain scores (scale 0-10) were 2.58(2.41), 1.21(1.72), 1.60(2.04) and 2.25(2.23) respectively (P < 0.001). The median (range) time to return to normal function was 2 (0-25), 1 (0-30), 1 (0-30) and 4 (0-30) days respectively (P < 0.001). The time off work, corrected for weekends, was 3.6 (0-46), 2.9 (0-14), 2.9 (0-33) and 4.3 (0-42) days respectively (P < 0.001). Disease-specific quality-of-life and Short Form 36 (SF-36(®)) scores had improved in all groups by 1-year follow-up. In the SF-36(®) domains bodily pain and physical functioning, the radiofrequency and foam groups performed better in the short term than the others. CONCLUSION: All treatments were efficacious. The technical failure rate was highest after foam sclerotherapy, but both radiofrequency ablation and foam were associated with a faster recovery and less postoperative pain than endovenous laser ablation and stripping.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - The Epidemiology of Varicose Veins: The Framingham Study
+AU  - Frederick N. Brand
+AU  - Andrew L. Dannenberg
+AU  - Robert D. Abbott
+AU  - William B. Kannel
+JO  - American Journal of Preventive Medicine
+PY  - 1988
+VL  - 4
+IS  - 2
+SP  - 96
+EP  - 101
+DO  - 10.1016/s0749-3797(18)31203-0
+AN  - 3395496
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Endovenous therapies of lower extremity varicosities: A meta-analysis
+AU  - Renate van den Bos
+AU  - Lidia R. Arends
+AU  - Michaël Kockaert
+AU  - Martino Neumann
+AU  - Tamar Nijsten
+JO  - Journal of Vascular Surgery
+PY  - 2008
+VL  - 49
+IS  - 1
+SP  - 230
+EP  - 239
+DO  - 10.1016/j.jvs.2008.06.030
+AN  - 18692348
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Preliminary Experience with a New Sclerosing Foam in the Treatment of Varicose Veins
+AU  - L Tessari
+AU  - Attilio Cavezzi
+AU  - Alessandro Frullini
+JO  - Dermatologic Surgery
+PY  - 2001
+VL  - 27
+IS  - 1
+SP  - 58
+EP  - 60
+DO  - 10.1111/j.1524-4725.2001.00192.x
+AN  - 11231246
+AB  - BACKGROUND: Recently a new method of using a foam sclerosing agent for the treatment of leg veins has been described. We present a pilot study of a new technique for producing the sclerosing foam (Tessari's method) (SFT) and its use in sclerotherapy of major and minor varicosities. OBJECTIVE: A preliminary multicenter experience of sclerotherapy performed by means of this new kind of sclerosing foam made of purified sodium tetradecylsulfate is described. The authors evaluated the safety and efficacy of different doses and concentrations of the drug as well as different methods of preparing the foam in addition, the results of this technique were evaluated. METHODS: Over a 6-week period the three authors performed sclerotherapy or duplex-guided sclerotherapy using SFT, treating 77 patients. The SFT was formed using a three-way stopcock and two syringes, mixing air with liquid sodium tetradecylsulfate to create a foam. Each author used different concentrations (0.1-3%) and doses (2-8 ml) of SFT according to the size and number of the veins. Alternate methods of preparing the foam were examined as well. Seventy percent of the sclerotherapy sessions were performed on either the long or short saphenous veins, recurrent varices, or collaterals. Thirty percent of the treatments were for reticular varices and telangiectases. RESULTS: At 1-month follow-up, the vast majority of treated larger veins were either obliterated or showed a normal state of cephalad blood flow. Results for minor varicosities were good, but with related complications of hyperpigmentation and small areas of cutaneous necrosis. Two patients experienced transient scotomas and one patient developed segmental phlebitis of a collateral vein. The best foam was obtained by mixing one part liquid sodium tetradecylsulfate and four to five parts air, but the duration of the foam product was also related to several other factors. CONCLUSION: This preliminary pilot study demonstrates that the technique of producing sclerosing foam according to Tessari's method (three-way stopcock device) is very promising, especially for larger veins. No serious complications were reported, and further standardization of the method may improve the results and feasibility of this technique. Further studies are needed to validate this new technique.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Construction and validation of a quality of life questionnaire in Chronic Lower Limb Venous Insufficiency (CIVIQ)
+AU  - R Launois
+AU  - Jeanne Reboul‐Marty
+AU  - Bernadette Henry
+JO  - Quality of Life Research
+PY  - 1996
+VL  - 5
+IS  - 6
+SP  - 539
+EP  - 554
+DO  - 10.1007/bf00439228
+AN  - 8993100
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Management of chronic venous disorders of the lower limbs - guidelines according to scientific evidence.
+AU  - Andrew Nicolaides
+AU  - Stavros Kakkos
+AU  - Niels Baekgaard
+AU  - Anthony Comerota
+AU  - Marianne de Maeseneer
+AU  - Bo Eklof
+AU  - Athanasios Giannoukas
+AU  - Marzia Lugli
+AU  - Oscar Maleti
+AU  - Armando Mansilha
+AU  - Ken A Myers
+AU  - Olle Nelzén
+AU  - Hugo Partsch
+AU  - Michel Perrin
+JO  - PubMed
+PY  - 2008
+VL  - 27
+IS  - 1
+SP  - 1
+EP  - 208
+DO  - 10.23736/s0392-9590.20.04388-6
+AN  - 18277340
+AB  - Disclaimer Due to the evolving field of medicine, new research may, in due course, modify the recommendations presented in this document. At the time of publication, every attempt has been made to ensure that the information provided is up to date and accurate. It is the responsibility of the treating physician to determine the best treatment for the patient. The authors, committee members, editors, and publishers cannot be held responsible for any legal issues that may arise from the citation of this statement. Rules of evidence Management of patients with chronic venous disorders has been traditionally undertaken subjectively among physicians, often resulting in less than optimal strategies. In this document, a systematic approach has been developed with recommendations based upon cumulative evidence from the literature. Levels of evidence and grades of recommendation range from Level I and Grade A to Level III and Grade C. Level I evidence and Grade A recommendations derive from scientifically sound randomized clinical trials in which the results are clear-cut. Level II evidence and Grade B recommendations derive from clinical studies in which the results among trials often point to inconsistencies. Level III evidence and Grade C recommendations result from poorly designed trials or from small case series.1, 2 Meta-analysis Meta-analyses are included in the present document but there should be caution as to their possible abuse. Certain studies may be included in a meta-analysis carelessly without sufficiently understanding of substantive issues, ignoring relevant variables, using heterogenous findings or interpreting results with a bias.3 It has been demonstrated that the outcomes of 12 large randomized controlled trials were not predicted accurately 35% of the time by the meta-analyses published previously on the same topics.4
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Neovascularisation is the principal cause of varicose vein recurrence: Results of a randomised trial of stripping the long saphenous vein
+AU  - Lyn Jones
+AU  - B.D. Braithwaite
+AU  - David Selwyn
+AU  - S G Cooke
+AU  - J J Earnshaw
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 1996
+VL  - 12
+IS  - 4
+SP  - 442
+EP  - 445
+DO  - 10.1016/s1078-5884(96)80011-6
+AN  - 8980434
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Towards measurement of outcome for patients with varicose veins.
+AU  - Andrew Garratt
+AU  - Lesley Macdonald
+AU  - Danny Ruta
+AU  - Ian Russell
+AU  - J K Buckingham
+AU  - Z H Krukowski
+JO  - BMJ Quality & Safety
+PY  - 1993
+VL  - 2
+IS  - 1
+SP  - 5
+EP  - 10
+DO  - 10.1136/qshc.2.1.5
+AN  - 10132081
+AB  - OBJECTIVE: To develop a valid and reliable outcome measure for patients with varicose veins. DESIGN: Postal questionnaire survey of patients with varicose veins. SETTING: Surgical outpatient departments and training general practices in Grampian region. SUBJECTS: 373 patients, 287 of whom had just been referred to hospital for their varicose veins and 86 who had just consulted a general practitioner for this condition and, for comparison, a random sample of 900 members of the general population. MAIN MEASURES: Content validity, internal consistency, and criterion validity. RESULTS: 281(76%) patients (mean age 45.8; 76% female) and 542(60%) of the general population (mean age 47.9; 54% female) responded. The questionnaire had good internal consistency as measured by item-total correlations. Factor analysis identified four important health factors: pain and dysfunction, cosmetic appearance, extent of varicosity and complications. The validity of the questionnaire was demonstrated by a high correlation with the SF-36 health profile, which is a general measure of patients' health. The perceived health of patients with varicose veins, as measured by the SF-36, was significantly lower than that of the sample of the general population adjusted for age and a lower proportion of women. CONCLUSION: A clinically derived questionnaire can provide a valid and reliable tool to assess the perceived health of patients with varicose veins. IMPLICATIONS: The questionnaire may be used to justify surgical treatment of varicose veins.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Randomized trial comparing endovenous laser ablation of the great saphenous vein with high ligation and stripping in patients with varicose veins: Short-term results
+AU  - Lars Hvilsted Rasmussen
+AU  - Lars Bjoern
+AU  - Martin Lawaetz
+AU  - Allan Blemings
+AU  - B. Lawaetz
+AU  - B Eklöf
+JO  - Journal of Vascular Surgery
+PY  - 2007
+VL  - 46
+IS  - 2
+SP  - 308
+EP  - 315
+DO  - 10.1016/j.jvs.2007.03.053
+AN  - 17600655
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Radiofrequency Endovenous ClosureFAST versus Laser Ablation for the Treatment of Great Saphenous Reflux: A Multicenter, Single-blinded, Randomized Study (RECOVERY Study)
+AU  - José I. Almeida
+AU  - John A. Kaufman
+AU  - Oliver Göckeritz
+AU  - Paramjit Chopra
+AU  - Martin T. Evans
+AU  - Daniel F. Hoheim
+AU  - Raymond G. Makhoul
+AU  - Tim Richards
+AU  - Christian Wenzel
+AU  - Jeffrey K. Raines
+JO  - Journal of Vascular and Interventional Radiology
+PY  - 2009
+VL  - 20
+IS  - 6
+SP  - 752
+EP  - 759
+DO  - 10.1016/j.jvir.2009.03.008
+AN  - 19395275
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Endovascular obliteration of saphenous reflux: A multicenter study
+AU  - Robert F. Merchant
+AU  - Ralph G. DePalma
+AU  - Lowell S Kabnick
+JO  - Journal of Vascular Surgery
+PY  - 2002
+VL  - 35
+IS  - 6
+SP  - 1190
+EP  - 1196
+DO  - 10.1067/mva.2002.124231
+AN  - 12042730
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Recurrent Varices after Surgery (REVAS), a Consensus Document
+AU  - Michel Perrin
+AU  - J J Guex
+AU  - C V Ruckley
+AU  - Ralph G. DePalma
+AU  - John P. Royle
+AU  - Bo Eklöf
+AU  - Philippe Nicolini
+AU  - Georges Jantet
+AU  - REVAS group
+JO  - Cardiovascular Surgery
+PY  - 2000
+VL  - 8
+IS  - 4
+SP  - 233
+EP  - 245
+DO  - 10.1177/096721090000800402
+AB  - Report of the meeting† held in Paris on 17th & 18th July 1998 with participation oft: Ugo Baccaglini, Italy; Pierre Barthelemy. France; Jean-Claude Couffinhal. France: Denis Creton. France: Simon Darke, United Kingdom; Ralph De Palma, United States of America; Bo Eklof, United States of America; Ermenegildo Enrici, Argentina; Gilbert Franco, France; Jean Pierre Gobin, France; Louis Grondin, Canada; Jean-Jerome Guex. France; Georges Jantet. France; Claude Juhan. France; Jordi Maeso y Lebrun. Spain; Philippe Nicolini. France; Andreas Oesch, Switzerland; Marcelo Paramo-Diaz. Mexico; Michel Perrin. France; Paul Puppinck, France; Eberhard Rabe, Germany: Rene Rettori, France; John Royle, Australia; Vaughan Ruckley, United Kingdom; Michel Schadeck, France; Jean Claude Schovaerdts, Belgium; John Scurr, United Kingdom; Georgio Spreafico, Italy; Jan Struckman, Denmark; Frederic Vin, France Recurrent varicose veins after surgery (REVAS) are a common, complex and costly problem. The frequency of REVAS is stated to be between 20 and 80% depending on the definition of the condition. A consensus meeting on the topic (Paris 1998, July) decided to adopt a clinical definition: the presence of varicose veins in a lower limb previously operated on for varices. The pathology of recurrent varicose veins has been poorly correlated with clinical examination and operative findings. Clinical diagnosis remains essential but does not allow a precise assessment of REVAS. Consequently, the use of imaging investigations is essential. Duplex scan is considered as the method of choice. Both clinical diagnosis and imaging investigations allow the development of a classification for every day usage and future studies. This new classification of CEAP needs to be expanded to define the sites, nature and sources of recurrence, the magnitude of the reflux and other (possible) contributory factors. Methods for REVAS treatment include compression, drugs, sclerotherapy and redo surgery. There was no general consensus in favour of sclerotherapy, surgery or both to treat REVAS. Very few data were available to assess the results of treatment. Factors responsible for recurrence and recommendations for primary prevention were debated and are presented in this article. Guidelines for well-planned prospective studies have been produced.
+DS  - semantic scholar
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Duplex Ultrasound Investigation of the Veins of the Lower Limbs after Treatment for Varicose Veins – UIP Consensus Document
+AU  - Marianne De Maeseneer
+AU  - O. Pichot
+AU  - Attilio Cavezzi
+AU  - J J Earnshaw
+AU  - André van Rij
+AU  - Fedor Lurie
+AU  - P Coleridge Smith
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2011
+VL  - 42
+IS  - 1
+SP  - 89
+EP  - 102
+DO  - 10.1016/j.ejvs.2011.03.013
+AN  - 21530331
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Endovenous management of saphenous vein reflux
+AU  - Stefano Manfrini
+AU  - Vincenzo Gasbarro
+AU  - Guðmundur Daníelsson
+AU  - Lars Norgren
+AU  - James G. Chandler
+AU  - Andrew Lennox
+AU  - Zaki Anas Zarka
+AU  - Andrew Nicolaides
+JO  - Journal of Vascular Surgery
+PY  - 2000
+VL  - 32
+IS  - 2
+SP  - 330
+EP  - 342
+DO  - 10.1067/mva.2000.107573
+AN  - 10917994
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Randomized clinical trial of VNUS® ClosureFAST™ radiofrequency ablation <i>versus</i> laser for varicose veins
+AU  - Amanda C. Shepherd
+AU  - Manj Gohel
+AU  - Louise Brown
+AU  - Matthew Metcalfe
+AU  - Maher Hamish
+AU  - Alun H. Davies
+JO  - British journal of surgery
+PY  - 2010
+VL  - 97
+IS  - 6
+SP  - 810
+EP  - 818
+DO  - 10.1002/bjs.7091
+AN  - 20473992
+AB  - BACKGROUND: Endovenous laser ablation (EVLA) and radiofrequency ablation (RFA) are both associated with excellent technical, clinical and patient-reported outcomes for the treatment of varicose veins. The aim of this study was to compare the techniques in a randomized clinical trial. METHODS: Consecutive patients with primary great saphenous vein reflux were randomized to EVLA (980 nm) or RFA (VNUS ClosureFAST) at a single centre. The primary outcome measure was postprocedural pain after 3 days. Secondary outcome measures were quality of life at 6 weeks, determined by the Aberdeen Varicose Vein Questionnaire (AVVQ) and Short Form 12 (SF-12), and clinical improvement assessed by the Venous Clinical Severity Score (VCSS). Analyses were performed on the basis of intention to treat using multivariable linear regression. RESULTS: Some 131 patients were randomized to EVLA (64 patients) or RFA (67). Mean(s.d.) pain scores over 3 days were 26.4(22.1) mm for RFA and 36.8(22.5) mm for EVLA (P = 0.010). Over 10 days, mean(s.d.) pain scores were 22.0(19.8) mm versus 34.3(21.1) mm for RFA and EVLA respectively (P = 0.001). The mean(s.d.) number of analgesic tablets used was lower for RFA than for EVLA over 3 days (8.8(9.5) versus 14.2(10.7); P = 0.003) and 10 days (20.4(22.6) versus 35.9(29.4) respectively; P = 0.001). Changes in AVVQ, SF-12 and VCSS scores at 6 weeks were similar in the two groups: AVVQ (P = 0.887), VCSS (P = 0.993), SF-12 physical component score (P = 0.276) and mental component score (P = 0.449). CONCLUSION: RFA using VNUS ClosureFAST was associated with less postprocedural pain than EVLA. However, clinical and quality-of-life improvements were similar after 6 weeks for the two treatments.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Randomized clinical trial of endovenous laser ablation compared with conventional surgery for great saphenous varicose veins
+AU  - Daniel Carradice
+AU  - Anthony Mekako
+AU  - Fayyaz Mazari
+AU  - Nehemiah Samuel
+AU  - Josie Hatfield
+AU  - Ian Chetter
+JO  - British journal of surgery
+PY  - 2011
+VL  - 98
+IS  - 4
+SP  - 501
+EP  - 510
+DO  - 10.1002/bjs.7394
+AN  - 21283981
+AB  - BACKGROUND: Endovenous laser ablation (EVLA) is a popular minimally invasive treatment for varicose veins. Surgical treatment, featuring junctional ligation and inversion stripping, has shown excellent clinical and cost effectiveness. The clinical effectiveness of both treatments was compared within a randomized trial. METHODS: Some 280 patients were randomized equally into groups receiving either surgery or EVLA. Participants had primary, symptomatic, unilateral venous insufficiency, with isolated saphenofemoral junction incompetence, leading to reflux into the great saphenous vein. Outcomes included: quality of life (QoL), Venous Clinical Severity Score (VCSS), pain scores and time taken to return to normal function. Owing to the nature of the procedures, blinding was not possible. RESULTS: Both groups had significant improvements in VCSS after treatment (P < 0.001), which resulted in improved disease-specific QoL (Aberdeen Varicose Vein Questionnaire, P < 0.001) and quality-adjusted life year (QALY) gain (P < 0.001). The pain and disability following surgery impaired normal function, with a significant decline in five of eight Short Form 36 (SF-36(®)) domains (P < 0.001 to P = 0.029). Periprocedural QoL was relatively preserved following EVLA, leading to a significant difference between the two treatments in pain scores (P < 0.001), six of eight SF-36(®) domains (P = 0.004 to P = 0.049) and QALYs (P = 0.003). As a result, surgical patients took longer to return to work and normal activity (14 versus 4 days; P < 0.001). Complications were rare. CONCLUSION: EVLA was as effective as surgery for varicose veins, but had a less negative impact on early postintervention QoL. REGISTRATION NUMBER: NCT00759434 (http://www.clinicaltrials.gov).
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - First human use of cyanoacrylate adhesive for treatment of saphenous vein incompetence
+AU  - José I. Almeida
+AU  - Julian Javier
+AU  - E.G. Mackay
+AU  - Claudia J. Bautista
+AU  - Thomas M. Proebstle
+JO  - Journal of Vascular Surgery Venous and Lymphatic Disorders
+PY  - 2013
+VL  - 1
+IS  - 2
+SP  - 174
+EP  - 180
+DO  - 10.1016/j.jvsv.2012.09.010
+AN  - 26992340
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Reduced recanalization rates of the great saphenous vein after endovenous laser treatment with increased energy dosing: Definition of a threshold for the endovenous fluence equivalent
+AU  - Thomas M. Proebstle
+AU  - Thomas Moehler
+AU  - Sylvia Herdemann
+JO  - Journal of Vascular Surgery
+PY  - 2006
+VL  - 44
+IS  - 4
+SP  - 834
+EP  - 839
+DO  - 10.1016/j.jvs.2006.05.052
+AN  - 16945499
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Venous Clinical Severity Score and quality-of-life assessment tools: application to vein practice
+AU  - Michael Vasquez
+AU  - Carolyn E. Munschauer
+JO  - Phlebology The Journal of Venous Disease
+PY  - 2008
+VL  - 23
+IS  - 6
+SP  - 259
+EP  - 275
+DO  - 10.1258/phleb.2008.008018
+AN  - 19029007
+AB  - The time is ripe for universal understanding and acceptance of outcome assessment in venous disease. Outcome studies promote understanding of the diseases we treat and the results of treatment. The choice of a valid and reliable assessment tool is crucial. Patient-generated quality-of-life tools include generic instruments and disease-specific instruments. Generic instruments evaluate overall well-being and provide subjective measurements of treatment outcomes in various disease states. The 36-Item Short Form Health Survey and the Nottingham Health Profile are widely used generic surveys. Disease-specific instruments relate to a particular disease state. They are popular in venous disease reporting and have high sensitivity. The Chronic Venous Insufficiency Questionnaire, the Venous Insufficiency Epidemiological and Economic Study, the Aberdeen Varicose Vein Questionnaire and the Charing Cross Venous Ulceration Questionnaire are such devices. Physician-generated measurement tools are used to evaluate and classify the consequences of venous disease. The clinical, aetiology, anatomy, pathophysiology classification (CEAP) is a popular descriptive platform for chronic venous disease. The Venous Severity Scoring (VSS) system was derived from the CEAP classification to provide evaluative capabilities. The three elements of the VSS are the venous disability score, the venous segmental disease score and the venous clinical severity score (VCSS). The VCSS facilitates the follow-up of features of venous disease that change with treatment. Each of these outcomes tools has been validated, and each has strengths and weaknesses. Maintaining the dynamic nature of assessment with periodic review and revision is the way forward to generating universal applicability. Although the choice of instrument is debatable, the most important factor in improving treatment outcomes is the decision to examine results and to share them in a meaningful way.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Randomised Clinical Trial Comparing Endovenous Laser Ablation with Stripping of the Great Saphenous Vein: Clinical Outcome and Recurrence After 2 Years
+AU  - Lars Hvilsted Rasmussen
+AU  - Lars Bjoern
+AU  - Martin Lawaetz
+AU  - B. Lawaetz
+AU  - Allan Blemings
+AU  - B Eklöf
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2010
+VL  - 39
+IS  - 5
+SP  - 630
+EP  - 635
+DO  - 10.1016/j.ejvs.2009.11.040
+AN  - 20064730
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Three-year European follow-up of endovenous radiofrequency-powered segmental thermal ablation of the great saphenous vein with or without treatment of calf varicosities
+AU  - Thomas M. Proebstle
+AU  - Jens Alm
+AU  - Oliver Göckeritz
+AU  - Christian Wenzel
+AU  - T. Noppeney
+AU  - C Lebard
+AU  - O. Pichot
+AU  - Carmine Sessa
+AU  - D. Creton
+JO  - Journal of Vascular Surgery
+PY  - 2011
+VL  - 54
+IS  - 1
+SP  - 146
+EP  - 152
+DO  - 10.1016/j.jvs.2010.12.051
+AN  - 21439757
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Randomised Controlled Trial Comparing Sapheno-Femoral Ligation and Stripping of the Great Saphenous Vein with Endovenous Laser Ablation (980 nm) Using Local Tumescent Anaesthesia: One Year Results
+AU  - Pascal Pronk
+AU  - Stefanie A. Gauw
+AU  - Michael C. Mooij
+AU  - Menno Gaastra
+AU  - James A. Lawson
+AU  - A.R. van Goethem
+AU  - C.J. van Vlijmen-van Keulen
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2010
+VL  - 40
+IS  - 5
+SP  - 649
+EP  - 656
+DO  - 10.1016/j.ejvs.2010.08.007
+AN  - 20888274
+AB  - OBJECTIVES\nComparison of sapheno-femoral ligation and stripping (SFL/S) versus endovenous laser ablation (EVLA, 980-nm) in the treatment of great saphenous vein (GSV) insufficiency, using local tumescent anaesthesia.\n\n\nDESIGN\nRandomised, single centre trial.\n\n\nMATERIALS AND METHODS\nPatients with GSV incompetence and varicose veins were randomised to either SFL/S or EVLA. At days 1, 2, 3, 7, 10, and 14 post-treatment, patients completed questionnaires on pain and quality of life. Recurrent varicose veins were evaluated by Duplex ultrasound (DUS) performed at 1 and 6 weeks, and 6 and 12 months.\n\n\nRESULTS\n130 legs in 121 patients were treated by SFL/S (n=68) or EVLA (n=62). Significantly more post-treatment pain was noted after EVLA at days 7, 10 and 14 (p<0.01; p<0.01; p=0.01), more hindrance in mobility at days 7 (p<0.01) and 10 (p=0.01), and in self care (p=0.03) and daily activities (p=0.01) at day 7 compared to SFL/S. DUS at 1-year follow-up showed 9% recurrences (5/56) after EVLA and 10% (5/49) after SFL/S.\n\n\nCONCLUSION\nBoth SFL/S and EVLA, using local tumescent anaesthesia, were well tolerated, with no difference in short-term recurrence rate. In the second week after EVLA, patients experienced significantly more pain resulting in restricted mobility, self care and daily activity compared to SFL/S.
+DS  - semantic scholar
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Preliminary Experience with a New Sclerosing Foam in the Treatment of Varicose Veins
+AU  - LORENZO TESSARI
+AU  - Attilio Cavezzi
+AU  - Alessandro Frullini
+JO  - Dermatologic Surgery
+PY  - 2001
+VL  - 27
+IS  - 1
+SP  - 58
+EP  - 60
+DO  - 10.1097/00042728-200101000-00017
+AB  - BACKGROUND Recently a new method of using a foam sclerosing agent for the treatment of leg veins has been described. We present a pilot study of a new technique for producing the sclerosing foam (Tessari's method) (SFT) and its use in sclerotherapy of major and minor varicosities. OBJECTIVE A preliminary multicenter experience of sclerotherapy performed by means of this new kind of sclerosing foam made of purified sodium tetradecylsulfate is described. The authors evaluated the safety and efficacy of different doses and concentrations of the drug as well as different methods of preparing the foam in addition, the results of this technique were evaluated. METHODS Over a 6-week period the three authors performed sclerotherapy or duplex-guided sclerotherapy using SFT, treating 77 patients. The SFT was formed using a three-way stopcock and two syringes, mixing air with liquid sodium tetradecylsulfate to create a foam. Each author used different concentrations (0.1–3%) and doses (2–8 ml) of SFT according to the size and number of the veins. Alternate methods of preparing the foam were examined as well. Seventy percent of the sclerotherapy sessions were performed on either the long or short saphenous veins, recurrent varices, or collaterals. Thirty percent of the treatments were for reticular varices and telangiectases. RESULTS At 1-month follow-up, the vast majority of treated larger veins were either obliterated or showed a normal state of cephalad blood flow. Results for minor varicosities were good, but with related complications of hyperpigmentation and small areas of cutaneous necrosis. Two patients experienced transient scotomas and one patient developed segmental phlebitis of a collateral vein. The best foam was obtained by mixing one part liquid sodium tetradecylsulfate and four to five parts air, but the duration of the foam product was also related to several other factors. CONCLUSION This preliminary pilot study demonstrates that the technique of producing sclerosing foam according to Tessari's method (three-way stopcock device) is very promising, especially for larger veins. No serious complications were reported, and further standardization of the method may improve the results and feasibility of this technique. Further studies are needed to validate this new technique.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - High ligation combined with stripping and endovenous laser ablation of the great saphenous vein: Early results of a randomized controlled study
+AU  - Manfred Kalteis
+AU  - Irmgard Berger
+AU  - Susanne Messie-Werndl
+AU  - Renate Pistrich
+AU  - Wolfgang Schimetta
+AU  - Werner Pölz
+AU  - Franz Hieller
+JO  - Journal of Vascular Surgery
+PY  - 2008
+VL  - 47
+IS  - 4
+SP  - 822
+EP  - 829
+DO  - 10.1016/j.jvs.2007.10.060
+AN  - 18295441
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Clinical and technical outcomes from a randomized clinical trial of endovenous laser ablation compared with conventional surgery for great saphenous varicose veins
+AU  - Daniel Carradice
+AU  - Anthony Mekako
+AU  - Fayyaz Mazari
+AU  - Nehemiah Samuel
+AU  - Josie Hatfield
+AU  - Ian Chetter
+JO  - British journal of surgery
+PY  - 2011
+VL  - 98
+IS  - 8
+SP  - 1117
+EP  - 1123
+DO  - 10.1002/bjs.7615
+AN  - 21638277
+AB  - BACKGROUND: This report describes the clinical effectiveness and recurrence rates from a randomized trial of endovenous laser ablation (EVLA) and surgery for varicose veins. METHODS: Some 280 patients were randomized equally using sealed opaque envelopes to two parallel groups: surgery and EVLA. Inclusion criteria included symptomatic disease secondary to primary, unilateral, isolated saphenofemoral junction incompetence, leading to reflux into the great saphenous vein (GSV). Outcomes were: technical success, recurrent varicose veins on clinical examination, patterns of reflux on duplex ultrasound examination, and the effect of recurrence on quality of life, assessed by the Aberdeen Varicose Vein Questionnaire (AVVQ). Assessments were at 1, 6, 12 and 52 weeks after the procedure. RESULTS: Initial technical success was greater following EVLA: 99.3 versus 92.4 per cent (P = 0.005). Surgical failures related mainly to an inability to strip the above-knee GSV. The clinical recurrence rate at 1 year was lower after EVLA: 4.0 versus 20.4 per cent (P < 0.001). The number of patients needed to treat with EVLA rather than surgery to avoid one recurrence at 1 year was 6.3 (95 per cent confidence interval 4.0 to 12.5). Twelve of 23 surgical recurrences were related to an incompetent below-knee GSV and ten to neovascularization. Of five recurrences after EVLA, two were related to neoreflux in the groin tributaries and one to recanalization. Clinical recurrence was associated with worse AVVQ scores (P < 0.001). CONCLUSION: EVLA treatment had lower rates of clinical recurrence than conventional surgery in the short term.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Randomized clinical trial of ultrasound-guided foam sclerotherapy <i>versus</i> surgery for the incompetent great saphenous vein
+AU  - N H Shadid
+AU  - R.P.M. Ceulen
+AU  - Patricia J. Nelemans
+AU  - Carmen D. Dirksen
+AU  - J. C. J. M. Veraart
+AU  - G.W.H. Schurink
+AU  - Pierre van Neer
+AU  - J vd Kley
+AU  - E de Haan
+AU  - Anja Sommer
+JO  - British journal of surgery
+PY  - 2012
+VL  - 99
+IS  - 8
+SP  - 1062
+EP  - 1070
+DO  - 10.1002/bjs.8781
+AN  - 22627969
+AB  - BACKGROUND: New minimally invasive treatment modalities, such as ultrasound-guided foam sclerotherapy (UGFS), are becoming more popular. In a multicentre randomized controlled non-inferiority trial, the effectiveness and costs of UGFS and surgery for treatment of the incompetent great saphenous vein (GSV) were compared. METHODS: Patients with primary great saphenous varicose veins were assigned randomly to either UGFS or surgical stripping with high ligation. Recurrence, defined as reflux combined with venous symptoms, was determined on colour duplex scans at baseline, 3 months, 1 year and 2 years after initial treatment. Secondary outcomes were presence of recurrent reflux (irrespective of symptoms), reduction of symptoms, health-related quality of life (EQ-5D(™)), adverse events and direct hospital costs. RESULTS: Two hundred and thirty patients were treated by UGFS and 200 underwent GSV stripping. The 2-year probability of recurrence was similar in the UGFS and surgery groups: 11·3 per cent (24 of 213) and 9·0 per cent (16 of 177) respectively (P = 0·407). At 2 years, reflux irrespective of venous symptoms was significantly more frequent in the UGFS group (35·0 per cent) than in the surgery group (21·0 per cent) (P = 0·003). Mean(s.d.) hospital costs per patient over 2 years were €774(344) per patient for UGFS and €1824(141) for stripping. CONCLUSION: At 2-year follow-up, UGFS was not inferior to surgery when reflux associated with venous symptoms was the clinical outcome of interest. UGFS has the potential to be a cost-effective approach to a common health problem. Registration numbers: NCT01103258 (http://www.clinicaltrials.gov) and NTR654 (http://www.trialregister.nl).
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Two-year follow-up of first human use of cyanoacrylate adhesive for treatment of saphenous vein incompetence
+AU  - José I. Almeida
+AU  - Julian Javier
+AU  - Edward G. Mackay
+AU  - Claudia J. Bautista
+AU  - Daniel Cher
+AU  - Thomas M. Proebstle
+JO  - Phlebology The Journal of Venous Disease
+PY  - 2014
+VL  - 30
+IS  - 6
+SP  - 397
+EP  - 404
+DO  - 10.1177/0268355514532455
+AN  - 24789750
+AB  - OBJECTIVES: To evaluate the safety and effectiveness of endovenous cyanoacrylate-based embolization of incompetent great saphenous veins. METHODS: Incompetent great saphenous veins in 38 patients were embolized by cyanoacrylate bolus injections under ultrasound guidance without the use of perivenous tumescent anesthesia or graduated compression stockings. Follow-up was performed over a period of 24 months. RESULT: Of 38 enrolled patients, 36 were available at 12 months and 24 were available at 24 months follow-up. Complete occlusion of the treated great saphenous vein was confirmed by duplex ultrasound in all patients except for one complete and two partial recanalizations observed at, 1, 3 and 6 months of follow-up, respectively. Kaplan-Meier analysis yielded an occlusion rate of 92.0% (95% CI 0.836-1.0) at 24 months follow-up. Venous Clinical Severity Score improved in all patients from a mean of 6.1 ± 2.7 at baseline to 1.3 ± 1.1, 1.5 ± 1.4 and 2.7 ± 2.5 at 6, 12 and 24 months, respectively (p <.0001). Edema improved in 89% of legs (n = 34) at 48 hours follow-up. At baseline, only 13% were free from pain. At 6, 12 and 24 months, 84%, 78% and 64% were free from leg pain, respectively. CONCLUSIONS: The first human use of endovenous cyanoacrylate for closure of insufficient great saphenous veins proved to be feasible, safe and effective. Clinical efficacy was maintained over a period of 24 months.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Minimally invasive techniques in the treatment of saphenous varicose veins
+AU  - Tamar Nijsten
+AU  - Renate R. van den Bos
+AU  - Mitchel P. Goldman
+AU  - Michaël Kockaert
+AU  - Thomas M. Proebstle
+AU  - Eberhard Rabe
+AU  - Neil S. Sadick
+AU  - Robert A. Weiss
+AU  - Martino Neumann
+JO  - Journal of the American Academy of Dermatology
+PY  - 2008
+VL  - 60
+IS  - 1
+SP  - 110
+EP  - 119
+DO  - 10.1016/j.jaad.2008.07.046
+AN  - 18835063
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Diagnosis of Chronic Venous Disease of the Lower Extremities: The “CEAP” Classification
+AU  - Robert L. Kistner
+AU  - Bo Eklöf
+AU  - Elna M. Masuda
+JO  - Mayo Clinic Proceedings
+PY  - 1996
+VL  - 71
+IS  - 4
+SP  - 338
+EP  - 345
+DO  - 10.4065/71.4.338
+AN  - 8637255
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Randomized trial of stripping versus high ligation combined with sclerotherapy in the treatment of the incompetent greater saphenous vein
+AU  - P.H. Rutgers
+AU  - Peter J.E.H.M. Kitslaar
+JO  - The American Journal of Surgery
+PY  - 1994
+VL  - 168
+IS  - 4
+SP  - 311
+EP  - 315
+DO  - 10.1016/s0002-9610(05)80155-2
+AN  - 7943585
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Defining the role of extended saphenofemoral junction ligation: A prospective comparative study
+AU  - J G Chandler
+AU  - O. Pichot
+AU  - Carmine Sessa
+AU  - Sanja Schuller‐Petrovic
+AU  - Francisco J. Osse
+AU  - John J. Bergan
+JO  - Journal of Vascular Surgery
+PY  - 2000
+VL  - 32
+IS  - 5
+SP  - 941
+EP  - 953
+DO  - 10.1067/mva.2000.110348
+AN  - 11054226
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Complications of varicose vein surgery.
+AU  - Giles Critchley
+AU  - Akira Handa
+AU  - A Maw
+AU  - A Harvey
+AU  - Mike Harvey
+AU  - C. R. R. Corbett
+JO  - PubMed
+PY  - 1997
+VL  - 79
+IS  - 2
+SP  - 105
+EP  - 10
+AN  - 9135236
+AB  - A retrospective review was carried out of patients who had undergone surgery for varicose veins over an 8 year period between 1985 and 1993. We wished to determine the incidence of various complications so that the risks of surgery could be openly discussed with patients. A total of 973 limbs were operated upon in 599 patients (413 F, 186 M; mean age 49 years). All patients were under the care of a single consultant vascular surgeon who was present at 92% of operations and all patients were reviewed postoperatively. There was no perioperative mortality. Wound complications (haematoma, cellulitis or abscess) occurred in 2.8% of limbs and minor neurological disturbance (numbness or tingling) in 6.6%. Leakage of lymph from the groin occurred in five patients, all of whom had undergone exploration for groin recurrence. Major complications included three cases of deep venous thrombosis (0.5%), one pulmonary embolus, and one foot-drop. There was one major vascular injury, the common femoral vein being damaged in a patient having a third operation on the groin for persistent recurrence. Vein patch repair was performed and patency was maintained. The overall incidence of major complications was 0.8%. Minor complications occurred in 17% of patients. It is unlikely that major complications can be eliminated. In this retrospective review there will be some under-reporting, but we are confident that this is restricted to minor complications.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Recurrent varicose veins
+AU  - John P. Royle
+JO  - World Journal of Surgery
+PY  - 1986
+VL  - 10
+IS  - 6
+SP  - 944
+EP  - 953
+DO  - 10.1007/bf01658645
+AN  - 3798943
+AB  - Abstract When Doppler ultrasound was introduced for the assessment of patients with varicose veins, a more accurate clinical appraisal of the pathophysiology of this condition became possible. In particular, it enabled identification of those patients with recurrent varicose veins who had had inappropriate or inadequate initial treatment. It facilitated planning of appropriate further treatment. The more widespread use of radiology, in particular varicography, as a means of preoperative assessment of recurrent varicose veins has enabled a more accurate definition of the abnormal anatomical features. The extension of this principle to the operating room has made surgery for recurrent varicose veins more precise. Patients with varicose veins secondary to deep venous disease remain a problem. When both superficial and deep venous disease are present, superficial venous disease should be treated as appropriate. Deep venous insufficiency will require continued supervision of support maintained by bandages or graduated elastic stockings.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Clinicopathological evidence that neovascularisation is a cause of recurrent varicose veins
+AU  - Isaac Nyamekye
+AU  - Nicholas Shephard
+AU  - Keith G. Davies
+AU  - B P Heather
+AU  - J J Earnshaw
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 1998
+VL  - 15
+IS  - 5
+SP  - 412
+EP  - 415
+DO  - 10.1016/s1078-5884(98)80202-5
+AN  - 9633496
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Treatment of Primary Venous Insufficiency by Endovenous Saphenous Vein Obliteration
+AU  - James G. Chandler
+AU  - O. Pichot
+AU  - Carmine Sessa
+AU  - Sanja Schuller-Petrovicć
+AU  - Lowell S Kabnick
+AU  - John J. Bergan
+JO  - Vascular Surgery
+PY  - 2000
+VL  - 34
+IS  - 3
+SP  - 201
+EP  - 214
+DO  - 10.1177/153857440003400303
+AB  - The objective of this paper is to evaluate treatment of primary venous insufficiency by endovenous saphenous vein obliteration. Three hundred one limbs were treated in 206 women and 67 men with a mean CEAP Clinical Class of 2.4 ±0.9. Endovenous obliteration was combined with high ligation in 67 limbs (22%) and with stab avulsion phlebectomies in 181 (60%). Acute occlusion was achieved in 290 limbs (96%). Obliteration failures in 11 limbs were treated by saphenous stripping or managed expectantly. Paresthesias followed 15% of treatments confined to the thigh and upper leg and affected 30% of limbs when treatment extended to the ankle (p &lt; 0.001). Eight potentially preventable thermal skin injuries occurred, five in particularly superficial venous segments, of which four were in men. At a mean follow-up of 4.9 months, 21 (7.2%) of successfully treated veins have partially or totally (n = two) recanalized, but only 11 (3.8% of 290) have Doppler-detectable reflux. Ninety-one patients have been followed up for 6 months to 1 year, showing significant improvement in CEAP class and progressive relief from clinical symptoms. At their latest visit, 94% rated themselves as being symptom-free or substantially improved. These midterm results with endovenous obliteration in the treatment of primary varicose veins suggest that it may be as effective as surgical stripping in eliminating greater saphenous vein reflux and delaying the appearance of new varicose veins. Simple procedural modifications, such as not treating to the ankle, prophylactic infiltration about superficially placed veins, and early duplex surveillance should diminish the complications observed in this early experience.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Duplex ultrasound and efficacy criteria in foam sclerotherapy from the 2<sup>nd</sup>European Consensus Meeting on Foam Sclerotherapy 2006, Tegernsee, Germany
+AU  - Breu
+AU  - Guggenbichler
+AU  - Wollmann
+JO  - VASA
+PY  - 2008
+VL  - 37
+IS  - 1
+SP  - 90
+EP  - 95
+DO  - 10.1024/0301-1526.37.1.90
+AN  - 18512547
+AB  - RATIONALE: The spread of foam sclerotherapy has resulted in the renaissance of sclerotherapy as a non-invasive treatment method for varicosis. An expanded European expert committee meeting in Tegernsee in April 2006 was prompted by new findings and continuous further development of the method and worked especially on the topics "The role of (duplex) ultrasound in Foam sclerotherapy" and "Evaluation of therapeutic effects of foam Sclerotherapy". It was felt that these criteria are"non-specific" to foam sclerotherapy and would possibly also be suitable for other endovenous ablative procedures. The organisers of the 2nd European Consensus Meeting on foam sclerotherapy (2nd ECMFS) were then asked to publish these recommendations in this separate publication. The entire recommendations of the 2nd ECMFS are published in an extensive overview in this journal (VASA 2008; 37; Supplement 71: 1-32). METHODOLOGY: The 29 participants were sent a comprehensive questionnaire in advance covering all the relevant aspects of foam sclerotherapy. The organisers drew up various preliminary statements on the basis of the results. During the meeting itself the participants revised and/or approved and/or rejected these statements. For the "non-specific" topics, two working groups were given the task of conducting the concluding assessment of these items. Their final results were presented in March and April 2007. RESULTS: For foam sclerotherapy, duplex ultrasound is important in pre-treatment diagnosis, treatment monitoring/guidance, post-treatment efficacy evaluation and surveillance. In the pre-treatment diagnosis of varicose veins, the exact localisation of the insufficient saphenous, communicating and perforating veins is important. Duplex ultrasound is the accepted gold standard for this purpose. The application of ultrasound imaging during foam sclerotherapy increases the safety of accessing the vein in certain indications, and it can help when making a decision concerning the foam volumes to be injected, the patients' position or specific movements the patients should perform. Following treatment, the findings of duplex ultrasound, the clinical findings and the patients' symptoms can be arranged according to the recommended definitions. This allows grading of the therapeutic outcome and enables a better comparability between different treatment protocols or different treatments. Besides the evaluation of treatment success, duplex ultrasound is the method of choice to exclude or confirm complications such as deep venous thrombosis or disease progression.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Brain Aneurysms and Arteriovenous Malformations
+AU  - Italo Linfante
+AU  - Ajay K. Wakhloo
+JO  - Stroke
+PY  - 2007
+VL  - 38
+IS  - 4
+SP  - 1411
+EP  - 1417
+DO  - 10.1161/01.str.0000259824.10732.bb
+AN  - 17322071
+AB  - BACKGROUND AND PURPOSE: Brain aneurysms and vascular malformations can cause cerebral hemorrhages, with devastating consequences for the patients and their families. Since the development of microcatheters and materials used for endovascular embolization, we have witnessed a rapid advancement in the technology and in the number or patients treated with this approach. The aim of this review is to survey recent data relevant to new technologies and emerging treatment strategies in these areas. SUMMARY OF REVIEW: Clinical trials assessing the safety and efficacy of coil embolization for cerebral aneurysms were based on the use of bare platinum, helical coils. Since then, endovascular operators have been testing and using new materials such as bioactive coils, expandable coils, and complex-shaped coils. Based on the data so far obtained, third and fourth generation coil designs are rapidly emerging and will be ready for clinical application in the near future. Balloon- and stent-assisted coil embolization is enabling the treatment of complex, large-neck aneurysms and the vascular reconstruction of lesions previously considered not treatable. New open- and closed-cell designs allow the navigation and deployment of stents in extremely tortuous vessels. With regards to the embolization of vascular malformations, it is possible to safely navigate microcatheters and microwires through very small arteries previously considered not accessible. In addition, embolization materials such as n-butyl cyanoacrylate and ethylene-vinyl alcohol copolymer are now routinely injected to safely reduce or obliterate large and complex arteriovenous malformations and fistulae. CONCLUSIONS: Advancements in technology are rapidly improving the endovascular approach to the treatment of cerebral aneurysms and arteriovenous malformations.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Microfoam Ultrasound-Guided Sclerotherapy of Varicose Veins in 100 Legs
+AU  - John M. Barrett
+AU  - Bruce G. Allen
+AU  - Anne Ockelford
+AU  - Mitchel P. Goldman
+JO  - Dermatologic Surgery
+PY  - 2004
+VL  - 30
+IS  - 1
+SP  - 6
+EP  - 12
+DO  - 10.1111/j.1524-4725.2004.30008.x
+AN  - 14692919
+AB  - OBJECTIVE: To demonstrate the efficacy of duplex-guided foam sclerotherapy measured against patient symptom relief and quality of life. METHODS: An analysis was performed of 100 randomly chosen legs with varicose veins treated with ultrasound-guided foam sclerotherapy with a mean follow-up of 22.5 months. RESULTS: An average number of 2.1 treatments using an average of 8.7 mL of foam sclerosing solution were required to close incompetent varicose veins. Thirty-one percent of leg varicose veins required a second treatment at 3 months; 100% of patients felt that their legs were successfully treated with resolution of all symptoms in 85% and resolution in all varicose veins in 92%. CONCLUSION: Ultrasound-guided foam sclerotherapy is effective in treating varicose veins with high patient satisfaction with results and improvement in quality of life.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Can phlebectomy be deferred in the treatment of varicose veins?
+AU  - Daniel L. Monahan
+JO  - Journal of Vascular Surgery
+PY  - 2005
+VL  - 42
+IS  - 6
+SP  - 1145
+EP  - 1149
+DO  - 10.1016/j.jvs.2005.08.034
+AN  - 16376206
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Increasing awareness about venous disease: The American Venous Forum expands the National Venous Screening Program
+AU  - Robert B. McLafferty
+AU  - Marc A. Passman
+AU  - Joseph A. Caprini
+AU  - Thom W. Rooke
+AU  - Steven A. Markwell
+AU  - Joanne M. Lohr
+AU  - Mark H. Meissner
+AU  - Bo Eklöf
+AU  - Thomas W. Wakefield
+AU  - Michael C. Dalsing
+JO  - Journal of Vascular Surgery
+PY  - 2008
+VL  - 48
+IS  - 2
+SP  - 394
+EP  - 399
+DO  - 10.1016/j.jvs.2008.03.041
+AN  - 18572373
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Prospective five-year study of ultrasound-guided foam sclerotherapy in the treatment of great saphenous vein reflux
+AU  - P Chapman-Smith
+AU  - Andrew Browne
+JO  - Phlebology The Journal of Venous Disease
+PY  - 2009
+VL  - 24
+IS  - 4
+SP  - 183
+EP  - 188
+DO  - 10.1258/phleb.2009.008080
+AB  - Objectives The purpose of this study was to determine the long-term efficacy, safety and rate of recurrence for varicose veins associated with great saphenous vein (GSV) reflux treated with ultrasound-guided foam sclerotherapy (UGFS). Methods A five-year prospective study was performed, recording the effect on the GSV and saphenofemoral junction (SFJ) diameters, and reflux in the superficial venous system over time. UGFS was the sole treatment modality used in all cases, and repeat UGFS was performed where indicated following serial annual ultrasound. Results No serious adverse outcomes were observed – specifically no thromboembolism, arterial injection, anaphylaxis or nerve damage. There was a 4% clinical recurrence rate after five years, with 100% patient acceptance of success. Serial annual duplex ultrasound demonstrated a significant reduction in GSV and SFJ diameters, maintained over time. There was ultrasound recurrence in 27% at 12 months, and in 64% at five years, including any incompetent trunkal or tributary reflux even 1 mm in diameter being recorded. Thirty percent had pure ultrasound recurrence, 17% new vessel reflux and 17% combined new and recurrent vessels on ultrasound. Of all, 16.5% required repeat UGFS treatment between 12 and 24 months, but less than 10% in subsequent years. The safety and clinical efficacy of UGFS for all clinical, aetiological, anatomical and pathological elements classes of GSV reflux was excellent. Conclusion The popularity of this outpatient technique with patients reflects ease of treatment, lower cost, lack of downtime and elimination of venous signs and symptoms. Patients accept that UGFS can be repeated readily if required for recurrence in this common chronic condition. The subclinical ultrasound evidence of recanalization or new vein incompetence needs to be considered in this light.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Complications of Radiofrequency Ablation of Varicose Veins
+AU  - Muzaffar A. Anwar
+AU  - Tristan Lane
+AU  - Alun H. Davies
+AU  - I J Franklin
+JO  - Phlebology The Journal of Venous Disease
+PY  - 2012
+VL  - 27
+IS  - 1_suppl
+SP  - 34
+EP  - 39
+DO  - 10.1258/phleb.2012.012s21
+AN  - 22312065
+AB  - Radiofrequency ablation (RFA) has become a valued weapon in the phlebologist's armoury. It offers ease of use and reproducibility with good outcomes. However, as with all interventions, complications arise. In this review we examine the complications inherent with RFA and their relative risk, with their avoidance measures if available. Overall, we find that RFA offers a very safe procedure with rare severe complications.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Closure of the Cribriform Fascia: An Efficient Anatomical Barrier Against Postoperative Neovascularisation at the Saphenofemoral Junction? A Prospective Study
+AU  - Marianne De Maeseneer
+AU  - Tine Philipsen
+AU  - C.P. Vandenbroeck
+AU  - Patrick Lauwers
+AU  - Jeroen Hendriks
+AU  - Stefan De Hert
+AU  - Paul E. Van Schil
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2007
+VL  - 34
+IS  - 3
+SP  - 361
+EP  - 366
+DO  - 10.1016/j.ejvs.2007.03.020
+AN  - 17513142
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Validation of the Chronic Venous Insufficiency Quality of Life Questionnaire in Dutch Patients Treated for Varicose Veins
+AU  - Anke Biemans
+AU  - S.K. Van der Velden
+AU  - C.M.A. Bruijninckx
+AU  - Jaap Buth
+AU  - Tamar Nijsten
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2011
+VL  - 42
+IS  - 2
+SP  - 246
+EP  - 253
+DO  - 10.1016/j.ejvs.2011.04.007
+AN  - 21531589
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Treatment of Varicose Veins: Does Each Technique Have a Formal Indication?
+AU  - O. Pichot
+AU  - Marianne De Maeseneer
+JO  - Perspectives in Vascular Surgery
+PY  - 2011
+VL  - 23
+IS  - 4
+SP  - 250
+EP  - 254
+DO  - 10.1177/1531003511433337
+AN  - 22237976
+AB  - Nowadays, various surgical and endovenous methods are available to treat varicose veins. Theoretically, every technique is applicable to treat any kind of patient. However, it seems appropriate to consider the specific indications and limitations of each of the techniques. To choose the most appropriate treatment method, several issues have to be taken into account. The patient's reason for consulting and clinical condition will define the aim of the treatment. Anatomical and hemodynamic characterization of the varicose veins by means of duplex ultrasound will define the technical feasibility. Although a definitive algorithm still remains to be developed, some of the most important questions that should be included in a decision tree can already be proposed: Is high ligation necessary or at least justified? Is stripping or ablation necessary or at least justified, and in that case, what is the most appropriate technique to be used? All this should help us define a reasonable "à la carte" treatment for each patient.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Recurrent varicose veins: A national problem
+AU  - David Negus
+JO  - British journal of surgery
+PY  - 1993
+VL  - 80
+IS  - 7
+SP  - 823
+EP  - 824
+DO  - 10.1002/bjs.1800800705
+AN  - 8369909
+AB  - Scene: Sister's office, a surgical ward in any National Health Service hospital Time: Coffee time, after the Monday morning ward round Consultant: 'We had better think about tomorrow afternoon's operating list; I will start with the highly selective vagotomy and follow that with the right hemicolectomy'. ( Turns to newly appointed registrar) 'Unfortunately, John, I have a management board meeting after that, so perhaps you could finish off with the varicose veins'.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Neovascularization in Recurrence of Varices of the Great Saphenous Vein in the Groin: Phlebography
+AU  - G. M. Glass
+JO  - Angiology
+PY  - 1988
+VL  - 39
+IS  - 7
+SP  - 577
+EP  - 582
+DO  - 10.1177/000331978803900704
+AN  - 2457344
+AB  - A method of improving radiologic definition in phlebography of recurrent varicose veins in the groin is described. Before injection of contrast material, venous return from the distal part of the limb was temporarily suspended by inflating a tourniquet surrounding the lower part of the thigh to a level higher than the systolic pressure. Toward the end of the injection procedure the patient performed a valsalva maneuver. Phlebography showed that the recurrent varices were more frequently in continuity with the great saphenous vein than collateral to it. Their tortuous or irregular outline did not usually correspond in position or appearance to normal tributaries of the vein. Radiographs of excised great saphenous vein injected with barium sulfate suspension showed that the valves of tributaries proximal to the site of surgical interruption of the vein remained competent. The findings provide further evidence of neovascularization in recurrence of varices of the great saphenous vein at the site of transection.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Role of Duplex Imaging in Endovenous Obliteration for Primary Venous Insufficiency
+AU  - O. Pichot
+AU  - Carmine Sessa
+AU  - James G. Chandler
+AU  - Michel Nuta
+AU  - Michel Perrin
+JO  - Journal of Endovascular Therapy
+PY  - 2000
+VL  - 7
+IS  - 6
+SP  - 451
+EP  - 459
+DO  - 10.1177/152660280000700605
+AN  - 11194816
+AB  - PURPOSE: To assess the role of duplex imaging in defining suitable pathological anatomy for endovenous obliteration and characterizing its treatment outcomes over time. METHODS: Eighteen lower limbs in 17 patients (12 women; mean age 48 years; range 29-74 years) presenting with varicose greater saphenous veins (GSVs) were treated with endovenous obliteration without adjunctive high ligation. Duplex imaging was used as an intraprocedural guidance tool for vein access and catheter positioning and for preprocedural evaluation and serial surveillance after the procedures. RESULTS: In the 18 limbs, preprocedural duplex scanning defined reflux owing to incompetence of the terminal valve (n = 6), subterminal valve (n = 9), or truncal valve (n = 3). Duplex imaging facilitated percutaneous vein puncture and was essential in catheter positioning at the saphenofemoral junction (SFJ). At 1 week, the saphenous trunks of all 18 limbs were either shrunken and obliterated (n = 7) or occluded by thrombus without shrinkage (n = 11). By 6 months, 7 GSVs were no longer sonographically visible, 10 were shrunken and obliterated, and 1 had a segmental partial recanalization. In the 15 limbs with terminal or subterminal valve incompetence at 1 week, 5 had total SFJ obliteration, 4 had > or =1 patent tributaries draining directly into the femoral vein through an open SFJ, and 6 had > or =1 patent tributaries draining into an open SFJ through a short (<2 cm) proximal saphenous trunk. By 6 months, only 1 limb had total SFJ occlusion; the other 14 had at least 1 persistent or reopened tributary. CONCLUSIONS: Duplex scanning is indispensable for selecting patients, guiding the procedure, and defining the morphological maturation and hemodynamic changes that appear to characterize successful endovenous obliteration.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Wound infection following high saphenous ligation. A trial comparing two skin closure techniques: subcuticular polyglycolic acid and interrupted monofilament nylon mattress sutures.
+AU  - Corder Ap
+AU  - Schache Dj
+AU  - Farquharson Sm
+AU  - Steven Tristram
+JO  - PubMed
+PY  - 1991
+VL  - 36
+IS  - 2
+SP  - 100
+EP  - 2
+AN  - 1646881
+AB  - A prospective, randomized trial was performed to compare the incidence of wound infection following skin closure with subcuticular polyglycolic acid and interrupted monofilament nylon mattress sutures in patients undergoing high saphenous ligation (126 patients; 75 polyglycolic acid wounds, 86 interrupted monofilament nylon mattress wounds). By 6 weeks after operation, pus had discharged from 15 (20%) polyglycolic acid wounds compared with seven (8%) interrupted monofilament nylon mattress wounds (P = 0.05), giving an overall infection rate of 13.7%. Infection occurred in 23% of the 56 procedures performed by the two surgeons with the highest infection rates compared with 8% of the 105 procedures performed by the remaining nine surgeons (P = 0.02). The excess of infections in wounds closed with subcuticular polyglycolic acid was caused by an excess of infections in operations performed by the two surgeons with the highest infection rates. The higher infection rate found with subcuticular polyglycolic acid appeared to be operator dependent.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - The use of compression stockings for venous disorders in Brazil
+AU  - Jose Luiz Cataldo
+AU  - José Maria Pereira de Godoy
+AU  - Newton de Barros
+JO  - Phlebology The Journal of Venous Disease
+PY  - 2011
+VL  - 27
+IS  - 1
+SP  - 33
+EP  - 37
+DO  - 10.1258/phleb.2011.010088
+AN  - 21765190
+AB  - Objective The aim of this study was to analyse the medical indication and the use of elastic compression stockings, and to assess patient adherence to treatment in different regions of Brazil. Method The prescription and clinical indication of elastic stockings were evaluated in a prospective, descriptive, cross-sectional, multicentre study for a population of private patients. In 2009, 3414 patients from 123 treatment centres in southern, south-eastern and north-eastern Brazil were evaluated using a questionnaire. The following variables were analysed: sociodemographic (gender, age, occupation and education), lifestyle (physical activity and time spent standing); classification of venous disease (CEAP [clinical, aetiological, anatomical and pathophysiological] classification – clinical criteria), indications for prescription, consumer behaviour (strength, acquisition and use of stockings) and criteria of satisfaction (improvement, duration of use, adherence). The effects of compression therapy were assessed at a follow-up visit approximately 30 days after starting treatment with the following items being assessed: complaints about pain, discomfort, burning sensation and oedema of the leg while using elastic stockings. Multivariate analysis was used to compare data with an alpha error of 5% (P value < 0.05) being considered acceptable. Results The average age increased with the severity of chronic venous insufficiency; the main indications used by physicians were leg pain and discomfort; 89.3% of patients bought stockings and thus started treatment with more than 90% of these reporting improvements in symptoms. Conclusion Elastic stockings are available to the Brazilian population, look acceptable at the time of purchase and provide good results; however, some limitations regarding their use need to be addressed.
+DS  - semantic scholar
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Ultrasound Guided Foam Sclerotherapy: Factors Associated with Outcomes and Complications
+AU  - Sarah Thomasset
+AU  - Zain Butt
+AU  - S. Liptrot
+AU  - B. Fairbrother
+AU  - Khalid Makhdoomi
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2010
+VL  - 40
+IS  - 3
+SP  - 389
+EP  - 392
+DO  - 10.1016/j.ejvs.2010.04.007
+AN  - 20547076
+AB  - OBJECTIVES\nIn recent years ultrasound guided foam sclerotherapy (UGFS) has become an increasingly popular treatment for varicose veins. Although many published series detail the results of UGFS, little is known about the factors which are associated with outcomes and complications. The aim of this study was to identify these factors.\n\n\nDESIGN\nA review of a prospectively collected database of UGFS which commenced in July 2007.\n\n\nMETHODS\nA successful outcome was defined as complete occlusion of the target vein on duplex scanning at follow-up. Eight factors were assessed to determine whether they were associated with outcomes and complications. These factors were age, gender, compliance with post-procedure compression hosiery, previous varicose vein surgery, single or multiple sites of injection, concentration of sclerosant, volume of sclerosant and pre-procedure severity score.\n\n\nRESULTS\nBetween July 2007 and July 2009, a total of 126 patients (60 men, 66 women) attended follow-up visits and had a post-procedure duplex scan. Targets for UGFS included the great saphenous vein (n = 75), small saphenous vein (n = 13) and anterior accessory great saphenous vein (n = 8). The remainder of procedures involved other veins or more than a single target vein. The median timing of follow-up was 3 months (range 1.5-14 months) with duplex scans revealing complete occlusion of the target vein in 79% of patients. The only factor associated with a successful outcome was compliance with post-procedure compression hosiery (p < 0.05). The most frequently encountered complications following UGFS were skin staining (28%), superficial thrombophlebitis (18%) and pain (14%). The only factor associated with post-UGFS complications was female gender (p < 0.05). When complications were analysed in isolation female gender was also significantly associated with skin staining (p < 0.05), but no other complication.\n\n\nCONCLUSIONS\nThese data suggest that compliance with post-procedure compression hosiery and gender are important factors associated with a successful outcome and reported complications following UGFS, respectively.
+DS  - semantic scholar
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Strip-tract revascularization as a source of recurrent venous reflux following high saphenous tie and stripping: results at 5–8 years after surgery
+AU  - Alexandra E Ostler
+AU  - J.M. Holdstock
+AU  - Charmaine C Harrison
+AU  - B A Price
+AU  - Mark S Whiteley
+JO  - Phlebology The Journal of Venous Disease
+PY  - 2014
+VL  - 30
+IS  - 8
+SP  - 569
+EP  - 572
+DO  - 10.1177/0268355514535927
+AN  - 24844250
+AB  - OBJECTIVE: We have previously reported strip-tract revascularization 1 year following high saphenous ligation and inversion stripping. This study reports the 5-8 year results in the same cohort. METHODS: Between 2000 and 2003, 72 patients presented with primary varicose veins and had undergone high saphenous ligation and inversion stripping plus phlebectomies with or without subfascial endoscopic perforator surgery. Of the 64 patients who had attended for follow-up at 1 year, 35 patients (male:female, 16:19; 39 legs) underwent duplex ultrasonography 5-8 years after surgery (response rate 55%). Duplex ultrasonography was performed and all strip-tract revascularization and reflux and groin neovascularization was documented. RESULTS: Eighty-two percent of legs of patients showed some evidence of strip-tract revascularization and reflux. Full and partial strip-tract revascularization and reflux was seen in 12.8% and 59% of limbs of patients, respectively, and 10.2% limbs of patients had neovascularization only at the saphenofemoral junction only. Seven limbs of patients showed no revascularization. CONCLUSION: Five to eight years after high saphenous tie and stripping, 82% of legs of patients showed some strip-tract revascularization and reflux and 12% showed total revascularization and reflux of the stripped great saphenous vein.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Twelve-Month Follow-up of the European Multicenter Study on Cyanoacrylate Embolization of Incompetent Great Saphenous Veins
+AU  - T. M. Proebstle
+AU  - J. Alm
+AU  - Sameh Dimitri
+AU  - Lars Rasmussen
+AU  - Mark S Whiteley
+AU  - James Lawson
+AU  - Alun H. Davies
+JO  - Journal of Vascular Surgery Venous and Lymphatic Disorders
+PY  - 2013
+VL  - 2
+IS  - 1
+SP  - 105
+EP  - 106
+DO  - 10.1016/j.jvsv.2013.10.009
+AN  - 26992985
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - The endovenous revolution
+AU  - Marianne De Maeseneer
+JO  - British journal of surgery
+PY  - 2011
+VL  - 98
+IS  - 8
+SP  - 1037
+EP  - 1038
+DO  - 10.1002/bjs.7647
+AN  - 21725956
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - The morphology of recurrent varicose veins
+AU  - S G Darke
+JO  - European Journal of Vascular Surgery
+PY  - 1992
+VL  - 6
+IS  - 5
+SP  - 512
+EP  - 517
+DO  - 10.1016/s0950-821x(05)80626-7
+AN  - 1397346
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Recurrent varicose veins: Assessment of the saphenofemoral junction
+AU  - Andrew W. Bradbury
+AU  - P A Stonebridge
+AU  - M J Callam
+AU  - Andrew Walker
+AU  - Paul L. Allan
+AU  - Ian Beggs
+AU  - C V Ruckley
+JO  - British journal of surgery
+PY  - 1994
+VL  - 81
+IS  - 3
+SP  - 373
+EP  - 375
+DO  - 10.1002/bjs.1800810316
+AN  - 8173902
+AB  - Abstract Thirty-six consecutive unselected patients, who had apparently previously undergone saphenofemoral ligation for primary uncomplicated long saphenous varicosities and who had then re-presented with recurrent thigh varices emanating from the groin, underwent preoperative clinical assessment, hand-held Doppler and duplex ultrasonographic examination and varicography to establish the presence or absence of saphenofemoral incompetence as the cause of recurrence. All patients underwent re-exploration of the saphenofemoral junction (SFJ) via a lateral approach. Twenty-six patients had an intact SFJ (type I recurrence) and ten had varices arising from either a thigh perforator, or from abdominal or perineal veins (type II recurrence). Clinical examination alone was poor at distinguishing type I from type II recurrence. Doppler ultrasonography was sensitive (88 per cent) but non-specific (40 per cent). In contrast, duplex scanning was insensitive (42 per cent) but extremely specific (100 per cent) and accurate, with a positive predictive value of 100 per cent. Varicography also had a specificity and positive predictive value of 100 per cent, a sensitivity of 73 per cent and in addition provided a precise anatomical ‘road-map’. A combination of clinical examination and hand-held Doppler ultrasonography seems to be the most appropriate first-line method of preoperative assessment in these patients. Duplex ultrasonography, if available, will provide additional useful information about both the SFJ and the presence of thigh perforators. Contrast examination may be reserved for patients who have equivocal results on non-invasive investigations, who have had more than one previous groin operation or who have, in addition, deep venous disease.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - RELIEF Study: First Consolidated European Data
+AU  - Georges Jantet
+JO  - Angiology
+PY  - 2000
+VL  - 51
+IS  - 1
+SP  - 31
+EP  - 37
+DO  - 10.1177/000331970005100107
+AN  - 10667641
+AB  - The RELIEF study (Reflux assEssment and quality of life improvement with micronized Flavonoids in chronic venous insufficiency [CVI]) is a prospective, controlled, multicenter, international study performed in patients with or without venous reflux. This study was conducted between March 1997 and December 1998 in 23 countries worldwide with the participation of more than 10,000 patients suffering from CVI. The European countries, the subject of this report, were represented by the Czech and Slovak Republics, Hungary, Poland, Russia, and Spain. The principal aims of the study were: 1. To validate the first quality-of-life scale specific to chronic venous insufficiency (CMVIQ) in different languages and to assess the evolution of quality of life in patients suffering from CVI, with or without venous reflux, treated with micronized purified flavonoid fraction (MPFF*) (1,000 mg/day). 2. To collect international epidemiologic data on venous reflux assessed with pocket Doppler and photoplethysmography. 3. To assess the evolution of symptoms and signs with a specific emphasis on edema through validated Leg-O-Meter measurement (heaviness, pain, cramps, sensation of swelling, edema) in patients suffering from CVI and treated with MPFF, 1,000 mg/day, during 6 months. The first country-by-country statistical analysis and the European consolidated analysis are now available. The CIVIQ questionnaires adapted to each participating country have been validated with highly significant validity and reproducibility (p<0.0001). All dimensions have demonstrated a highly significant and evolving improvement during the study. The results show several interesting findings concerning the epidemiologic data and, of these, two were particularly interesting: - More than 50% of patients suffering from CVI (class 0 to 4 of the CEAP classification) were reflux-free, which means that they were suffering from functional CVI. Patient distribution between the different classes of the CEAP classification changed in a statistically significant manner after 6 months' treatment with MPFF; the number of patients in the more severe classes decreased to the benefit of the less severe classes. Symptoms such as pain, leg heaviness, sensation of swelling, and cramps were significantly improved (p=0.0001). This was associated with a significant decrease in edema, when present, measured by leg circumferences with the Leg-O-Meter (p=0.0001). In conclusion, the European results of the RELIEF study showed the perfect validity and reproducibility of CIVIQ questionnaire adaptations, and the positive progression of quality-of-life scores on MPFF treatment. This progression was paralleled by clinical improvement of patients reflected not only by assessment of CVI symptoms and signs but also by evolution of the CEAP classification.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - A prospective randomised trial of PIN versus conventional stripping in varicose vein surgery.
+AU  - Marie Durkin
+AU  - E P Turton
+AU  - D. Scott
+AU  - David Berridge
+JO  - PubMed
+PY  - 1999
+VL  - 81
+IS  - 3
+SP  - 171
+EP  - 4
+AN  - 10364948
+AB  - A prospective, randomised trial was carried out to examine the efficacy of perforate invagination (PIN, Credenhill Ltd, Derbyshire, UK) stripping of the long saphenous vein (LSV) in comparison to conventional stripping (Astratech AB, Sweden) in the surgical management of primary varicose veins. Eighty patients with primary varicosities secondary to sapheno-femoral junction (SFJ) incompetence and LSV reflux were recruited. Patients were randomised to PIN or conventional stripping with all other operative techniques remaining constant. Follow-up was performed at 1 and 6 weeks postoperatively. There were no statistically significant differences between the two techniques in terms of time taken to strip the vein, percentage of vein stripped or the area of bruising at 1 week. The size of the exit site was significantly smaller with the PIN device (P < or = 0.01). Optimal use of the conventional stripper provides results comparable to the PIN device. Choice of stripping device remains the surgeon's, bearing in mind that the PIN stripper achieves slightly better cosmesis.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Varicose veins in a Finnish population aged 40-60.
+AU  - Jari Laurikka
+AU  - Tero Sisto
+AU  - O Auvinen
+AU  - Matti Tarkka
+AU  - Esa Läärä
+AU  - Matti Hakama
+JO  - Journal of Epidemiology & Community Health
+PY  - 1993
+VL  - 47
+IS  - 5
+SP  - 355
+EP  - 357
+DO  - 10.1136/jech.47.5.355
+AN  - 8289033
+AB  - STUDY OBJECTIVE: To assess the prevalence and the extent of treatment of varicose veins in a Finnish population. DESIGN: A prevalence study in a defined cohort was performed by using a mailed questionnaire. The method's validity was tested in a random sample of 166 individuals who were studied clinically. SUBJECTS: In 1989 a questionnaire was mailed to every resident born in 1929, 1939, and 1949 who was living in Tampere, the second largest town in Finland. The eligible population comprised 3284 men and 3590 women. MEASUREMENTS AND MAIN RESULTS: The response rate was 75% in men and 86% in women. Both the sensitivity and specificity of the self assessed diagnosis were 0.92. The life time prevalence of varicose veins was 18% for men and 32% for women, with an increasing prevalence in relation to age. Twenty five per cent of the men and 41% of the women who reported varicose veins had received treatment. CONCLUSIONS: Self reporting of varicose veins by mailed questionnaire was a relatively valid method. The prevalence of varicose veins was high in the population studied, and the disease is more common in women than men. Moreover, the prevalence increased with age. The results are comparable with other western populations. Preventive methods are needed because treatment alone seems to be inadequate in the control of varicose veins.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Varicose vein surgery: patient satisfaction.
+AU  - Alun H. Davies
+AU  - Christina M. Steffen
+AU  - Claudia Cosgrove
+AU  - David C. Wilkins
+JO  - PubMed
+PY  - 1995
+VL  - 40
+IS  - 5
+SP  - 298
+EP  - 9
+AN  - 8523303
+AB  - Surgery for varicose veins is a common surgical procedure performed for various indications including cosmesis. Patient satisfaction with the eventual outcome is therefore important. A total of 311 patients (68%), who underwent varicose vein surgery during a 10-year period, replied to a postal survey of 456 patients [National Health Service (NHS) 327: private patients (PP) 129]. Of those 311, 19% of the NHS patients compared with 34% of the PP were completely satisfied with the surgery, the communication and had had no post-operative complications (P < 0.01). Twenty-six per cent of the NHS patients were very dissatisfied with their treatment compared with 13% of the PP (P < 0.025). The majority of dissatisfied patients were female (P < 0.005). These results suggest that while varicose vein surgery is regarded as a safe and often minor procedure, it is associated with a significant surgical morbidity and patient dissatisfaction. Patients should be made aware of the potential outcome prior to surgery.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Complications and difficulties in electrocoagulation of varices of the lower extremities.
+AU  - M Politowski
+AU  - T Zelazny
+JO  - PubMed
+PY  - 1966
+VL  - 59
+IS  - 6
+SP  - 932
+EP  - 4
+AN  - 4287137
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Neovascularization: An Adverse Response to Proper Groin Dissection
+AU  - Marianne De Maeseneer
+JO  - Elsevier eBooks
+PY  - 2007
+SP  - 239
+EP  - 246
+DO  - 10.1016/b978-012369515-4/50029-6
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Superficial Venous Disease Treatment - Is There Still a Role for Open Surgery in 2011 ?
+AU  - Tristan Lane
+AU  - Vikas A. Pandey
+AU  - Alun H. Davies
+JO  - Acta chirurgica Belgica
+PY  - 2011
+VL  - 111
+IS  - 3
+SP  - 125
+EP  - 129
+DO  - 10.1080/00015458.2011.11680722
+AN  - 21780517
+AB  - The treatment of superficial venous disease (commonly described as varicose veins by the general public) has remained relatively constant over the past 100 years until the refinements of endovenous treatments such as sclerotherapy and more recently, the development of endovenous ablation. This has radically changed the treatment profile of this disease with treatments easily administered and well tolerated even in those patients who would not be considered fit for open surgery previously. With the advent of day surgery and improved general and local anaesthetic techniques, venous surgery has forged a path towards the end goal of outpatient treatment with no requirement for inpatient stay. The end goal of all superficial venous surgery is an improvement in quality of life, and with such new treatments reducing the impact of the actual intervention, such gains are easier to make. This review assesses and presents the current literature describing superficial venous disease treatments covering all treatment modalities. With endovenous treatment, true ambulatory treatment is available, providing high quality treatment at speed and convenience for patients.
+DS  - openalex
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Endovenous therapies of varicose veins: indications, procedures, efficacy and safety.
+AU  - Anke Biemans
+AU  - Renate R. van den Bos
+AU  - Tamar Nijsten
+JO  - PubMed
+PY  - 2010
+VL  - 145
+IS  - 2
+SP  - 161
+EP  - 73
+AN  - 20467390
+AB  - Venous insufficiency of the lower-extremity is common and the prevalence increases with age. Chronic venous insufficiency has a high impact on patients' health related quality of life (HRQOL) and is associated with considerable health care costs. In addition to classical symptoms, it may result in skin changes and venous ulcers. Since more than hundred years, surgical ligation of the junction with or without stripping has been the standard of care in the treatment of insufficient great and small saphenous veins. However, the recurrence rates are relatively high and surgery may be associated with serious adverse events, considerable down time and is cosmetically suboptimal. In the last decade several minimally invasive techniques have been introduced, to improve efficacy, patients' HRQOL and treatment satisfaction, and to reduce serious side effects, costs and postoperative pain. Dermatologists have played an important role in the development of minimal invasive therapies Ultrasound guided foam sclerotherapy, endovenous laser therapy and radiofrequency ablation are the most commonly used therapies, and challenge surgery as the gold standard of care in patients with varicose veins. The objective of this review is to inform clinicians about these three therapeutic options for saphenous varicose veins and to describe and compare the indications, procedures, efficacy and safety profile.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Invaginating versus Classic Stripping of the Long Saphenous Vein A Randomized Prospective Study
+AU  - H Lacroix
+AU  - André Nevelsteen
+AU  - R Suy
+JO  - Acta chirurgica Belgica
+PY  - 1999
+VL  - 99
+IS  - 1
+SP  - 22
+EP  - 25
+DO  - 10.1080/00015458.1999.12098435
+AN  - 10090959
+AB  - Although sound evidence is lacking, many surgeons claim that stripping of the long saphenous vein (LSV) is best performed by invagination. The aim of this prospective, randomized study was to test the hypothesis that invaginating stripping of the LSV is associated with less pain, smaller haematomas and less frequent injury to the saphenous nerve. Thirty patients with bilateral varicose veins and incompetent LSV, but normal short saphenous veins and deep venous systems, were treated by high ligation and stripping of the LSV and multiple stab avulsions. At one side the stripping was performed by invagination (group I), while a classic stripping was done on the other side (group C), so that one leg served as the control of the other. The results were analysed on an intention to treat basis. The median surface of the thigh haematoma between post-operative day seven and ten was 115 cm2 in group I and 135 cm2 in group C (NS). The median pain score was 0.25 and 1.75 respectively (NS). The incidence of saphenous nerve injury was 13% in group I and 17% in group C (NS). At one month 23% of patients stated that the leg with the invaginating stripping had been the more painful, while 33% of patients claimed that the side of the classic stripping had been more painful. The results show that the benefit of invaginating stripping is not as obvious as is generally suggested.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Endovenous diathermy destruction of internal saphenous.
+AU  - GeorgeT. Watts
+JO  - BMJ
+PY  - 1972
+VL  - 4
+IS  - 5831
+SP  - 53
+EP  - 53
+DO  - 10.1136/bmj.4.5831.53
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Compliance in pharmacotherapy in patients with chronic venous disorders.
+AU  - Jerzy Chudek
+AU  - Piotr Kocełak
+AU  - Damian Ziaja
+AU  - Aleksander Owczarek
+AU  - Krzysztof Ziaja
+JO  - PubMed
+PY  - 2012
+VL  - 31
+IS  - 4
+SP  - 393
+EP  - 401
+AN  - 22801406
+AB  - AIM: The aim of this study was to evaluate the factors that limit the use of venoactive drugs (VADs), especially in patient with chronic venous disorders (CVD) noncompliant with compression therapy in a nationwide survey. METHODS: Analysis included 5134 CVD patients compliant with compression therapy and 4663 of those not accepting such method of therapy, participating in a large survey. RESULTS: Venoactive drugs (VADs) and topical agents were used significantly less frequently by patients noncompliant with compression therapy compared to the compliant population (95.2% vs. 97.7%, P<0.001 and 70.1% vs. 79.9%, P<0.001, respectively). There were also less patients on two VADs concurrently in these subgroups (14.6% vs. 24.6%, P<0.001 respectively). Logistic regression analysis confirmed that noncompliant also have decreased adherence to Ruscus aculeatus extracts (OR=0.870), micronized purified flavonoid fraction (MPFF) preparations (OR=0.886), and topical agents (OR=0.877), but not horse chestnuts seed extracts. Coexisting obesity and other chronic illnesses were among the factors that decreased the use of Ruscus aculeatus extracts and micronized purified flavonoid fraction (MPFF) preparations. The use of topical agents was reduced with age, male sex, patients with coexisting chronic illnesses, obesity and adverse to accepting compression therapy. Additionally diuretics, antiplatelet agents and low-molecular weight heparins were less frequently used in the noncompliant population. CONCLUSIONS: Patients who are not compliant with compression therapy are more frequently not adherent to pharmacological therapy. Coexisting obesity and other chronic illnesses demonstrate decrease in adherence to CVD pharmacotherapy.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Improving the management of varicose veins.
+AU  - Sarah Onida
+AU  - Tristan Lane
+AU  - Alun H. Davies
+JO  - PubMed
+PY  - 2014
+VL  - 257
+IS  - 1766
+SP  - 21
+EP  - 4, 2
+AN  - 24555256
+AB  - Up to 30% of the UK population are affected by varicose veins. They are a manifestation of increased venous pressure in the lower limb caused by impaired venous return. Primary varicosities result from poor drainage from the superficial to the deep venous system. Secondary varicosities arise as a result of underlying pathology impeding venous drainage, such as deep venous thrombosis or increased intra-abdominal pressure caused by a mass, pregnancy or obesity. Patients with bleeding varicose veins should be referred to a vascular service immediately. Referral is also indicated in the following cases: symptomatic primary or recurrent varicose veins; lower limb skin changes thought to be caused by chronic venous insufficiency; superficial vein thrombosis and suspected venous incompetence; a venous leg ulcer or healed venous leg ulcer. Imaging is crucial in the assessment of the superficial and deep venous system to enable assessment of venous competence. The gold standard imaging technique is colour duplex ultrasonography. Duplex ultrasound should be used to confirm the diagnosis of varicose veins and the extent of truncal reflux, and to plan treatment for patients with suspected primary or recurrent varicose veins. Superficial vein ligation, phlebectomy and stripping have been the mainstay of treatment. In recent years, new techniques have been developed that are minimally invasive, enabling treatment of superficial venous incompetence with reduced morbidity. NICE recommends that endothermal ablation, in the form of radiofrequency or laser treatment, should be offered as treatment for patients with confirmed varicose veins and truncal reflux.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Regarding “Prospective randomized trial comparing endovenous laser ablation and surgery for treatment of primary great saphenous varicose veins with a 2-year follow-up”
+AU  - Craig Nesbitt
+AU  - Gerard Stansby
+JO  - Journal of Vascular Surgery
+PY  - 2011
+VL  - 53
+IS  - 5
+SP  - 1456
+EP  - 1456
+DO  - 10.1016/j.jvs.2010.12.047
+AN  - 21575766
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Venoscopic Obliteration of Variceal Tributaries Using Monopolar Electrocautery
+AU  - Wayne S. Gradman
+JO  - The Journal of Dermatologic Surgery and Oncology
+PY  - 1994
+VL  - 20
+IS  - 7
+SP  - 482
+EP  - 485
+DO  - 10.1111/j.1524-4725.1994.tb03221.x
+AN  - 8034845
+AB  - BACKGROUND: Retrograde saphenous venoscopy has a diagnostic and potentially therapeutic role in the treatment of truncal varices. OBJECTIVE: To determine whether venoscopic electrocautery of saphenous vein tributaries can eliminate reflux into varices and reduce the need for further variceal evulsion or sclerotherapy. METHODS: Twelve patients with truncal varices underwent ligation of the saphenofemoral junction, retrograde venoscopy of the saphenous vein trunk, and endoscopic electrocautery obliteration of selected tributaries and varices. RESULTS: Postoperative color-flow duplex studies revealed that the saphenous vein trunk was completely preserved in nine patients (75%). Portions of three saphenous vein trunks (25%) near the cannulated tributaries were thrombosed. Four patients (33.3%) did not require further sclerotherapy. These four patients usually had a cluster of varices arising from a single tributary that lay close to the saphenous vein. Seven of the eight remaining patients (58.3%) reported significant improvement from the operative procedure alone, but required additional treatment with sclerotherapy to make the results satisfactory. One patient (8.3%) experienced little improvement. CONCLUSION: Venoscopic obliteration of variceal tributaries is feasible and may prove useful in the treatment of truncal varices. In selected patients, 4 of 12 (33.3%), no further treatment with sclerotherapy or evulsion was needed.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - ENDOVENOUS DIATHERMY SCLEROSIS OF VARICOSE VEINS<sup>1</sup>
+AU  - Kevin O’Reilly
+JO  - Australian and New Zealand Journal of Surgery
+PY  - 1977
+VL  - 47
+IS  - 3
+SP  - 393
+EP  - 395
+DO  - 10.1111/j.1445-2197.1977.tb04312.x
+AN  - 269713
+AB  - The results of endovenous diathermy sclerosis treatment of 68 limbs on 48 patients (endovenous diathermy) are reported.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Bipolar diathermy treatment of long saphenous vein varicosities.
+AU  - Griffith Cd
+AU  - Dennis Mj
+AU  - Blundell Jw
+AU  - Hopkinson Br
+JO  - PubMed
+PY  - 1989
+VL  - 34
+IS  - 5
+SP  - 256
+EP  - 7
+AN  - 2593099
+AB  - A new technique of endoluminal diathermy of the long saphenous vein using a bipolar electrode is described. This is safer than conventional unipolar diathermy and histological examination of the diathermied veins shows similar appearances using unipolar and bipolar diathermy. Clinical assessment of both techniques yields similar results. Endoluminal bipolar diathermy is simple and relatively painless compared with conventional stripping of the long saphenous vein and can be recommended.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - R: A Language and Environment for Statistical Computing
+AU  - R Core Team
+PY  - 2000
+VL  - 1
+IS  - 1
+DO  - 10.32614/r.manuals
+AB  - Most R novices will start with Appendix A [A sample session], page 80.This should give some familiarity with the style of R sessions and more importantly some instant feedback on what actually happens.Many users will come to R mainly for its graphical facilities.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Data analysis
+AU  - D.S. Sivia
+PY  - 1996
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Endovenous ablation (radiofrequency and laser) and foam sclerotherapy versus conventional surgery for great saphenous vein varices
+AU  - Craig Nesbitt
+AU  - Ron KG Eifell
+AU  - Peter Coyne
+AU  - Hassan Badri
+AU  - Vish Bhattacharya
+AU  - Gerard Stansby
+JO  - Cochrane Database of Systematic Reviews
+PY  - 2011
+IS  - 10
+SP  - CD005624
+EP  - CD005624
+DO  - 10.1002/14651858.cd005624.pub2
+AN  - 21975750
+AB  - BACKGROUND: Minimally invasive techniques to treat great saphenous varicose veins include ultrasound-guided foam sclerotherapy (UGFS), radiofrequency ablation (RFA) and endovenous laser therapy (EVLT). Compared with flush saphenofemoral ligation with stripping, also referred to as open surgery or high ligation and stripping (HL/S), proposed benefits include fewer complications, quicker return to work, improved quality of life (QoL) scores, reduced need for general anaesthesia and equivalent recurrence rates. This is an update of a review first published in 2011. OBJECTIVES: To determine whether endovenous ablation (radiofrequency and laser) and foam sclerotherapy have any advantages or disadvantages in comparison with open surgical saphenofemoral ligation and stripping of great saphenous vein varices. SEARCH METHODS: For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co-ordinator searched the Specialised Register (last searched January 2014) and CENTRAL (2013, Issue 12). Clinical trials databases were also searched for details of ongoing or unpublished studies. SELECTION CRITERIA: All randomised controlled trials (RCTs) of UGFS, EVLT, RFA and HL/S were considered for inclusion. Primary outcomes were recurrent varicosities, recanalisation, neovascularisation, technical procedure failure, patient QoL scores and associated complications. DATA COLLECTION AND ANALYSIS: CN and RB independently reviewed, assessed and selected trials which met the inclusion criteria. CN and RB extracted data and used the Cochrane Collaboration's tool for assessing risk of bias. CN and RB contacted trial authors to clarify details as needed. MAIN RESULTS: For this update, eight additional studies were included making a total of 13 included studies with a combined total of 3081 randomised patients. Three studies compared UGFS with surgery, eight compared EVLT with surgery and five compared RFA with surgery (two studies had two or more comparisons with surgery). Study quality, evaluated through the six domains of risk of bias, was generally moderate for all included studies, however no study blinded participants, researchers and clinicians or outcome assessors. Also, nearly all included studies had other sources of bias. The overall quality of the evidence was moderate due to the variations in the reporting of results, which limited meaningful meta-analyses for the majority of proposed outcome measures. For the comparison UGFS versus surgery, the findings may have indicated no difference in the rate of recurrences in the surgical group when measured by clinicians, and no difference between the groups for symptomatic recurrence (odds ratio (OR) 1.74, 95% confidence interval (CI) 0.97 to 3.12; P = 0.06 and OR 1.28, 95% CI 0.66 to 2.49, respectively). Recanalisation and neovascularisation were only evaluated in a single study. Recanalisation at < 4 months had an OR of 0.66 (95% CI 0.20 to 2.12), recanalisation > 4 months an OR of 5.05 (95% CI 1.67 to 15.28) and for neovascularisation an OR of 0.05 (95% CI 0.00 to 0.94). There was no difference in the rate of technical failure between the two groups (OR 0.44, 95% CI 0.12 to 1.57). For EVLT versus surgery, there were no differences between the treatment groups for either clinician noted or symptomatic recurrence (OR 0.72, 95% CI 0.43 to 1.22; P = 0.22 and OR 0.87, 95% CI 0.47 to 1.62; P = 0.67, respectively). Both early and late recanalisation were no different between the two treatment groups (OR 1.05, 95% CI 0.09 to 12.77; P = 0.97 and OR 4.14, 95% CI 0.76 to 22.65; P = 0.10). Neovascularisation and technical failure were both statistically reduced in the laser treatment group (OR 0.05, 95% CI 0.01 to 0.22; P < 0.0001 and OR 0.29, 95% CI 0.14 to 0.60; P = 0.0009, respectively). Long-term (five-year) outcomes were evaluated in one study so no association could be derived,but it appeared that EVLT and surgery maintained similar findings. Comparing RFA versus surgery, there were no differences in clinician noted recurrence (OR 0.82, 95% CI 0.49 to 1.39; P = 0.47); symptomatic noted recurrence was only evaluated in a single study. There were also no differences between the treatment groups for recanalisation (early or late) (OR 0.68, 95% CI 0.01 to 81.18; P = 0.87 and OR 1.09, 95% CI 0.39 to 3.04; P = 0.87, respectively), neovascularisation (OR 0.31, 95% CI 0.06 to 1.65; P = 0.17) or technical failure (OR 0.82, 95% CI 0.07 to 10.10; P = 0.88).QoL scores, operative complications and pain were not amenable to meta-analysis, however quality of life generally increased similarly in all treatment groups and complications were generally low, especially major complications. Pain reporting varied greatly between the studies but in general pain was similar between the treatment groups. AUTHORS' CONCLUSIONS: Currently available clinical trial evidence suggests that UGFS, EVLT and RFA are at least as effective as surgery in the treatment of great saphenous varicose veins. Due to large incompatibilities between trials and different time point measurements for outcomes, the evidence is lacking in robustness. Further randomised trials are needed, which should aim to report and analyse results in a congruent manner to facilitate future meta-analysis.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - 2nd European Consensus Meeting on Foam Sclerotherapy 2006, Tegernsee, Germany.
+AU  - Franz Xaver Breu
+AU  - S. Guggenbichler
+AU  - J. C. Wollmann
+JO  - PubMed
+PY  - 2008
+VL  - 37 Suppl 71
+SP  - 1
+EP  - 29
+AN  - 18426039
+AB  - RATIONALE: The spread of Foam Sclerotherapy has resulted in the renaissance of sclerotherapy as a non-invasive treatment method for varicosis. The use of sclerosant foam for various forms of varicosis has now become established world-wide as safe and effective. An expanded European expert committee meeting in April 2006, in Tegernsee was prompted by new findings and continuous further development of the method, but also because it had not been possible to consider all the relevant aspects of Foam Sclerotherapy in depth at the first meeting. OBJECTIVES: To revise and update the results of the 1st European Consensus Meeting and to include new, important topics in the development of Foam Sclerotherapy. To provide practical information for less experienced colleagues. METHODOLOGY: The 29 participants were sent a comprehensive questionnaire in advance covering all the relevant aspects of Foam Sclerotherapy. The organisers drew up various preliminary statements on the basis of the results. During the meeting itself the participants revised and/or approved and/or rejected these statements. An additional analysis of the questionnaire data also enabled preparation of an illustrative description of the broad spectrum of individual procedures used in this form of treatment. RESULTS: Foam Sclerotherapy has become an established treatment option for varicosis and has undoubtedly improved the management of varicose veins. European experts met Tegernsee for a second time to revise and expand their previous recommendations. In addition, individual working groups focused extensively on important issues. The current consensus, recommendations and descriptions of the individual aspects of the methods concern such issues as the indications for Foam Sclerotherapy, concentration and volume of the liquid sclerosants, relative and absolute contraindications, access and puncture options as well as clinical and ultrasound-guided recording of the treatment results. This final document reflects the experts' opinions on the principles of the effective and, above all, safe use of sclerosant foam for various indications and correct monitoring of the results of Foam Sclerotherapy.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - The Vein Book
+AU  - John J. Bergan
+JO  - Elsevier eBooks
+PY  - 2007
+DO  - 10.1016/b978-0-12-369515-4.x5000-5
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Cats and dogs
+AU  - P. S. Gooch
+JO  - BMJ
+PY  - 1969
+VL  - 4
+IS  - 5674
+SP  - 53
+EP  - 53
+DO  - 10.1136/bmj.4.5674.53-e
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Editor's Choice – Management of Chronic Venous Disease
+AU  - C. Wittens
+AU  - Alun H. Davies
+AU  - Niels Bækgaard
+AU  - Rikke Broholm
+AU  - Attilio Cavezzi
+AU  - S. Chastanet
+AU  - M Wolf
+AU  - C.A.M. Eggen
+AU  - A. Giannoukas
+AU  - Manjit Gohel
+AU  - Stavros K. Kakkos
+AU  - James Lawson
+AU  - T. Noppeney
+AU  - Sarah Onida
+AU  - Paul Pittaluga
+AU  - S. Thomis
+AU  - Irwin M. Toonder
+AU  - Marc Vuylsteke
+AU  - Philippe Kolh
+AU  - Gert J. de Borst
+AU  - Nabil Chakfé
+AU  - Sebastian Debus
+AU  - RJ Hinchliffe
+AU  - Igor Končar
+AU  - Jes S. Lindholt
+AU  - M.V. de Ceniga
+AU  - Frank Vermassen
+AU  - Fabio Verzini
+AU  - Document Reviewers
+AU  - Marianne De Maeseneer
+AU  - Lena Blomgren
+AU  - Olivier Hartung
+AU  - Evi Kalodiki
+AU  - E. Korten
+AU  - Marzia Lugli
+AU  - Ross Naylor
+AU  - P. Nicolini
+AU  - Antonio Rosales
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2015
+VL  - 49
+IS  - 6
+SP  - 678
+EP  - 737
+DO  - 10.1016/j.ejvs.2015.02.007
+AN  - 25920631
+AB  - peer reviewed
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Long-term outcomes of endovenous radiofrequency obliteration of saphenous reflux as a treatment for superficial venous insufficiency
+AU  - Robert F. Merchant
+AU  - O. Pichot
+JO  - Journal of Vascular Surgery
+PY  - 2005
+VL  - 42
+IS  - 3
+SP  - 502
+EP  - 510
+DO  - 10.1016/j.jvs.2005.05.007
+AN  - 16171596
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Randomized clinical trial comparing endovenous laser ablation with surgery for the treatment of primary great saphenous varicose veins
+AU  - Rosie Darwood
+AU  - N.S. Theivacumar
+AU  - D. Dellagrammaticas
+AU  - A I D Mavor
+AU  - Michael J. Gough
+JO  - British journal of surgery
+PY  - 2008
+VL  - 95
+IS  - 3
+SP  - 294
+EP  - 301
+DO  - 10.1002/bjs.6101
+AN  - 18278775
+AB  - BACKGROUND: Endovenous laser ablation (EVLA) is a minimally invasive technique for treating varicose veins due to truncal vein incompetence. This randomized trial compared EVLA with conventional surgery in patients with primary saphenofemoral and great saphenous vein (GSV) reflux. METHODS: Consecutive consenting patients with symptomatic varicose veins were randomized to EVLA 1 (stepwise laser withdrawal), EVLA 2 (continuous laser withdrawal) or surgery (saphenofemoral ligation, GSV stripping, multiple phlebectomies). Principal outcome measures were abolition of GSV reflux and improvement in Aberdeen Varicose Vein Symptom Score (AVVSS) 3 months after treatment. RESULTS: GSV reflux was abolished in 41 of 42 legs treated with EVLA 1, 26 of 29 following EVLA 2 and 28 of 32 after surgery (P = 0.227). The median (interquartile range, i.q.r.) AVVSS improvement was similar: 9.38 (4.54-14.93) with EVLA 1, 10.26 (5.03-15.03) after EVLA 2 and 8.36 (4.54-13.21) following surgery (P = 0.694). Return to normal activity (median (i.q.r.) 2 (0-7) versus 7 (2-26) days; P = 0.001) and work (4 (2-7) versus 17 (7.25-33.25) days; P = 0.005) was quicker after EVLA by either method. CONCLUSION: Abolition of reflux and improvement in disease-specific quality of life was comparable following both EVLA and surgery. The earlier return to normal activity following EVLA may confer important socioeconomic advantages. REGISTRATION NUMBER: ISRCTN99270116 (http://www.controlled-trials.com).
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Treatment of the incompetent great saphenous vein by endovenous radiofrequency powered segmental thermal ablation: First clinical experience
+AU  - Thomas M. Proebstle
+AU  - Bernadette Vago
+AU  - Jens Alm
+AU  - Oliver Göckeritz
+AU  - C Lebard
+AU  - O. Pichot
+JO  - Journal of Vascular Surgery
+PY  - 2008
+VL  - 47
+IS  - 1
+SP  - 151
+EP  - 156.e1
+DO  - 10.1016/j.jvs.2007.08.056
+AN  - 18178468
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - A Randomized Trial Comparing Treatments for Varicose Veins
+AU  - Julie Brittenden
+AU  - Seonaidh Cotton
+AU  - Andrew Elders
+AU  - Craig Ramsay
+AU  - John Norrie
+AU  - Jennifer Burr
+AU  - Bruce Campbell
+AU  - Paul Bachoo
+AU  - Ian Chetter
+AU  - Michael J. Gough
+AU  - J J Earnshaw
+AU  - Tim Lees
+AU  - Julian Scott
+AU  - Sara A Baker
+AU  - Jill Francis
+AU  - Emma Tassie
+AU  - Graham Scotland
+AU  - Samantha Wileman
+AU  - Marion Campbell
+JO  - New England Journal of Medicine
+PY  - 2014
+VL  - 371
+IS  - 13
+SP  - 1218
+EP  - 1227
+DO  - 10.1056/nejmoa1400781
+AN  - 25251616
+AB  - BACKGROUND: Ultrasound-guided foam sclerotherapy and endovenous laser ablation are widely used alternatives to surgery for the treatment of varicose veins, but their comparative effectiveness and safety remain uncertain. METHODS: In a randomized trial involving 798 participants with primary varicose veins at 11 centers in the United Kingdom, we compared the outcomes of foam, laser, and surgical treatments. Primary outcomes at 6 months were disease-specific quality of life and generic quality of life, as measured on several scales. Secondary outcomes included complications and measures of clinical success. RESULTS: After adjustment for baseline scores and other covariates, the mean disease-specific quality of life was slightly worse after treatment with foam than after surgery (P=0.006) but was similar in the laser and surgery groups. There were no significant differences between the surgery group and the foam or the laser group in measures of generic quality of life. The frequency of procedural complications was similar in the foam group (6%) and the surgery group (7%) but was lower in the laser group (1%) than in the surgery group (P<0.001); the frequency of serious adverse events (approximately 3%) was similar among the groups. Measures of clinical success were similar among the groups, but successful ablation of the main trunks of the saphenous vein was less common in the foam group than in the surgery group (P<0.001). CONCLUSIONS: Quality-of-life measures were generally similar among the study groups, with the exception of a slightly worse disease-specific quality of life in the foam group than in the surgery group. All treatments had similar clinical efficacy, but complications were less frequent after laser treatment and ablation rates were lower after foam treatment. (Funded by the Health Technology Assessment Programme of the National Institute for Health Research; Current Controlled Trials number, ISRCTN51995477.).
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Systematic review of endovenous laser treatment for varicose veins
+AU  - Linda M. Mundy
+AU  - Tracy Merlin
+AU  - Robert Fitridge
+AU  - Janet E. Hiller
+JO  - British journal of surgery
+PY  - 2005
+VL  - 92
+IS  - 10
+SP  - 1189
+EP  - 1194
+DO  - 10.1002/bjs.5142
+AN  - 16175538
+AB  - BACKGROUND: The safety and effectiveness of endovenous laser treatment (EVLT) for varicose veins are not yet fully evaluated. METHODS: Medical bibliographic databases, the internet and reference lists were searched from January 1966 to September 2004. Only case series were available for inclusion in the review. RESULTS:: Thirteen studies met the inclusion criteria. Self-limiting features, such as pain, ecchymosis, induration and phlebitis, were commonly encountered after treatment. Deep vein thrombosis and incorrect placement of the laser in vessels were uncommon adverse events. No study has yet assessed the effectiveness of laser therapy in comparison to saphenofemoral junction ligation with saphenous vein stripping. Occlusion of the saphenous vein and abolition of venous reflux occurred in 87.9-100 per cent of limbs, with low rates of re-treatment and recanalization. CONCLUSION: From the low-level evidence available it seems that EVLT benefits most patients in the short term, but rates of recanalization, re-treatment, occlusion and reflux may alter with longer follow-up. The lack of such data, in addition to the small numbers of patients in the available studies, demonstrates the need for a randomized clinical trial of EVLT versus conventional surgery.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Outcome of different endovenous laser wavelengths for great saphenous vein ablation
+AU  - Lowell S Kabnick
+JO  - Journal of Vascular Surgery
+PY  - 2006
+VL  - 43
+IS  - 1
+SP  - 88
+EP  - 88.e7
+DO  - 10.1016/j.jvs.2005.09.033
+AN  - 16414394
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Greater Energy Delivery Improves Treatment Success of Endovenous Laser Treatment of Incompetent Saphenous Veins
+AU  - Paul E. Timperman
+AU  - Michael J. Sichlau
+AU  - Robert K. Ryu
+JO  - Journal of Vascular and Interventional Radiology
+PY  - 2004
+VL  - 15
+IS  - 10
+SP  - 1061
+EP  - 1063
+DO  - 10.1097/01.rvi.0000130382.62141.ae
+AN  - 15466791
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Randomized clinical trial comparing surgery with conservative treatment for uncomplicated varicose veins
+AU  - Jonathan Michaels
+AU  - John Brazier
+AU  - W B Campbell
+AU  - J.B. MacIntyre
+AU  - Simon Palfreyman
+AU  - Julie Ratcliffe
+JO  - British journal of surgery
+PY  - 2006
+VL  - 93
+IS  - 2
+SP  - 175
+EP  - 181
+DO  - 10.1002/bjs.5264
+AN  - 16432825
+AB  - BACKGROUND: Surgical treatment of medically uncomplicated varicose veins is common, but its clinical effectiveness remains uncertain. METHODS: A randomized clinical trial was carried out at two large acute National Health Service hospitals in different parts of the UK (Sheffield and Exeter). Some 246 patients were recruited from 536 consecutive referrals to vascular outpatient clinics with uncomplicated varicose veins suitable for surgical treatment. Conservative management, consisting of lifestyle advice, was compared with surgical treatment (flush ligation of sites of reflux, stripping of the long saphenous vein and multiple phlebectomies, as appropriate). Changes in health status were measured using the Short Form (SF) 6D and EuroQol (EQ) 5D, quality of life instruments based on SF-36 and EuroQol, complications of treatment, symptomatic measures, anatomical extent of varicose veins and patient satisfaction. RESULTS: In the first 2 years after treatment there was a significant quality of life benefit for surgery of 0.083 (95 per cent confidence interval (c.i.) 0.005 to 0.16) quality-adjusted life years (QALYs) based on the SF-6D score and 0.13 (95 per cent c.i. 0.016 to 0.25) based on the EQ-5D score. Significant benefits were also seen in symptomatic and anatomical measures. CONCLUSION: Surgical treatment provides symptomatic relief and significant improvements in quality of life in patients referred to secondary care with uncomplicated varicose veins.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - First results with a new 1470-nm diode laser for endovenous ablation of incompetent saphenous veins
+AU  - Felizitas Pannier
+AU  - Eberhard Rabe
+AU  - Uldis Maurins
+JO  - Phlebology The Journal of Venous Disease
+PY  - 2009
+VL  - 24
+IS  - 1
+SP  - 26
+EP  - 30
+DO  - 10.1258/phleb.2008.008038
+AN  - 19155338
+AB  - INTRODUCTION: Most of the published EVLA data concern 810, 940, 980 nm diode lasers and 1064 or 1320 nm Nd:Yag laser systems. Major side effects are postoperative pain and bruising. The aim of this study was to show the outcome one year after EVLA of incompetent saphenous veins with a 1470 nm Diode laser (Ceralas E, biolitec). PATIENTS AND METHOD: Between December 2006 and February 2007, 134 saphenous veins (108 GSV, 26 SSV) in 117 legs of 100 consecutive patients where treated by EVLA for GSV and SSV incompetence. All patients were examined clinically and with duplex by an experienced phlebologist prior to intervention, and at the follow-up visits for complications, occlusion, flow and reflux in the treated vein segment. The clinical evaluation included clinical CEAP and the presence of recurrent varicose veins. Patient satisfaction was assessed by a 0 to 4 scale. RESULTS: After a mean follow-up period of 184 days (SD 27) 127 treated veins (102 GSV, 25 SSV) of 111 limbs in 94 patients and after 329 days (SD 14) 105 treated veins (94 GSV, 21 SSV) of 105 limbs in 83 patients were reinvestigated. Six patients were lost to follow up after six months and an additional 11 patients after one year. Up to one year follow-up all treated veins remained occluded. At six months, one new insufficient anterior accessory saphenous vein (AASV) and after 12 months, three new insufficient AASV occurred. After one year 45 patients were very satisfied with the method, 34 were satisfied, three were fairly and one was not satisfied. The mean of all answers was 0.5 (SD 0.5). In three cases phlebitic reactions after 10 days, but no severe complications such as deep vein thrombosis occured. After six months in 9.5% of the legs paresthesia was present in the treated area which reduced to 7.6% after one year. Intake of painkillers was mean 6.7 tablets (SD 3.5). When we compared GSV legs treated with LEED below or above 100 J/cm, the paresthesia rate was significantly lower in the first group with 2.3% compared to 15.5 % in the higher LEED group. The differences for number of days with analgesic intake and for the paraesthetic area were significant. Discussion In this prospective follow-up study with 100 consecutive patients and 134 treated saphenous veins a high occlusion rate of 100% could be demonstrated one year after treatment. However, with LEED > 100 J/cm in this study, the incidence of paresthesia rose significantly. Therefore it seems adequate to stay below 100 J/cm in the future as the occlusion rate was the same below and above 100 J/cm. CONCLUSION: EVLA of GSV and SSV with a 1470 nm diode laser is a minimally invasive, safe and efficient therapy option with a high success rate.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Five-year results from the prospective European multicentre cohort study on radiofrequency segmental thermal ablation for incompetent great saphenous veins
+AU  - Thomas M. Proebstle
+AU  - Bernt Alm
+AU  - Oliver Göckeritz
+AU  - Christian Wenzel
+AU  - T. Noppeney
+AU  - C Lebard
+AU  - Carmine Sessa
+AU  - D. Creton
+AU  - O. Pichot
+JO  - British journal of surgery
+PY  - 2015
+VL  - 102
+IS  - 3
+SP  - 212
+EP  - 218
+DO  - 10.1002/bjs.9679
+AN  - 25627262
+AB  - BACKGROUND: This was a prospective study of radiofrequency segmental thermal ablation (RFA) for the treatment of incompetent varicose great saphenous veins (GSVs). The present report describes long-term follow-up at 5 years. METHODS: The 5-year follow-up of this multicentre European study included assessment of the Venous Clinical Severity Score (VCSS), and GSV occlusion and reflux on duplex imaging. RESULTS: A total of 225 patients had 295 GSVs treated by RFA, achieving an initial vein occlusion rate of 100 per cent. With 80·0 per cent compliance, Kaplan-Meier analyses showed a GSV occlusion rate of 91·9 per cent and a reflux-free rate of 94·9 per cent at 5 years. Among the 15 GSVs noted with reflux during follow-up, only three showed full recanalization of the GSV at 1 week, 6 months and 3 years. Of the 12 legs with partial recanalization, reflux originated at the saphenofemoral junction in ten, with a mean length of the patent segment of 5·8 (range 3·2-10) cm; only six patients were symptomatic. Mean(s.d.) VCSS scores improved from 3·9(2·1) at baseline to 0·6(1·2), 0·9(1·3) and 1·3(1·7) at 1, 3 and 5 years. CONCLUSION: At 5 years RFA proved to be an efficient endovenous treatment for incompetent GSVs in terms of sustained clinical and anatomical success for the vast majority of treated patients.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Editor's Choice – Five Year Results of Great Saphenous Vein Treatment: A Meta-analysis
+AU  - Sterre A.S. Hamann
+AU  - Jenny Giang
+AU  - Marianne De Maeseneer
+AU  - Tamar Nijsten
+AU  - Renate R. van den Bos
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2017
+VL  - 54
+IS  - 6
+SP  - 760
+EP  - 770
+DO  - 10.1016/j.ejvs.2017.08.034
+AN  - 29033337
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Randomized clinical trial of radiofrequency ablation or conventional high ligation and stripping for great saphenous varicose veins
+AU  - Sriram Subramonia
+AU  - T. Lees
+JO  - British journal of surgery
+PY  - 2009
+VL  - 97
+IS  - 3
+SP  - 328
+EP  - 336
+DO  - 10.1002/bjs.6867
+AN  - 20035541
+AB  - BACKGROUND: This randomized clinical trial compared early outcomes after radiofrequency ablation (RFA) and conventional surgery for varicose veins. METHODS: Consecutive patients with symptomatic varicose veins due to isolated great saphenous vein (GSV) incompetence and suitable for RFA were randomized to either RFA or conventional surgery (saphenofemoral disconnection and stripping). Clinical, radiological and patient-based outcomes were recorded at 1 and 5 weeks after intervention. RESULTS: RFA resulted in successful obliteration of the GSV in all 47 patients. Complete above-knee stripping was unsuccessful in seven of 41 patients. RFA took longer than conventional surgery: median interquartile range 76 (67-84) versus 48 (39-54) min; P < 0.001. Patients returned to their normal activities significantly earlier after RFA (median 3 (2-5) versus 12.5 (4-21) days; P < 0.001). Postoperative pain was significantly less after RFA (median score on visual analogue scale 1.70 (0.50-4.30) versus 4.0 (2.35-6.05); P = 0.001). Patient satisfaction, quality of life improvement and analgesic requirements significantly favoured RFA. CONCLUSION: RFA took longer to perform but resulted in a significantly better early outcome than conventional surgery in suitable patients with great saphenous varicose veins.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - VeClose trial 12-month outcomes of cyanoacrylate closure versus radiofrequency ablation for incompetent great saphenous veins
+AU  - Nick Morrison
+AU  - Kathleen Gibson
+AU  - Michael Vasquez
+AU  - Robert A. Weiss
+AU  - Daniel Cher
+AU  - Monte Madsen
+AU  - Andrew D. Jones
+JO  - Journal of Vascular Surgery Venous and Lymphatic Disorders
+PY  - 2017
+VL  - 5
+IS  - 3
+SP  - 321
+EP  - 330
+DO  - 10.1016/j.jvsv.2016.12.005
+AN  - 28411697
+AB  - OBJECTIVE: Endovenous cyanoacrylate closure (CAC) is a new U.S. Food and Drug Administration-approved therapy for treatment of clinically symptomatic venous reflux in saphenous veins. The device is indicated for the permanent closure of lower extremity superficial truncal veins, such as the great saphenous vein (GSV). Early results from a randomized trial of CAC have been reported previously. Herein we report 1-year outcomes. METHODS: There were 222 subjects with symptomatic GSV incompetence randomly assigned to receive either CAC (n = 108) or radiofrequency ablation (RFA; n = 114). After the month 3 visit, subjects could receive adjunctive therapies aimed at treating visible varicosities and incompetent tributaries. Vein closure was assessed at day 3 and months 1, 3, 6, and 12 using duplex ultrasound. Additional study visit assessments included the Venous Clinical Severity Score; Clinical, Etiology, Anatomy, and Pathophysiology classification; EuroQol-5 Dimension; and Aberdeen Varicose Vein Questionnaire. Both time to closure and time to first reopening of the target vein were evaluated using survival curve analysis. Adverse events were evaluated at each visit. RESULTS: Of 222 enrolled and randomized subjects, a 12-month follow-up was obtained for 192 (95 CAC and 97 RFA; total follow-up rate, 192/222 [86.5%]). By month 1, 100% of CAC subjects and 87% of RFA subjects demonstrated complete occlusion of the target vein. By month 12, the complete occlusion rate was nearly identical in both groups (97.2% in the CAC group and 97.0% in the RFA group). Twelve-month freedom from recanalization was similar in the CAC and RFA groups, although there was a trend toward greater freedom from recanalization in the CAC group (P =.08). Symptoms and quality of life improved equally in both groups. Most adverse events were mild to moderate and not related to the device or procedure. CONCLUSIONS: In patients with incompetent GSVs, treatment with both CAC and RFA results in high occlusion rates. Time to complete occlusion was faster with CAC, and freedom from reopening was higher after CAC. Quality of life scores improved equally with both therapies.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - A multi-centre randomised controlled trial comparing radiofrequency and mechanical occlusion chemically assisted ablation of varicose veins – Final results of the Venefit versus Clarivein for varicose veins trial
+AU  - Tristan Lane
+AU  - Roshan Bootun
+AU  - Brahman Dharmarajah
+AU  - Chung Sim Lim
+AU  - Mojahid Najem
+AU  - Sophie Renton
+AU  - Kaji Sritharan
+AU  - Alun H. Davies
+JO  - Phlebology The Journal of Venous Disease
+PY  - 2016
+VL  - 32
+IS  - 2
+SP  - 89
+EP  - 98
+DO  - 10.1177/0268355516651026
+AN  - 27221810
+AB  - Background Endovenous thermal ablation has revolutionised varicose vein treatment. New non-thermal techniques such as mechanical occlusion chemically assisted endovenous ablation (MOCA) allow treatment of entire trunks with single anaesthetic injections. Previous non-randomised work has shown reduced pain post-operatively with MOCA. This study presents a multi-centre randomised controlled trial assessing the difference in pain during truncal ablation using MOCA and radiofrequency endovenous ablation (RFA) with six months' follow-up. Methods Patients undergoing local anaesthetic endovenous ablation for primary varicose veins were randomised to either MOCA or RFA. Pain scores using Visual Analogue Scale and number scale (0-10) during truncal ablation were recorded. Adjunctive procedures were completed subsequently. Pain after phlebectomy was not assessed. Patients were reviewed at one and six months with clinical scores, quality of life scores and duplex ultrasound assessment of the treated leg. Results A total of 170 patients were recruited over a 21-month period from 240 screened. Patients in the MOCA group experienced significantly less maximum pain during the procedure by Visual Analogue Scale (MOCA median 15 mm (interquartile range 7-36 mm) versus RFA 34 mm (interquartile range 16-53 mm), p = 0.003) and number scale (MOCA median 3 (interquartile range 1-5) versus RFA 4 mm (interquartile range 3-6.5), p = 0.002). ' Average' pain scores were also significantly less in the MOCA group; 74% underwent simultaneous phlebectomy. Occlusion rates, clinical severity scores, disease specific and generic quality of life scores were similar between groups at one and six months. There were two deep vein thromboses, one in each group. Conclusion Pain secondary to truncal ablation is less painful with MOCA than RFA with similar short-term technical, quality of life and safety outcomes.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Postoperative pain and early quality of life after radiofrequency ablation and mechanochemical endovenous ablation of incompetent great saphenous veins
+AU  - Ramon R.J.P. van Eekeren
+AU  - Doeke Boersma
+AU  - Vincent Konijn
+AU  - Jean Paul P.M. de Vries
+AU  - Michel Reijnen
+JO  - Journal of Vascular Surgery
+PY  - 2012
+VL  - 57
+IS  - 2
+SP  - 445
+EP  - 450
+DO  - 10.1016/j.jvs.2012.07.049
+AN  - 23141679
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Endovenous Mechanochemical Ablation of Great Saphenous Vein Incompetence Using the ClariVein Device: A Safety Study
+AU  - Ramon R.J.P. van Eekeren
+AU  - Doeke Boersma
+AU  - Steven M. Elias
+AU  - Suzanne Holewijn
+AU  - Debbie Werson
+AU  - Jean-Paul P.M. de Vries
+AU  - Michel Reijnen
+JO  - Journal of Endovascular Therapy
+PY  - 2011
+VL  - 18
+IS  - 3
+SP  - 328
+EP  - 334
+DO  - 10.1583/11-3394.1
+AN  - 21679070
+AB  - PURPOSE: To evaluate the feasibility and safety of endovenous mechanochemical ablation (MOCA) for the treatment of great saphenous vein (GSV) incompetence. METHODS: The newly developed ClariVein device uses a technique that combines mechanical endothelial damage using a rotating wire with the infusion of a liquid sclerosant. Heating of the vein and tumescent anesthesia are not required; only local anesthesia is utilized at the insertion site. In a pilot study, 30 limbs in 25 patients (18 women; mean age 52 years) with GSV incompetence were treated with MOCA using polidocanol at 2 centers. Initial technical success, complications, patient satisfaction, and classification by venous clinical severity score (VCSS) were assessed 6 weeks after the treatment. RESULTS: Initial technical success of MOCA was 100%. There were no major adverse events. Minor complications consisted of 9 local ecchymoses at the puncture site and superficial phlebitis that resolved within a week in 4 limbs. Duplex ultrasonography at 6 weeks showed 26 (87%) of 30 veins were completely occluded; 3 veins showed partial recanalization in the proximal (n = 2) and distal GSV. One patient had full segment recanalization and was successfully retreated. The VCSS significantly improved at 6 weeks (p < 0.001). Patient satisfaction was high, with a median satisfaction of 8.8 on a 0-10 scale. CONCLUSION: This study showed that endovenous MOCA, using polidocanol, is feasible and safe in the treatment of GSV incompetence. Larger studies with a prolonged follow-up are indicated to prove the efficacy of this technique in terms of obliteration rates.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Prospective comparative cohort study evaluating incompetent great saphenous vein closure using radiofrequency-powered segmental ablation or 1470-nm endovenous laser ablation with radial-tip fibers (Varico 2 study)
+AU  - James A. Lawson
+AU  - Stefanie A. Gauw
+AU  - Clarissa J. van Vlijmen
+AU  - Pascal Pronk
+AU  - Menno Gaastra
+AU  - Marco J.D. Tangelder
+AU  - Michael C. Mooij
+JO  - Journal of Vascular Surgery Venous and Lymphatic Disorders
+PY  - 2017
+VL  - 6
+IS  - 1
+SP  - 31
+EP  - 40
+DO  - 10.1016/j.jvsv.2017.06.016
+AN  - 29248107
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - A Prospective Randomised Controlled Trial of VNUS Closure versus Surgery for the Treatment of Recurrent Long Saphenous Varicose Veins
+AU  - Robert J. Hinchliffe
+AU  - J. Ubhi
+AU  - Andrew Beech
+AU  - Judith Ellison
+AU  - B.D. Braithwaite
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2005
+VL  - 31
+IS  - 2
+SP  - 212
+EP  - 218
+DO  - 10.1016/j.ejvs.2005.07.005
+AN  - 16137898
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Treatment of Primary Varicose Veins by Endovenous Obliteration with the VNUS Closure System: Results of a Prospective Multicentre Study
+AU  - P. Nicolini
+AU  - The Closure Group
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2005
+VL  - 29
+IS  - 4
+SP  - 433
+EP  - 439
+DO  - 10.1016/j.ejvs.2004.12.022
+AN  - 15776398
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Multi-society Consensus Quality Improvement Guidelines for the Treatment of Lower-extremity Superficial Venous Insufficiency with Endovenous Thermal Ablation from the Society of Interventional Radiology, Cardiovascular Interventional Radiological Society of Europe, American College of Phlebology, and Canadian Interventional Radiology Association
+AU  - Neil M. Khilnani
+AU  - Clement J. Grassi
+AU  - Sanjoy Kundu
+AU  - Horacio D’Agostino
+AU  - Arshad Khan
+AU  - J. Kevin McGraw
+AU  - Donald L. Miller
+AU  - Steven F. Millward
+AU  - Robert B. Osnis
+AU  - Darren Postoak
+AU  - Cindy Kaiser Saiter
+AU  - Marc S. Schwartzberg
+AU  - Timothy L. Swan
+AU  - Suresh Vedantham
+AU  - Bret N. Wiechmann
+AU  - Laura Crocetti
+AU  - John F. Cardella
+AU  - Robert J. Min
+JO  - Journal of Vascular and Interventional Radiology
+PY  - 2009
+VL  - 21
+IS  - 1
+SP  - 14
+EP  - 31
+DO  - 10.1016/j.jvir.2009.01.034
+AN  - 20123189
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Initial experiences in endovenous treatment of saphenous vein reflux
+AU  - J.E. Sybrandy
+AU  - C.H.A. Wittens
+JO  - Journal of Vascular Surgery
+PY  - 2002
+VL  - 36
+IS  - 6
+SP  - 1207
+EP  - 1212
+DO  - 10.1067/mva.2002.128936
+AN  - 12469052
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Combined endovenous laser therapy and microphlebectomy in the treatment of varicose veins: Efficacy and complications of a large single-center experience
+AU  - Carlos F. Fernández
+AU  - Moisés Roizental
+AU  - Josefina Carvallo
+JO  - Journal of Vascular Surgery
+PY  - 2008
+VL  - 48
+IS  - 4
+SP  - 947
+EP  - 952
+DO  - 10.1016/j.jvs.2008.05.029
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Mechanochemical endovenous ablation of saphenous veins using the ClariVein: A systematic review
+AU  - M.E. Witte
+AU  - Clark J. Zeebregts
+AU  - Gert J. de Borst
+AU  - Michel M.P.J. Reijnen
+AU  - Doeke Boersma
+JO  - Phlebology The Journal of Venous Disease
+PY  - 2017
+VL  - 32
+IS  - 10
+SP  - 649
+EP  - 657
+DO  - 10.1177/0268355517702068
+AN  - 28403687
+AB  - Objective To systematically review all available English literature on mechanochemical endovenous ablation and to report on the anatomical, technical, and clinical success. Methods A systematic literature search was performed in PubMed, EMBASE, and the Cochrane Library on mechanochemical endovenous ablation for the treatment of insufficient great and/or small saphenous vein. Methodological quality of the included studies was evaluated using the MINORS score. The primary outcome measure was anatomical success, defined as closure of the treated vein on follow-up duplex ultrasound imaging. Secondary outcomes were technical and clinical success, and major complications defined as deep venous thrombosis, pulmonary embolisms or paresthesia. Results The literature search identified 759 records, of which 13 were included, describing 10 unique cohorts. A total of 1521 veins (1267 great saphenous vein and 254 small saphenous vein) were included, with cohort sizes ranging from 30 to 570 veins. The pooled anatomical success rate after short-term follow up was 92% (95% CI 90-94%) ( n = 1314 veins). After 6 and 12 months these numbers were 92% (95% CI 88-95%) ( n = 284) and 91% (95% CI 86-94%) ( n = 228), respectively. The long-term anatomical success rates at 2 and 3 years were 91% (95% CI 85-95%) ( n = 136) and 87% (95% CI 75-94%) ( n = 48), respectively. Major complications and especially nerve injury were very rare (≤ 0.2%). All studies were of moderate or good quality using the MINORS scoring scale. Conclusions Mechanochemical endovenous ablation using the ClariVein in combination with liquid sclerosant is associated with an anatomical success rate ranging from 87% to 92% and good clinical success. To date, no randomized controlled trials are available studying the anatomical success after mechanochemical ablation, compared to the endothermal ablation. The risk of major complications is very low after the procedure.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Management of Varicose Veins: A Survey of Current Practice by Members of the Vascular Society of Great Britain and Ireland
+AU  - A. G. Edwards
+AU  - Sarah J. Baynham
+AU  - T. Lees
+AU  - DC Mitchell
+JO  - Annals of The Royal College of Surgeons of England
+PY  - 2008
+VL  - 91
+IS  - 1
+SP  - 77
+EP  - 80
+DO  - 10.1308/003588409x358953
+AN  - 18990266
+AB  - INTRODUCTION: In 1999, a survey was published detailing the management of varicose veins by members of the then Vascular Surgical Society (VSS). Since then, newer methods for treating varicose veins have been developed and far more explicit rationing has been introduced in the NHS. SUBJECTS AND METHODS: In order to examine whether there had been a significant change in established practice in the UK, a questionnaire was sent to all Vascular Society of Great Britain and Ireland (VSGBI) members in the 2004 yearbook by E-mail or post. RESULTS: Of the 426 questionnaires distributed, a 69% response rate was achieved. Of respondents, 97% treated varicose veins in their NHS practice, whilst 88% did so in private practice. Some 73% used hand-held Doppler assessment in the clinic and 96% used duplex ultrasound assessment selectively. Despite UK National Institute for Health and Clinical Excellence (NICE) guidelines, only 68% said that their primary care trusts funded treatment of symptomatic varicose veins, while 93% did so for complications. In either NHS or private practice, respectively, 83% or 72% of responders offered surgery as preferred treatment for primary varicose veins, while 14% or 20% preferred endovascular treatments (endovascular laser treatment, radiofrequency ablation and foam sclerotherapy). Of responders, 17% did not follow-up patients after treatment. CONCLUSIONS: This survey suggests that there is rationing of access to care for symptomatic varicose veins. Despite publicity for endovenous techniques, surgery remains the preferred treatment for varicose veins in the UK.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Comparative Stability of Sodium Tetradecyl Sulphate (STD) and Polidocanol Foam: Impact on Vein Damage in an In-vitro Model
+AU  - Barry McAree
+AU  - Anna Ikponmwosa
+AU  - Kelvin Brockbank
+AU  - C R Abbott
+AU  - Shervanthi Homer‐Vanniasinkam
+AU  - M.J. Gough
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2012
+VL  - 43
+IS  - 6
+SP  - 721
+EP  - 725
+DO  - 10.1016/j.ejvs.2012.02.026
+AN  - 22507925
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Pain Following 980-nm Endovenous Laser Ablation and Segmental Radiofrequency Ablation for Varicose Veins: A Prospective Observational Study
+AU  - Amanda C. Shepherd
+AU  - Manj Gohel
+AU  - Chung Sim Lim
+AU  - Maher Hamish
+AU  - Alun H. Davies
+JO  - Vascular and Endovascular Surgery
+PY  - 2010
+VL  - 44
+IS  - 3
+SP  - 212
+EP  - 216
+DO  - 10.1177/1538574409359337
+AN  - 20150227
+AB  - OBJECTIVES: The aim of this study was to evaluate postoperative pain following endovenous laser ablation (EVLA) and radiofrequency ablation (RFA) and identify risk factors for increased pain. METHODS: Patients undergoing either segmental RFA (VNUS Closure Fast, VNUS Medical Technologies, San Jose, California) or EVLA (980 nm) for varicose veins completed a preoperative disease-specific quality-of-life questionnaire (Aberdeen Varicose Vein Questionnaire [AVVQ]) and a diary card recording postoperative pain, return to normal activities, and return to work. Median 3- and 10-day pain scores were calculated. RESULTS: In all, 81 patients returned diary cards (RFA = 45, EVLA = 36). Patients receiving RFA reported less postoperative pain than those receiving EVLA at 3 days (14.5 vs 25.8 mm, P =.053, Mann-Whitney U test) and 10 days (13 vs 23.3 mm, P =.014, Mann-Whitney U test) and returned to work earlier than those receiving EVLA (median 5 vs 9 days, P =.022). CONCLUSIONS: Patients treated with segmental RFA had less postoperative pain and returned to work quicker than those treated with EVLA.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Outcome of Endovenous Laser Therapy for Saphenous Reflux and Varicose Veins: Medium-Term Results Assessed by Ultrasound Surveillance
+AU  - Kenneth A. Myers
+AU  - D. Jolley
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2008
+VL  - 37
+IS  - 2
+SP  - 239
+EP  - 245
+DO  - 10.1016/j.ejvs.2008.09.009
+AN  - 18993093
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Mechanochemical endovenous Ablation versus RADiOfrequeNcy Ablation in the treatment of primary great saphenous vein incompetence (MARADONA): study protocol for a randomized controlled trial
+AU  - Ramon RJP van Eekeren
+AU  - Doeke Boersma
+AU  - Suzanne Holewijn
+AU  - A.C. Vahl
+AU  - Jean Paul PM de Vries
+AU  - Clark J. Zeebregts
+AU  - Michel Reijnen
+JO  - Trials
+PY  - 2014
+VL  - 15
+IS  - 1
+SP  - 121
+EP  - 121
+DO  - 10.1186/1745-6215-15-121
+AN  - 24726004
+AB  - BACKGROUND: Radiofrequency ablation (RFA) is associated with an excellent outcome in the treatment of great saphenous vein (GSV) incompetence. The use of thermal energy as a treatment source requires the instillation of tumescence anesthesia. Mechanochemical endovenous ablation (MOCA) combines mechanical endothelial damage, using a rotating wire, with the infusion of a liquid sclerosant. Tumescence anesthesia is not required. Preliminary experiences with MOCA showed good results and low post-procedural pain. METHODS/DESIGN: The MARADONA (Mechanochemical endovenous Ablation versus RADiOfrequeNcy Ablation) trial is a multicenter randomized controlled trial in which 460 patients will be randomly allocated to MOCA or RFA. All patients with primary GSV incompetence who meet the eligibility criteria will be invited to participate in this trial. The primary endpoints are anatomic and clinical success at a one-year follow-up, and post-procedural pain. The secondary endpoints are technical success, complications, operation time, procedural pain, disease-specific quality of life, time taken to return to daily activities and/or work, and cost-efficiency analyses after RFA or MOCA. Both groups will be evaluated on an intention to treat base. DISCUSSION: The MARADONA trial is designed to show equal results in anatomic and clinical success after one year, comparing MOCA with RFA. In our hypothesis MOCA has an equal anatomic and clinical success compared with RFA, with less post-procedural pain. TRIAL REGISTRATION: Clinicaltrials NCT01936168.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - A multicenter, randomized, placebo-controlled study to evaluate the efficacy and safety of Varithena® (polidocanol endovenous microfoam 1%) for symptomatic, visible varicose veins with saphenofemoral junction incompetence
+AU  - Kathleen Gibson
+AU  - Lowell S Kabnick
+JO  - Phlebology The Journal of Venous Disease
+PY  - 2016
+VL  - 32
+IS  - 3
+SP  - 185
+EP  - 193
+DO  - 10.1177/0268355516635386
+AN  - 27013511
+AB  - Objectives A randomized, placebo-controlled, multicenter study was conducted to evaluate the safety and efficacy of polidocanol endovenous microfoam (1%, Varithena® [polidocanol injectable foam], BTG International Ltd.). Methods Patients (n = 77) with symptomatic, visible varicose veins were randomized to treatment with either Varithena 1% or placebo. Results Varithena provided greater mean changes from Baseline in patient-reported assessments of symptoms (e.g., heaviness, achiness, swelling, throbbing, itching [HASTI®] score 30.7 points vs 16.7 points, p = 0.0009, primary endpoint; and modified Venous Insufficiency Epidemiological and Economic Study-Quality-of-Life/Symptoms [m-VEINES-QOL/Sym; p < 0.001]), physician-assessed VCSS, and physician- and patient-assessed appearance compared with placebo. The HASTI score correlated highly with the modified-VEINES-QOL/Sym and Chronic Venous Insufficiency Questionnaire-2 scores (r = 0.7 to > 0.9, p ≤ 0.001). Adverse events included contusion, incision-site hematoma, and limb discomfort. Venous thrombus adverse events were reported as mild and generally resolved without sequelae. Conclusions Varithena provided significantly greater symptom relief and improvement in leg appearance compared with placebo. Adverse events were generally mild and transient. ( www.clinicaltrials.gov [NCT00758420]).
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Fifteen Year Results of Radiofrequency Ablation, Using VNUS Closure, for the Abolition of Truncal Venous Reflux in Patients with Varicose Veins
+AU  - Mark S Whiteley
+AU  - Irenie Shiangoli
+AU  - Scott J Dos Santos
+AU  - Emma B Dabbs
+AU  - Tim J Fernandez-Hart
+AU  - J.M. Holdstock
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2017
+VL  - 54
+IS  - 3
+SP  - 357
+EP  - 362
+DO  - 10.1016/j.ejvs.2017.06.001
+AN  - 28697961
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Radiofrequency ablation with concomitant stab phlebectomy increases risk of endovenous heat-induced thrombosis
+AU  - Caitlin W. Hicks
+AU  - Sandra R. DiBrito
+AU  - J. Trent Magruder
+AU  - M. Libby Weaver
+AU  - Cathy Barenski
+AU  - Jennifer A. Heller
+JO  - Journal of Vascular Surgery Venous and Lymphatic Disorders
+PY  - 2017
+VL  - 5
+IS  - 2
+SP  - 200
+EP  - 209
+DO  - 10.1016/j.jvsv.2016.10.081
+AN  - 28214487
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Midterm Outcome of Mechanochemical Endovenous Ablation for the Treatment of Great Saphenous Vein Insufficiency
+AU  - M.E. Witte
+AU  - Suzanne Holewijn
+AU  - Ramon RJP van Eekeren
+AU  - Jean-Paul de Vries
+AU  - Clark J. Zeebregts
+AU  - Michel M.P.J. Reijnen
+JO  - Journal of Endovascular Therapy
+PY  - 2016
+VL  - 24
+IS  - 1
+SP  - 149
+EP  - 155
+DO  - 10.1177/1526602816674455
+AN  - 27742900
+AB  - PURPOSE: To report the midterm results of mechanochemical ablation (MOCA) for treating great saphenous vein (GSV) insufficiency. METHODS: In a 1-year period, 85 consecutive patients (median age 51.4 years; 71 women) undergoing MOCA with polidocanol in 104 limbs were enrolled in a prospective registry. The patients were evaluated at baseline and during follow-up (4 weeks and 1, 2, and 3 years) using duplex ultrasound, the CEAP (clinical, etiologic, anatomic and pathophysiologic) classification, the Venous Clinical Severity Score (VCSS), the RAND Short Form 36-Item Health Survey (RAND-SF36), and the Aberdeen Varicose Vein Questionnaire (AVVQ). Primary outcome measures were clinical and anatomic success. Secondary outcome measures included general and disease-specific quality of life and reinterventions. RESULTS: Technical success (99%) was achieved in all but 1 patient in whom technical problems with the device led to conversion to another method for treatment of 2 limbs. After a median follow-up of 36 months (interquartile range 12.5, 46.3), recanalization occurred in 15 (15%) of 102 successfully treated vein segments. Anatomic success was 92%, 90%, and 87% after 1, 2, and 3 years, respectively. The VCSS improved at all time intervals compared to the preprocedure median. The clinical success at 3 years was 83%. The AVVQ and RAND-SF36 scores showed an improvement at all time intervals compared to baseline values. Between 12 and 36 months, however, a significant deterioration was observed in VCSS, which was accompanied by worsening of disease-specific and general quality of life. CONCLUSION: In the longest follow-up of MOCA to date, this study shows MOCA to be an effective treatment modality for GSV insufficiency at midterm follow-up, but clinical results seem to drop over time.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Relationship between patient-reported symptoms, limitations in daily activities, and psychological impact in varicose veins
+AU  - Rajiv Mallick
+AU  - Brajesh K. Lal
+AU  - Claire D. Daugherty
+JO  - Journal of Vascular Surgery Venous and Lymphatic Disorders
+PY  - 2017
+VL  - 5
+IS  - 2
+SP  - 224
+EP  - 237
+DO  - 10.1016/j.jvsv.2016.11.004
+AN  - 28214491
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Mechanochemical Ablation for Treatment of Truncal Venous Insufficiency: A Review of the Current Literature
+AU  - James J. Sun
+AU  - Mohammed M. Chowdhury
+AU  - Umar Sadat
+AU  - Paul D. Hayes
+AU  - Tjun Yip Tang
+JO  - Journal of Vascular and Interventional Radiology
+PY  - 2017
+VL  - 28
+IS  - 10
+SP  - 1422
+EP  - 1431
+DO  - 10.1016/j.jvir.2017.07.002
+AN  - 28811080
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Treatment of recurrent varicose veins of the great saphenous vein by conventional surgery and endovenous laser ablation
+AU  - Laura van Groenendael
+AU  - J. Adam van der Vliet
+AU  - Lizel Flinkenflögel
+AU  - Lian Roovers
+AU  - Steven M.M. van Sterkenburg
+AU  - Michel M.P.J. Reijnen
+JO  - Journal of Vascular Surgery
+PY  - 2009
+VL  - 50
+IS  - 5
+SP  - 1106
+EP  - 1113
+DO  - 10.1016/j.jvs.2009.06.057
+AN  - 19878788
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Endovenous ablation with laser for great saphenous vein insufficiency and tributary varices: A retrospective evaluation
+AU  - Xinwu Lu
+AU  - Kaichuang Ye
+AU  - Weimin Li
+AU  - Min Lü
+AU  - Xintian Huang
+AU  - Mier Jiang
+JO  - Journal of Vascular Surgery
+PY  - 2008
+VL  - 48
+IS  - 3
+SP  - 675
+EP  - 679
+DO  - 10.1016/j.jvs.2008.04.017
+AN  - 18586448
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Endovenous laser ablation versus mechanochemical ablation with ClariVein® in the management of superficial venous insufficiency (LAMA trial): study protocol for a randomised controlled trial
+AU  - Clement Leung
+AU  - Daniel Carradice
+AU  - Tom Wallace
+AU  - Ian Chetter
+JO  - Trials
+PY  - 2016
+VL  - 17
+IS  - 1
+SP  - 421
+EP  - 421
+DO  - 10.1186/s13063-016-1548-1
+AN  - 27552990
+AB  - BACKGROUND: Endovenous thermal techniques, such as endovenous laser ablation (EVLA), are the recommended treatment for truncal varicose veins. However, a disadvantage of thermal techniques is that it requires the administration of tumescent anaesthesia, which can be uncomfortable. Non-thermal, non-tumescent techniques, such as mechanochemical ablation (MOCA) have potential benefits. MOCA combines physical damage to endothelium using a rotating wire, with the infusion of a liquid sclerosant. Preliminary experiences with MOCA showed good results and less post-procedural pain. METHODS/DESIGN: The Laser Ablation versus Mechanochemical Ablation (LAMA) trial is a single-centre randomised controlled trial in which 140 patients will be randomly allocated to EVLA or MOCA. All patients with primary truncal superficial venous insufficiency (SVI) who meet the eligibility criteria will be invited to participate in this trial. The primary outcomes are intra-procedural pain and technical efficacy at 1 year, defined as complete occlusion of target vein segment and assessed using duplex ultrasound. Secondary outcomes are post-procedural pain, analgesia use, procedure time, clinical severity, generic and disease-specific quality of life, bruising, complications, satisfaction, cosmesis, time taken to return to daily activities and/or work, and cost-effectiveness analysis following EVLA or MOCA. Both groups will be evaluated on an intention-to-treat basis. DISCUSSION: The aim of the LAMA trial is to establish whether MOCA is superior to the current first-line treatment, EVLA. The two main hypotheses are that MOCA may cause less initial pain and disability allowing a more acceptable treatment with an enhanced recovery. The second hypothesis is that this may come at a cost of decreased efficacy, which may lead to increased recurrence and affect longer term quality of life, increasing the requirement for secondary procedures. TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT02627846, registered 8 December 2015 EudraCT number: 2015-000730-30 REC ref: 15/YH/0207 R&D ref: R1788.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Macroscopic and Histologic Analysis of Vessel Wall Reaction After Mechanochemical Endovenous Ablation Using the ClariVein OC Device in an Animal Model
+AU  - Doeke Boersma
+AU  - Steven T.W. van Haelst
+AU  - Ramon R.J.P. van Eekeren
+AU  - Aryan Vink
+AU  - Michel Reijnen
+AU  - J.P.P.M. de Vries
+AU  - Gert J. de Borst
+JO  - European Journal of Vascular and Endovascular Surgery
+PY  - 2016
+VL  - 53
+IS  - 2
+SP  - 290
+EP  - 298
+DO  - 10.1016/j.ejvs.2016.11.024
+AN  - 28025005
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - First 10-month results of the Vascular Quality Initiative Varicose Vein Registry
+AU  - T. Andrea
+AU  - Danielle C. Sutzko
+AU  - José I. Almeida
+AU  - Lowell S Kabnick
+AU  - Jack L. Cronenwett
+AU  - Nicholas H. Osborne
+AU  - Brajesh K. Lal
+AU  - Thomas W. Wakefield
+JO  - Journal of Vascular Surgery Venous and Lymphatic Disorders
+PY  - 2017
+VL  - 5
+IS  - 3
+SP  - 312
+EP  - 320.e2
+DO  - 10.1016/j.jvsv.2016.12.007
+AN  - 28411696
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - The effectiveness of various interventions versus standard stripping in patients with varicose veins in terms of quality of life
+AU  - Christos Argyriou
+AU  - Christos Papasideris
+AU  - George Α. Antoniou
+AU  - Efstratios Georgakarakos
+AU  - Νικόλαος Παπάνας
+AU  - Miltos K. Lazarides
+AU  - George S. Georgiadis
+JO  - Phlebology The Journal of Venous Disease
+PY  - 2017
+VL  - 33
+IS  - 7
+SP  - 439
+EP  - 450
+DO  - 10.1177/0268355517720307
+AN  - 28720052
+AB  - . Results A total of 1047 participants were randomized across all analyzed trials. The number of participants in a single trial ranged from 30 to 308. The majority of participants in any trial were C2 on the CEAP scores. Overall, the quality of evidence was low. For the meta-analysis performed at 12 months postintervention (seven studies, n = 1047 patients) and after random effects meta-analyses due to high heterogeneity, no differences are observed between intervention and surgical ligation and vein stripping. The pooled estimate is -0.001 and the 95% confidence interval is -0.069 to 0.067 with a p = 0.98. In the case of the 24 months, postintervention analysis (six studies, n = 840 patients) the inference is almost identical. The effect of various interventional modes of treatment compared to surgical ligation and vein stripping is negligible in terms of clinical outcomes and quality of life so that surgical ligation and vein stripping versus the other interventional procedures were equally effective approaches to treat great saphenous vein incompetence in terms of quality of life measurements. Conclusion The procedures were at least equally efficient in treating patients with varicose vein disease in terms of quality of life assessment tools at 12 and 24 months compared to surgical ligation and vein stripping.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - An update on the currently available nonthermal ablative options in the management of superficial venous disease
+AU  - Nathan W. Kugler
+AU  - Kellie R. Brown
+JO  - Journal of Vascular Surgery Venous and Lymphatic Disorders
+PY  - 2017
+VL  - 5
+IS  - 3
+SP  - 422
+EP  - 429
+DO  - 10.1016/j.jvsv.2017.01.014
+AN  - 28411711
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Varicose vein surgery and endovenous laser therapy.
+AU  - Michel M.P.J. Reijnen
+AU  - B C V M Disselhoff
+AU  - Clark J. Zeebregts
+JO  - PubMed
+PY  - 2007
+VL  - 16
+SP  - 167
+EP  - 74
+AN  - 17429785
+AB  - Varicose veins are a widespread problem, and are encountered by various medical specialists. Symptoms can appear from mild, such as tiredness of the legs, to severe chronic ulcers. Varicose veins are generally caused by the reflux of an incompetent saphenofemoral junction and long saphenous vein. In the presence of reflux, the treatment should be directed at the ablation of the hydrostatic forces of the reflux. Conventional surgical treatment consists of a high ligation of the saphenofemoral junction and stripping of the saphenous vein. In the era of minimally invasive surgery, various endovenous techniques have been developed, including endovenous laser therapy. This technique is relatively cheap and can be performed under only local anesthesia. During endovenous laser therapy, energy is delivered to the vein wall, causing it to shrink and eventually occlude. Currently, the mechanisms of action involved in laser treatment are not fully understood. Clinical studies have shown occlusion rates to be very competitive to conventional high ligation and stripping and superior cosmetics. Complications may include mild to moderate pain, ecchymosis, induration, hematoma, and phlebitis. All of these are generally self-limiting. In the challenge of finding the correct balance between a low incidence of varicose vein recurrence and complications and optimal cosmetic results, endovenous laser therapy is a promising modality. However, controlled studies that assess the effectiveness of endovenous laser therapy in comparison to saphenofemoral ligation with saphenous vein stripping are crucial before considering endovenous laser therapy as the new standard treatment.
+DS  - openalex
+DP  - openalex
+ER  - 
+
+TY  - JOUR
+TI  - Endovenous ablation (radiofrequency and laser) and foam sclerotherapy versus open surgery for great saphenous vein varices.
+AU  - C. Nesbitt
+AU  - Rachel Bedenis
+AU  - V. Bhattacharya
+AU  - G. Stansby
+JO  - The Cochrane database of systematic reviews
+PY  - 2014
+VL  - 7
+SP  - CD005624
+DO  - 10.1002/14651858.cd005624.pub3
+AN  - 25075589
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Endovenous ablation (radiofrequency and laser) and foam sclerotherapy versus conventional surgery for great saphenous vein varices
+AU  - C. Nesbitt
+AU  - R. Eifell
+AU  - Peter Coyne
+AU  - H. Badri
+AU  - Vish Bhattacharya
+AU  - Gerard Stansby
+JO  - São Paulo Medical Journal
+PY  - 2014
+VL  - 132
+SP  - 69
+EP  - 69
+DO  - 10.1590/1516-3180.20141321t2
+AN  - 24474085
+AB  - BACKGROUND: Minimally invasive techniques to treat great saphenous varicose veins include ultrasound-guided foam sclerotherapy (USGFS), radiofrequency ablation (RFA) and endovenous laser therapy (EVLT). Compared with conventional surgery (high ligation and stripping (HL/S)), proposed benefits include fewer complications, quicker return to work, improved quality of life (QoL) scores, reduced need for general anaesthesia and equivalent recurrence rates. OBJECTIVE : To review available randomized controlled clinical trials (RCT) data comparing USGFS, RFA, EVLT to HL/S for the treatment of great saphenous varicose veins. METHODS : Search methods: The Cochrane Peripheral Vascular Diseases (PVD) Group searched their Specialized Register (July 2010) and CENTRAL (The Cochrane Library 2010, Issue 3). In addition the authors performed a search of EMBASE (July 2010). Manufacturers of EVLT, RFA and sclerosant equipment were contacted for trial data. Selection criteria: All RCTs of EVLT, RFA, USGFS and HL/S were considered for inclusion. Primary outcomes were recurrent varicosities, recanalization, neovascularization, technical procedure failure or need for re-intervention, patient quality of life (QoL) scores and associated complications. Secondary outcomes were type of anaesthetic, procedure duration, hospital stay and cost. Data collection and analysis: CN, RE, VB, PC, HB and GS independently reviewed, assessed and selected trials which met the inclusion criteria. CN and RE extracted data. The Cochrane Collaboration's tool for assessing risk of bias was used. CN contacted trial authors to clarify details. MAIN RESULTS: Thirteen reports from five studies with a combined total of 450 patients were included. Rates of recanalization were higher following EVLT compared with HL/S, both early (within four months) (5/149 versus 0/100; odds ratio (OR) 3.83, 95% confidence interval (CI) 0.45 to 32.64) and late recanalization (after four months) (9/118 versus 1/80; OR 2.97; 95% CI 0.52 to 16.98), although these results were not statistically significant. Technical failure rates favoured EVLT over HL/S (1/149 versus 6/100; OR 0.12, 95% CI 0.02 to 0.75). Recurrence following RFA showed no difference when compared with surgery. Recanalization within four months was observed more frequently following RFA compared with HL/S although not statistically significant (4/105 versus 0/88; OR 7.86, 95% CI 0.41 to 151.28); after four months no difference was observed. Neovascularization was observed more frequently following HL/S compared with RFA, but again this was not statistically significant (3/42 versus 8/51; OR 0.39, 95% CI 0.09 to 1.63). Technical failure was observed less frequently following RFA compared with HL/S although this was not statistically significant (2/106 versus 7/96; OR 0.48, 95% CI 0.01 to 34.25). No randomised clinical trials comparing HL/S versus USGFS met our study inclusion criteria. QoL scores and operative complications were not amenable to meta-analysis. AUTHORS' CONCLUSIONS: Currently available clinical trial evidence suggests RFA and EVLT are at least as effective as surgery in the treatment of great saphenous varicose veins. There are insufficient data to comment on USGFS. Further randomized trials are needed. We should aim to report and analyze results in a congruent manner to facilitate future meta-analysis.
+DS  - semantic scholar
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - 2nd European Consensus Meeting on Foam Sclerotherapy 2006, Tegernsee, Germany.
+AU  - F. Breu
+AU  - S. Guggenbichler
+AU  - J. Wollmann
+JO  - VASA. Zeitschrift fur Gefasskrankheiten
+PY  - 2008
+VL  - 37 Suppl 71
+SP  - 1
+EP  - 29
+AN  - 18426039
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Ultrasound-guided foam sclerotherapy versus surgery for the incompetent great saphenous vein: a multicentre randomised controlled non-inferiority trial
+PY  - 2012
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Endovenous therapies of varicose veins: indications, procedures, efficacy and safety.
+AU  - A. Biemans
+AU  - R. R. van den Bos
+AU  - T. Nijsten
+JO  - Giornale italiano di dermatologia e venereologia : organo ufficiale, Societa italiana di dermatologia e sifilografia
+PY  - 2010
+VL  - 145 2
+SP  - 161
+EP  - 73
+AN  - 20467390
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Management of chronic venous disorders of the  JOURNAL OF VASCULAR SURGERY 734 Biemans et al  September 2013 lower limbs guidelines according to scientific evidence
+PY  - 2008
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - EuroQol : a new facility for the measurement of health-related quality of life
+AU  - A. Williams
+JO  - Health Policy
+PY  - 1990
+VL  - 16
+SP  - 199
+EP  - 208
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Improving the management of varicose veins.
+AU  - S. Onida
+AU  - T. Lane
+AU  - A. Davies
+JO  - The Practitioner
+PY  - 2013
+VL  - 257 1766
+SP  - 21
+EP  - 4, 2
+AN  - 24555256
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Compliance in pharmacotherapy in patients with chronic venous disorders.
+AU  - J. Chudek
+AU  - P. Kocełak
+AU  - D. Ziaja
+AU  - A. Owczarek
+AU  - K. Ziaja
+JO  - International angiology : a journal of the International Union of Angiology
+PY  - 2012
+VL  - 31 4
+SP  - 393
+EP  - 401
+AN  - 22801406
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Selected Phlebology Abstracts
+AU  - L. Kabnick
+AU  - P. Pappas
+JO  - Phlebology
+PY  - 2011
+VL  - 26
+SP  - 217
+EP  - 219
+DO  - 10.1258/phleb.2011.011a03
+AN  - 21536172
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - Complications of varicose vein surgery.
+AU  - G. Critchley
+AU  - A. Handa
+AU  - A. Maw
+AU  - A. Harvey
+AU  - M. Harvey
+AU  - C. Corbett
+JO  - Annals of the Royal College of Surgeons of England
+PY  - 1997
+VL  - 79 2
+SP  - 105
+EP  - 10
+AN  - 9135236
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - R: A language and environment for statistical computing.
+AU  - R. Team
+JO  - MSOR connections
+PY  - 2014
+VL  - 1
+DP  - semantic scholar
+ER  - 
+
+TY  - JOUR
+TI  - From the Society for Vascular Surgery Increasing Awareness about Venous Disease: the American Venous Forum Expands the National Venous Screening Program Methods: Eighty-three Physicians across 40 States Participated in Screening Americans for Venous Disease. the Nvsp Instrument Included Demographics
+AU  - R. Mclafferty
+AU  - M. Passman
+AU  - J. Caprini
+AU  - T. Rooke
+AU  - S. Markwell
+AU  - Ma
+AU  - J. Lohr
+AU  - M. Meissner
+AU  - B. Eklöf
+AU  - T. Wakefield
+AU  - M. Dalsing
+AU  - M. Michele
+AU  - F. Lentz
+AU  - Nvsp Coordinator
+AU  - Rf Associ
+DP  - semantic scholar
+ER  - 
+

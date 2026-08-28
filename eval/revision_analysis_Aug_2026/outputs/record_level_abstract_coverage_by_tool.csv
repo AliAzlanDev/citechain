@@ -1,0 +1,6 @@
+"tool","denominator","records_with_abstract","abstract_coverage_percent","coverage_status","evidence"
+"CiteChain_Combined",7508,4711,62.746,"calculable","record-level abstract assessment linked to the corresponding mode-specific record set"
+"CiteChain_OpenAlex",6599,4514,68.404,"calculable","record-level abstract assessment linked to the corresponding mode-specific record set"
+"CiteChain_SemanticScholar",4994,3201,64.097,"calculable","record-level abstract assessment linked to the corresponding mode-specific record set"
+"Citationchaser",6158,4556,73.985060084443,"calculable","record-level AB field in raw RIS output after canonical deduplication"
+"PaperFetcher",5144,,,"not_calculable","DOI-only text output contains no abstract field"

@@ -1,0 +1,11 @@
+"tool","direction","median_recall_percent","q1_recall_percent","q3_recall_percent","median_unique_citations"
+"Citationchaser","Backward",17.4812030075188,10.3888888888889,20.7142857142857,135
+"Citationchaser","Forward",13.7777777777778,0,18.8157894736842,234.5
+"CiteChain_Combined","Backward",17.4812030075188,8.88888888888889,20.7142857142857,147
+"CiteChain_Combined","Forward",15.7777777777778,3,20.3571428571429,299.5
+"CiteChain_OpenAlex","Backward",17.4812030075188,8.88888888888889,20.7142857142857,142
+"CiteChain_OpenAlex","Forward",15.7777777777778,0,20.3571428571429,260
+"CiteChain_SemanticScholar","Backward",5.97368421052632,0,11.2408424908425,34
+"CiteChain_SemanticScholar","Forward",15.7777777777778,3,18.8157894736842,251
+"PaperFetcher","Backward",15.0146198830409,8.88888888888889,18.3928571428571,109
+"PaperFetcher","Forward",11.3571428571429,0,16.8421052631579,182.5

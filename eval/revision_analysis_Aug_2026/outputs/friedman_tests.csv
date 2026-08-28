@@ -1,0 +1,5 @@
+"estimand","n_reviews","n_tools","friedman_chi_square","df","p_value","kendalls_w","assumptions_note"
+"expanded_exclude_seeds",12,5,27.4853801169591,4,0.0000158563154199233,0.57261208576998,"complete paired review blocks; reviews treated as independent; rank-based test"
+"expanded_include_seeds",12,5,28.2409638554217,4,0.0000111459797686393,0.588353413654618,"complete paired review blocks; reviews treated as independent; rank-based test"
+"doi_exclude_seeds",12,5,24.6153846153846,4,0.0000601090544925929,0.512820512820513,"complete paired review blocks; reviews treated as independent; rank-based test"
+"doi_include_seeds_replication",12,5,26.025974025974,4,0.0000312652759887051,0.542207792207792,"complete paired review blocks; reviews treated as independent; rank-based test"

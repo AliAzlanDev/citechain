@@ -1,0 +1,4419 @@
+[
+  {
+    "paperId": "3572ac0647457d514bb3add650d3599eb149c053",
+    "externalIds": {
+      "MAG": "2315788301",
+      "DOI": "10.1177/1533317514523668",
+      "CorpusId": 24708246,
+      "PubMed": "24550547"
+    },
+    "title": "Evaluation of a Group Cognitive–Behavioral Dementia Caregiver Intervention in Latin America",
+    "openAccessPdf": {
+      "url": "https://journals.sagepub.com/doi/pdf/10.1177/1533317514523668",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/1533317514523668?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1533317514523668, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1382430784",
+        "name": "J. Arango-Lasprilla"
+      },
+      {
+        "authorId": "2339618",
+        "name": "I. Panyavin"
+      },
+      {
+        "authorId": "2060675298",
+        "name": "Edna Johanna Herrera Merchán"
+      },
+      {
+        "authorId": "39615055",
+        "name": "P. Perrin"
+      },
+      {
+        "authorId": "1401648689",
+        "name": "E. Arroyo-Anlló"
+      },
+      {
+        "authorId": "6801273",
+        "name": "Daniel J. Snipes"
+      },
+      {
+        "authorId": "16000201",
+        "name": "J. Arabia"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "9dc850e5105ec49c352e74500204649c2c30ac09",
+    "externalIds": {
+      "MAG": "1981590250",
+      "DOI": "10.1111/jan.12624",
+      "CorpusId": 34553941,
+      "PubMed": "25656334"
+    },
+    "title": "A randomized controlled trial of guided self-help for improving the experience of caring for carers of clients with depression.",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/jan.12624?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/jan.12624, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "6791498",
+        "name": "T. McCann"
+      },
+      {
+        "authorId": "6617509",
+        "name": "W. Songprakun"
+      },
+      {
+        "authorId": "49073943",
+        "name": "J. Stephenson"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "0b7135088a86c4264a2084489d26df95c2ac661a",
+    "externalIds": {
+      "MAG": "2912742907",
+      "PubMedCentral": "7083573",
+      "DOI": "10.1017/S0033291719000163",
+      "CorpusId": 73497784,
+      "PubMed": "30782236"
+    },
+    "title": "Integrating mental health and disaster preparedness in intervention: a randomized controlled trial with earthquake and flood-affected communities in Haiti",
+    "openAccessPdf": {
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/52172EAB1E0F3EF9A6B901F494D21FCA/S0033291719000163a.pdf/div-class-title-integrating-mental-health-and-disaster-preparedness-in-intervention-a-randomized-controlled-trial-with-earthquake-and-flood-affected-communities-in-haiti-div.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7083573, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "50674796",
+        "name": "L. James"
+      },
+      {
+        "authorId": "1400797169",
+        "name": "C. Welton-Mitchell"
+      },
+      {
+        "authorId": "39543887",
+        "name": "J. Noel"
+      },
+      {
+        "authorId": "51299829",
+        "name": "A. James"
+      }
+    ],
+    "references": [
+      {
+        "paperId": "1d03d988251673efda15caed827a0f9735004b80",
+        "title": "Anxiety effects on disaster precautionary behaviors: A multi-path cognitive model"
+      },
+      {
+        "paperId": "f7e1f75f53698f15971690b3fefd8d88037338e1",
+        "title": "An integrated approach to mental health and disaster preparedness: a cluster comparison with earthquake affected communities in Nepal"
+      },
+      {
+        "paperId": "e960fb1e132310f38c87211ac4d366635901f7b7",
+        "title": "Natural hazard events and social capital: the social impact of natural disasters."
+      },
+      {
+        "paperId": "9afdc0961cf63524f89a20658881e58697eaac4f",
+        "title": "Psychological Correlates of Civilian Preparedness for Conflicts"
+      },
+      {
+        "paperId": "7a49cb6b8ec6494786a73f9ce5437aa384a4d76c",
+        "title": "Linking mental health and psychosocial support and disaster risk reduction: applying a wellbeing lens to disaster risk reduction"
+      },
+      {
+        "paperId": "da843f54852cb85dc914eb3e7236d22899c65262",
+        "title": "Nepal 2015 Earthquake: A Rapid Assessment of Cultural, Psychological and Social Factors with Implications for Recovery and Disaster Preparedness"
+      },
+      {
+        "paperId": "c455804039f92d5adaeb3b6ef482fef2d7da78cb",
+        "title": "Disaster anxiety and self-assistance behaviours among persons with cervical cord injury in Japan: a qualitative study"
+      },
+      {
+        "paperId": "8e4c028473ac3bf31913466fc6300753f5fe3966",
+        "title": "Can Community Social Cohesion Prevent Posttraumatic Stress Disorder in the Aftermath of a Disaster? A Natural Experiment From the 2011 Tohoku Earthquake and Tsunami"
+      },
+      {
+        "paperId": "7a206fb2bd3b0cc663dfbd39bec7e2d40810b383",
+        "title": "An evidence review of research on health interventions in humanitarian crises. Update October 2015"
+      },
+      {
+        "paperId": "e488a3f938442ee22288d7ba3973f145cb5efb94",
+        "title": "Implementing culturally sensitive and sustainable mental health training programs internationally: lessons from Haiti"
+      },
+      {
+        "paperId": "3f014fc0fed80f4a496986222f6258922b68b08b",
+        "title": "Application of Behavioral Theories to Disaster and Emergency Health Preparedness: A Systematic Review"
+      },
+      {
+        "paperId": "2c604ded34e5d72b4014d5bf6394b11992702535",
+        "title": "Development and validation of a Haitian Creole screening instrument for depression"
+      },
+      {
+        "paperId": "05a3c3141a4a02bebd3a8ab22e61e0aaf253dc14",
+        "title": "Ready or Not? How Citizens and Public Officials Perceive Risk and Preparedness"
+      },
+      {
+        "paperId": "a51a3bd77d2b108129cfd26a54d11b9399141f18",
+        "title": "A meta-analysis of risk factors for depression in adults and children after natural disasters"
+      },
+      {
+        "paperId": "70e8eb853471a5c5719ec57a6db85f1da6f319ec",
+        "title": "The Relationship Between Social Support and Subjective Well-Being Across Age"
+      },
+      {
+        "paperId": "e80c0c73c2b0ab639a04a12f4a6b41d9c2bba936",
+        "title": "Do Natural Disasters Enhance Societal Trust?"
+      },
+      {
+        "paperId": "7cb11db2071911a404e3092103fd39daa3cf3eaa",
+        "title": "Mental health consequences of disasters."
+      },
+      {
+        "paperId": "8070cde1a9d9a8fed2844ad220b6e999a17850e1",
+        "title": "Social Capital and the Mental Health Impacts of Hurricane Katrina: Assessing Long-Term Patterns of Psychosocial Distress"
+      },
+      {
+        "paperId": "3a9846e7d9fb23b17f8d51fdaf3c2ff59391b185",
+        "title": "Strategies for assessing mental health in Haiti: Local instrument development and transcultural translation"
+      },
+      {
+        "paperId": "e2569a7337095c6f86634858b2771f6b03b5b2bf",
+        "title": "Extreme Weather Events and Mental Health: Tackling the Psychosocial Challenge"
+      },
+      {
+        "paperId": "4763309ec647b752294d6be4e44bda98b45ebbf5",
+        "title": "PSYCHOPATHOLOGY IN THE AFTERMATH OF THE HAITI EARTHQUAKE: A POPULATION‐BASED STUDY OF POSTTRAUMATIC STRESS DISORDER AND MAJOR DEPRESSION"
+      },
+      {
+        "paperId": "e93674de690c6dcfc72bc322e204a9f709fda72a",
+        "title": "Personal Disaster Preparedness: An Integrative Review of the Literature"
+      },
+      {
+        "paperId": "d0eff319b514d271b96de5d769c330f5a45d5139",
+        "title": "A Review of Risk Perceptions and Other Factors that Influence Flood Mitigation Behavior"
+      },
+      {
+        "paperId": "791cc1750606640e076b42082a0c0bfdddb2752c",
+        "title": "The impact of uncertainty and communal coping on mental health following natural disasters"
+      },
+      {
+        "paperId": "e4e39521c8b60025f9aa89008e86c61a535fb3a8",
+        "title": "Effects of Anxiety, Disaster Education, and Resources on Disaster Preparedness Behavior"
+      },
+      {
+        "paperId": "d0dfc87a7eb8ef059b36226209eeef9d47172e9b",
+        "title": "Explanatory Models and Mental Health Treatment: Is Vodou an Obstacle to Psychiatric Treatment in Rural Haiti?"
+      },
+      {
+        "paperId": "6ecf4d9c11c12769f055462d84d6f3f8cb7e8c0b",
+        "title": "Tinkering with Perfection: Theory Development in the Intervention Cultural Adaptation Field"
+      },
+      {
+        "paperId": "57b0f7f58ed268e5b7fe7a078b860d132e97e6e9",
+        "title": "Challenges of postdisaster intervention in cultural context: The implementation of a lay mental health worker project in postearthquake Haiti."
+      },
+      {
+        "paperId": "42bd66626221ed9f0b150da53ff890bf64d8fadd",
+        "title": "Social network disruption as a major factor associated with psychological distress 3 years after the 2004 Niigata–Chuetsu earthquake in Japan"
+      },
+      {
+        "paperId": "cb2f290883dd2edba07221f639072b4803ba2cf3",
+        "title": "Intention-to-treat concept: A review"
+      },
+      {
+        "paperId": "2bfd9ba2a5ccbbc5fe6712fc5ec46d6a0e964d56",
+        "title": "Mortality, crime and access to basic needs before and after the Haiti earthquake: a random survey of Port-au-Prince households"
+      },
+      {
+        "paperId": "2e8539fc08603fb249d871ca67893cb217b74eb0",
+        "title": "The social psychology of seismic hazard adjustment: re-evaluating the international literature"
+      },
+      {
+        "paperId": "b519fd799f6d0847278db7cb09219e66044ba31b",
+        "title": "Managing Tsunami Risk: Social Context Influences on Preparedness"
+      },
+      {
+        "paperId": "81a7570024532f8ea6ec3c771a1060fd9278df2e",
+        "title": "Variations in Disaster Preparedness by Mental Health, Perceived General Health, and Disability Status"
+      },
+      {
+        "paperId": "07b616e0d679b67e113ef70614653b49b925825a",
+        "title": "Why are flood and landslide victims less willing to take mitigation measures than the public?"
+      },
+      {
+        "paperId": "678d48791d83d9277ff76a83538e90884cf0ecf9",
+        "title": "Rising to the Challenges of a Catastrophe: The Emergent and Prosocial Behavior following Hurricane Katrina"
+      },
+      {
+        "paperId": "d1d8ed6715851bd94fe400ee099d50f28b1bd41b",
+        "title": "Mental health and psychosocial support aspects in disaster preparedness: Nepal"
+      },
+      {
+        "paperId": "c1fbb19d93a59fdebcf961e173ebde9215274678",
+        "title": "Psychometric Properties of the Life Events Checklist"
+      },
+      {
+        "paperId": "a29c07b60ae9a9ae981630d6d4a29d9ca6b98632",
+        "title": "Social Capital: A Missing Link to Disaster Recovery"
+      },
+      {
+        "paperId": "b073481e5982900d3cd4f7ec30b554ca2c24fe53",
+        "title": "Evaluating the Effectiveness of Psychological Preparedness Advice in Community Cyclone Preparedness Materials"
+      },
+      {
+        "paperId": "fc5ddc82ce662747162f54f88d73b4440268d814",
+        "title": "60,000 Disaster Victims Speak: Part I. An Empirical Review of the Empirical Literature, 1981—2001"
+      },
+      {
+        "paperId": "896fd57333a6cdb88677352cada9122b31e47589",
+        "title": "Social support interventions: do they work?"
+      },
+      {
+        "paperId": "674d5036e2ecfd4549b9b850305465bd160efa0c",
+        "title": "Trauma/grief-focused group psychotherapy: School-based postwar intervention with traumatized Bosnian adolescents"
+      },
+      {
+        "paperId": "ca30c7dbe4159532466416e6f58464b9fd7a64e1",
+        "title": "Neighborhoods and violent crime: a multilevel study of collective efficacy."
+      },
+      {
+        "paperId": "29f3ce279b50ee24bebf5442e1c9dff9000fdda5",
+        "title": "The Modified PTSD Symptom Scale: A brief self-report measure of posttraumatic stress disorder."
+      },
+      {
+        "paperId": null,
+        "title": "Mental health integrated disaster preparedness (MHIDP) in Nepal and Haiti. Mental Health Innovation Network"
+      },
+      {
+        "paperId": null,
+        "title": "Welton-Mitchell C and Khanal SN (2018) Mental health"
+      },
+      {
+        "paperId": null,
+        "title": "Evidence-based mental health integrated disaster preparedness in Nepal and Haiti. Special Edition of the Humanitarian Exchange on Mental Health and Psychosocial Support in Humanitarian Response"
+      },
+      {
+        "paperId": "d60178b3280a770b3fcee048bd13c1763092d682",
+        "title": "The American Preparedness Project: Where the US Public Stands in 2015"
+      },
+      {
+        "paperId": "1ebe0a1ed4788a8a8566e42223d6db3e1b066631",
+        "title": "Curriculum manual for use with communities affected by natural disasters in Haiti"
+      },
+      {
+        "paperId": null,
+        "title": "2016) World heading for catastrophe over natural disasters, world"
+      },
+      {
+        "paperId": null,
+        "title": "A Pilot Assessment of Psychological Factors Associated with Hurricane Sandy Preparedness in Post-earthquake Haiti. Quick Response Grant Report series"
+      },
+      {
+        "paperId": "64ddfbe12c15261148d6ba78332690687b5cc7f9",
+        "title": "United States Agency for International Development"
+      },
+      {
+        "paperId": "694f0ef2811988ca3bd383dee499c217798f5d10",
+        "title": "[Culture and mental health in Haiti : a literature review]."
+      },
+      {
+        "paperId": "239082a72eb868fad68834247a80297903a3d4ce",
+        "title": "Mental Health and Disasters: Anxiety Disorders and PTSD"
+      },
+      {
+        "paperId": "5b6c8272512b65c53b451a69fefb4a9512491ae8",
+        "title": "Symptomatology and psychopathology of mental health problems after disaster."
+      },
+      {
+        "paperId": null,
+        "title": "Transparency International (2017) Corruptions Perception Index"
+      },
+      {
+        "paperId": null,
+        "title": "Rapidly assessing the impact of Hurricane Matthew in Haiti. Result Briefs"
+      },
+      {
+        "paperId": null,
+        "title": "Most Americans Unprepared for Disasters According to February Persuadable Research Survey"
+      },
+      {
+        "paperId": null,
+        "title": "King's College (2011) The Humanitarian Emergency Settings Perceived Needs Scale (HESPER): Manual with Scale"
+      }
+    ]
+  },
+  {
+    "paperId": "4a4bec333f6dd1464601a1364badae8584f9be40",
+    "externalIds": {
+      "MAG": "2599300762",
+      "DOI": "10.1177/1049731517699525",
+      "CorpusId": 151960978
+    },
+    "title": "Randomized Trial Investigating of a Single-Session Character-Strength-Based Cognitive Intervention on Freshman’s Adaptability",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/1049731517699525?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1049731517699525, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "49032264",
+        "name": "Wenjie Duan"
+      },
+      {
+        "authorId": "145712219",
+        "name": "He Bu"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "fd96ff095d7a3160866e31bd926627a843ecd19c",
+    "externalIds": {
+      "MAG": "3170155176",
+      "DOI": "10.1080/01443410.2021.1922611",
+      "CorpusId": 236272318
+    },
+    "title": "Positive youth development in Belize: a cluster-randomised trial of Positive Action",
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/01443410.2021.1922611?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/01443410.2021.1922611, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1912589",
+        "name": "D. Hull"
+      },
+      {
+        "authorId": "37889121",
+        "name": "Marc A. Fagan"
+      },
+      {
+        "authorId": "47852323",
+        "name": "Marvin G. Powell"
+      },
+      {
+        "authorId": "71049485",
+        "name": "Krystal Hinerman"
+      },
+      {
+        "authorId": "1405460662",
+        "name": "Emma Näslund-Hadley"
+      },
+      {
+        "authorId": "31721686",
+        "name": "Demarquis M Hayes"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "348edf981b8e0d78b26c3dc86c39255cd5702a1c",
+    "externalIds": {
+      "MAG": "2765228296",
+      "DOI": "10.1177/0886260517736881",
+      "CorpusId": 42699516,
+      "PubMed": "29294970"
+    },
+    "title": "Evaluation of Parenting Interventions to Prevent Violence Against Children in Colombia: A Randomized Controlled Trial",
+    "openAccessPdf": {
+      "url": "https://discovery.ucl.ac.uk/10058890/1/Sherr_Evaluation%20of%20Parenting%20Interventions_submitted%20manuscript.pdf",
+      "status": "GREEN",
+      "license": "other-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/0886260517736881?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/0886260517736881, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "6739042",
+        "name": "A. Skar"
+      },
+      {
+        "authorId": "5502057",
+        "name": "L. Sherr"
+      },
+      {
+        "authorId": "145332645",
+        "name": "A. Macedo"
+      },
+      {
+        "authorId": "31544908",
+        "name": "S. Tetzchner"
+      },
+      {
+        "authorId": "3311376",
+        "name": "K. I. Fostervold"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "d7b8425a188460cead24c6d6cc1ec33af01cf50b",
+    "externalIds": {
+      "MAG": "2101381331",
+      "DOI": "10.1002/jmv.1890400103",
+      "CorpusId": 44359275,
+      "PubMed": "8390559"
+    },
+    "title": "Controlled trial of prophylactic versus therapeutic use of ganciclovir after liver transplantation in adults",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jmv.1890400103?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jmv.1890400103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "48917828",
+        "name": "A. Cohen"
+      },
+      {
+        "authorId": "114305644",
+        "name": "J. O'grady"
+      },
+      {
+        "authorId": "49533298",
+        "name": "S. Sutherland"
+      },
+      {
+        "authorId": "6772387",
+        "name": "R. Sallie"
+      },
+      {
+        "authorId": "1881781",
+        "name": "K. Tan"
+      },
+      {
+        "authorId": "2157887902",
+        "name": "Roger Williams"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "f50a1c9bd05f9c0535d3e04243a1e1d7cd3ab21e",
+    "externalIds": {
+      "MAG": "3025459897",
+      "DOI": "10.7326/0003-4819-123-1-199507010-00002",
+      "CorpusId": 12151472,
+      "PubMed": "7762909"
+    },
+    "title": "Preemptive Ganciclovir Therapy To Prevent Cytomegalovirus Disease in Cytomegalovirus Antibody-Positive Renal Transplant Recipients",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.7326/0003-4819-123-1-199507010-00002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7326/0003-4819-123-1-199507010-00002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "88418825",
+        "name": "P. Hibberd"
+      },
+      {
+        "authorId": "1409332418",
+        "name": "N. Tolkoff‐Rubin"
+      },
+      {
+        "authorId": "1379773544",
+        "name": "D. Conti"
+      },
+      {
+        "authorId": "2058637467",
+        "name": "F. Stuart"
+      },
+      {
+        "authorId": "4122586",
+        "name": "J. Thistlethwaite"
+      },
+      {
+        "authorId": "8033188",
+        "name": "J. Neylan"
+      },
+      {
+        "authorId": "4902153",
+        "name": "D. Snydman"
+      },
+      {
+        "authorId": "2054052648",
+        "name": "R. Freeman"
+      },
+      {
+        "authorId": "3907877",
+        "name": "M. Lorber"
+      },
+      {
+        "authorId": "1904442",
+        "name": "R. Rubin"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "10ad95a153c5f87cd1599ea23a112bee3b162fb6",
+    "externalIds": {
+      "MAG": "1976931289",
+      "DOI": "10.1097/00007890-199812270-00019",
+      "CorpusId": 21092227,
+      "PubMed": "9884259"
+    },
+    "title": "A randomized prospective controlled trial of oral acyclovir versus oral ganciclovir for cytomegalovirus prophylaxis in high-risk kidney transplant recipients.",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1097/00007890-199812270-00019",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/00007890-199812270-00019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/00007890-199812270-00019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "6442865",
+        "name": "S. Flechner"
+      },
+      {
+        "authorId": "7513193",
+        "name": "R. Avery"
+      },
+      {
+        "authorId": "2068049012",
+        "name": "R. Fisher"
+      },
+      {
+        "authorId": "4448313",
+        "name": "B. Mastroianni"
+      },
+      {
+        "authorId": "14576970",
+        "name": "D. Papajcik"
+      },
+      {
+        "authorId": "1401467312",
+        "name": "K. O'malley"
+      },
+      {
+        "authorId": "6429700",
+        "name": "M. Goormastic"
+      },
+      {
+        "authorId": "1834756",
+        "name": "D. Goldfarb"
+      },
+      {
+        "authorId": "6810173",
+        "name": "C. Modlin"
+      },
+      {
+        "authorId": "2971311",
+        "name": "A. Novick"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "fd40d878ede2c6d8fbd46a7a56721486bbf90060",
+    "externalIds": {
+      "MAG": "1996198873",
+      "DOI": "10.1097/00007890-199712270-00036",
+      "CorpusId": 25263569,
+      "PubMed": "9422429"
+    },
+    "title": "Prophylactic oral ganciclovir compared with deferred therapy for control of cytomegalovirus in renal transplant recipients.",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1097/00007890-199712270-00036",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/00007890-199712270-00036?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/00007890-199712270-00036, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "47823311",
+        "name": "D. Brennan"
+      },
+      {
+        "authorId": "2228434021",
+        "name": "Kathy A. Garlock"
+      },
+      {
+        "authorId": "76949242",
+        "name": "G. Singer"
+      },
+      {
+        "authorId": "2208568244",
+        "name": "M. Schnitzler"
+      },
+      {
+        "authorId": "50153531",
+        "name": "B. Lippmann"
+      },
+      {
+        "authorId": "37491227",
+        "name": "R. Buller"
+      },
+      {
+        "authorId": "1401806275",
+        "name": "M. Gaudreault‐Keener"
+      },
+      {
+        "authorId": "3423883",
+        "name": "J. Lowell"
+      },
+      {
+        "authorId": "152598471",
+        "name": "S. Shenoy"
+      },
+      {
+        "authorId": "79775210",
+        "name": "T. Howard"
+      },
+      {
+        "authorId": "5651220",
+        "name": "G. Storch"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "0fc6093772aaad6f0301f77514378fa32b2d829f",
+    "externalIds": {
+      "MAG": "2037380672",
+      "DOI": "10.1097/01.TP.0000093463.86584.AC",
+      "CorpusId": 26569166,
+      "PubMed": "14742998"
+    },
+    "title": "Randomized controlled trial of sequential intravenous and oral ganciclovir versus prolonged intravenous ganciclovir for long-term prophylaxis of cytomegalovirus disease in high-risk cytomegalovirus-seronegative liver transplant recipients with cytomegalovirus-seropositive donors",
+    "openAccessPdf": {
+      "url": "https://journals.lww.com/transplantjournal/fulltext/2004/01270/randomized_controlled_trial_of_sequential.24.aspx",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/01.TP.0000093463.86584.AC?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/01.TP.0000093463.86584.AC, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2275934",
+        "name": "D. Winston"
+      },
+      {
+        "authorId": "5114575",
+        "name": "R. Busuttil"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "25a73af38d1c51629746d97b0b6932f9d7dc27b5",
+    "externalIds": {
+      "MAG": "2046443824",
+      "DOI": "10.1097/01.TP.0000040601.60276.96",
+      "CorpusId": 25135394,
+      "PubMed": "12548129"
+    },
+    "title": "Randomized controlled trial of oral ganciclovir versus oral acyclovir after induction with intravenous ganciclovir for long-term prophylaxis of cytomegalovirus disease in cytomegalovirus-seropositive liver transplant recipients",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1097/01.tp.0000040601.60276.96",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/01.TP.0000040601.60276.96?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/01.TP.0000040601.60276.96, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2275934",
+        "name": "D. Winston"
+      },
+      {
+        "authorId": "5114575",
+        "name": "R. Busuttil"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "ef140974d8c0d113804ad0ef0cc2f9588e7f97fe",
+    "externalIds": {
+      "MAG": "2174598947",
+      "DOI": "10.1016/S0015-0282(02)03043-1",
+      "CorpusId": 8943311,
+      "PubMed": "15266759"
+    },
+    "title": "Neither sildenafil nor vaginal estradiol improves endometrial thickness in women with thin endometria after taking oral estradiol in graduating dosages.",
+    "openAccessPdf": {
+      "url": "http://www.fertstert.org/article/S0015028202030431/pdf",
+      "status": "BRONZE",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/S0015-0282(02)03043-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S0015-0282(02)03043-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "5595455",
+        "name": "J. Check"
+      },
+      {
+        "authorId": "46976769",
+        "name": "V. Graziano"
+      },
+      {
+        "authorId": "2107355544",
+        "name": "G. Lee"
+      },
+      {
+        "authorId": "2010489",
+        "name": "A. Nazari"
+      },
+      {
+        "authorId": "2107414",
+        "name": "J. Choe"
+      },
+      {
+        "authorId": "5827095",
+        "name": "C. Dietterich"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "cb712761e58f7f40a5c84cd0771fb9106758fb0c",
+    "externalIds": {
+      "MAG": "2039640451",
+      "DOI": "10.1016/J.FERTNSTERT.2007.07.1106",
+      "CorpusId": 72088165
+    },
+    "title": "Length of progesterone treatment before transfer and implantation rates of frozen-thawed blastocysts",
+    "openAccessPdf": {
+      "url": "http://www.fertstert.org/article/S0015028207027628/pdf",
+      "status": "HYBRID",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.FERTNSTERT.2007.07.1106?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.FERTNSTERT.2007.07.1106, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2107112099",
+        "name": "J. Ding"
+      },
+      {
+        "authorId": "3515269",
+        "name": "N. Rana"
+      },
+      {
+        "authorId": "143950025",
+        "name": "W. Dmowski"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "0d798ba9fa67e3fdd28473e965eb09e7930ef6c9",
+    "externalIds": {
+      "MAG": "2108821775",
+      "DOI": "10.1016/J.FERTNSTERT.2009.07.1654",
+      "CorpusId": 73343367
+    },
+    "title": "The use of antagonist GnRH in endometrial priming improves oocyte donation outcome",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.fertnstert.2009.07.1654",
+      "status": "BRONZE",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.FERTNSTERT.2009.07.1654?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.FERTNSTERT.2009.07.1654, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "153808801",
+        "name": "C. Vidal"
+      },
+      {
+        "authorId": "40452699",
+        "name": "J. Gilés"
+      },
+      {
+        "authorId": "2055981828",
+        "name": "C. Simon"
+      },
+      {
+        "authorId": "6862925",
+        "name": "J. Remohí"
+      },
+      {
+        "authorId": "144806735",
+        "name": "A. Pellicer"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "e04bc5faf31c849329ce4b9f6a2e8bb7ef9e75cc",
+    "externalIds": {
+      "MAG": "2398659223",
+      "DOI": "10.1007/s10815-016-0736-y",
+      "CorpusId": 26476075,
+      "PubMed": "27221477"
+    },
+    "title": "The endometrial preparation for frozen-thawed euploid blastocyst transfer: a prospective randomized trial comparing clinical results from natural modified cycle and exogenous hormone stimulation with GnRH agonist",
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc4930788?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10815-016-0736-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10815-016-0736-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1818446",
+        "name": "E. Greco"
+      },
+      {
+        "authorId": "15129628",
+        "name": "K. Litwicka"
+      },
+      {
+        "authorId": "11730704",
+        "name": "Cristiana Arrivi"
+      },
+      {
+        "authorId": "48818943",
+        "name": "M. T. Varricchio"
+      },
+      {
+        "authorId": "11287975",
+        "name": "A. Caragia"
+      },
+      {
+        "authorId": "50555940",
+        "name": "A. Greco"
+      },
+      {
+        "authorId": "5047756",
+        "name": "M. Minasi"
+      },
+      {
+        "authorId": "32830082",
+        "name": "F. Fiorentino"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "df70d9bd7b304877e86deb440cd5259560c93df0",
+    "externalIds": {
+      "MAG": "2902843417",
+      "PubMedCentral": "6439127",
+      "DOI": "10.1007/s10815-018-1380-5",
+      "CorpusId": 54459113,
+      "PubMed": "30519898"
+    },
+    "title": "Transdermal versus oral estrogen: clinical outcomes in patients undergoing frozen-thawed single blastocyst transfer cycles without GnRHa suppression, a prospective randomized clinical trial",
+   "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3368/er.9.2.71?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3368/er.9.2.71, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "143788697",
+        "name": "S. Kahraman"
+      },
+      {
+        "authorId": "13413108",
+        "name": "C. P. Çetinkaya"
+      },
+      {
+        "authorId": "31683463",
+        "name": "Y. Şahin"
+      },
+      {
+        "authorId": "152516274",
+        "name": "G. Oner"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "e15d815793276e59ecdbf2440932515b5b56e207",
+    "externalIds": {
+      "MAG": "2891031371",
+      "DOI": "10.1111/jog.13802",
+      "CorpusId": 52148097,
+      "PubMed": "30178577"
+    },
+    "title": "Does low‐dose aspirin improve pregnancy rate in women undergoing frozen‐thawed embryo transfer cycle? A pilot double‐blind, randomized placebo‐controlled trial",
+    "openAccessPdf": {
+      "url": "https://obgyn.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jog.13802",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/jog.13802?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/jog.13802, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "31953805",
+        "name": "T. Madani"
+      },
+      {
+        "authorId": "32083022",
+        "name": "F. Ahmadi"
+      },
+      {
+        "authorId": "2174199",
+        "name": "N. Jahangiri"
+      },
+      {
+        "authorId": "4150226",
+        "name": "A. Bahmanabadi"
+      },
+      {
+        "authorId": "134503094",
+        "name": "Narges Bagheri Lankarani"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "7356b4e49d59b12918c82884fa2696fa64b4cd74",
+    "externalIds": {
+      "MAG": "2111987503",
+      "DOI": "10.1016/S0741-5214(03)00228-3",
+      "CorpusId": 24888131,
+      "PubMed": "12891099"
+    },
+    "title": "Prospective randomized study of endovenous radiofrequency obliteration (closure procedure) versus ligation and stripping in a selected patient population (EVOLVeS Study).",
+    "openAccessPdf": {
+      "url": "http://www.jvascsurg.org/article/S0741521403002283/pdf",
+      "status": "BRONZE",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/S0741-5214(03)00228-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S0741-5214(03)00228-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "153678811",
+        "name": "F. Lurie"
+      },
+      {
+        "authorId": "2081713101",
+        "name": "D. Creton"
+      },
+      {
+        "authorId": "50359296",
+        "name": "B. Eklof"
+      },
+      {
+        "authorId": "2286250689",
+        "name": "Lowell S. Kabnick"
+      },
+      {
+        "authorId": "39822172",
+        "name": "R. Kistner"
+      },
+      {
+        "authorId": "3094814",
+        "name": "O. Pichot"
+      },
+      {
+        "authorId": "102025317",
+        "name": "S. Schuller‐Petrovic"
+      },
+      {
+        "authorId": "49800763",
+        "name": "C. Sessa"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "83046fbc573e4e267a631c876e93dff37a313a53",
+    "externalIds": {
+      "MAG": "2137881942",
+      "DOI": "10.1067/MVA.2002.123096",
+      "CorpusId": 9249300,
+      "PubMed": "12021712"
+    },
+    "title": "Endovenous obliteration versus conventional stripping operation in the treatment of primary varicose veins: a randomized controlled trial with comparison of the costs.",
+    "openAccessPdf": {
+      "url": "http://www.jvascsurg.org/article/S0741521402836643/pdf",
+      "status": "BRONZE",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1067/MVA.2002.123096?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1067/MVA.2002.123096, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "144564983",
+        "name": "T. Rautio"
+      },
+      {
+        "authorId": "6963369",
+        "name": "A. Ohinmaa"
+      },
+      {
+        "authorId": "38411157",
+        "name": "J. Perälä"
+      },
+      {
+        "authorId": "6860447",
+        "name": "P. Ohtonen"
+      },
+      {
+        "authorId": "119669564",
+        "name": "T. Heikkinen"
+      },
+      {
+        "authorId": "11885867",
+        "name": "H. Wiik"
+      },
+      {
+        "authorId": "2077077737",
+        "name": "P. Karjalainen"
+      },
+      {
+        "authorId": "10178562",
+        "name": "K. Haukipuro"
+      },
+      {
+        "authorId": "4105709",
+        "name": "T. Juvonen"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "7ffaf2b4f4037ba291426384bd9e4811c812f86b",
+    "externalIds": {
+      "MAG": "2071107737",
+      "DOI": "10.1016/j.jvs.2012.12.074",
+      "CorpusId": 19384990,
+      "PubMed": "23769603"
+    },
+    "title": "Comparing endovenous laser ablation, foam sclerotherapy, and conventional surgery for great saphenous varicose veins.",
+    "openAccessPdf": {
+      "url": "http://www.jvascsurg.org/article/S074152141300133X/pdf",
+      "status": "BRONZE",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: Paper or abstract available at https://core.ac.uk/download/pdf/82249599.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "12340838",
+        "name": "A. Biemans"
+      },
+      {
+        "authorId": "11014964",
+        "name": "M. Kockaert"
+      },
+      {
+        "authorId": "31662482",
+        "name": "G. P. Akkersdijk"
+      },
+      {
+        "authorId": "5119983",
+        "name": "R. R. van den Bos"
+      },
+      {
+        "authorId": "113186137",
+        "name": "M. D. De Maeseneer"
+      },
+      {
+        "authorId": "46806856",
+        "name": "P. Cuypers"
+      },
+      {
+        "authorId": "2159172",
+        "name": "T. Stijnen"
+      },
+      {
+        "authorId": "2525377",
+        "name": "M. Neumann"
+      },
+      {
+        "authorId": "5093812",
+        "name": "T. Nijsten"
+      }
+    ],
+    "references": [
+      {
+        "paperId": "70ba935860ff8671d9d5f4769c8acff9c666d56d",
+        "title": "The Vein Book"
+      },
+      {
+        "paperId": "a9b39205370d0440b7fed5e91798db5f11916273",
+        "title": "Endovenous ablation (radiofrequency and laser) and foam sclerotherapy versus open surgery for great saphenous vein varices."
+      },
+      {
+        "paperId": "b7ad70083bb20234ce36c435827ca52c454e393d",
+        "title": "Endovenous ablation (radiofrequency and laser) and foam sclerotherapy versus conventional surgery for great saphenous vein varices"
+      },
+      {
+        "paperId": "5eda2b83547b61edeefd694589c0c2e3ee738827",
+        "title": "Randomized clinical trial of ultrasound‐guided foam sclerotherapy versus surgery for the incompetent great saphenous vein"
+      },
+      {
+        "paperId": "9faa82d4a2c4210b4e488becab023a97abe01bf9",
+        "title": "Treatment of varicose veins: does each technique have a formal indication?"
+      },
+      {
+        "paperId": "7351f071b904b014967e08ecb29681e7b0856186",
+        "title": "Randomized clinical trial comparing endovenous laser ablation, radiofrequency ablation, foam sclerotherapy and surgical stripping for great saphenous varicose veins"
+      },
+      {
+        "paperId": "dbe6072ab5cb38635a4e964be11d2897855f6630",
+        "title": "Clinical and technical outcomes from a randomized clinical trial of endovenous laser ablation compared with conventional surgery for great saphenous varicose veins"
+      },
+      {
+        "paperId": "6dc5fee14233bada57443e339058403c66ee10f2",
+        "title": "Validation of the chronic venous insufficiency quality of life questionnaire in Dutch patients treated for varicose veins."
+      },
+      {
+        "paperId": "0b36cc7c92e72527031f854bb7c26474ebacd8d6",
+        "title": "The endovenous revolution."
+      },
+      {
+        "paperId": "6a3776397e84767c269962837c3e461d1ef5078b",
+        "title": "The endovenous revolution"
+      },
+      {
+        "paperId": "8cdb736926993b6bd94e737e09a141ea97d2d3e1",
+        "title": "Duplex ultrasound investigation of the veins of the lower limbs after treatment for varicose veins - UIP consensus document."
+      },
+      {
+        "paperId": "55361e6e8ffcc08abb7e3143e3355b21040c4b74",
+        "title": "Regarding \"prospective randomized trial comparing endovenous laser ablation and surgery for treatment of primary great saphenous varicose veins with a 2-year follow-up\"."
+      },
+      {
+        "paperId": "4c5dc4479015b1a09961f096ae3fa66a5c8a8e82",
+        "title": "Randomized clinical trial of endovenous laser ablation compared with conventional surgery for great saphenous varicose veins"
+      },
+      {
+        "paperId": "2f6723309ded663d0ac4444661091d47050cdf3c",
+        "title": "Randomised controlled trial comparing sapheno-femoral ligation and stripping of the great saphenous vein with endovenous laser ablation (980 nm) using local tumescent anaesthesia: one year results."
+      },
+      {
+        "paperId": "003d8d7cfcfa170029aeb5df7f009530c42dc875",
+        "title": "Ultrasound guided foam sclerotherapy: factors associated with outcomes and complications."
+      },
+      {
+        "paperId": "afc3d6fb2fd36e1ec27f83a3be4386d124b7bb25",
+        "title": "Randomised clinical trial comparing endovenous laser ablation with stripping of the great saphenous vein: clinical outcome and recurrence after 2 years."
+      },
+      {
+        "paperId": "8f9d608192f71e3e66ca46f40b0efc24c5c02e44",
+        "title": "Endovenous therapies of lower extremity varicosities: a meta-analysis."
+      },
+      {
+        "paperId": "b6d0ca9fca5cf41db3f12bb5ac81a2eee90b0ddb",
+        "title": "Prospective five-year study of ultrasound-guided foam sclerotherapy in the treatment of great saphenous vein reflux"
+      },
+      {
+        "paperId": "b86cabc483c93c3b404e97c42329b99d3389df0c",
+        "title": "High ligation combined with stripping and endovenous laser ablation of the great saphenous vein: early results of a randomized controlled study."
+      },
+      {
+        "paperId": "66ce6e5ea94a846a24cc9d35511465294a200012",
+        "title": "2nd European Consensus Meeting on Foam Sclerotherapy 2006, Tegernsee, Germany."
+      },
+      {
+        "paperId": "c352bb08d6d12d2c3795c65817cd49d09a804420",
+        "title": "Closure of the cribriform fascia: an efficient anatomical barrier against postoperative neovascularisation at the saphenofemoral junction? A prospective study."
+      },
+      {
+        "paperId": "84fe13e44eab3f77fbc3165e8becfab8ba5469f2",
+        "title": "Randomized trial comparing endovenous laser ablation of the great saphenous vein with high ligation and stripping in patients with varicose veins: short-term results."
+      },
+      {
+        "paperId": "3546bf92401348d012d05e171c4d98553d3cfef0",
+        "title": "Reduced recanalization rates of the great saphenous vein after endovenous laser treatment with increased energy dosing: definition of a threshold for the endovenous fluence equivalent."
+      },
+      {
+        "paperId": "07f4974b603226de169d776c1bb5420df4241d04",
+        "title": "Revision of the CEAP classification for chronic venous disorders: consensus statement."
+      },
+      {
+        "paperId": "75a89faac004f224cf39233daddaa11b4ec928e4",
+        "title": "Microfoam Ultrasound‐Guided Sclerotherapy of Varicose Veins in 100 Legs"
+      },
+      {
+        "paperId": "95b39361982642f90d7550e544e4a0a222a03cab",
+        "title": "Interpretation of Changes in Health-related Quality of Life: The Remarkable Universality of Half a Standard Deviation"
+      },
+      {
+        "paperId": "d84ececc2f4805b540a5fa4c8a70b5408990ddca",
+        "title": "Preliminary Experience with a New Sclerosing Foam in the Treatment of Varicose Veins"
+      },
+      {
+        "paperId": "00ef56f298358c94ae4204d86ea44287a8d5f2e7",
+        "title": "Epidemiology of varicose veins"
+      },
+      {
+        "paperId": null,
+        "title": "Ultrasound-guided foam sclerotherapy versus surgery for the incompetent great saphenous vein: a multicentre randomised controlled non-inferiority trial"
+      },
+      {
+        "paperId": "1b1fccca8bc5efa555aa5f1d5f8f023b5f809dd7",
+        "title": "Endovenous therapies of varicose veins: indications, procedures, efficacy and safety."
+      },
+      {
+        "paperId": "b8eadfedf6f30d3b3048685adf50eac2b3436ee2",
+        "title": "Minimally invasive techniques in the treatment of saphenous varicose veins."
+      },
+      {
+        "paperId": null,
+        "title": "Management of chronic venous disorders of the  JOURNAL OF VASCULAR SURGERY 734 Biemans et al  September 2013 lower limbs guidelines according to scientific evidence"
+      },
+      {
+        "paperId": "40000b75b49ccad6b0a25e78e09af4fb3f6a9131",
+        "title": "Neovascularization: An Adverse Response to Proper Groin Dissection"
+      },
+      {
+        "paperId": "52dd2f592dba7c7f50c4abfc783dfd4161d952f7",
+        "title": "EuroQol : a new facility for the measurement of health-related quality of life"
+      },
+      {
+        "paperId": "19a111edb29e008f6d20e5b2f9b6d4e63264be3a",
+        "title": "EuroQol--a new facility for the measurement of health-related quality of life."
+      }
+    ]
+  },
+  {
+    "paperId": "7726d673d063c88e1adb0161f873cddd8438ef96",
+    "externalIds": {
+      "MAG": "2334729693",
+      "DOI": "10.1097/SLA.0b013e318230af5a",
+      "CorpusId": 21947453,
+      "PubMed": "21934487"
+    },
+    "title": "A Prospective Double-Blind Randomized Controlled Trial of Radiofrequency Versus Laser Treatment of the Great Saphenous Vein in Patients With Varicose Veins",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/SLA.0b013e318230af5a?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/SLA.0b013e318230af5a, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "11586829",
+        "name": "I. Nordon"
+      },
+      {
+        "authorId": "5966659",
+        "name": "R. Hinchliffe"
+      },
+      {
+        "authorId": "3307515",
+        "name": "R. Brar"
+      },
+      {
+        "authorId": "13028645",
+        "name": "P. Moxey"
+      },
+      {
+        "authorId": "48265094",
+        "name": "S. Black"
+      },
+      {
+        "authorId": "144436259",
+        "name": "M. Thompson"
+      },
+      {
+        "authorId": "5272351",
+        "name": "I. Loftus"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "7a1826306f0079b804455329f19ad7b46c80d531",
+    "externalIds": {
+      "MAG": "2091057406",
+      "DOI": "10.1016/j.jvs.2014.11.071",
+      "CorpusId": 40740365,
+      "PubMed": "25650040"
+    },
+    "title": "Randomized trial comparing cyanoacrylate embolization and radiofrequency ablation for incompetent great saphenous veins (VeClose).",
+    "openAccessPdf": {
+      "url": "http://www.jvascsurg.org/article/S0741521414021855/pdf",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jvs.2014.11.071?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jvs.2014.11.071, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "40411416",
+        "name": "N. Morrison"
+      },
+      {
+        "authorId": "35007276",
+        "name": "K. Gibson"
+      },
+      {
+        "authorId": "11731988",
+        "name": "S. McEnroe"
+      },
+      {
+        "authorId": "10616537",
+        "name": "M. Goldman"
+      },
+      {
+        "authorId": "2140509119",
+        "name": "T. King"
+      },
+      {
+        "authorId": "47730141",
+        "name": "R. Weiss"
+      },
+      {
+        "authorId": "3199686",
+        "name": "D. Cher"
+      },
+      {
+        "authorId": "48020879",
+        "name": "Andrew Jones"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "da5dc02c1c4c2adaab64e972cf41c54fec350e9e",
+    "externalIds": {
+      "MAG": "2936132056",
+      "DOI": "10.1016/j.jvsv.2018.12.014",
+      "CorpusId": 121656181,
+      "PubMed": "31000063"
+    },
+    "title": "Two-year results of a multicenter randomized controlled trial comparing Mechanochemical endovenous Ablation to RADiOfrequeNcy Ablation in the treatment of primary great saphenous vein incompetence (MARADONA trial).",
+    "openAccessPdf": {
+      "url": "https://pure.rug.nl/ws/files/95557200/1_s2.0_S2213333X19301325_main.pdf",
+      "status": "GREEN",
+      "license": "other-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jvsv.2018.12.014?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jvsv.2018.12.014, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "6772682",
+        "name": "S. Holewijn"
+      },
+      {
+        "authorId": "8207570",
+        "name": "R. V. van Eekeren"
+      },
+      {
+        "authorId": "144253350",
+        "name": "A. Vahl"
+      },
+      {
+        "authorId": "145720531",
+        "name": "J. D. de Vries"
+      },
+      {
+        "authorId": "143909874",
+        "name": "M. Reijnen"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "0c3bfc9725618f911fa211a73dfb85b8a3203586",
+    "externalIds": {
+      "MAG": "2075216828",
+      "DOI": "10.1097/00005176-200109000-00015",
+      "CorpusId": 22692185,
+      "PubMed": "11593127"
+    },
+    "title": "Effect of Feeding Yogurt Versus Milk in Children With Acute Diarrhea and Carbohydrate Malabsorption",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1097/00005176-200109000-00015",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/00005176-200109000-00015?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/00005176-200109000-00015, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "6835621",
+        "name": "G. Boudraa"
+      },
+      {
+        "authorId": "14047342",
+        "name": "M. Benbouabdellah"
+      },
+      {
+        "authorId": "16024421",
+        "name": "W. Hachelaf"
+      },
+      {
+        "authorId": "8044810",
+        "name": "M. Boisset"
+      },
+      {
+        "authorId": "4866004",
+        "name": "J. Desjeux"
+      },
+      {
+        "authorId": "50372593",
+        "name": "M. Touhami"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "1ec0609b745a56f41096487061bcf2150beca81a",
+    "externalIds": {
+      "MAG": "2118299459",
+      "DOI": "10.1097/00005176-200001000-00018",
+      "CorpusId": 21912203,
+      "PubMed": "10630440"
+    },
+    "title": "Lactobacillus GG administered in oral rehydration solution to children with acute diarrhea: a multicenter European trial.",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1097/00005176-200001000-00018",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/00005176-200001000-00018?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/00005176-200001000-00018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "6070371",
+        "name": "S. Guandalini"
+      },
+      {
+        "authorId": "3798822",
+        "name": "L. Pensabene"
+      },
+      {
+        "authorId": "103834365",
+        "name": "M. A. Zikri"
+      },
+      {
+        "authorId": "145921376",
+        "name": "J. A. Dias"
+      },
+      {
+        "authorId": "48285308",
+        "name": "L. G. Casali"
+      },
+      {
+        "authorId": "1820818590",
+        "name": "H. Hoekstra"
+      },
+      {
+        "authorId": "3666761",
+        "name": "S. Kolaček"
+      },
+      {
+        "authorId": "2230272777",
+        "name": "Karin Massar"
+      },
+      {
+        "authorId": "1398049396",
+        "name": "D. Mičetić-Turk"
+      },
+      {
+        "authorId": "145728412",
+        "name": "Alexandra Papadopoulou"
+      },
+      {
+        "authorId": "2255574804",
+        "name": "J. D. de Sousa"
+      },
+      {
+        "authorId": "3408399",
+        "name": "B. Sandhu"
+      },
+      {
+        "authorId": "5921730",
+        "name": "H. Szajewska"
+      },
+      {
+        "authorId": "4438469",
+        "name": "Z. Weizman"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "dff3d9ddfdcd74bf213e320029244a3181de5d76",
+    "externalIds": {
+      "MAG": "2109349193",
+      "DOI": "10.5897/JCMR12.014",
+      "CorpusId": 58863956
+    },
+    "title": "Revealing the effect of probiotic combination: Lactobacillus rhamnosus and Lactobacillus acidophilus (Lacidofil) on acute diarrhea in adult patients",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.5897/jcmr12.014",
+      "status": "GOLD",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5897/JCMR12.014?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5897/JCMR12.014, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "10060123",
+        "name": "M. Simadibrata"
+      },
+      {
+        "authorId": "14550532",
+        "name": "Suzanna Ndraha"
+      },
+      {
+        "authorId": "67177431",
+        "name": "Robert Tedjasaputra"
+      },
+      {
+        "authorId": "8006822",
+        "name": "A. Syam"
+      },
+      {
+        "authorId": "2299647994",
+        "name": "A. Santi"
+      },
+      {
+        "authorId": "145278265",
+        "name": "A. Rani"
+      }
+    ],
+    "references": [
+      {
+        "paperId": "770bbfd472c511fcd8a3c729e8233219d3fe47f3",
+        "title": "Probiotics for the prevention and treatment of antibiotic-associated diarrhea: a systematic review and meta-analysis."
+      },
+      {
+        "paperId": "9ab162f64f1694deb6a3172559c478a032f644f9",
+        "title": "Antibiotic prescription for adults with acute diarrhea at King Chulalongkorn Memorial Hospital, Thailand."
+      },
+      {
+        "paperId": "ccc0fbd201d63023a71573f4c096a68153b07730",
+        "title": "Comparison of zinc-probiotic combination therapy to zinc therapy alone in reducing the severity of acute diarrhea"
+      },
+      {
+        "paperId": "ea650ecdc10c801d8186813fde1defd5ec7a63ed",
+        "title": "Infectious diarrhea: when to test and when to treat"
+      },
+      {
+        "paperId": "facbbb2871d0f39988b269187ea509b02e840bee",
+        "title": "Oral zinc for the treatment of acute gastroenteritis in Polish children: a randomized, double-blind, placebo-controlled trial."
+      },
+      {
+        "paperId": "32fa613b736449c625b63e01a6cae20e147f8d6d",
+        "title": "Efficacy of Lactobacillus GG in Aboriginal Children With Acute Diarrhoeal Disease: A Randomised Clinical Trial"
+      },
+      {
+        "paperId": "ec8e1b3e2c81e2f446c63e90be861856ba0f4868",
+        "title": "Diarrhea"
+      },
+      {
+        "paperId": "2d89046604e677689c2e2b5c0fe2b4ba187606ca",
+        "title": "The effect of early nutritional supplementation with a mixture of probiotic, prebiotic, fiber and micronutrients in infants with acute diarrhea in Indonesia."
+      },
+      {
+        "paperId": "eff227214b050569d7337ad876f6904fc3fb4bef",
+        "title": "Effect of probiotics supplementation on acute diarrhea in infants: a randomized double blind clinical trial"
+      },
+      {
+        "paperId": "a2d1e67877385e1a76c6b45c025eaaab8d8ad443",
+        "title": "Probiotics for treatment of acute diarrhoea in children: randomised clinical trial of five different preparations"
+      },
+      {
+        "paperId": "e6babf29d613e5e45d95dd3ee38ae891d3838d09",
+        "title": "Efficacy of probiotics in prevention of acute diarrhoea: a meta-analysis of masked, randomised, placebo-controlled trials."
+      },
+      {
+        "paperId": "1520ef567a58e59b1825f55ee40d8d344bfa784f",
+        "title": "Enterotoxigenic Escherichia coli in Developing Countries: Epidemiology, Microbiology, Clinical Features, Treatment, and Prevention"
+      },
+      {
+        "paperId": "6c5f56083b7b19d2f7382ab33004b4f225b5c931",
+        "title": "Etiology of Acute Diarrhea in Adults in Southwestern Nigeria"
+      },
+      {
+        "paperId": "fbbf1aa0b8b57297ed0727282e6dc11a9682135f",
+        "title": "Potential Uses of Probiotics in Clinical Practice"
+      },
+      {
+        "paperId": "5c769b7023fd61d87be0a967663cbbd8da7eb95d",
+        "title": "Intestinal ion transport and the pathophysiology of diarrhea."
+      },
+      {
+        "paperId": "13b7e2c02fbeb354f7e69c0ca79fc62f0b068c5b",
+        "title": "Surveillance of bacterial pathogens of diarrhea disease in Indonesia."
+      },
+      {
+        "paperId": "3d9d07105f16f574ee1e88cb8b201c5825c05ef6",
+        "title": "Lactobacillus therapy for acute infectious diarrhea in children: a meta-analysis."
+      },
+      {
+        "paperId": "8a9e89a013aef27225d5cb30c36f45ef927dbbc8",
+        "title": "Guideline for the management of acute diarrhea in adults"
+      },
+      {
+        "paperId": "8b7afd835a10308f28e3e13e7aa079ee2124b3b2",
+        "title": "Practice guidelines for the management of infectious diarrhea."
+      },
+      {
+        "paperId": "55633d629b42cb6e310fd3f3b8b6f00682db25b2",
+        "title": "Effects of probiotic bacteria on diarrhea, lipid metabolism, and carcinogenesis: a review of papers published between 1988 and 1998."
+      },
+      {
+        "paperId": "1ec0609b745a56f41096487061bcf2150beca81a",
+        "title": "Lactobacillus GG administered in oral rehydration solution to children with acute diarrhea: a multicenter European trial."
+      },
+      {
+        "paperId": "f4d40da77c3183e008c7bb64c75463f82d4460de",
+        "title": "Bacteriotherapy with Lactobacillus reuteri in rotavirus gastroenteritis."
+      },
+      {
+        "paperId": "33f73b55426fe95801290976d8eb9f0f5d79473e",
+        "title": "Approach to the adult with acute diarrhea in developed countries"
+      },
+      {
+        "paperId": "43d9b45cd1802ee47d444045a702a097b8d847d5",
+        "title": "[Antibiotic prescription]."
+      },
+      {
+        "paperId": null,
+        "title": "Lactobacillus Acidophilus in the treatment of children with gastrointestinal tract illnesses"
+      },
+      {
+        "paperId": null,
+        "title": "Masalah Dalam Penatalaksanaan Diare Akut pada Orang Dewasa"
+      },
+      {
+        "paperId": null,
+        "title": "Masalah Dalam Penatalaksanaan Diare Akut pada Orang Dewasa.In: Setiati S, Alwi I, Kasjmir YI, dkk, Editors"
+      },
+      {
+        "paperId": null,
+        "title": "Diare akut Karena Infeksi"
+      }
+    ]
+  },
+  {
+    "paperId": "39aa9f5d2075c489bba7bb42e028bd1ba9f3c50b",
+    "externalIds": {
+      "MAG": "1989631404",
+      "DOI": "10.1097/INF.0b013e318169034c",
+      "CorpusId": 12161656,
+      "PubMed": "18469732"
+    },
+    "title": "Probiotic Escherichia coli Nissle 1917 Versus Placebo for Treating Diarrhea of Greater Than 4 Days Duration in Infants and Toddlers",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/INF.0b013e318169034c?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/INF.0b013e318169034c, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "4476625",
+        "name": "J. Henker"
+      },
+      {
+        "authorId": "3734022",
+        "name": "M. Laaß"
+      },
+      {
+        "authorId": "2138895577",
+        "name": "B. Blokhin"
+      },
+      {
+        "authorId": "2098171868",
+        "name": "V. Maydannik"
+      },
+      {
+        "authorId": "83982576",
+        "name": "Y. Bolbot"
+      },
+      {
+        "authorId": "1788051",
+        "name": "M. Elze"
+      },
+      {
+        "authorId": "39085008",
+        "name": "C. Wolff"
+      },
+      {
+        "authorId": "47495055",
+        "name": "A. Schreiner"
+      },
+      {
+        "authorId": "36507481",
+        "name": "J. Schulze"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "dce9969012964228031e69bc56ae78e581d30a7a",
+    "externalIds": {
+      "MAG": "2892536357",
+      "DOI": "10.1007/s00228-018-2562-x",
+      "CorpusId": 52875249,
+      "PubMed": "30264164"
+    },
+    "title": "A prospective, interventional, randomized, double-blind, placebo-controlled clinical study to evaluate the efficacy and safety of Bacillus coagulans LBSC in the treatment of acute diarrhea with abdominal discomfort",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00228-018-2562-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00228-018-2562-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "34702996",
+        "name": "C. Maity"
+      },
+      {
+        "authorId": "2047011402",
+        "name": "A. Gupta"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "5098ca175e4d59f4b8367389cf5d5544c43115a2",
+    "externalIds": {
+      "DOI": "10.18203/2349-3291.ijcp20183511",
+      "CorpusId": 240336433
+    },
+    "title": "Role of Saccharomyces boulardii and Bacillus clausii in reducing the duration of diarrhea: a three-armed randomised controlled trial",
+    "openAccessPdf": {
+      "url": "https://www.ijpediatrics.com/index.php/ijcp/article/download/1742/1324",
+      "status": "GOLD",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18203/2349-3291.ijcp20183511?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18203/2349-3291.ijcp20183511, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2412518362",
+        "name": "V. D."
+      },
+      {
+        "authorId": "2123861516",
+        "name": "V. S"
+      },
+      {
+        "authorId": "2219601245",
+        "name": "R. S."
+      }
+    ],
+    "references": []
+  },
+  {
+    "paperId": "e97109a1658ac886c2c5986924e73867ec3de715",
+    "externalIds": {
+      "MAG": "2064235221",
+      "DOI": "10.3109/00016348909006139",
+      "CorpusId": 8294787,
+      "PubMed": "2698591"
+    },
+    "title": "Comparison of Induced Versus Non‐Induced Labor in Post‐Term Pregnancy: A Randomized Prospective Study",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3109/00016348909006139?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3109/00016348909006139, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1925756112",
+        "name": "Per Bergsja"
+      },
+      {
+        "authorId": "1925720818",
+        "name": "Huang Gui‐Dan"
+      },
+      {
+        "authorId": "1431422776",
+        "name": "Yuan Su-qin"
+      },
+      {
+        "authorId": "1412693391",
+        "name": "Gao Zhi-zeng"
+      },
+      {
+        "authorId": "6166328",
+        "name": "L. Bakketeig"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "c9e88dd38915828d4d705f0061d4eaad1d0e3cac",
+    "externalIds": {
+      "MAG": "2021179333",
+      "DOI": "10.1159/000293605",
+      "CorpusId": 3344662,
+      "PubMed": "2646187"
+    },
+    "title": "Is induction of labor indicated in prolonged pregnancy? Results of a prospective randomised trial.",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1159/000293605?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1159/000293605, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "47453781",
+        "name": "C. Egarter"
+      },
+      {
+        "authorId": "50078057",
+        "name": "E. Kofler"
+      },
+      {
+        "authorId": "1888684",
+        "name": "R. Fitz"
+      },
+      {
+        "authorId": "49226319",
+        "name": "P. Husslein"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "88116afa881b3e4207e5eeb62bdd8216004ad86c",
+    "externalIds": {
+      "MAG": "1994307235",
+      "DOI": "10.1016/0020-7292(92)90325-D",
+      "CorpusId": 7426634,
+      "PubMed": "1350540"
+    },
+    "title": "Prolonged pregnancy: the management dilemma",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/0020-7292(92)90325-D?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/0020-7292(92)90325-D, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "11307553",
+        "name": "Y. Herabutya"
+      },
+      {
+        "authorId": "1420949371",
+        "name": "P. O‐Prasertsawat"
+      },
+      {
+        "authorId": "14391936",
+        "name": "T. Tongyai"
+      },
+      {
+        "authorId": "2234087824",
+        "name": "N. Isarangura"
+      },
+      {
+        "authorId": "2234083574",
+        "name": "Na Ayudthya"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "ce88084284c4a2417de02a2e096e1cbd57d3a679",
+    "externalIds": {
+      "MAG": "2620988971",
+      "DOI": "10.1016/s0002-9378(94)70269-1",
+      "CorpusId": 1557493,
+      "PubMed": "7710467"
+    },
+    "title": "A clinical trial of induction of labor versus expectant management in postterm pregnancy. The National Institute of Child Health and Human Development Network of Maternal-Fetal Medicine Units.",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/s0002-9378(94)70269-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/s0002-9378(94)70269-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "9849772",
+        "name": "D. McNellis"
+      },
+      {
+        "authorId": "12512798",
+        "name": "A. Medearis"
+      },
+      {
+        "authorId": "121559419",
+        "name": "S. Fowler"
+      },
+      {
+        "authorId": "145783429",
+        "name": "R. Romero"
+      },
+      {
+        "authorId": "145883620",
+        "name": "B. Sibai"
+      },
+      {
+        "authorId": "4613450",
+        "name": "S. Caritis"
+      },
+      {
+        "authorId": "78541311",
+        "name": "R. Paul"
+      },
+      {
+        "authorId": "144368235",
+        "name": "R. Depp"
+      },
+      {
+        "authorId": "4026294",
+        "name": "F. Witter"
+      },
+      {
+        "authorId": "2075764613",
+        "name": "J. Hobbins"
+      },
+      {
+        "authorId": "47452483",
+        "name": "J. Horenstein"
+      },
+      {
+        "authorId": "3097965",
+        "name": "R. Cefalo"
+      },
+      {
+        "authorId": "144052936",
+        "name": "T. Gordon"
+      },
+      {
+        "authorId": "6647521",
+        "name": "S. Yaffe"
+      },
+      {
+        "authorId": "5261441",
+        "name": "M. Klebanoff"
+      },
+      {
+        "authorId": "6877891",
+        "name": "H. Berendes"
+      },
+      {
+        "authorId": "13351286",
+        "name": "C. Catz"
+      },
+      {
+        "authorId": "16342945",
+        "name": "C. Walla"
+      },
+      {
+        "authorId": "147782362",
+        "name": "P. Cotroneo"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "1aff5f25ebe297d5f28626cbbf738df4c69e3a30",
+    "externalIds": {
+      "MAG": "2089794070",
+      "DOI": "10.1097/01.AOG.0000255665.77009.94",
+      "CorpusId": 454883,
+      "PubMed": "17329511"
+    },
+    "title": "Induction of Labor or Serial Antenatal Fetal Monitoring in Postterm Pregnancy: A Randomized Controlled Trial",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/01.AOG.0000255665.77009.94?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/01.AOG.0000255665.77009.94, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "5260106",
+        "name": "R. Heimstad"
+      },
+      {
+        "authorId": "5785658",
+        "name": "E. Skogvoll"
+      },
+      {
+        "authorId": "40399315",
+        "name": "L. Mattsson"
+      },
+      {
+        "authorId": "40448401",
+        "name": "O. J. Johansen"
+      },
+      {
+        "authorId": "1398386002",
+        "name": "S. Eik-Nes"
+      },
+      {
+        "authorId": "3671431",
+        "name": "K. Salvesen"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "ac3d5b32291943f10ab4d817ff0d18e7f4667677",
+    "externalIds": {
+      "PubMedCentral": "6598648",
+      "MAG": "2963460930",
+      "DOI": "10.1136/bmj.l344",
+      "CorpusId": 73487689,
+      "PubMed": "30786997"
+    },
+    "title": "Induction of labour at 41 weeks versus expectant management until 42 weeks (INDEX): multicentre, randomised non-inferiority trial",
+    "openAccessPdf": {
+      "url": "https://research.monash.edu/files/263555362/263555096_oa.pdf",
+      "status": "HYBRID",
+      "license": "other-oa",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6598648, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "144627057",
+        "name": "J. Keulen"
+      },
+      {
+        "authorId": "40254361",
+        "name": "Aafke Bruinsma"
+      },
+      {
+        "authorId": "31472635",
+        "name": "J. Kortekaas"
+      },
+      {
+        "authorId": "4262317",
+        "name": "J. van Dillen"
+      },
+      {
+        "authorId": "66132804",
+        "name": "P. Bossuyt"
+      },
+      {
+        "authorId": "3725444",
+        "name": "M. Oudijk"
+      },
+      {
+        "authorId": "4619026",
+        "name": "Ruben G Duijnhoven"
+      },
+      {
+        "authorId": "2241826759",
+        "name": "A. V. van Kaam"
+      },
+      {
+        "authorId": "35994352",
+        "name": "F. Vandenbussche"
+      },
+      {
+        "authorId": "4636475",
+        "name": "J. V. D. van der Post"
+      },
+      {
+        "authorId": "143875385",
+        "name": "B. Mol"
+      },
+      {
+        "authorId": "83640157",
+        "name": "E. de Miranda"
+      }
+    ],
+    "references": [
+      {
+        "paperId": "4782e0e4cab1ca70f6ca57d1af7b896308403aaf",
+        "title": "Pozitif Doğum Deneyimi İçin İntrapartum Bakım Modeli: Dünya Sağlık Örgütü Önerileri"
+      },
+      {
+        "paperId": "4c6668b8e312f66da1519dad99ca2142abdb9e4b",
+        "title": "Timing induction of labour at 41 or 42 weeks? A closer look at time frames of comparison: A review."
+      },
+      {
+        "paperId": "3c3dab18f88e63abea4277b581cd8b96416fbb92",
+        "title": "Labor Induction versus Expectant Management in Low‐Risk Nulliparous Women"
+      },
+      {
+        "paperId": "b500fd2f1a864eaa0667daa783f5580451302e3e",
+        "title": "Improved neonatal outcome after active management of prolonged pregnancies beyond 41+2 weeks in nulliparous, but not among multiparous women"
+      },
+      {
+        "paperId": "40ff7efb4616ae73d3cc2caa42b9abd62851b751",
+        "title": "A ten-year study of midwife-led care at an Austrian tertiary care center: a retrospective analysis with special consideration of perineal trauma"
+      },
+      {
+        "paperId": "a78717ae59d9640155ad7e0cfb91fb37efe6a618",
+        "title": "Mode of birth and medical interventions among women at low risk of complications: A cross-national comparison of birth settings in England and the Netherlands"
+      },
+      {
+        "paperId": "c1acdfe841dd260d0cb34a582574809029786aa1",
+        "title": "Induction of labour for postdates in nulliparous women with uncomplicated pregnancy – is the caesarean section rate really lower?"
+      },
+      {
+        "paperId": "99b9575c24270f7a8d8dd84b87f94db75bca4088",
+        "title": "Induction of labour at term with oral misoprostol versus a Foley catheter (PROBAAT-II): a multicentre randomised controlled non-inferiority trial."
+      },
+      {
+        "paperId": "726dd665e5808197b34f01ae845fb485f4446ed7",
+        "title": "Study protocol of SWEPIS a Swedish multicentre register based randomised controlled trial to compare induction of labour at 41 completed gestational weeks versus expectant management and induction at 42 completed gestational weeks"
+      },
+      {
+        "paperId": "053fd9ca4c95b84e4774819b3eb6276e7a56fbca",
+        "title": "Justified skepticism about Apgar scoring in out-of-hospital birth settings"
+      },
+      {
+        "paperId": "715317cfc34296c8470a87f77aabacd03d43f730",
+        "title": "Severe Adverse Maternal Outcomes among Women in Midwife-Led versus Obstetrician-Led Care at the Onset of Labour in the Netherlands: A Nationwide Cohort Study"
+      },
+      {
+        "paperId": "1af54d0535d7cbc9cd538dbf9d1b892e7460585e",
+        "title": "Perinatal mortality and morbidity up to 28 days after birth among 743 070 low‐risk planned home and hospital births: a cohort study based on three merged national perinatal databases"
+      },
+      {
+        "paperId": "a45c32fb5e75ca6d0215e7004cdb52270e7c3827",
+        "title": "Effects of induction of labour versus expectant management in women with impending post-term pregnancies: the 41 week – 42 week dilemma"
+      },
+      {
+        "paperId": "6b6a61a27af9e8c302b5eae78462d20e6da054e1",
+        "title": "Practice Bulletin No. 146: Management of Late-Term and Postterm Pregnancies"
+      },
+      {
+        "paperId": "6a5db0fb4adfa02d8d24c672e099f8aca24be2f8",
+        "title": "Moving toward patient-centered care: Women's decisions, perceptions, and experiences of the induction of labor process."
+      },
+      {
+        "paperId": "d84b7e2b598a11e2f26218071fe7ae6108e96859",
+        "title": "International Classification of Diseases"
+      },
+      {
+        "paperId": "998b33c9d18a0a2f35b1d48f8c5bf46fba0c8e33",
+        "title": "Ethnic disparities in perinatal mortality at 40 and 41 weeks of gestation"
+      },
+      {
+        "paperId": "59470fa28c6152f1ab7cd03f347f01385ca33bbf",
+        "title": "Prolonged and post-term pregnancies: guidelines for clinical practice from the French College of Gynecologists and Obstetricians (CNGOF)."
+      },
+      {
+        "paperId": "1322967826770278ebb8cf3c98b2ee715dfa8749",
+        "title": "Severe adverse maternal outcomes among low risk women with planned home versus hospital births in the Netherlands: nationwide cohort study"
+      },
+      {
+        "paperId": "9f396398d3f3634529df55cc3ee07fa7d22e850b",
+        "title": "Overdue choices: how information and role in decision-making influence women's preferences for induction for prolonged pregnancy."
+      },
+      {
+        "paperId": "c1f4cede085d6087637bbca49613ec3010930627",
+        "title": "Induction at 41 weeks increases the risk of caesarean section in a hospital with a low rate of caesarean sections"
+      },
+      {
+        "paperId": "e7e8c20d3fe1c97cb3dfb5923adcb84866a1f3f7",
+        "title": "[Fetal and neonatal complications related to prolonged pregnancy]."
+      },
+      {
+        "paperId": "e45951daa0c4ac3437e431f94d8951cb418cb85f",
+        "title": "Épidémiologie de la grossesse prolongée : incidence et morbidité maternelle"
+      },
+      {
+        "paperId": "23bb900d08fa7868b0e7259ea22b2dae0b73988d",
+        "title": "Perinatal morbidity and mortality in late-term and post-term pregnancy. NEOSANO perinatal network's experience in Mexico"
+      },
+      {
+        "paperId": "933e5e44740d1a2d140f442c1ef06863448e3716",
+        "title": "Elective induction for pregnancies at or beyond 41 weeks of gestation and its impact on stillbirths: a systematic review with meta-analysis"
+      },
+      {
+        "paperId": "2ff71018a294acd9e8d1ad13b4c55b713ecf14e5",
+        "title": "Maternal risk factors for postterm pregnancy and cesarean delivery following labor induction"
+      },
+      {
+        "paperId": "102a62f7d1cd66964687da6921cdccc849f25740",
+        "title": "Guidelines for the management of postterm pregnancy"
+      },
+      {
+        "paperId": "eff6b0f11f0da173fc7a672e1229940775a0a424",
+        "title": "Induction of labour versus expectant monitoring for gestational hypertension or mild pre-eclampsia after 36 weeks' gestation (HYPITAT): a multicentre, open-label randomised controlled trial."
+      },
+      {
+        "paperId": "04790215dcd830fae08a2104a2fb360d73c1df12",
+        "title": "Comparison of induction of labour and expectant management in postterm pregnancy: a matched cohort study."
+      },
+      {
+        "paperId": "0e8f27d1abe358bf225019060a70fdff7136df46",
+        "title": "Perinatal mortality and morbidity in a nationwide cohort of 529 688 low‐risk planned home and hospital births"
+      },
+      {
+        "paperId": "32b1d0195c14ebc06b072958dc97fbee4e39853e",
+        "title": "Induction of labor versus expectant management for post‐date pregnancy: Is there sufficient evidence for a change in clinical practice?"
+      },
+      {
+        "paperId": "c3055b32223c2bf49237386d8fc62a7857d55109",
+        "title": "Perinatal outcomes in low-risk term pregnancies: do they differ by week of gestation?"
+      },
+      {
+        "paperId": "b7e04e40678406444465311ee5d405fd3e28711c",
+        "title": "Evaluation of 280,000 cases in Dutch midwifery practices: a descriptive study."
+      },
+      {
+        "paperId": "62cdf1920612c469f9c9fb2143d283bed979a2d1",
+        "title": "Evaluation of 280 000 cases in Dutch midwifery practices: a descriptive study"
+      },
+      {
+        "paperId": "af2af8d95cf01243728a6f8f734f30741c9a65f0",
+        "title": "Variation in rates of postterm birth in Europe: reality or artefact?"
+      },
+      {
+        "paperId": "800f6566c1b06653ef31f0a0d94aa1e7ef03f57f",
+        "title": "Induction of Labour for Improving Birth Outcomes for Women at or Beyond Term"
+      },
+      {
+        "paperId": "1630684c44db93e637f8c25a1147175904501a37",
+        "title": "Pregnancy risk increases from 41 weeks of gestation"
+      },
+      {
+        "paperId": "11d1a5c6f60de08386d646bde1cb365d0b4055ab",
+        "title": "Induction of labor with three different techniques at 41 weeks of gestation or spontaneous follow-up until 42 weeks in women with definitely unfavorable cervical scores."
+      },
+      {
+        "paperId": "68138986d9aeddb02e2b378aaf0805c13322fddf",
+        "title": "Influence of the birth attendant on maternal and neonatal outcomes during normal vaginal delivery: A comparison between midwife and physician management"
+      },
+      {
+        "paperId": "e4370f198936f80de41e327ae0b95c055ce764f8",
+        "title": "Prolonged pregnancy: evaluating gestation‐specific risks of fetal and infant mortality"
+      },
+      {
+        "paperId": "1743283e64b1a14b12f0dd61afa67f2447d545de",
+        "title": "Induction of labor as compared with serial antenatal monitoring in post-term pregnancy : a randomized controlled trial"
+      },
+      {
+        "paperId": "60e3bd7cdf2fc948f2171e9726c4f874fba84a9a",
+        "title": "Guidance"
+      },
+      {
+        "paperId": "7efff0bbd2edf94cf2424a121b832a1e8f37c134",
+        "title": "WHO Recommendations: Intrapartum care for a positive childbirth experience"
+      },
+      {
+        "paperId": null,
+        "title": "Australian Perinatal Practice Guidelines (SAPPG)"
+      },
+      {
+        "paperId": null,
+        "title": "Women’s experiences of being ‘overdue’in pregnancy"
+      },
+      {
+        "paperId": null,
+        "title": "Svensk Förening för Obstetric och Gynekologi . Induktion av förlossning"
+      },
+      {
+        "paperId": null,
+        "title": "Committee on Obstetric Practice, ACOGAmerican Academy of PediatricsCommittee on Fetus and Newborn, ACOG. ACOG Committee Opinion. Number 644, Oct 2015 (replaces No. 333, May 2006): The Apgar score"
+      },
+      {
+        "paperId": "07b22246681e663512439f170b68b99cc6d6a428",
+        "title": "Induction of labour: new NICE quality standard."
+      },
+      {
+        "paperId": "8a48136fdfdabca319f3846f97390f15e91e6f3a",
+        "title": "Patient safety in midwifery-led care in the Netherlands."
+      },
+      {
+        "paperId": "82dddca9d83b98d0067759853f86bf5f66ae9f32",
+        "title": "ACOG Committee Opinion No 579: Definition of term pregnancy."
+      },
+      {
+        "paperId": "9dbda80d530c34624f5d90bb81035e208cf71e2d",
+        "title": "[Epidemiology of prolonged pregnancy: incidence and maternal morbidity]."
+      },
+      {
+        "paperId": null,
+        "title": "Perinatal Registration"
+      },
+      {
+        "paperId": null,
+        "title": "National Institute for Health and Clinical Excellence. Guidance. Induction of Labour"
+      },
+      {
+        "paperId": null,
+        "title": "Nederlandse Vereniging voor Obstetrie & Gynaecologie. Guideline Prolonged Pregnancy"
+      },
+      {
+        "paperId": "187762fbdde17e619db260f36a486e06adcd41c4",
+        "title": "Stillbirths and rate of neonatal deaths in 76,761 postterm pregnancies in Sweden, 1982-1991; a register study."
+      }
+    ]
+  },
+  {
+    "paperId": "8d8afd44d9960997227a225ba5cb062f18bdc2e0",
+    "externalIds": {
+      "MAG": "2460855892",
+      "DOI": "10.1016/J.CPTL.2016.06.011",
+      "CorpusId": 57058166
+    },
+    "title": "Research Article Effectiveness of flipped classroom instructional model in teaching pharmaceutical calculations",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.CPTL.2016.06.011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.CPTL.2016.06.011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "15982229",
+        "name": "Karyn I. Cotta"
+      },
+      {
+        "authorId": "2304563",
+        "name": "Samit Shah"
+      },
+      {
+        "authorId": "14114166",
+        "name": "Michaela M. Almgren"
+      },
+      {
+        "authorId": "1420598794",
+        "name": "Lilia Z. Macias-Moriarity"
+      },
+      {
+        "authorId": "31856001",
+        "name": "V. Mody"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "5cc7bf1b09679ad12531a23a44b462a4427b3690",
+    "externalIds": {
+      "MAG": "2314850248",
+      "DOI": "10.1097/ACM.0000000000001085",
+      "CorpusId": 5585996,
+      "PubMed": "26796089"
+    },
+    "title": "An Innovative Blended Preclinical Curriculum in Clinical Epidemiology and Biostatistics: Impact on Student Satisfaction and Performance.",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1097/acm.0000000000001085",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1097/ACM.0000000000001085?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/ACM.0000000000001085, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "6472856",
+        "name": "Kambria H. Evans"
+      },
+      {
+        "authorId": "35346404",
+        "name": "A. Thompson"
+      },
+      {
+        "authorId": "1435478439",
+        "name": "C. O'Brien"
+      },
+      {
+        "authorId": "1401746161",
+        "name": "Madika Bryant"
+      },
+      {
+        "authorId": "14431213",
+        "name": "P. Basaviah"
+      },
+      {
+        "authorId": "6425156",
+        "name": "C. Prober"
+      },
+      {
+        "authorId": "3831320",
+        "name": "R. Popat"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "5125c545f1a9fcbf1d0789f9d91044c8a050c8d6",
+    "externalIds": {
+      "MAG": "2932639131",
+      "DOI": "10.5455/njppp.2019.9.0310829032019",
+      "CorpusId": 151272860
+    },
+    "title": "A comparative study of flip classroom teaching method versus traditional classroom teaching method in undergraduate medical students in physiology",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.5455/njppp.2019.9.0310829032019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5455/njppp.2019.9.0310829032019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "77258320",
+        "name": "Dharmendra Dodiya"
+      },
+      {
+        "authorId": "83635479",
+        "name": "Divyesh Vadasmiya"
+      },
+      {
+        "authorId": "38050081",
+        "name": "J. Diwan"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "112a5b7ec31ff47d13e99c5dd8db346b7e1b62e7",
+    "externalIds": {
+      "MAG": "2911113063",
+      "PubMedCentral": "6333329",
+      "DOI": "10.1371/journal.pone.0210606",
+      "CorpusId": 58658343,
+      "PubMed": "30645609"
+    },
+    "title": "The effects of the flipped classroom in teaching evidence based nursing: A quasi-experimental study",
+    "openAccessPdf": {
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0210606&type=printable",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6333329, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "4840853",
+        "name": "Tsung-Lan Chu"
+      },
+      {
+        "authorId": "13257221",
+        "name": "Jeng Wang"
+      },
+      {
+        "authorId": "4711426",
+        "name": "L. Monrouxe"
+      },
+      {
+        "authorId": "115283146",
+        "name": "Y. Sung"
+      },
+      {
+        "authorId": "2072614757",
+        "name": "Chen-Li Kuo"
+      },
+      {
+        "authorId": "8416017",
+        "name": "Lun-Hui Ho"
+      },
+      {
+        "authorId": "2143785159",
+        "name": "Yueh-E Lin"
+      }
+    ],
+    "references": [
+      {
+        "paperId": "74a54affe6f93f495331a8d45d3d0a7f300162b9",
+        "title": "Academic outcomes of flipped classroom learning: a meta‐analysis"
+      },
+      {
+        "paperId": "0859fa0385c6c594bf7578af407578bfd1e9b206",
+        "title": "The Flipped Learning Approach in Nursing Education: A Literature Review."
+      },
+      {
+        "paperId": "ef1c4009789a6c57f74165d5e02b437cc1fb9ab4",
+        "title": "The evidence for 'flipping out': A systematic review of the flipped classroom in nursing education."
+      },
+      {
+        "paperId": "ac896893d214cf7b2f82164e9b7ee1da4b96d0ef",
+        "title": "[A Study of the Evidence-Based Nursing Practice Competence of Nurses and Its Clinical Applications]."
+      },
+      {
+        "paperId": "bab04da10b00618dfcf0e1383567485fed60a5c6",
+        "title": "Flipping the Classroom: Strategies for Psychiatric-Mental Health Course"
+      },
+      {
+        "paperId": "508aed14d3b8631153d796482e7c37b049d3e9ec",
+        "title": "Flipped Versus Traditional Instruction and Achievement in a Baccalaureate Nursing Pharmacology Course"
+      },
+      {
+        "paperId": "407d7a646e50c21a0a293d26acc319ea39939e17",
+        "title": "Short review of the flipped classroom approach"
+      },
+      {
+        "paperId": "ee80c3d2cfa2f39e730f5d09a14a664fb377f57b",
+        "title": "Acceptability of health information technology aimed at environmental health education in a prenatal clinic."
+      },
+      {
+        "paperId": "34c39a0a016be09a53d2314d49f8997d39160bb4",
+        "title": "Flipped Classroom Versus Traditional Textbook Instruction: Assessing Accuracy and Mental Effort at Different Levels of Mathematical Complexity"
+      },
+      {
+        "paperId": "dea76ab27451f4020109894cd991635598d9360f",
+        "title": "Faculty and organizational characteristics associated with informatics/health information technology adoption in DNP programs."
+      },
+      {
+        "paperId": "e40b582f55050710b556bd77b119a54f81136ba8",
+        "title": "Barriers and facilitators to evidence-based nursing in Colombia: perspectives of nurse educators, nurse researchers and graduate students."
+      },
+      {
+        "paperId": "2ceca24234ee6f70eeba080d85ea09f284d1b711",
+        "title": "Adopting a blended learning approach to teaching evidence based medicine: a mixed methods study"
+      },
+      {
+        "paperId": "0b4ef2efea4845cf3cc15e497923cc7b7cc541e2",
+        "title": "[Strategy for promoting evidence-based nursing practice in hospital]."
+      },
+      {
+        "paperId": "e975c19b3d25eceef7a2c80b75dd19f2b8878144",
+        "title": "Case Studies and the Flipped Classroom"
+      },
+      {
+        "paperId": "3a462490ef36637be582869326d5c4e4af996063",
+        "title": "Flip Your Students' Learning."
+      },
+      {
+        "paperId": "1297f31c0499d5b5e0a799c34b77ae11f05e7b6e",
+        "title": "Thoughts About Evidence-Based Nursing Practice"
+      },
+      {
+        "paperId": "6a3dcd02e4bc5e9164c6565c0572607bfa1edc5c",
+        "title": "Validation of scales measuring self-efficacy and outcome expectancy in evidence-based practice."
+      },
+      {
+        "paperId": "f9b29698320aad2a632bffbc7b07ad0f0f1aa6cb",
+        "title": "Educating nurses: A call for radical transformation"
+      },
+      {
+        "paperId": "6505418091212282ba5b1a50857db110abc5f2e7",
+        "title": "Evidence-based Nursing Education - a Systematic Review of Empirical Research"
+      },
+      {
+        "paperId": "6dd2b176390ec87a74de3f22160ba91729cc10ec",
+        "title": "Evidence-Based Practice: Step by Step: The Seven Steps of Evidence-Based Practice"
+      },
+      {
+        "paperId": "2121cbb8c235b5c0577578cb339e698f349ffe4e",
+        "title": "A randomised-controlled trial of two educational modes for undergraduate evidence-based medicine learning in Asia"
+      },
+      {
+        "paperId": "c56a9cd133599a47f985f0e1a602f8fd1dfa4f91",
+        "title": "Teaching evidence-based nursing practice in geriatric care settings: the geriatric nursing innovations through education institute."
+      },
+      {
+        "paperId": "c3fa649ad29fc7dbe2e6d89f5118e12f95992c15",
+        "title": "Using evidence-based nursing rounds to improve patient outcomes."
+      },
+      {
+        "paperId": "03e954afec17976778347fb22a96976e5134ee03",
+        "title": "Nursing Faculty Mentors as Facilitators for Evidence-Based Nursing Practice"
+      },
+      {
+        "paperId": "d9b6ad37b44b3847d61f8d1a1b134373d6a0f310",
+        "title": "Nurses' perceptions of evidence-based nursing practice."
+      },
+      {
+        "paperId": "b7ccfd9f651f1b882e887a319d7f6c4862f2692c",
+        "title": "[Reading nursing Literature in English: new inputs for practicing nurses]."
+      },
+      {
+        "paperId": "2a786c614db35f6ac75b8f5790559e4be50bb4ef",
+        "title": "Evidence-Based Practice in Nursing and Healthcare: A Guide to Best Practice"
+      },
+      {
+        "paperId": "7279590d2718dbf409ab45fd5164fc7e42963ed8",
+        "title": "Enhancing student engagement using the flipped classroom."
+      },
+      {
+        "paperId": "d2895fdef8462ff2b40711f09ac85da34e3b3126",
+        "title": "Evidence-based nursing innovations."
+      },
+      {
+        "paperId": "01939a4ce4340309b9be3ce3c15dad490ee61716",
+        "title": "Upside down and inside out: Flip Your Classroom to Improve Student Learning."
+      },
+      {
+        "paperId": "e019973084bc07787f972dd03978c77caa75c068",
+        "title": "Implementation of evidence-based nursing practice: nurses' personal and professional factors?"
+      },
+      {
+        "paperId": "4e34fa95553a5d09173dcb48842f388084e5af63",
+        "title": "Evidence-Based Practice in Nursing & Healthcare: A Guide to Best Pratice Second Edition"
+      },
+      {
+        "paperId": "c7dd03907f4c34459a991bd728a1f6b6dc0b51ce",
+        "title": "Evidence-based practice in nursing & healthcare : a guide to best practice"
+      },
+      {
+        "paperId": null,
+        "title": "A Study of factors that influence nurse implementation of evidence-based practice"
+      },
+      {
+        "paperId": null,
+        "title": "From teaching innovation to course design of general education : Case study of the course “ Literature and Life ”"
+      },
+      {
+        "paperId": null,
+        "title": "The Concept and Clinical Application of Evidence-Based Nursing"
+      },
+      {
+        "paperId": null,
+        "title": "Journal of General Education"
+      },
+      {
+        "paperId": null,
+        "title": "Mobile-oriented knowledge management system to improve the efficiency of the medical institution management"
+      },
+      {
+        "paperId": null,
+        "title": "Implement of science and technology education and teaching activities in active learning environment"
+      },
+      {
+        "paperId": null,
+        "title": "Educators evaluate\" flipped classrooms. Education Week"
+      },
+      {
+        "paperId": null,
+        "title": "The effects of evidence-based nursing training program on nurses’ knowledge, attitude, and behavior"
+      },
+      {
+        "paperId": null,
+        "title": "A class without a teacher-the self-learning benefits and factors led to success of flipped classroom"
+      },
+      {
+        "paperId": null,
+        "title": "An application of the “flipped Classroom” model to Chinese language teaching"
+      },
+      {
+        "paperId": null,
+        "title": "Flipping the Teaching"
+      }
+    ]
+  },
+  {
+    "paperId": "048daa820fef7e40813c6d05d91df0fd3a73a57f",
+    "externalIds": {
+      "PubMedCentral": "8432835",
+      "DOI": "10.1371/journal.pone.0257208",
+      "CorpusId": 237478690,
+      "PubMed": "34506512"
+    },
+    "title": "Multilevel factor analysis of flipped classroom in dental education: A 3-year randomized controlled trial",
+    "openAccessPdf": {
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0257208&type=printable",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8432835, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "122244190",
+        "name": "Zuo Wang"
+      },
+      {
+        "authorId": "2126216948",
+        "name": "Eiko Yoshida Kohno"
+      },
+      {
+        "authorId": "91786612",
+        "name": "K. Fueki"
+      },
+      {
+        "authorId": "2005540",
+        "name": "T. Ueno"
+      },
+      {
+        "authorId": "50036041",
+        "name": "Yuka Inamochi"
+      },
+      {
+        "authorId": "120021098",
+        "name": "K. Takada"
+      },
+      {
+        "authorId": "144893677",
+        "name": "N. Wakabayashi"
+      }
+    ],
+    "references": [
+      {
+        "paperId": "ab2179ebe51c69df431635efcd9fd569f206f1ae",
+        "title": "The effectiveness of flipped classroom on learning outcomes of medical statistics in a Chinese medical school"
+      },
+      {
+        "paperId": "215c2fad06528e3c26ead59b471cb27e756a9352",
+        "title": "Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic"
+      },
+      {
+        "paperId": "5f5ffa6a80ea009f9b91abb431b8de1435dc2fe9",
+        "title": "Flipped classroom in dental education: A scoping review."
+      },
+      {
+        "paperId": "24e05107b800cbaaa98798f1cf5cec38865f29e5",
+        "title": "Effects of flipping the classroom on learning outcomes and satisfaction: A meta-analysis"
+      },
+      {
+        "paperId": "111cebbb9f72c98c1af8679f91a49fa9ae9cec87",
+        "title": "Effectiveness and Perceptions of Flipped Learning Model in Dental Education: A Systematic Review."
+      },
+      {
+        "paperId": "c13402e4e45f92ddf4ee562847b2508c2a0b2418",
+        "title": "Flipped classroom narrows the performance gap between low- and high-performing dental students in physiology."
+      },
+      {
+        "paperId": "f839cb1380f365b034b19d5a971abe53eea83b6a",
+        "title": "Effects of the flipped classroom instructional strategy on students’ learning outcomes: a meta-analysis"
+      },
+      {
+        "paperId": "c44e2e5d32f4b22ca0dda55bb68bd842977c868d",
+        "title": "Student performance in a flipped classroom dental anatomy course"
+      },
+      {
+        "paperId": "816c3320825fc27927c83c6188b7ebe7ad7a861c",
+        "title": "Application of flipped classroom pedagogy to the human gross anatomy laboratory: Student preferences and learning outcomes"
+      },
+      {
+        "paperId": "4f63221b5b2de437fbbad85da1329d3ff49295d9",
+        "title": "Students' perceptions of a blended learning experience in dental education"
+      },
+      {
+        "paperId": "e062a88823edec5dba1921112337091fea4a7970",
+        "title": "Dental Students' Study Habits in Flipped/Blended Classrooms and Their Association with Active Learning Practices."
+      },
+      {
+        "paperId": "8d20df24d1e0560786de0f027cc6f7e640451c9f",
+        "title": "Improved Learning Outcomes After Flipping a Therapeutics Module: Results of a Controlled Trial"
+      },
+      {
+        "paperId": "710782a762b6c304c1d50212be2c3ec1f2445f19",
+        "title": "A systematic review of the effectiveness of flipped classrooms in medical education"
+      },
+      {
+        "paperId": "b6544cf09468edd23936bfcf3205d7ae12c5ba2e",
+        "title": "Facing the challenges in ophthalmology clerkship teaching: Is flipped classroom the answer?"
+      },
+      {
+        "paperId": "1fbcb4c79623092aa3322bc43240ffde665db858",
+        "title": "Friend or Foe? Flipped Classroom for Undergraduate Electrocardiogram Learning: a Randomized Controlled Study"
+      },
+      {
+        "paperId": "cb7e4be426168c07fd6526b36ec28253c5b60417",
+        "title": "Measuring the impact of the flipped anatomy classroom: The importance of categorizing an assessment by Bloom's taxonomy"
+      },
+      {
+        "paperId": "0b68bd4a3f131efe0025ecadeb7913279abeabc1",
+        "title": "The flipped classroom allows for more class time devoted to critical thinking."
+      },
+      {
+        "paperId": "3a0176ef80989d72f49e5354ad27786e6e2af604",
+        "title": "Flipping Radiology Education Right Side Up."
+      },
+      {
+        "paperId": "5cc7bf1b09679ad12531a23a44b462a4427b3690",
+        "title": "An Innovative Blended Preclinical Curriculum in Clinical Epidemiology and Biostatistics: Impact on Student Satisfaction and Performance."
+      },
+      {
+        "paperId": "836314b4a1b0c6efbf201f6a63630f7af64b530f",
+        "title": "Impact of Flipped Classroom Design on Student Performance and Perceptions in a Pharmacotherapy Course"
+      },
+      {
+        "paperId": "e65620252bb338f7998d5a81659290febc2df5e3",
+        "title": "Student experiences across multiple flipped courses in a single curriculum"
+      },
+      {
+        "paperId": "394ea7614990b0222c0d30ef1a0d826a4d3644c6",
+        "title": "Evaluation of Team-Based Learning and Traditional Instruction in Teaching Removable Partial Denture Concepts."
+      },
+      {
+        "paperId": "209a975291f52b5212ad3619cceead1536ad4756",
+        "title": "Implementation of a flipped classroom educational model in a predoctoral dental course."
+      },
+      {
+        "paperId": "c3d53dd60fb91409f96d20e7c16a029da8f8cf51",
+        "title": "Improvements from a Flipped Classroom May Simply Be the Fruits of Active Learning"
+      },
+      {
+        "paperId": "c528a293343f57516a90c763d5ac2f09b189e5cf",
+        "title": "Flipping the classroom with team-based learning in undergraduate nursing education."
+      },
+      {
+        "paperId": "38b0148ad7511da3561897863646a24fd18ed27e",
+        "title": "Flipping for success: evaluating the effectiveness of a novel teaching approach in a graduate level setting"
+      },
+      {
+        "paperId": "6009556bdf3aa3a111a6ddc2c9200a59af1e13e2",
+        "title": "Active learning increases student performance in science, engineering, and mathematics"
+      },
+      {
+        "paperId": "009be287b2b579e0593a7de3c9c77ecad29eeb72",
+        "title": "Flipped classroom model improves graduate student performance in cardiovascular, respiratory, and renal physiology."
+      },
+      {
+        "paperId": "23da76a3030c3c89fdb6636d245398adcb3bd217",
+        "title": "A blended learning approach to teaching pre-clinical complete denture prosthodontics."
+      },
+      {
+        "paperId": "4e6bb09285297775230fee6449adb5333603323d",
+        "title": "How learning in an inverted classroom influences cooperation, innovation and task orientation"
+      },
+      {
+        "paperId": "48a724aad3f55fdd415a83847b2c97af0a71a5a8",
+        "title": "Lecture halls without lectures--a proposal for medical education."
+      },
+      {
+        "paperId": "ae26020ff7737b6b97c7305b0bede70b39cb78c8",
+        "title": "Flipping the Quality Improvement Classroom in Residency Education"
+      },
+      {
+        "paperId": "e429d4c66ee33a29adf25d627cac8281006ae2c7",
+        "title": "Using the Flipped Classroom to Bridge the Gap to Generation Y."
+      }
+    ]
+  },
+  {
+    "paperId": "1d73b2e47d5da725be1391500ad879f5165d39c3",
+    "externalIds": {
+      "MAG": "2973085559",
+      "DOI": "10.1111/eje.12467",
+      "CorpusId": 202572032,
+      "PubMed": "31518475"
+    },
+    "title": "Teaching Orthodontic Emergencies Using The \"Flipped Classroom\" Method Of Teaching - A Mixed Methods RCT.",
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/eje.12467?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/eje.12467, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "40293586",
+        "name": "G. Isherwood"
+      },
+      {
+        "authorId": "49955018",
+        "name": "K. Taylor"
+      },
+      {
+        "authorId": "2808570",
+        "name": "G. Burnside"
+      },
+      {
+        "authorId": "15536522",
+        "name": "R. Fitzgerald"
+      },
+      {
+        "authorId": "40595790",
+        "name": "N. Flannigan"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "ec4adb87cae180789ed6ceb8b8c3a585601b08d9",
+    "externalIds": {
+      "MAG": "34185163",
+      "DOI": "10.1177/019874290302900102",
+      "CorpusId": 141278724
+    },
+    "title": "Effects of Self-Talk on Academic Engagement and Academic Responding",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/019874290302900102?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/019874290302900102, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "113535571",
+        "name": "Kimberly J. Callicott"
+      },
+      {
+        "authorId": "115252521",
+        "name": "Hija Park"
+      }
+    ],
+    "references": null
+  },
+  null,
+  {
+    "paperId": "65d0f3f6c481a9fd40ea650e78ffec390c4b73e2",
+    "externalIds": {
+      "MAG": "76601630",
+      "DOI": "10.1177/019874290603100204",
+      "CorpusId": 140855363
+    },
+    "title": "FBA and BIP: Increasing the Behavior Adjustment of African American Boys in Schools",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/019874290603100204?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/019874290603100204, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [],
+    "references": null
+  },
+  {
+    "paperId": "7930b24c0088b1e72c4fb5268cb77c26fea5e107",
+    "externalIds": {
+      "MAG": "2007888945",
+      "DOI": "10.1007/s10802-010-9398-x",
+      "CorpusId": 9958898,
+      "PubMed": "20180009"
+    },
+    "title": "Intervention to Strengthen Emotional Self-Regulation in Children with Emerging Mental Health Problems: Proximal Impact on School Behavior",
+    "openAccessPdf": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2880630",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10802-010-9398-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10802-010-9398-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3977656",
+        "name": "P. Wyman"
+      },
+      {
+        "authorId": "5687436",
+        "name": "Wendi F. Cross"
+      },
+      {
+        "authorId": "2243829956",
+        "name": "C. Hendricks Brown"
+      },
+      {
+        "authorId": "2107097760",
+        "name": "Q. Yu"
+      },
+      {
+        "authorId": "50151469",
+        "name": "X. Tu"
+      },
+      {
+        "authorId": "39422788",
+        "name": "S. Eberly"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "0b3411ad40038c3862635a0f0a61afd52a55952a",
+    "externalIds": {
+      "DOI": "10.1007/s10864-019-09346-5",
+      "CorpusId": 254657149
+    },
+    "title": "Improving Compliance in Primary School Students with Autism Spectrum Disorder",
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10864-019-09346-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10864-019-09346-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1393312808",
+        "name": "Tsuyoshi Imasaka"
+      },
+      {
+        "authorId": "47444269",
+        "name": "Pei-Ling Lee"
+      },
+      {
+        "authorId": "50606626",
+        "name": "A. Anderson"
+      },
+      {
+        "authorId": "1388718425",
+        "name": "Chernyse W. R. Wong"
+      },
+      {
+        "authorId": "32705310",
+        "name": "D. Moore"
+      },
+      {
+        "authorId": "13697940",
+        "name": "B. Furlonger"
+      },
+      {
+        "authorId": "1396618971",
+        "name": "Margherita Bussaca"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "e098684f4b2306bd9d6dd6f4f3bc3bec5e1435c8",
+    "externalIds": {
+      "MAG": "1977203936",
+      "DOI": "10.1177/1049731513509691",
+      "CorpusId": 144094059
+    },
+    "title": "A Randomized Trial of the Self-Management Training and Regulation Strategy for Disruptive Students",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1177/1049731513509691?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/1049731513509691, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "47022647",
+        "name": "A. Thompson"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "bdcdbbfb5b9115fab11166bbdc9b9c1bbd1488c9",
+    "externalIds": {
+      "MAG": "2142741124",
+      "DOI": "10.1093/HEAPOL/12.2.115",
+      "CorpusId": 22579164,
+      "PubMed": "10168194"
+    },
+    "title": "Cost-effective treatment for severely malnourished children: what is the best approach?",
+    "openAccessPdf": {
+      "url": "https://academic.oup.com/heapol/article-pdf/12/2/115/6749056/12-2-115.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1093/HEAPOL/12.2.115?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/HEAPOL/12.2.115, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "144555673",
+        "name": "A. Ashworth"
+      },
+      {
+        "authorId": "3544087",
+        "name": "S. Khanum"
+      },
+      {
+        "authorId": "3544087",
+        "name": "S. Khanum"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "0990df16c338eac048e45f52d6fa815253e11b57",
+    "externalIds": {
+      "MAG": "2097225853",
+      "DOI": "10.1093/AJCN/78.2.302",
+      "CorpusId": 4512257,
+      "PubMed": "12885713"
+    },
+    "title": "Comparison of the efficacy of a solid ready-to-use food and a liquid, milk-based diet for the rehabilitation of severely malnourished children: a randomized trial.",
+    "openAccessPdf": {
+      "url": "https://academic.oup.com/ajcn/article-pdf/78/2/302/23711819/302.pdf",
+      "status": "BRONZE",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1093/AJCN/78.2.302?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/AJCN/78.2.302, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "12092944",
+        "name": "E. I. Diop"
+      },
+      {
+        "authorId": "12101624",
+        "name": "N. Dossou"
+      },
+      {
+        "authorId": "25674837",
+        "name": "M. Ndour"
+      },
+      {
+        "authorId": "6426894",
+        "name": "A. Briend"
+      },
+      {
+        "authorId": "144919243",
+        "name": "S. Wade"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "06c2419401236025aed7cd5b945a7f3fa68f069a",
+    "externalIds": {
+      "MAG": "2260962873",
+      "DOI": "10.6133/apjcn.2015.24.1.15",
+      "CorpusId": 903344,
+      "PubMed": "25740754"
+    },
+    "title": "Locally produced cereal/nut/legume-based biscuits versus peanut/milk-based spread for treatment of moderately to mildly wasted children in daily programmes on Nias Island, Indonesia: an issue of acceptance and compliance?",
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.6133/apjcn.2015.24.1.15?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.6133/apjcn.2015.24.1.15, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "5203622",
+        "name": "V. Scherbaum"
+      },
+      {
+        "authorId": "4004421",
+        "name": "R. Purwestri"
+      },
+      {
+        "authorId": "4849978",
+        "name": "W. Stuetz"
+      },
+      {
+        "authorId": "4512524",
+        "name": "D. A. Inayati"
+      },
+      {
+        "authorId": "4448013",
+        "name": "Julia Suryantan"
+      },
+      {
+        "authorId": "5433895",
+        "name": "M. Bloem"
+      },
+      {
+        "authorId": "5190750",
+        "name": "H. Biesalski"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "ba8c4e968fee85aa87d08009500ba7cee4e75c8b",
+    "externalIds": {
+      "PubMedCentral": "3314008",
+      "MAG": "2032968242",
+      "DOI": "10.1371/journal.pone.0033112",
+      "CorpusId": 12337575,
+      "PubMed": "22479361"
+    },
+    "title": "Efficacy of a High-Dose in Addition to Daily Low-Dose Vitamin A in Children Suffering from Severe Acute Malnutrition with Other Illnesses",
+    "openAccessPdf": {
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0033112&type=printable",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3314008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "8583465",
+        "name": "S. Sattar"
+      },
+      {
+        "authorId": "2303036224",
+        "name": "T. Ahmed"
+      },
+      {
+        "authorId": "6590874",
+        "name": "C. Rasul"
+      },
+      {
+        "authorId": "144015346",
+        "name": "D. Saha"
+      },
+      {
+        "authorId": "2378158",
+        "name": "M. Salam"
+      },
+      {
+        "authorId": "78711172",
+        "name": "M. I. Hossain"
+      }
+    ],
+    "references": [
+      {
+        "paperId": "baad4d39f88484747d73806610a686f842d67284",
+        "title": "Effect of daily low dose of vitamin A compared with single high dose on morbidity and mortality of hospitalized mainly malnourished children in senegal: a randomized controlled clinical trial"
+      },
+      {
+        "paperId": "6ee760bc5134aa7f79dd3d6565b16f63cc0403c2",
+        "title": "Randomized, double-blind, placebo-controlled clinical trial of the efficacy of treatment with zinc or vitamin A in infants and young children with severe acute lower respiratory infection."
+      },
+      {
+        "paperId": "6a0159e208e59707eb0910973cfaecad79f5823b",
+        "title": "Book Review: Guidelines for the Inpatient Treatment of Severely Malnourished Children"
+      },
+      {
+        "paperId": "434509ece163481f0a3f08d857bd2f338dc182cd",
+        "title": "Vitamin A supplementation and health outcomes for children in Nepal."
+      },
+      {
+        "paperId": "c759e5e460260712b0b2428cbb5305f121c95c70",
+        "title": "Recommendations for vitamin A supplementation."
+      },
+      {
+        "paperId": "b9a3e90e85de522b9379b2c806aea274a7f99d57",
+        "title": "A Review of the Evidence for the Benefits and Safety of Adding Vitamin A to the Treatment of Six Common Health Problems in Children"
+      },
+      {
+        "paperId": "e4bd66d11ffa63cc9f378763a07a73d8014eee0d",
+        "title": "Serum retinol, the acute phase response, and the apparent misclassification of vitamin A status in the third National Health and Nutrition Examination Survey."
+      },
+      {
+        "paperId": "2ce82a3383e4aa79499942037cfc737b3a3211ac",
+        "title": "Vitamin A supplements and diarrheal and respiratory tract infections among children in Dar es Salaam, Tanzania."
+      },
+      {
+        "paperId": "fa899147a47f09a2bcbcad96d47d8960aaa0d06d",
+        "title": "Vitamin A supplementation: implications for morbidity and mortality in children."
+      },
+      {
+        "paperId": "ac434d6f2d878f12e307f0171269a268731677a4",
+        "title": "Management of severe malnutrition: a manual for physicians and other senior health workers"
+      },
+      {
+        "paperId": "d9191b4f451a793605910266ca175d01895cc275",
+        "title": "Mortality in severely malnourished children with diarrhoea and use of a standardised management protocol."
+      },
+      {
+        "paperId": "babd2193d60fe2972a95895fc0286953c2a3cfe5",
+        "title": "Double‐blind, randomized, controlled trial of zinc or vitamin A supplementation in young children with acute diarrhoea"
+      },
+      {
+        "paperId": "3ed204b78012adb7a56494cdc9d69eac38d18151",
+        "title": "Randomized placebo-controlled clinical trial of the effect of a single high dose or daily low doses of vitamin A on the morbidity of hospitalized, malnourished children."
+      },
+      {
+        "paperId": "250ed0b1959de1947de277b7c32271ec06f6aa65",
+        "title": "Predictors of serum retinol in children with shigellosis."
+      },
+      {
+        "paperId": "bcdf747681c23f6af405babefdf31541bac88f0f",
+        "title": "Vitamin A supplementation and severity of pneumonia in children admitted to the hospital in Dar es Salaam, Tanzania."
+      },
+      {
+        "paperId": "01ca092f9e8fc65d8af26fe768c9a39972333ab0",
+        "title": "Adverse effects of high-dose vitamin A supplements in children hospitalized with pneumonia."
+      },
+      {
+        "paperId": "0116a55eb151da56c38961d8568490790ed19674",
+        "title": "Vitamin A Deficiency: Health, Survival, and Vision"
+      },
+      {
+        "paperId": "00ef1965c4ac7a7aa4a33b6f05834880ba8e5502",
+        "title": "Single dose vitamin A treatment in acute shigellosis in Bangladeshi children: randomised double blind controlled trial"
+      },
+      {
+        "paperId": "f001c63598f1a0ad0eb8c85b2700ab6680ae4d37",
+        "title": "High dose vitamin A supplementation in the course of pneumonia in Vietnamese children"
+      },
+      {
+        "paperId": "505f02865abe9dc60f2bc28230c56326d24fd970",
+        "title": "Randomised, double blind, placebo controlled clinical trial of efficacy of vitamin A treatment in non-measles childhood pneumonia"
+      },
+      {
+        "paperId": "3cb60eebbc202a8d321fcf1c80eee76a1fb0e206",
+        "title": "Vitamin A therapy for children with respiratory syncytial virus infection: a multicenter trial in the United States."
+      },
+      {
+        "paperId": "e90a64e433ce094e44b9aa2ace48c03a0d70378a",
+        "title": "Effects of acute inflammation on plasma retinol, retinol-binding protein, and its mRNA in the liver and kidneys of vitamin A-sufficient rats."
+      },
+      {
+        "paperId": "e7d1a0a89c6bfa8579ef4f5e66c8169e9c1714cb",
+        "title": "Vitamin A supplementation fails to reduce incidence of acute respiratory illness and diarrhea in preschool-age Indonesian children."
+      },
+      {
+        "paperId": "c6dbc0b1e80dbd7dd7312ad32d46b6bae192fb9a",
+        "title": "Clinical trial of vitamin A as adjuvant treatment for lower respiratory tract infections."
+      },
+      {
+        "paperId": "fa4809755820b5d0e13abb617d07422508548f9a",
+        "title": "Vitamin A supplementation and increased prevalence of childhood diarrhoea and acute respiratory infections."
+      },
+      {
+        "paperId": "4cd89b3a4f6bcadf0ebd66efd3ef368c76043e7b",
+        "title": "Vitamin A supplementation in northern Ghana: effects on clinic attendances, hospital admissions, and child mortality"
+      },
+      {
+        "paperId": "5fe31cd91f521a2332965d2af91f7f7c22e96d83",
+        "title": "Lack of therapeutic efficacy of vitamin A for non-cholera, watery diarrhoea in Bangladeshi children."
+      },
+      {
+        "paperId": "3ce46ae60a02c2d3f6dcf8b6489a8eff4a001695",
+        "title": "Vitamin A supplementation reduces measles morbidity in young African children: a randomized, placebo-controlled, double-blind trial."
+      },
+      {
+        "paperId": "1a46fbcbcb1bb25c9d05f84bb9be81d45f147c9f",
+        "title": "Diarrhea, respiratory infections, and growth are not affected by a weekly low-dose vitamin A supplement: a masked, controlled field trial in children in southern India."
+      },
+      {
+        "paperId": "65f51d5317e545d55324776a682806b77627683e",
+        "title": "A randomized, controlled trial of vitamin A in children with severe measles."
+      },
+      {
+        "paperId": "f319ccf474712159ec701f48998e0e0b41376ee2",
+        "title": "Mild vitamin A deficiency and risk of respiratory tract diseases and diarrhea in preschool and school children in northeastern Thailand."
+      },
+      {
+        "paperId": "2746a5f2e37a4f2fd6055d39f98a8c2c15f1a6c7",
+        "title": "Impact of vitamin A supplementation on childhood mortality. A randomised controlled community trial."
+      },
+      {
+        "paperId": "6c939b0d3d01b99ff55582aa05272a4c3205f5da",
+        "title": "Rates of synthesis of prealbumin and retinol-binding protein during acute inflammation in the rat."
+      },
+      {
+        "paperId": "8bf587e96c2dce481f28f1e753f8eece56e47f2f",
+        "title": "Measurement of vitamin A and vitamin E in human serum by high-performance liquid chromatography."
+      },
+      {
+        "paperId": "905c240f37aa47cfbb5cfc4d8423974376ac9923",
+        "title": "The role of retinol-binding protein in protein-calorie malnutrition."
+      },
+      {
+        "paperId": null,
+        "title": "Nutrition Rehabilitation Unit at ICDDR,B An ideal home for treatment of children"
+      },
+      {
+        "paperId": null,
+        "title": "Severe malnutrition: Report of a consultation to review current literature 6"
+      },
+      {
+        "paperId": "cabdb4273e3f9eb37a4906d50dd8dd13ef75896e",
+        "title": "Impact of Vitamin A Supplementation on Childhood Mortality. A Randomised Controlled Community Trial"
+      },
+      {
+        "paperId": "52cd861af3cedb587d4ff6b87533f0392e76cb79",
+        "title": "A randomized controlled trial of vitamin A supplementation in acute diarrhea."
+      },
+      {
+        "paperId": "d24dd61690296eb8070e5da5bd10a26398e5a1e1",
+        "title": "Vitamin A Deficiency and Its Consequences: A Field Guide to Detection and Control"
+      },
+      {
+        "paperId": "b61ad705628f70d33a5dc2973efd1d55115a9b0e",
+        "title": "Effectiveness of vitamin A supplementation in the control of young child morbidity and mortality in developing countries. Revised ed."
+      },
+      {
+        "paperId": "d4e2ba4bc35fe62a0533635245ff32115641ad00",
+        "title": "Vitamin A and proteins."
+      },
+      {
+        "paperId": null,
+        "title": "High-Dose vs. Low-Dose Vitamin A in SAM PLoS ONE | www.plosone"
+      }
+    ]
+  },
+  {
+    "paperId": "5ad8976c82ae8834b84c68a8aa323d1440166b3d",
+    "externalIds": {
+      "PubMedCentral": "5321385",
+      "MAG": "2563599175",
+      "DOI": "10.1136/bmjgh-2016-000144",
+      "CorpusId": 4828642,
+      "PubMed": "28588982"
+    },
+    "title": "Efficacy of three feeding regimens for home-based management of children with uncomplicated severe acute malnutrition: a randomised trial in India",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1136/bmjgh-2016-000144",
+      "status": "GOLD",
+      "license": "CCBYNC",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5321385, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "145618063",
+        "name": "N. Bhandari"
+      },
+      {
+        "authorId": "11947779",
+        "name": "S. Mohan"
+      },
+      {
+        "authorId": "36899602",
+        "name": "A. Bose"
+      },
+      {
+        "authorId": "1786571",
+        "name": "S. Iyengar"
+      },
+      {
+        "authorId": "144932422",
+        "name": "S. Taneja"
+      },
+      {
+        "authorId": "145989723",
+        "name": "Sarmila Mazumder"
+      },
+      {
+        "authorId": "4543627",
+        "name": "R. A. Pricilla"
+      },
+      {
+        "authorId": "145753390",
+        "name": "K. Iyengar"
+      },
+      {
+        "authorId": "3616173",
+        "name": "H. Sachdev"
+      },
+      {
+        "authorId": "48395538",
+        "name": "V. Mohan"
+      },
+      {
+        "authorId": "5164367",
+        "name": "Virendra Suhalka"
+      },
+      {
+        "authorId": "36058629",
+        "name": "S. Yoshida"
+      },
+      {
+        "authorId": "40610878",
+        "name": "J. Martines"
+      },
+      {
+        "authorId": "46434526",
+        "name": "R. Bahl"
+      }
+    ],
+    "references": [
+      {
+        "paperId": "80afefbc28b42e8844c1f30ae6e8e6f059afc8b6",
+        "title": "Reproductive, maternal, newborn, and child health : key messages of this volume"
+      },
+      {
+        "paperId": "cff5d6f39db5593cfbfd0520880fd3e8d9f65aaf",
+        "title": "What does India need to do to address childhood malnutrition at scale?"
+      },
+      {
+        "paperId": "c4bc0c12abb2281417acca1ea2502497b733f59e",
+        "title": "Extending Supplementary Feeding for Children Younger Than 5 Years With Moderate Acute Malnutrition Leads to Lower Relapse Rates"
+      },
+      {
+        "paperId": "533271358b178fece468ba7bd8f603c18398c613",
+        "title": "Severe Acute Malnutrition in Asia"
+      },
+      {
+        "paperId": "e5753f524cf575801a116c917cc08bda2ecf311a",
+        "title": "Effectiveness of indigenous ready-to-use therapeutic food in community-based management of uncomplicated severe acute malnutrition: a randomized controlled trial from India."
+      },
+      {
+        "paperId": "18503dddf88c760a688fdefb82ddb2a4d4a32f9e",
+        "title": "Evidence-based interventions for improvement of maternal and child nutrition: what can be done and at what cost?"
+      },
+      {
+        "paperId": "c09264db9d5bbe1d48ed537f76591ce88f5f0af6",
+        "title": "Cost-effectiveness of the community-based management of severe acute malnutrition by community health workers in southern Bangladesh."
+      },
+      {
+        "paperId": "67ed4c10c6b5c9836c1d035edde6fefaa4c647ab",
+        "title": "Ready-to-use therapeutic food for home-based treatment of severe acute malnutrition in children from six months to five years of age."
+      },
+      {
+        "paperId": "6597f223d9d364b5bb8b5451e557a52ff7b5dc51",
+        "title": "Associations of Suboptimal Growth with All-Cause and Cause-Specific Mortality in Children under Five Years: A Pooled Analysis of Ten Prospective Studies"
+      },
+      {
+        "paperId": "bbc2da8bdf55a024f96df827958b8ed127d7423a",
+        "title": "Locally-prepared ready-to-use therapeutic food for children with severe acute malnutrition: A controlled trial"
+      },
+      {
+        "paperId": "03f16833da22d07927f51b743a534abb74d81b01",
+        "title": "Antibiotics as part of the management of severe acute malnutrition."
+      },
+      {
+        "paperId": "c7c0cca387b19d532064630f3a4aadfef63b7b48",
+        "title": "Cost effectiveness of community-based and in-patient therapeutic feeding programs to treat severe acute malnutrition in Ethiopia"
+      },
+      {
+        "paperId": "39b334cfbebc8ae1e4cb1122447f577e0680b0ae",
+        "title": "Cost-effectiveness of community-based management of acute malnutrition in Malawi."
+      },
+      {
+        "paperId": "0884b4a7d6494fefd7ed2d0c7e72f36d5b11b626",
+        "title": "Malnutrition and Gastrointestinal and Respiratory Infections in Children: A Public Health Problem"
+      },
+      {
+        "paperId": "1e976755eb1f08722b3ad56f8ee4298a60817798",
+        "title": "A ready-to-use therapeutic food containing 10% milk is less effective than one with 25% milk in the treatment of severely malnourished children."
+      },
+      {
+        "paperId": "83c3fc9d2278b00e9dd044136f0f70a2e96216e6",
+        "title": "Consensus statement: National Consensus Workshop on management of SAM children through medical nutrition therapy"
+      },
+      {
+        "paperId": "ef0405a527f249a2dbd503a044d3d14dd3bcc382",
+        "title": "Cost–effectiveness of community-based treatment of severe acute malnutrition in children"
+      },
+      {
+        "paperId": "bd51f4ec77aa0a219ff1bd4ac7d9354d288217b2",
+        "title": "Caregiver verbal encouragement increases food acceptance among Vietnamese toddlers."
+      },
+      {
+        "paperId": "d5b2ebd21d77d30c107fdb8ac801beda9b4cb77a",
+        "title": "Ready to Use Therapeutic Food(RUTF) in the management of severe acute malnutrition in India."
+      },
+      {
+        "paperId": "905a6778f489b7c353fdf3c204e8fcf01b7ba286",
+        "title": "Should India Use Commercially Produced Ready to Use Therapeutic Foods (RUTF) for Severe Acute Malnutrition (SAM)"
+      },
+      {
+        "paperId": "43079eff9687e618ccdb1144ebd0d18ab5b87c8d",
+        "title": "Mainstreaming interventions in the health sector to address maternal and child undernutrition."
+      },
+      {
+        "paperId": "d8282be7dcb6e9838204b0aa3ff23d20004b5a44",
+        "title": "Assessment of weight changes during and after pregnancy: practical approaches."
+      },
+      {
+        "paperId": "c1f2f7016905e2f64e2c6cb8d17085220e6ae60d",
+        "title": "A comparison of the programme coverage of two therapeutic feeding interventions implemented in neighbouring districts of Malawi"
+      },
+      {
+        "paperId": "beeb84acc9451cd5ef2c4cd19ebb06893e08007f",
+        "title": "A large-scale operational study of home-based therapy with ready-to-use therapeutic food in childhood malnutrition in Malawi."
+      },
+      {
+        "paperId": "9b4f64833a1f43133732522c8f93c25b80300172",
+        "title": "Treating severe acute malnutrition seriously"
+      },
+      {
+        "paperId": "39a3e410b0718b39d9c0a82d7cde1c742b323245",
+        "title": "Management of severe acute malnutrition in children."
+      },
+      {
+        "paperId": "1ce7fd4c018789083763a569aa2368f10402bc89",
+        "title": "Local Production and Provision of Ready-To-Use Therapeutic Food (Rutf) Spread for the Treatment of Severe Childhood Malnutrition"
+      },
+      {
+        "paperId": "012c9957569608c0e77c5795be1b3b430e1f29b1",
+        "title": "Efficacy and Effectiveness of Community-Based Treatment of Severe Malnutrition"
+      },
+      {
+        "paperId": "82b7aacd399830c518ffb408c11706420592c78a",
+        "title": "WHO Child Growth Standards based on length/height, weight and age"
+      },
+      {
+        "paperId": "c7f9a48678b4d0c7373c7d893bb3329c32c928ec",
+        "title": "National workshop on \"Development of guidelines for effective home based care and treatment of children suffering from severe acute malnutrition\"."
+      },
+      {
+        "paperId": "ed05d4aed8300a2b839369ea79148de375675a00",
+        "title": "Comparison of home-based therapy with ready-to-use therapeutic food with standard therapy in the treatment of malnourished Malawian children: a controlled, clinical effectiveness trial."
+      },
+      {
+        "paperId": "699dbedca72ccd7a91865efb32cf45d780b175eb",
+        "title": "Home‐based therapy with ready‐to‐use therapeutic food is of benefit to malnourished, HIV‐infected Malawian children"
+      },
+      {
+        "paperId": "fb706f9ca79827c3d588833973be464248bf5d4a",
+        "title": "Home-Based Treatment of Malnourished Malawian Children with Locally Produced or Imported Ready-to-Use Food"
+      },
+      {
+        "paperId": "18b28a850cf2c282f587865d142972f2359519d9",
+        "title": "Home based therapy for severe malnutrition with ready-to-use food"
+      },
+      {
+        "paperId": "6c85d3300aea28c7b108159f67eefea656708b60",
+        "title": "The who Multicentre Growth Reference Study: Planning, Study Design, and Methodology"
+      },
+      {
+        "paperId": "bfa47de5a55ea6acf75eabc8ebfac75439eb4efc",
+        "title": "Cholera, diarrhea, and oral rehydration therapy: triumph and indictment."
+      },
+      {
+        "paperId": "0990df16c338eac048e45f52d6fa815253e11b57",
+        "title": "Comparison of the efficacy of a solid ready-to-use food and a liquid, milk-based diet for the rehabilitation of severely malnourished children: a randomized trial."
+      },
+      {
+        "paperId": "ac434d6f2d878f12e307f0171269a268731677a4",
+        "title": "Management of severe malnutrition: a manual for physicians and other senior health workers"
+      },
+      {
+        "paperId": "8f9094205721111d021941bd0bd025e331a87a24",
+        "title": "Ready-to-use therapeutic food for treatment of marasmus."
+      },
+      {
+        "paperId": "c4c7f824a6b74facd8c0499a7b553683f2c9979a",
+        "title": "Growth, morbidity, and mortality of children in Dhaka after treatment for severe malnutrition: a prospective study."
+      },
+      {
+        "paperId": "86fb0ffe94773c9a91d3ce9b96c4b6a162fa10de",
+        "title": "Controlled trial of three approaches to the treatment of severe malnutrition"
+      },
+      {
+        "paperId": "30c2efafc312818f14ce0e6660e51117ef682c48",
+        "title": "Diarrhea as a cause and an effect of malnutrition: diarrhea prevents catch-up growth and malnutrition increases diarrhea frequency and duration."
+      },
+      {
+        "paperId": "82181ba1ebe444d8952bacc949550450b2322404",
+        "title": "Integrated Management of Neonatal and Childhood Illness"
+      },
+      {
+        "paperId": "fdb4715449600f49a6e50e0475d929f607e33c15",
+        "title": "Interventions to Reduce Maternal and Newborn Morbidity and Mortality -- Reproductive, Maternal, Newborn, and Child Health: Disease Control Priorities, Third Edition (Volume 2)"
+      },
+      {
+        "paperId": "e0ec706ac7138de4100c6d3531cfb15000396d17",
+        "title": "Cluster-randomized trial on complementary and responsive feeding education to caregivers found improved dietary intake, growth and development among rural Indian toddlers."
+      },
+      {
+        "paperId": "0505b2df3503e21f560bd32479597666dbd31b66",
+        "title": "The effectiveness of the use of \"ready-to-use\" therapeutic food (RUTF) in treating malnourished children in developing countries and the way forward"
+      },
+      {
+        "paperId": null,
+        "title": "Guideline: updates on the management of severe acute malnutrition in infants and children. Geneva: World Health Organization"
+      },
+      {
+        "paperId": "809b3ff8664ffd18ab9a3c427145cb12d4c14401",
+        "title": "Hospital management of severely malnourished children: comparison of locally adapted protocol with WHO protocol."
+      },
+      {
+        "paperId": "bcb62b8aa2d266c8d8312454cc14c8e001291df4",
+        "title": "Cost Effectiveness and Resource Allocation Open Access Cost Effectiveness of Community-based Therapeutic Care for Children with Severe Acute Malnutrition in Zambia: Decision Tree Model"
+      },
+      {
+        "paperId": null,
+        "title": "Joint Child Malnutrition Estimates ( UNICEF - WHO - WB ) : Regional estimates for prevalence and number affected for wasting and severe wasting ( 2014 )"
+      }
+    ]
+  },
+  {
+    "paperId": "7c4be442f15b598eb73ff3a74137a4590f6b7a28",
+    "externalIds": {
+      "MAG": "2698319338",
+      "DOI": "10.18203/2349-3291.IJCP20172692",
+      "CorpusId": 79481047
+    },
+    "title": "Locally prepared ready to use therapeutic food for the treatment of children with severe acute malnutrition: a randomized controlled trial",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.18203/2349-3291.ijcp20172692",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.18203/2349-3291.IJCP20172692?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18203/2349-3291.IJCP20172692, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2250859635",
+        "name": "Ravichandra K. R."
+      },
+      {
+        "authorId": "48437289",
+        "name": "Narendra Behera"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "1ef97702d542126429fdb1b85c9de43fc5448e13",
+    "externalIds": {
+      "MAG": "1969558121",
+      "DOI": "10.1080/1057610X.2015.1008341",
+      "CorpusId": 108881486
+    },
+    "title": "Lone Wolf Terrorist or Deranged Shooter? A Study of Ideological Active Shooter Events in the United States, 1970–2014",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/1057610X.2015.1008341?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/1057610X.2015.1008341, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "40538707",
+        "name": "Joel A. Capellan"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "a97d3acb38f8627e8899184dac0ba4929af8a5b5",
+    "externalIds": {
+      "MAG": "2592387855",
+      "DOI": "10.1080/09546553.2016.1277669",
+      "CorpusId": 151386717
+    },
+    "title": "Paul Gill. Lone-Actor Terrorists: A Behavioural Analysis",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/09546553.2016.1277669?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/09546553.2016.1277669, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "144985444",
+        "name": "David C. Hofmann"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "072e6f46c75336e9718e6d5815c88f09ead8cab2",
+    "externalIds": {
+      "MAG": "2975640431",
+      "DOI": "10.1080/1068316X.2018.1503664",
+      "CorpusId": 149701463
+    },
+    "title": "The multifinality of vulnerability indicators in lone-actor terrorism",
+    "openAccessPdf": {
+      "url": "https://discovery.ucl.ac.uk/10052546/1/Bouhana_VulnerabilityAcceptedFinal.pdf",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/1068316X.2018.1503664?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/1068316X.2018.1503664, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "145497310",
+        "name": "E. Corner"
+      },
+      {
+        "authorId": "1915372",
+        "name": "N. Bouhana"
+      },
+      {
+        "authorId": "145524214",
+        "name": "P. Gill"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "4df5d10d0f7c28db330c00985e57ca8a3e53c165",
+    "externalIds": {
+      "MAG": "2904877084",
+      "DOI": "10.1111/1556-4029.13985",
+      "CorpusId": 56477116,
+      "PubMed": "30562412"
+    },
+    "title": "Disaggregating Mass Public Shootings: A Comparative Analysis of Disgruntled Employee, School, Ideologically motivated, and Rampage Shooters",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/1556-4029.13985?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/1556-4029.13985, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "40538707",
+        "name": "Joel A. Capellan"
+      },
+      {
+        "authorId": "2115618726",
+        "name": "Joseph Johnson"
+      },
+      {
+        "authorId": "40582248",
+        "name": "J. Porter"
+      },
+      {
+        "authorId": "50483871",
+        "name": "Christine Martin"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "830d2d2c2c51230910b3a4081d5b22ad1e6fe9a9",
+    "externalIds": {
+      "MAG": "3203818410",
+      "DOI": "10.1037/tam0000165",
+      "CorpusId": 244176017
+    },
+    "title": "TRAP-18 indicators validated through the forensic linguistic analysis of targeted violence manifestos.",
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1037/tam0000165?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1037/tam0000165, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2140759375",
+        "name": "Julia Kupper"
+      },
+      {
+        "authorId": "145852172",
+        "name": "J. Meloy"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "c3cabfb76ca5730509c6b213ac58aab0b05a4c7e",
+    "externalIds": {
+      "MAG": "3187364457",
+      "DOI": "10.1111/1556-4029.14793",
+      "CorpusId": 235808654,
+      "PubMed": "34254683"
+    },
+    "title": "Similar crimes, similar behaviors? Comparing lone‐actor terrorists and public mass murderers",
+    "openAccessPdf": {
+      "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/287159/1/Similar%20crimes%20%20similar%20behaviors.pdf",
+      "status": "GREEN",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/1556-4029.14793?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/1556-4029.14793, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "145524214",
+        "name": "P. Gill"
+      },
+      {
+        "authorId": "48946314",
+        "name": "James Silver"
+      },
+      {
+        "authorId": "2086494072",
+        "name": "J. Horgan"
+      },
+      {
+        "authorId": "145497310",
+        "name": "E. Corner"
+      },
+      {
+        "authorId": "1915372",
+        "name": "N. Bouhana"
+      }
+    ],
+    "references": [
+      {
+        "paperId": "682bd4a5a3ee20834a10b1be226019e0029ea489",
+        "title": "Assessing the Threat of Incel Violence"
+      },
+      {
+        "paperId": "d20e037ec88dbd5af49f5d629dad9ca7983c35d6",
+        "title": "The Data Collection Challenge: Experiences Studying Lone-actor Terrorism"
+      },
+      {
+        "paperId": "08052bd0c0920f92f520423072a624acada1e8de",
+        "title": "The Base Rate Study: Developing Base Rates for Risk Factors and Indicators for Engagement in Violent Extremism"
+      },
+      {
+        "paperId": "d989825c2a58ce816ba7c4af30aff0574def2589",
+        "title": "Same but Different? Developmental Pathways to Demonstrative Targeted Attacks — Qualitative Case Analyses of Adolescent and Young Adult Perpetrators of Targeted School Attacks and Jihadi Terrorist Attacks in Germany"
+      },
+      {
+        "paperId": "4e831ec6d68fba1c21d324a8dd03ed2c5d7f1444",
+        "title": "A Distinction Without a Difference? Examining the Causal Pathways Behind Ideologically Motivated Mass Public Shootings"
+      },
+      {
+        "paperId": "efab7a20171c7c34311037ae7b5d12a636702dc4",
+        "title": "Global Online Subculture Surrounding School Shootings"
+      },
+      {
+        "paperId": "8f6eaef361e783b4af7008137c81dca91bbcf131",
+        "title": "Establishing a joint agency response to the threat of lone-actor grievance-fuelled violence"
+      },
+      {
+        "paperId": "e2b57b4cf27063b16fe93e54f9789f8b4287f02f",
+        "title": "End of the Lone Wolf: The Typology that Should Not Have Been"
+      },
+      {
+        "paperId": "55935cef90d7fbdfecb4c9e803bfb02d51323e0b",
+        "title": "Mass Murder, Targeted Individuals, and Gang-Stalking: Exploring the Connection"
+      },
+      {
+        "paperId": "1f9f6b47da1169a889ff58bfc1dadf4493e41f28",
+        "title": "Shooting Alone: The Pre‐Attack Experiences and Behaviors of U.S. Solo Mass Murderers"
+      },
+      {
+        "paperId": "3d580c7c90a6c78139ef689675f6efe2c08f82c1",
+        "title": "Mass Murder with Firearms: Incidents and Victims, 1999-2013 [July 30, 2015]"
+      },
+      {
+        "paperId": "f346bc35bb2e85a67a1176eeab789b70feff1d5b",
+        "title": "Key Issues and Research Agendas in Lone Wolf Terrorism"
+      },
+      {
+        "paperId": "80343e8000b307bd2cc0df2d9d22b7e31cb6fc18",
+        "title": "A false dichotomy? Mental illness and lone-actor terrorism."
+      },
+      {
+        "paperId": "0fdd2dfa9fd0d38202dbd2dc4d719cb096127e5d",
+        "title": "Who are the lone- actor terrorists?"
+      },
+      {
+        "paperId": "7f92b2e081778e64d8b264835059f930fd54ba90",
+        "title": "Lone-Actor Terrorists: A behavioural analysis"
+      },
+      {
+        "paperId": "1ef97702d542126429fdb1b85c9de43fc5448e13",
+        "title": "Lone Wolf Terrorist or Deranged Shooter? A Study of Ideological Active Shooter Events in the United States, 1970–2014"
+      },
+      {
+        "paperId": "ad4b7906791ddab89348a6cbf519318bf2dad877",
+        "title": "Some Warning Behaviors Discriminate Between School Shooters and Other Students of Concern"
+      },
+      {
+        "paperId": "1516ed5f3c5a93f1ee0ea256d1f3f25b37a22de0",
+        "title": "Political Elements in Post-Columbine School Shootings in Europe and North America"
+      },
+      {
+        "paperId": "4c767799ca36605d4a90d4e777294b3fbe077671",
+        "title": "Bombing Alone: Tracing the Motivations and Antecedent Behaviors of Lone-Actor Terrorists*,†,‡"
+      },
+      {
+        "paperId": "cf3f46c1d8c9cd63bf13638b8406094b409b72e1",
+        "title": "Comparative Lone Wolf Terrorism: Toward a Heuristic Definition"
+      },
+      {
+        "paperId": "1ba488f116dac27304fec1206674156d91a0f36a",
+        "title": "Lone Wolf Terror and the Rise of Leaderless Resistance"
+      },
+      {
+        "paperId": "7e1681efd15578bf9840c925656ea58f74c42cc1",
+        "title": "A dimensional approach to analyzing lone offender terrorism"
+      },
+      {
+        "paperId": "a4bafc0074d320fba9b31cf496356a667c74964c",
+        "title": "Preventing Lone Wolf Terrorism: some CT Approaches Addressed"
+      },
+      {
+        "paperId": "32eecec1fe9f8fb236fa18f15f2e619165cfd711",
+        "title": "A comparative analysis of North American adolescent and adult mass murderers."
+      },
+      {
+        "paperId": "06d4b880460a97d46c079a6fba758a116278e4c5",
+        "title": "Understanding terrorism in America"
+      },
+      {
+        "paperId": "888e83a55d0f5e797bac2e8884cc58a30e6f4ef8",
+        "title": "Offender and offense characteristics of a nonrandom sample of adolescent mass murderers."
+      },
+      {
+        "paperId": "d18586eebbb4f11072bf6d1c868f54fddac79b06",
+        "title": "Body-Count Journalism"
+      },
+      {
+        "paperId": "b38d6c9e748c9144a99cd589b4d4b7951c778d83",
+        "title": "Multiple Homicide: Patterns of Serial and Mass Murder"
+      },
+      {
+        "paperId": "94ee8d9050e997727ef867a205f666ea5618dac5",
+        "title": "Mass, serial and sensational homicides."
+      },
+      {
+        "paperId": "8bc6a0f23b5419542bb94f8ecce43dccbead75a0",
+        "title": "Homicide trends in the United States"
+      },
+      {
+        "paperId": null,
+        "title": "Similar crimes, similar behaviors? Comparing lone-actor terrorists and public mass murderers"
+      },
+      {
+        "paperId": null,
+        "title": "The QAnon conspiracy theory: A security threat in the making"
+      },
+      {
+        "paperId": "459b08c345b89209ba460c9cfa5b41bcc7af3559",
+        "title": "Case study: The Isla Vista campus community mass murder."
+      },
+      {
+        "paperId": null,
+        "title": "Across the universe? A comparative analysis of violent radicalization across three offender types with implications for criminal justice training and education"
+      },
+      {
+        "paperId": "dce8b33fb44690ddd053ec72e0dc24fc6698f58f",
+        "title": "Crime Classification Manual : A Standard System for Investigating and Classifying Violent Crimes"
+      },
+      {
+        "paperId": "9d664ac5d08e2e23100745183bad63be363d3fcc",
+        "title": "Mass Murder: An Analysis of Extreme Violence"
+      },
+      {
+        "paperId": "2cc823969efd15315cb08e9efd5c6631037ce495",
+        "title": "Terror in the Name of God: Why Religious Militants Kill"
+      },
+      {
+        "paperId": null,
+        "title": "Leaderless resistance. Terror Political Violence"
+      },
+      {
+        "paperId": null,
+        "title": "Understanding mass murder: A starting point"
+      },
+      {
+        "paperId": null,
+        "title": "The serial and mass murderer: Patterns, differentiation, pathology"
+      }
+    ]
+  },
+  {
+    "paperId": "daea03a3bdf4ae1b08e8c770b928c12bb2f8adf6",
+    "externalIds": {
+      "MAG": "1969749133",
+      "DOI": "10.1007/s00442-003-1310-8",
+      "CorpusId": 20675338,
+      "PubMed": "12898384"
+    },
+    "title": "Successional changes of Collembola and soil microbiota during forest rotation",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00442-003-1310-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00442-003-1310-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "6931243",
+        "name": "Matthieu Chauvat"
+      },
+      {
+        "authorId": "38927495",
+        "name": "A. Zaitsev"
+      },
+      {
+        "authorId": "4021667",
+        "name": "V. Wolters"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "f2d3b5aef4476fbb39ec63705c15b174ed67f5c3",
+    "externalIds": {
+      "MAG": "2118879653",
+      "DOI": "10.4141/S99-112",
+      "CorpusId": 85571066
+    },
+    "title": "Trophic structure of nematode communities, microbial biomass, and nitrogen mineralization in soils of forests and clearcuts in the southern interior of British Columbia.",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.4141/S99-112?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4141/S99-112, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "50673607",
+        "name": "T. Forge"
+      },
+      {
+        "authorId": "3766407",
+        "name": "S. Simard"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "75d499870b3c3b12b4ea27e0450806bfb5632d27",
+    "externalIds": {
+      "MAG": "2049157338",
+      "DOI": "10.1080/02827581.2011.560183",
+      "CorpusId": 85277686
+    },
+    "title": "Effects of stump removal on soil decomposer communities in undisturbed patches of the forest floor",
+    "openAccessPdf": {
+      "url": "https://jyx.jyu.fi/bitstream/123456789/26820/3/FINAL%20draft_Kataja-aho%20et%20al.2011.pdf",
+      "status": "GREEN",
+      "license": "public-domain",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/02827581.2011.560183?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/02827581.2011.560183, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1422435665",
+        "name": "S. Kataja-aho"
+      },
+      {
+        "authorId": "48005828",
+        "name": "E. Saari"
+      },
+      {
+        "authorId": "20509686",
+        "name": "H. Fritze"
+      },
+      {
+        "authorId": "6574815",
+        "name": "J. Haimi"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "09d0e8d0511a013470a1036400fbd4b05379d362",
+    "externalIds": {
+      "MAG": "2131504745",
+      "DOI": "10.1007/978-1-4020-5204-0_16",
+      "CorpusId": 85798531
+    },
+    "title": "The response of ground beetles (Coleoptera: Carabidae) to selection cutting in a South Carolina bottomland hardwood forest.",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-1-4020-5204-0_16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-1-4020-5204-0_16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "5521303",
+        "name": "M. Ulyshen"
+      },
+      {
+        "authorId": "5341544",
+        "name": "J. Hanula"
+      },
+      {
+        "authorId": "145524675",
+        "name": "Scott Horn"
+      },
+      {
+        "authorId": "6924823",
+        "name": "J. Kilgo"
+      },
+      {
+        "authorId": "6110944",
+        "name": "C. Moorman"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "6f2ca3cc66e209a3fb2eea9594dcc3ee44057c37",
+    "externalIds": {
+      "MAG": "2035009656",
+      "DOI": "10.1016/J.FORECO.2013.11.028",
+      "CorpusId": 84220358
+    },
+    "title": "Emulating natural disturbances in boreal Norway spruce forests: Effects on ground beetles (Coleoptera, Carabidae)",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.FORECO.2013.11.028?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.FORECO.2013.11.028, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "5306066",
+        "name": "Tero Toivanen"
+      },
+      {
+        "authorId": "2071298789",
+        "name": "T. Heikkilä"
+      },
+      {
+        "authorId": "143841506",
+        "name": "M. Koivula"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "de3f9fcf25a007d6e4eb4ad281ee12af0bf59c65",
+    "externalIds": {
+      "MAG": "1996799562",
+      "DOI": "10.1016/J.SOILBIO.2015.02.007",
+      "CorpusId": 84158666
+    },
+    "title": "Application of body size spectra to nematode trait-index analyses",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.SOILBIO.2015.02.007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.SOILBIO.2015.02.007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "144943385",
+        "name": "P. George"
+      },
+      {
+        "authorId": "6406702",
+        "name": "Z. Lindo"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "d6fbd4578c74e36736d680629768f890aabee56a",
+    "externalIds": {
+      "MAG": "2157391897",
+      "DOI": "10.1111/j.1061-2971.2004.00009.x",
+      "CorpusId": 27113203
+    },
+    "title": "Spacing and Competition Between Planted Grass Plugs and Preexisting Perennial Grasses in a Restoration Site in Oregon",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/j.1061-2971.2004.00009.x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/j.1061-2971.2004.00009.x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "89837076",
+        "name": "Russell T. Huddleston"
+      },
+      {
+        "authorId": "6896193",
+        "name": "T. Young"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "b2d185c3acc5f4c4de22b335d1b56d4042003bef",
+    "externalIds": {
+      "DOI": "10.3368/er.9.2.71",
+      "CorpusId": 219189646
+    },
+    "title": "Desert Restoration",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3368/er.9.2.71?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3368/er.9.2.71, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3645000",
+        "name": "L. Jackson"
+      },
+      {
+        "authorId": "8966006",
+        "name": "J. McAuliffe"
+      },
+      {
+        "authorId": "10365035",
+        "name": "B. Roundy"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "a4c988321304b7fa7d059d3ed1d9c77e2c5cd870",
+    "externalIds": {
+      "MAG": "2268208512",
+      "DOI": "10.1111/GRS.12113",
+      "CorpusId": 88133585
+    },
+    "title": "Response of degraded vegetation to introduction of prescribed burning or mowing management in a Mongolian steppe",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/GRS.12113?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/GRS.12113, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1620322481",
+        "name": "Asuka Koyama"
+      },
+      {
+        "authorId": "50227678",
+        "name": "Daisuke Kubo"
+      },
+      {
+        "authorId": "7013138",
+        "name": "Y. Yoshihara"
+      },
+      {
+        "authorId": "5912069",
+        "name": "U. Jamsran"
+      },
+      {
+        "authorId": "5805365",
+        "name": "T. Okuro"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "724177ff165640811fd83867a8ab7e34c2886ba3",
+    "externalIds": {
+      "MAG": "2082331423",
+      "DOI": "10.1016/J.BAAE.2011.11.005",
+      "CorpusId": 85418251
+    },
+    "title": "Plant volatiles inhibit restoration of plant species communities in dry grassland",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.BAAE.2011.11.005?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.BAAE.2011.11.005, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1791476",
+        "name": "M. Tsubo"
+      },
+      {
+        "authorId": "3923461",
+        "name": "E. Nishihara"
+      },
+      {
+        "authorId": "48551449",
+        "name": "K. Nakamatsu"
+      },
+      {
+        "authorId": "4437795",
+        "name": "Yunxiang Cheng"
+      },
+      {
+        "authorId": "50354739",
+        "name": "M. Shinoda"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "60d71c36fed23bcb4df8e31c7e99ca1273284585",
+    "externalIds": {
+      "MAG": "2802419512",
+      "DOI": "10.1007/s40333-018-0411-5",
+      "CorpusId": 133925776
+    },
+    "title": "Grazing exclusion-induced shifts, the relative importance of environmental filtering, biotic interactions and dispersal limitation in shaping desert steppe communities, northern China",
+    "openAccessPdf": {
+      "url": "http://jal.xjegi.com/EN/article/downloadArticleFile.do?attachType=PDF&id=536",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s40333-018-0411-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s40333-018-0411-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2144801430",
+        "name": "Xing Wang"
+      },
+      {
+        "authorId": "2642383",
+        "name": "N. Song"
+      },
+      {
+        "authorId": "2423981013",
+        "name": "Xin-guo Yang"
+      },
+      {
+        "authorId": "2152510717",
+        "name": "Lei Wang"
+      },
+      {
+        "authorId": "2118537267",
+        "name": "Lin Chen"
+      }
+    ],
+    "references": null
+  },
+  {
+    "paperId": "c7b6a586f0e54a396c1cbc8043c98f2d9302e82b",
+    "externalIds": {
+      "MAG": "2942760297",
+      "DOI": "10.1111/rec.12961",
+      "CorpusId": 155416055
+    },
+    "title": "Direct seeding and outplantings in drylands of Argentinean Patagonia: estimated costs, and prospects for large‐scale restoration and rehabilitation",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/rec.12961?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/rec.12961, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "145793267",
+        "name": "Daniel R. Pérez"
+      },
+      {
+        "authorId": "2111749282",
+        "name": "F. González"
+      },
+      {
+        "authorId": "145006834",
+        "name": "C. Ceballos"
+      },
+      {
+        "authorId": "94927513",
+        "name": "M. Oneto"
+      },
+      {
+        "authorId": "123877950",
+        "name": "J. Aronson"
+      }
+    ],
+    "references": null
+  }
+]
